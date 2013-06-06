@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<distro>
+	<name>Freedom Toaster Source Code</name>
+	<description>The stuff that makes this thing work.</description>
+	<advantages>
+		<advantage>This install CD can be used to create a Freedom Toaster from almost any PC</advantage>
+		<advantage>If you have some suggestions or improvements please have a look at the code and
+			contribute.</advantage>
+		<advantage>Anybody can make a themselves a toaster or use this code to see how it is done.</advantage>
+		<advantage>There is even documentation to help you.</advantage>
+		<advantage>This is also a backup of the system for the administrator.</advantage>
+	</advantages>
+	<disadvantages>
+		<disadvantage>This code is done in Perl, and some of it is an ugly hack. We would love it if
+			you helped us make the Freedom Toaster even more useful.</disadvantage>
+                <disadvantage>The current version of the Freedom Toaster install requires a 'server' install of 
+                              Ubuntu Breezy.  So be sure to burn yourself an Ubuntu Breezy CD in addition to this
+                              install CD so that you are good to go.</disadvantage>
+	</disadvantages>
+	<defaults>
+		<defaultVersion>toaster|V3Install|CD|1</defaultVersion>
+	</defaults>
+</distro>

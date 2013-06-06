@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+   <head>
+		<title>Linux pour les écoles</title>
+		<link rel="stylesheet" type="text/css" href="../../css/kiosk.css" title="premier" />
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+      <meta http-equiv="refresh" content="25; URL=index99.html" />
+      <script src="../../kiosk.js" language="javascript" type="text/javascript"></script>
+	</head>
+   <body background="../../css/images/selectorBG.png" bgcolor="#C0C0C0" onLoad="populateSelect();">
+      <div id="MoreInfo">
+         <a href="../../cgi-bin/knowMore.pl" title="À propos de ce Toaster">
+            <img src="../../css/images/K_button.gif" alt="?" width="113" height="120" border="0" /><br />
+
+         </a>
+      </div>
+      <div id="Home">
+         <a href="index0.html" title="Aller à la première page">
+            <img src="../../css/images/H_button.gif" alt="Accueil" width="148" height="93" border="0" /><br />
+
+         </a>
+      </div>
+      <div id="next">
+         <a href="index99.html" title="Aller à la page suivante">
+            <img src="../../css/images/R_button.gif" alt="Suivant" width="113" height="120" border="0" /></a>
+      </div>
+      <div id="back">
+         <a href="index6.html" title="Aller à la page précédente">
+            <img src="../../css/images/L_button.gif" alt="Précédent" width="148" height="93" border="0" /></a>
+      </div>
+            <div id="language-bg">
+      	<img src="../../css/images/language-bg.png" alt="arrière-plan" width="220" height="77" border="0" />
+      </div>
+      <div id="language">
+         <select id="lang-sel" title="Choix de la langue" onClick="magnifySelect(this);" onChange="changeLang(this);">
+         </select>   
+      </div>
+   <div id="content">
+      <img src="images/logoPage.png" width="400" height="131" style="margin-left:170px" /><br />
+      <h1>Un environnement informatique scolaire libre</h1>
+   <p>La distribution ci-dessous est mise gratuitement à disposition des écoles par la Fondation Shuttleworth. Elle fonctionne sur des ordinateurs dont les entreprises se débarassent (P1 avec 48Mo de RAM).</p>
+   <p>À l'aide des CD ci-dessous, une école peut installer une salle d'informatique pour environ 2'500 €. Cela contraste fortement avec les montants 10 fois plus élevés cités par certains projets utilisant d'autres logiciels.</p>
+   <p>C'est la solution choisie par les volontaires de <strong>Schools Linux User Group</strong> (www.slug.org.za, Afrique du Sud). Avec une équipe de volontaires, il est envisageable de monter une salle d'informatique dans une école sans grands moyens en l'espace de 3 semaines, à un coût pouvant être couvert par une simple vente organisée.</p>
+   <table>
+      <tr>
+         <td><a href="../../cgi-bin/distro.pl?distro=edubuntu" title="Edubuntu : ubuntu, logiciels éducatifs, administration scolaire et projet linux terminal server, réalisé par le projet tuXlabs de la Fondation Shuttleworth" onmouseover="Edubuntu.src='../../images/edubuntuA.png'" onmouseout="Edubuntu.src='../../images/edubuntuB.png'">
+               <img name="Edubuntu" src="../../images/edubuntuB.png" width="231" height="71" id="Edubuntu" /></a>
+         </td>
+         <td><a href="../../cgi-bin/distro.pl?distro=openlab" title="OpenLab4, le système des salles informatiques en Afrique du Sud utilisé par le projet Schoolnet de Namibie et optimisé pour du matériel ancien." onmouseover="Openlab.src='../../images/openlabA.png'" onmouseout="Openlab.src='../../images/openlabB.png'">
+               <img name="Openlab" src="../../images/openlabB.png" width="231" height="71" id="Openlab" /></a>
+         </td>
+         <td><a href="../../cgi-bin/distro.pl?distro=k12ltsp" title="K12-ltsp, des programmes éducatifs et le projet linux terminal server, modifiés par le projet tuXlabs de la Fondation Shuttleworth" onmouseover="k12ltsp.src='../../images/k12ltspA.png'" onmouseout="k12ltsp.src='../../images/k12ltspB.png'">
+               <img name="k12ltsp" src="../../images/k12ltspB.png" width="231" height="71" id="k12ltsp" /></a>
+         </td>
+      </tr>
+   </table>
+
+
+   </div>
+	</body>
+</html>

@@ -1,0 +1,623 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2006-05-08 20:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: application/x-xml2pot; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+
+#: installation.xml:9
+#, no-c-format
+#. Tag: title
+msgid "Installation Manual"
+msgstr ""
+
+#: installation.xml:10
+#, no-c-format
+#. Tag: subtitle
+msgid "Installing the Freedom Toaster"
+msgstr ""
+
+#: installation.xml:12
+#, no-c-format
+#. Tag: author
+msgid "<firstname>Sean</firstname> <surname>Wheller</surname>"
+msgstr ""
+
+#: installation.xml:17
+#, no-c-format
+#. Tag: trans_comment
+msgid "ROLES_OF_TRANSLATORS"
+msgstr ""
+
+#: installation.xml:21
+#, no-c-format
+#. Tag: title
+msgid "Introduction"
+msgstr ""
+
+#: installation.xml:22
+#, no-c-format
+#. Tag: para
+msgid "Thanks to some nifty scripts, installation of a Freedom Toaster is mostly an automated process. Follow the instructions in this book to install a Freedom Toaster in accordance with the Shuttleworth Foundation specification."
+msgstr ""
+
+#: installation.xml:26
+#, no-c-format
+#. Tag: title
+msgid "Scope"
+msgstr ""
+
+#: installation.xml:27
+#, no-c-format
+#. Tag: para
+msgid "This document guides you through the process of installing and configuring the computer system part of the Freedom Toaster. The resulting system will be in accordance with the production system specification defined by the Shuttleworth Foundation (see <xref linkend=\"docs\"/>)."
+msgstr ""
+
+#: installation.xml:31
+#, no-c-format
+#. Tag: para
+msgid "While this specification defines Ubuntu Linux as the distribution upon which to build a Freedom Toaster, please note that any Linux-based distribution can be used. Similarly, there can be any number of ways to configure a Freedom Toaster system. Such experimentation and deviation from the original specification are encouraged, but are beyond the scope of this document."
+msgstr ""
+
+#: installation.xml:36
+#, no-c-format
+#. Tag: para
+msgid "If you choose to deviate from the specification, this document will serve as a guide of what is needed and you will have to exchange things such as names of applications, file system paths and commands as is appropriate for your system."
+msgstr ""
+
+#: installation.xml:42
+#, no-c-format
+#. Tag: title
+msgid "Prerequisites"
+msgstr ""
+
+#: installation.xml:43
+#, no-c-format
+#. Tag: para
+msgid "For purpose of brevity, this document assumes reasonable proficiency at installing and administering computer systems based on Linux. Ubuntu specific knowledge or expertise is not a prerequisite."
+msgstr ""
+
+#: installation.xml:48
+#, no-c-format
+#. Tag: title
+msgid "Associated Documentation"
+msgstr ""
+
+#: installation.xml:49
+#, no-c-format
+#. Tag: para
+msgid "The following documents are associated with this document:"
+msgstr ""
+
+#: installation.xml:50
+#, no-c-format
+#. Tag: variablelist
+msgid "&assembly-desc; &maintenance-desc; &customization-desc; &user-desc;"
+msgstr ""
+
+#: installation.xml:55
+#, no-c-format
+#. Tag: title
+msgid "Requirements"
+msgstr ""
+
+#: installation.xml:56
+#, no-c-format
+#. Tag: para
+msgid "Before proceeding with installation of a Freedom Toaster please ensure that the following items are available."
+msgstr ""
+
+#: installation.xml:60
+#, no-c-format
+#. Tag: para
+msgid "Ubuntu Linux Install CD - Version 5.10 (Intel x86 Edition). Download <ulink url=\"http://cdimage.ubuntu.com/releases/5.10/release/\">here</ulink>."
+msgstr ""
+
+#: installation.xml:64
+#, no-c-format
+#. Tag: para
+msgid "eGalax Touch Screen Linux Drivers. Download the Fedora Core RPM <ulink url=\"http://www.egalax.com.tw/\">here</ulink>."
+msgstr ""
+
+#: installation.xml:68
+#, no-c-format
+#. Tag: para
+msgid "Freedom Toaster Software Version 1.0. Download <ulink url=\"http://www.freedomtoaster.org\">here</ulink>."
+msgstr ""
+
+#: installation.xml:73
+#, no-c-format
+#. Tag: para
+msgid "If you are using a Touch Screen monitor device other than the one listed in the Shuttleworth specification please ensure that the device is Linux compatible and that you are in possession of the appropriate Linux drivers."
+msgstr ""
+
+#: installation.xml:79
+#, no-c-format
+#. Tag: title
+msgid "Recommendations"
+msgstr ""
+
+#: installation.xml:80
+#, no-c-format
+#. Tag: para
+msgid "When in operation a Freedom Toaster is assumed <emphasis>not</emphasis> to be connected to the Internet. However, during installation it is recommended that the computer is connected to the Internet, preferably using a broadband connection."
+msgstr ""
+
+#: installation.xml:87
+#, no-c-format
+#. Tag: title
+msgid "Installation"
+msgstr ""
+
+#: installation.xml:88
+#, no-c-format
+#. Tag: para
+msgid "This chapter explains how to install the components required for a Freedom Toaster. The installation overview is as follows:"
+msgstr ""
+
+#: installation.xml:108
+#, no-c-format
+#. Tag: title
+msgid "Install Linux"
+msgstr ""
+
+#: installation.xml:109
+#, no-c-format
+#. Tag: para
+msgid "At time of writing, production Freedom Toaster systems were based on Ubuntu Linux Version 5.10 (Intel x86 Edition). During installation of Ubuntu, prompts guide you through the process. For the most part it is up to the person performing the installation to make selections based on the particular circumstances of the computer, language selection, geographic location, etc."
+msgstr ""
+
+#: installation.xml:114
+#, no-c-format
+#. Tag: para
+msgid "The main point at which installation of Ubuntu for a Freedom Toaster differs from most installations is the partition setup. Because a Freedom Toaster serves digital content and software the partition on which the images (content and software) will reside needs to be large enough to accommodate the sum of all the image sizes that will be made available. Additionally, since a standard Freedom Toaster is installed with three CD/DVD burning devices, that may be required to burn simultaneously, a reasonably large swap space, 1 Gigabyte or greater, is required."
+msgstr ""
+
+#: installation.xml:121
+#, no-c-format
+#. Tag: para
+msgid "Assuming your Freedom Toaster disk meets the recommended specification (Seagate 120GB Serial ATA Drive). The following partition setup is recommended using the ext3 file system."
+msgstr ""
+
+#: installation.xml:126
+#, no-c-format
+#. Tag: para
+msgid "<filename class=\"directory\">/boot</filename>- 60M"
+msgstr ""
+
+#: installation.xml:129
+#, no-c-format
+#. Tag: para
+msgid "<filename class=\"directory\">/</filename>- 2G"
+msgstr ""
+
+#: installation.xml:132
+#, no-c-format
+#. Tag: para
+msgid "<filename class=\"directory\">/home</filename>- 2G"
+msgstr ""
+
+#: installation.xml:135
+#, no-c-format
+#. Tag: para
+msgid "<filename class=\"directory\">/var</filename>- 2G"
+msgstr ""
+
+#: installation.xml:138
+#, no-c-format
+#. Tag: para
+msgid "<filename class=\"directory\">/tmp</filename>- 2G"
+msgstr ""
+
+#: installation.xml:141
+#, no-c-format
+#. Tag: para
+msgid "<filename class=\"directory\">/usr</filename>- 3G"
+msgstr ""
+
+#: installation.xml:144
+#, no-c-format
+#. Tag: para
+msgid "<filename class=\"directory\">/srv</filename>- what's left"
+msgstr ""
+
+#: installation.xml:147
+#, no-c-format
+#. Tag: para
+msgid "Before starting to install Ubuntu, set the computer system BIOS to boot from ROM."
+msgstr ""
+
+#: installation.xml:149
+#, no-c-format
+#. Tag: title
+msgid "Install Ubuntu"
+msgstr ""
+
+#: installation.xml:151
+#, no-c-format
+#. Tag: para
+msgid "Place the &quot;Install CD&quot; into the Primary ROM device."
+msgstr ""
+
+#: installation.xml:152
+#, no-c-format
+#. Tag: para
+msgid "The primary ROM device is usually the one connected directly to the second motherboard IDE."
+msgstr ""
+
+#: installation.xml:156
+#, no-c-format
+#. Tag: para
+msgid "At the boot prompt press type <userinput>server</userinput> then press <keycap>Enter</keycap>."
+msgstr ""
+
+#: installation.xml:159
+#, no-c-format
+#. Tag: para
+msgid "Follow the installation, select options as is suitable, create partitions as per recommendations above."
+msgstr ""
+
+#: installation.xml:163
+#, no-c-format
+#. Tag: para
+msgid "When prompted to create a user create a user using the following:"
+msgstr ""
+
+#: installation.xml:166
+#, no-c-format
+#. Tag: para
+msgid "<emphasis role=\"bold\">Full Name:</emphasis>kiosk-admin"
+msgstr ""
+
+#: installation.xml:169
+#, no-c-format
+#. Tag: para
+msgid "<emphasis role=\"bold\">Username:</emphasis>kiosk-admin"
+msgstr ""
+
+#: installation.xml:172
+#, no-c-format
+#. Tag: para
+msgid "<emphasis role=\"bold\">Password:</emphasis> Enter a string or your choice"
+msgstr ""
+
+#: installation.xml:176
+#, no-c-format
+#. Tag: para
+msgid "This account is your administration account"
+msgstr ""
+
+#: installation.xml:179
+#, no-c-format
+#. Tag: para
+msgid "When installation is complete, login to the new server."
+msgstr ""
+
+#: installation.xml:182
+#, no-c-format
+#. Tag: para
+msgid "Update and apply upgrades to the system."
+msgstr ""
+
+#: installation.xml:183
+#, no-c-format
+#. Tag: screen
+msgid ""
+      "sudo su\n"
+      "Password: enter your password\n"
+      "apt-get update\n"
+      "apt-get upgrade"
+msgstr ""
+
+#: installation.xml:186
+#, no-c-format
+#. Tag: para
+msgid "Create a user account, password and home directory for the kiosk-user."
+msgstr ""
+
+#: installation.xml:187
+#, no-c-format
+#. Tag: screen
+msgid ""
+      "useradd -d /home/kiosk -p kiosk -g users kiosk\n"
+      "passwd kiosk\n"
+      "mkdir /home/kiosk"
+msgstr ""
+
+#: installation.xml:190
+#, no-c-format
+#. Tag: para
+msgid "Install <package>ubuntu-desktop</package>."
+msgstr ""
+
+#: installation.xml:191
+#, no-c-format
+#. Tag: screen
+msgid "apt-get install ubuntu-desktop"
+msgstr ""
+
+#: installation.xml:196 installation.xml:205
+#, no-c-format
+#. Tag: title
+msgid "Install Freedom Toaster Software"
+msgstr ""
+
+#: installation.xml:197
+#, no-c-format
+#. Tag: para
+msgid "This section explains how to install the Freedom Toaster software and content."
+msgstr ""
+
+#: installation.xml:198
+#, no-c-format
+#. Tag: para
+msgid "For installation purposes, it is recommended that the Freedom Toaster is connected to the Internet."
+msgstr ""
+
+#: installation.xml:201
+#, no-c-format
+#. Tag: para
+msgid "Please run <application>Firefox</application> at least once before running this script. We need to create a default profile for the kiosk user."
+msgstr ""
+
+#: installation.xml:207
+#, no-c-format
+#. Tag: para
+msgid "Login to the system."
+msgstr ""
+
+#: installation.xml:210
+#, no-c-format
+#. Tag: para
+msgid "Select <menuchoice> <guimenu>Applications</guimenu> <guisubmenu>Accessories</guisubmenu> <guimenuitem>Terminal</guimenuitem> </menuchoice> to start a <application>Terminal</application> session."
+msgstr ""
+
+#: installation.xml:217
+#, no-c-format
+#. Tag: para
+msgid "Download the file named <filename>SetupScript</filename>."
+msgstr ""
+
+#: installation.xml:219
+#, no-c-format
+#. Tag: command
+msgid "wget http://learnlinux.tsf.org.za/ft/SetupScript"
+msgstr ""
+
+#: installation.xml:223
+#, no-c-format
+#. Tag: para
+msgid "Make the script executable."
+msgstr ""
+
+#: installation.xml:225
+#, no-c-format
+#. Tag: command
+msgid "chmod 777 SetupScript"
+msgstr ""
+
+#: installation.xml:229
+#, no-c-format
+#. Tag: para
+msgid "Login as 'root'."
+msgstr ""
+
+#: installation.xml:231
+#, no-c-format
+#. Tag: command
+msgid "sudo su"
+msgstr ""
+
+#: installation.xml:235
+#, no-c-format
+#. Tag: para
+msgid "Execute the <filename>SetupScript</filename>."
+msgstr ""
+
+#: installation.xml:237
+#, no-c-format
+#. Tag: command
+msgid "./SetupScript"
+msgstr ""
+
+#: installation.xml:241
+#, no-c-format
+#. Tag: para
+msgid "When prompted to proceed, enter <userinput>y</userinput>."
+msgstr ""
+
+#: installation.xml:242
+#, no-c-format
+#. Tag: para
+msgid "The script will look for Subversion. If it does not find Subversion the package will be installed and then you will need to execute the script again. If Subversion is found the script will install the additional software packages needed for a Freedom Toaster and make configuration changes."
+msgstr ""
+
+#: installation.xml:249
+#, no-c-format
+#. Tag: para
+msgid "Proceed with the script until it exits back to the prompt with the message, &quot;We're Done!!!&quot;."
+msgstr ""
+
+#: installation.xml:255
+#, no-c-format
+#. Tag: title
+msgid "Install Touch Screen Drivers"
+msgstr ""
+
+#: installation.xml:256
+#, no-c-format
+#. Tag: para
+msgid "Drivers for touch screen monitors are usually specific to a particular monitor type. Linux drivers for the eGalax are available on the CD-ROM supplied with the monitor and from the <ulink url=\"http://www.egalax.com.tw/\">eGalax Web Site</ulink>. Download the latest Touchkit Setup script (contained in <filename>Fedora_4.tar.gz</filename>) for Fedora Core to your user home folder."
+msgstr ""
+
+#: installation.xml:262
+#, no-c-format
+#. Tag: para
+msgid "There is no need to download and install <package>sharutils</package> as it has already been installed in the previous section."
+msgstr ""
+
+#: installation.xml:265
+#, no-c-format
+#. Tag: para
+msgid "Since the Touchkit Setup is for a RPM-based system, well will not be able to use it unless we make some change to prepare it for use on Ubuntu."
+msgstr ""
+
+#: installation.xml:267
+#, no-c-format
+#. Tag: para
+msgid "THE SETUP SCRIPT FAILS ON THIS ONE. I NEED TO TEST ON REAL MONITOR AND MAY NEED TO DOC MANUAL INSTALLATION."
+msgstr ""
+
+#: installation.xml:284
+#, no-c-format
+#. Tag: title
+msgid "Configuration"
+msgstr ""
+
+#: installation.xml:285
+#, no-c-format
+#. Tag: para
+msgid "This chapter explains how to perform the final configuration changes to a newly installed Freedom Toaster."
+msgstr ""
+
+#: installation.xml:287
+#, no-c-format
+#. Tag: para
+msgid "The <filename>SetupScript</filename> used in <xref linkend=\"install-ft\"/> has performed most of the required configuration changes. What remains is as follows:"
+msgstr ""
+
+#: installation.xml:302
+#, no-c-format
+#. Tag: title
+msgid "Install the FireFox R-Kiosk Extension"
+msgstr ""
+
+#: installation.xml:305
+#, no-c-format
+#. Tag: para
+msgid "Start <application>Firefox</application>."
+msgstr ""
+
+#: installation.xml:308
+#, no-c-format
+#. Tag: para
+msgid "From the menu select <menuchoice> <guimenu>File</guimenu> <guimenuitem>Open File ...</guimenuitem> </menuchoice>."
+msgstr ""
+
+#: installation.xml:312
+#, no-c-format
+#. Tag: para
+msgid "The <interface>Open File</interface> dialog is displayed."
+msgstr ""
+
+#: installation.xml:315
+#, no-c-format
+#. Tag: para
+msgid "Change path to kiosk user home directory (<filename class=\"directory\">/home/kiosk/</filename>)."
+msgstr ""
+
+#: installation.xml:318
+#, no-c-format
+#. Tag: para
+msgid "From the <guibutton>File by type</guibutton> drop list, select the <option>All Files</option> option."
+msgstr ""
+
+#: installation.xml:322
+#, no-c-format
+#. Tag: para
+msgid "Select the r-kiosk xpi installer file."
+msgstr ""
+
+#: installation.xml:323
+#, no-c-format
+#. Tag: para
+msgid "The <interface>Software Installation</interface> dialog is displayed."
+msgstr ""
+
+#: installation.xml:327
+#, no-c-format
+#. Tag: para
+msgid "When the <guibutton>Install Now</guibutton> button is enabled, click it to install <application>r-kiosk</application>, then close the dialog."
+msgstr ""
+
+#: installation.xml:329
+#, no-c-format
+#. Tag: para
+msgid "Now whenever <application>Firefox</application> is started, it will be full-screen with no menus. Just right for a kiosk."
+msgstr ""
+
+#: installation.xml:335
+#, no-c-format
+#. Tag: title
+msgid "Add Content Packages"
+msgstr ""
+
+#: installation.xml:336
+#, no-c-format
+#. Tag: para
+msgid "During installation the folder <filename class=\"directory\">isos/</filename> and its contents were exported from the Freedom Toaster Subversion repository. This directory is intended to organize the Freedom Toaster content."
+msgstr ""
+
+#: installation.xml:339
+#, no-c-format
+#. Tag: para
+msgid "The software and digital content stored on the Freedom Toaster are available for download from the individual project Web Sites. The Software and content files are normally available in the ISO 9660 file system format. An ISO 9660 file system is a standard CD-ROM file system that allows you to read the same CD-ROM whether you're on a PC, Mac, or other major computer platform. Almost all computers with CD-ROM drives can read files from an ISO 9660 file system. ISO files are also called ISO images because the contain an image of what the CD-ROM will look like."
+msgstr ""
+
+#: installation.xml:346
+#, no-c-format
+#. Tag: para
+msgid "The <filename class=\"directory\">isos/</filename> folder is logically structured as:"
+msgstr ""
+
+#: installation.xml:349
+#, no-c-format
+#. Tag: filename
+msgid "isos/distro/version/medium"
+msgstr ""
+
+#: installation.xml:352
+#, no-c-format
+#. Tag: para
+msgid "Where:"
+msgstr ""
+
+#: installation.xml:354
+#, no-c-format
+#. Tag: para
+msgid "<filename class=\"directory\">isos/</filename> is the root of the <filename>/srv/www/isos/</filename>"
+msgstr ""
+
+#: installation.xml:358
+#, no-c-format
+#. Tag: para
+msgid "<filename class=\"directory\">distro/</filename> is the name of the content (software or content), in lowercase. For example, ubuntu, suse, gutenberg."
+msgstr ""
+
+#: installation.xml:363
+#, no-c-format
+#. Tag: para
+msgid "<filename class=\"directory\">version/</filename> is the version number of the content."
+msgstr ""
+
+#: installation.xml:367
+#, no-c-format
+#. Tag: para
+msgid "<filename class=\"directory\">medium/</filename> is CD or DVD"
+msgstr ""
+
+#: installation.xml:370
+#, no-c-format
+#. Tag: para
+msgid "ISO images from each of the projects need to be downloaded to their respective directories so that the Freedom Toaster can make duplicate copies thereof. This could amount to several Gigabytes of data to download from the Internet. As an alternative route, Jason Hudson is willing to ship the ISO images on CD or DVD media at cost to anyone building a Freedom Toaster."
+msgstr ""
+

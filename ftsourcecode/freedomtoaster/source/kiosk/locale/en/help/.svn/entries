@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="440"
+   name=""
+   committed-date="2006-06-10T16:58:03.576532Z"
+   url="svn://edison.tsf.org.za/freedomtoaster/trunk/source/kiosk/locale/en/help"
+   last-author="charles.oertel"
+   kind="dir"
+   uuid="d86654f9-5701-0410-bb18-eb70f6cf68f4"
+   repos="svn://edison.tsf.org.za/freedomtoaster"
+   revision="491"/>
+<entry
+   committed-rev="440"
+   name="show_queue.html"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-10T16:58:03.576532Z"
+   checksum="70ec37a528df8efc328edf242c8a768b"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:10.000000Z"/>
+<entry
+   committed-rev="440"
+   name="advanced_queue_options.html"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-10T16:58:03.576532Z"
+   checksum="5e8b6204d3583a94a445d9cfbfa5ff6f"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:10.000000Z"/>
+<entry
+   committed-rev="440"
+   name="advanced_burning_options.html"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-10T16:58:03.576532Z"
+   checksum="a88b8a93bb635e60521a63db9180776d"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:10.000000Z"/>
+<entry
+   committed-rev="440"
+   name="find_cc_files.html"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-10T16:58:03.576532Z"
+   checksum="7d61db4fba3f17ae72d19528d2c23e90"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:10.000000Z"/>
+<entry
+   committed-rev="440"
+   name="distro_burning.html"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-10T16:58:03.576532Z"
+   checksum="0316f2f9d09a811a25c19b1ff0ae4ff3"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:10.000000Z"/>
+<entry
+   committed-rev="440"
+   name="cc_licenses.html"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-10T16:58:03.576532Z"
+   checksum="7f4343b0bd7927bcaa67a9d6b25fa447"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:10.000000Z"/>
+</wc-entries>

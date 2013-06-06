@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="483"
+   name=""
+   committed-date="2006-06-24T15:20:39.491741Z"
+   url="svn://edison.tsf.org.za/freedomtoaster/trunk/source/isos/k12ltsp"
+   last-author="claude.paroz"
+   kind="dir"
+   uuid="d86654f9-5701-0410-bb18-eb70f6cf68f4"
+   repos="svn://edison.tsf.org.za/freedomtoaster"
+   revision="491"/>
+<entry
+   committed-rev="453"
+   name="k12ltsp.xml"
+   text-time="2006-11-03T09:15:16.000000Z"
+   committed-date="2006-06-11T14:31:19.868602Z"
+   checksum="073ce03bd4cb452de4a95626e84ae952"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:16.000000Z"/>
+<entry
+   committed-rev="453"
+   name="k12ltsp-fr.xml"
+   text-time="2006-11-03T09:15:16.000000Z"
+   committed-date="2006-06-11T14:31:19.868602Z"
+   checksum="178ad6aeb2ef0f970cab6bfa4c01258b"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:16.000000Z"/>
+<entry
+   name="k12"
+   kind="dir"/>
+</wc-entries>

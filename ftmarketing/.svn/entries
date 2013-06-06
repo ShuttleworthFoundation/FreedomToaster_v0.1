@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="122"
+   name=""
+   committed-date="2006-03-04T17:44:08.558310Z"
+   url="https://svn1.cvsdude.com/techdocs/freedomtoaster"
+   last-author="techdocs"
+   kind="dir"
+   uuid="8478f940-d901-0410-ad40-e0ac9cb6760e"
+   repos="https://svn1.cvsdude.com/techdocs/freedomtoaster"
+   revision="122"/>
+<entry
+   name="trunk"
+   kind="dir"/>
+<entry
+   name="branches"
+   kind="dir"/>
+<entry
+   name="tags"
+   kind="dir"/>
+</wc-entries>

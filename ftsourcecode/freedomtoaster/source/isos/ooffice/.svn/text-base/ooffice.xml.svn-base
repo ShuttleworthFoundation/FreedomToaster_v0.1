@@ -1,0 +1,19 @@
+<?xml version='1.0'?>
+<distro>
+   <name>OpenOffice.org</name>
+   <description>The Open Source, MS Office-compatible Productivity Suite</description>
+   <advantages>
+      <advantage>Runs on Windows and on Linux</advantage>
+	   <advantage>Compatible with MS Office, but at a better price</advantage>
+      <advantage>While some users confuse OpenOffice programs with their MS Office counterparts (because they are close), experienced users say they prefer the no-nonsence interface of OpenOffice</advantage>
+      <advantage>You can equip a large office or small business with legal software without taking out a second bond on your home.</advantage>
+      <advantage>Great for school projects and assignments</advantage>
+   </advantages>
+   <disadvantages>
+      <disadvantage>There is no compatible equivalent of MS Access (which only occurs in the MS Office Pro package at a premium price anyway).  Those in the know say it is a good thing too...</disadvantage>
+      <disadvantage>Some complicated document layouts in MS Word do not display properly in OpenOffice - but that is as much a fault of the document designer as anything.</disadvantage>
+   </disadvantages>
+   <defaults>
+     <defaultVersion>ooffice|2.0|CD|1</defaultVersion>
+   </defaults>
+</distro>

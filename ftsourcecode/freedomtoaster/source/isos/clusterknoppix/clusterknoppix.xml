@@ -1,0 +1,21 @@
+<?xml version='1.0'?>
+<distro>
+   <name>Cluster Knoppix</name>
+   <description>A Live CD for running a grid of PCs as a supercomputer</description>
+   <advantages>
+      <advantage>It is Linux "ready to run" - just add hardware (;</advantage>
+      <advantage>It requires NO installation - it runs from the CD</advantage>
+      <advantage>It is small - it only uses a single CD</advantage>
+      <advantage>It is the ideal distro if you want to get a feeling of what Linux is all about, but aren't ready to repartition you hard disk</advantage>
+      <advantage>The kernel has OpenMosix compiled into it, which means making a cluster is relatively straightforward</advantage>
+   </advantages>
+   <disadvantages>
+      <disadvantage>It may not have all the standard packages you would be looking for - OpenOffice, Gimp, Mozilla, Evolution ...</disadvantage>
+      <disadvantage>In this "ready to run" format, it is not installed on any hardware</disadvantage>
+      <disadvantage>It can be slow since it boots from CD every time</disadvantage>
+      <disadvantage>You cannot upgrade packages or make changes to the distro on the CD</disadvantage>
+   </disadvantages>
+   <defaults>
+     <defaultVersion>clusterknoppix|3.6|CD|1</defaultVersion>
+   </defaults>
+</distro>

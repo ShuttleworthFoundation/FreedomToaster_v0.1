@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="343"
+   name=""
+   committed-date="2006-05-23T14:50:48.730190Z"
+   url="svn://edison.tsf.org.za/freedomtoaster/trunk/docs"
+   last-author="sean.wheller"
+   kind="dir"
+   uuid="d86654f9-5701-0410-bb18-eb70f6cf68f4"
+   repos="svn://edison.tsf.org.za/freedomtoaster"
+   revision="349"/>
+<entry
+   name="assembly"
+   kind="dir"/>
+<entry
+   name="build"
+   kind="dir"/>
+<entry
+   name="installation"
+   kind="dir"/>
+<entry
+   name="maintenance"
+   kind="dir"/>
+<entry
+   committed-rev="188"
+   name="LICENSE"
+   text-time="2006-05-25T12:15:26.000000Z"
+   committed-date="2006-04-11T10:01:17.534580Z"
+   checksum="a06d23a3f61a010804c5db06aeccb5c8"
+   last-author="dhlamini.difiso"
+   kind="file"
+   prop-time="2006-05-25T12:15:24.000000Z"/>
+<entry
+   name="images"
+   kind="dir"/>
+<entry
+   name="common"
+   kind="dir"/>
+<entry
+   name="customization"
+   kind="dir"/>
+<entry
+   name="libs"
+   kind="dir"/>
+<entry
+   committed-rev="198"
+   name="word-count-pot.sh"
+   text-time="2006-05-25T12:15:26.000000Z"
+   committed-date="2006-04-15T18:35:27.659015Z"
+   checksum="cabb3f6b41f179927e59e8100a069cef"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:26.000000Z"/>
+<entry
+   committed-rev="199"
+   name="Makefile"
+   text-time="2006-05-25T12:15:26.000000Z"
+   committed-date="2006-04-15T19:07:28.943083Z"
+   checksum="1b3a4b75c2a3a37f7d90dc20c7bdddc3"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-05-25T12:15:26.000000Z"/>
+<entry
+   name="user"
+   kind="dir"/>
+</wc-entries>

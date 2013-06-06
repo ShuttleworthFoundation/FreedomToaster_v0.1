@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="483"
+   name=""
+   committed-date="2006-06-24T15:20:39.491741Z"
+   url="svn://edison.tsf.org.za/freedomtoaster/trunk/source/isos/slackware"
+   last-author="claude.paroz"
+   kind="dir"
+   uuid="d86654f9-5701-0410-bb18-eb70f6cf68f4"
+   repos="svn://edison.tsf.org.za/freedomtoaster"
+   revision="491"/>
+<entry
+   name="10.1"
+   kind="dir"/>
+<entry
+   name="10"
+   kind="dir"/>
+<entry
+   name="10.2"
+   kind="dir"/>
+<entry
+   committed-rev="453"
+   name="slackware-fr.xml"
+   text-time="2006-11-03T09:15:16.000000Z"
+   committed-date="2006-06-11T14:31:19.868602Z"
+   checksum="ecf2bed7b8cab37ddf097f520c7811bf"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:16.000000Z"/>
+<entry
+   committed-rev="453"
+   name="slackware.xml"
+   text-time="2006-11-03T09:15:16.000000Z"
+   committed-date="2006-06-11T14:31:19.868602Z"
+   checksum="7a4257cb88af90f678b6aace2946e81e"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:16.000000Z"/>
+</wc-entries>

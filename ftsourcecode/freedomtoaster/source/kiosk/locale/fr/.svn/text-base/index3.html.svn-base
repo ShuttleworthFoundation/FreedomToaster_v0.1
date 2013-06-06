@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+   <head>
+		<title>Linux</title>
+		<link rel="stylesheet" type="text/css" href="../../css/kiosk.css" title="premier" />
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+      <meta http-equiv="refresh" content="25; URL=index4.html" />
+      <script src="../../kiosk.js" language="javascript" type="text/javascript"></script>
+	</head>
+   <body background="../../css/images/selectorBG.png" bgcolor="#C0C0C0" onLoad="populateSelect();">
+      <div id="MoreInfo">
+         <a href="../../cgi-bin/knowMore.pl" title="À propos de ce Toaster">
+            <img src="../../css/images/K_button.gif" alt="?" width="113" height="120" border="0" /><br />
+
+         </a>
+      </div>
+      <div id="Home">
+         <a href="index0.html" title="Aller à la première page">
+            <img src="../../css/images/H_button.gif" alt="Accueil" width="148" height="93" border="0" /><br />
+
+         </a>
+      </div>
+      <div id="next">
+         <a href="index4.html" title="Aller à la page suivante">
+            <img src="../../css/images/R_button.gif" alt="Accueil" width="113" height="120" border="0" /></a>
+      </div>
+      <div id="back">
+         <a href="index2.html" title="Aller à la page précédente">
+            <img src="../../css/images/L_button.gif" alt="Accueil" width="148" height="93" border="0" /></a>
+      </div>
+      <div id="language-bg">
+      	<img src="../../css/images/language-bg.png" alt="arrière-plan" width="220" height="77" border="0" />
+      </div>
+      <div id="language">
+         <select id="lang-sel" title="Choix de la langue" onClick="magnifySelect(this);" onChange="changeLang(this);">
+         </select>   
+      </div>
+   <div id="content">
+      <img src="images/logoPage.png" width="400" height="131" style="margin-left:170px" /><br />
+      <h1>Introduction à Linux</h1>
+      <p>Linux est le nom d'un système d'exploitation performant qui fonctionne aussi bien sur des ordinateurs privés que professionnels.</p>
+      <p>C'est le système développé et utilisé par des scientifiques, des chercheurs, des professionnels de l'informatique et des passionnés. C'est de l'informatique de niveau industriel à disposition de tout utilisateur.</p>
+      <p>Linux est le système qui fut placé dans les mains de Mark Shuttleworth et qui le rendit capable de monter de toutes pièces une affaire en or qui lui rapporta des millions. C'est la raison pour laquelle la Fondation Shuttleworth rend Linux accessible à tous au moyen de ce <strong>Freedom Toaster</strong>.</p>
+      <p>Linux est livré avec des programmes, des utilitaires et des thèmes. Ces ensembles sont appelés <em>distributions</em> (ou <strong>distro</strong>s en abrégé). Lorsque vous achetez un ordinateur doté de Windows, vous devez encore vous procurer MS Office, un anti-virus et d'autres choses encore. Tout cela est déjà compris dans une distribution Linux.</p>
+      <p>Cette borne peut graver un grand nombre de distributions Linux, certaines tenant sur un seul CD et d'autres nécessitant 13 CD (avec <em>plein</em> de logiciels&nbsp;!). Les quelques écrans suivants vous aideront à décider quelle distribution vous pourriez essayer.</p>
+
+   </div>
+	</body>
+</html>

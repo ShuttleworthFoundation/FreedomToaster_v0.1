@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="203"
+   name=""
+   committed-date="2006-05-04T05:47:22.967691Z"
+   url="svn://edison.tsf.org.za/freedomtoaster/trunk/source/contrib/contentslist-php"
+   last-author="sean.wheller"
+   kind="dir"
+   uuid="d86654f9-5701-0410-bb18-eb70f6cf68f4"
+   repos="svn://edison.tsf.org.za/freedomtoaster"
+   revision="491"/>
+<entry
+   committed-rev="203"
+   name="README"
+   text-time="2006-05-25T12:15:16.000000Z"
+   committed-date="2006-05-04T05:47:22.967691Z"
+   checksum="d48b9fde3ba483fc9471b4695fb48a92"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:16.000000Z"/>
+<entry
+   committed-rev="202"
+   name="distros.php"
+   text-time="2006-05-25T12:15:16.000000Z"
+   committed-date="2006-05-03T18:08:09.696415Z"
+   checksum="012d51016f64f4133cc5b92e5a7b193e"
+   last-author="stefano.rivera"
+   kind="file"
+   prop-time="2006-05-25T12:15:16.000000Z"/>
+<entry
+   committed-rev="202"
+   name="distros.css"
+   text-time="2006-05-25T12:15:16.000000Z"
+   committed-date="2006-05-03T18:08:09.696415Z"
+   checksum="856348d23ccf9c53f08c9b638a1cab73"
+   last-author="stefano.rivera"
+   kind="file"
+   prop-time="2006-05-25T12:15:16.000000Z"/>
+</wc-entries>

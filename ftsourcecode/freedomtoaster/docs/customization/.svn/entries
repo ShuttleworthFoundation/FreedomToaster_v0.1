@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="192"
+   name=""
+   committed-date="2006-04-14T21:16:41.061852Z"
+   url="svn://edison.tsf.org.za/freedomtoaster/trunk/docs/customization"
+   last-author="claude.paroz"
+   kind="dir"
+   uuid="d86654f9-5701-0410-bb18-eb70f6cf68f4"
+   repos="svn://edison.tsf.org.za/freedomtoaster"
+   revision="349"/>
+<entry
+   committed-rev="192"
+   name="customizationmanual.xml"
+   text-time="2006-05-25T12:15:25.000000Z"
+   committed-date="2006-04-14T21:16:41.061852Z"
+   checksum="fc6ab7c569b23366ad6eca831aee7646"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-05-25T12:15:25.000000Z"/>
+<entry
+   committed-rev="192"
+   name="customizationmanual.pot"
+   text-time="2006-05-25T12:15:25.000000Z"
+   committed-date="2006-04-14T21:16:41.061852Z"
+   checksum="6e6884f81c42599bd9126b5fbfe90f86"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-05-25T12:15:25.000000Z"/>
+</wc-entries>

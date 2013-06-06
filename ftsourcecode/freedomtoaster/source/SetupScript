@@ -1,0 +1,411 @@
+#!/bin/sh -e
+################################################################################
+# Purpose: Performs a standard Freedom Toaster setup
+# Inputs  : Ubuntu (cd, main, restricted, universe), Freedom Toaster Subversion Repository
+# Output :
+# 0) Create and configure desktop user kiosk
+# 1) Update, upgrade packages and install toaster depends
+# 2) Install Firefox 1.5 (nightly build from Deer Park)
+# 3) Install r-kiosk 0.3 (from preconfigured .mozilla dir)
+# 4) Configure Kiosk Environment
+# 5) Install Toaster www and iso directories
+# Remarks: Run script on new Ubuntu 5.10 server, with admin account as su
+# License: GPL (http://www.gnu.org/)
+# Created: 2006/03/05 Sean Wheller (sean@inwords.co.za)
+################################################################################
+
+# Uncomment and replace value of http_proxy as and when required.
+# export http_proxy="http://cache.uct.ac.za:8080/"
+
+user=$(whoami)
+
+# The Project SVN Revision Control System
+repos=svn://edison.tsf.org.za/freedomtoaster
+
+# The version numbers
+STABLE=tags/v3
+UNSTABLE=branches/v3
+DEVEL=trunk
+
+# A specific version of firefox tested not to leak
+firefoxurl=http://learnlinux.tsf.org.za/ft/firefox-1.6a1.en-US.linux-i686.tar.bz2
+
+# A template .mozilla folder with the r-kiosk-0.3-fx.xpi installed
+dotmozillaurl=http://learnlinux.tsf.org.za/ft/dotmozilla.tar.gz
+
+# Languages for which a translation exists in the UI
+localestoinstall="fr_FR"
+
+# Must use account with sudo rights and be root.
+# The suggested admin user name is kiosk-admin.
+if [ "x$user" != "xroot" ]; then
+	echo "You need to be 'root' to run this script."
+	echo "Use command 'sudo -H -s' to gain root and re-run this script"
+	echo "Quitting ..."
+	exit 1
+fi
+
+# WARN to allow user chance to stop installation.
+DONTRUN=1
+while [ $DONTRUN -eq 1 ]; do
+   clear
+   echo "################################################################################"
+   echo "#                                                                              #"
+   echo "#                         Freedom Toaster Install Script                       #"
+   echo "#                         ==============================                       #"
+   echo "#                                                                              #"
+   echo "#                           VERSION: trunk (20060611)                          #"
+   echo "#                                                                              #"
+   echo "#   WARNING: This script assumes that you have set up your computer according  #"
+   echo "#            to the instructions in the installation manual.  This is NOT      #"
+   echo "#            an upgrade to an existing Freedom Toaster (i.e. this may well     #"
+   echo "#            'toast' an existing toaster).                                     #"
+   echo "#                                                                              #"
+   echo "#                     Do you wish to continue? (y/N)                           #"
+   echo "#                                                                              #"
+   echo "################################################################################"
+	read yn
+	case $yn in
+		[nN]* )   
+			echo "Aborted..."
+			exit 1
+			;;
+
+		[yY]* )   
+			DONTRUN=0;
+			;;
+
+		q* )
+			exit 1
+			;;
+
+		* )
+			echo "Unknown response.  Asking again:" 
+			;;
+	esac
+done
+
+# Select installation source
+DONTRUN=1
+while [ $DONTRUN -eq 1 ]; do
+   clear
+   echo "################################################################################"
+   echo "#                                                                              #"
+   echo "#                         Select the installation source:                      #"
+   echo "#                         ===============================                      #"
+   echo "#                                                                              #"
+   echo "#              1) - stable production version (tag) - (Recommended)            #"
+   echo "#                   Choice between CD or network repository.                   #"
+   echo "#                                                                              #"
+   echo "#              2) - unstable testing version (branch)                          #"
+   echo "#                   Install from network repository only                       #"
+   echo "#                                                                              #"
+   echo "#              3) - development HEAD (trunk)                                   #"
+   echo "#                   Install from network repository only                       #"
+   echo "#                                                                              #"
+   echo "################################################################################"
+	read X
+	case $X in
+		[1]* )
+			while [ $DONTRUN -eq 1 ]; do
+                           clear
+   echo "################################################################################"
+   echo "#                                                                              #"
+   echo "#                    Select CD or network repository as source:                #"
+   echo "#                    ==========================================                #"
+   echo "#                                                                              #"
+   echo "#              1) - CD (requires the Freedom Toaster Install CD)               #"
+   echo "#                                                                              #"
+   echo "#              2) - Network (requires Internet connectivity)                   #"
+   echo "#                                                                              #"
+   echo "################################################################################"
+			read Y
+			case $Y in
+				[1]*)
+					DONTRUN=0
+					REPOSDIR=CD
+					;;
+					
+				[2]*)
+					DONTRUN=0
+					REPOSDIR=$STABLE;
+					;;
+			esac
+			done
+			;;
+
+		[2]* )   
+			DONTRUN=0
+			REPOSDIR=$UNSTABLE;
+			;;
+
+		[3]* )   
+			DONTRUN=0
+			REPOSDIR=$DEVEL;
+			;;
+
+		q* )
+			exit 1
+			;;
+
+		* )
+			echo "Unknown response.  Asking again:" 
+			;;
+	esac
+done
+
+###########################################################
+# Set up packages
+
+if [ $REPOSDIR = "CD" ]; then
+	#######################################################
+	# Running from CD
+	
+	if [ ! `pwd | grep '/tmp/toaster.'` ]; then
+		WD=$(mktemp -d /tmp/toaster.XXXXXX)
+		echo "Copying CD contents to $WD to run from there"
+		cp -r * $WD/
+		cd $WD
+		chmod a+x ./SetupScript
+		exec ./SetupScript
+	fi
+
+	# The package dependencies available from Ubuntu repositories
+	addsoftware=$(cat PackageList | sed '/^#/d')
+
+	# Set sources.list
+	cp /etc/apt/sources.list /etc/apt/sources.list.pre-toaster
+
+   # Comment out all lines in sources.list, because we have our own CD
+   # leaving the install CD in sources.list gives problems and is unnecessary
+	sed -i 's/^\([^#]\)/#\1/' /etc/apt/sources.list
+
+	# Upgrade system and install packages
+	apt-cdrom add
+	apt-get update -m
+	apt-get upgrade  --assume-yes --allow-unauthenticated 
+	apt-get install --assume-yes --allow-unauthenticated $addsoftware
+	SOURCE='.'
+else
+	#######################################################
+	# Install from net
+	
+	# Test for SVN we need stuff from the project repository
+	if ! which svn ; then
+		echo "Subversion is not installed. Installing..."
+		apt-get update
+		apt-get install subversion
+	fi
+	
+	# Enable disabled apt repositories
+	if [ ! -f /etc/apt/sources.list.pre-toaster ]; then
+		svn cat $repos/$REPOSDIR/source/sources.list > /etc/apt/sources.list.toaster
+		mv /etc/apt/sources.list /etc/apt/sources.list.pre-toaster
+		mv /etc/apt/sources.list.toaster /etc/apt/sources.list
+	fi
+
+	# The package dependencies available from Ubuntu repositories
+	if [ ! -f ./PackageList ]; then
+		svn cat $repos/$REPOSDIR/source/PackageList > ./PackageList
+	fi	
+	addsoftware=`sed -e '/^#/d' PackageList`
+		
+	# Update repository package lists
+	echo "Updating your system"
+	apt-get update || true
+	
+	# Upgrade to newer packages
+	apt-get dist-upgrade -y
+	
+	# Install Freedom Toaster package dependencies 
+	echo "Installing packages"
+	apt-get install -y $addsoftware
+	
+	###########################################################
+	# Download everything
+	
+	echo "Downloading prerequisites..."
+	mkdir /tmp/toaster-install || true # Don't freak out -s
+	cd /tmp/toaster-install
+	REPOS_REVISION=`svn info $repos/$REPOSDIR/source | grep "Last Changed Rev" | cut -d ' ' -f 4`
+	if [ ! -f checked-out-$REPOS_REVISION ]; then
+	  rm -rf source checked-out-*
+	  svn export $repos/$REPOSDIR/source
+	  touch checked-out-$REPOS_REVISION
+	fi
+	wget -c $firefoxurl
+#	wget -c $dotmozillaurl
+	SOURCE='source'
+fi
+	
+###########################################################
+# Set up an ordinary user account named 'kiosk' with which the Freedom Toaster will run.
+
+if [ ! -d /home/kiosk ]; then
+	adduser --disabled-password --home /home/kiosk --gecos "Kiosk User" kiosk
+	echo "Created kiosk user account named 'kiosk'."
+else
+	adduser --disabled-password --home /home/kiosk --no-create-home --gecos "Kiosk User" kiosk || true
+	echo "Using existing kiosk user account."
+fi
+
+###########################################################
+# Set up custom firefox
+
+# find if firefox is already installed at /opt/firefox
+# if yes, skip, if not then install
+if [ ! -d /opt/firefox ]; then
+	# Get and extract special Firefox
+	tar -C /opt -xjvf `basename $firefoxurl`
+	
+	#  move the original system-wide /usr/bin/firefox to a new name
+	dpkg-divert --divert /usr/bin/firefox.ubuntu --rename /usr/bin/firefox
+	
+	# place a symlink to the newly installed firefox in /usr/bin
+	ln -s /opt/firefox/firefox /usr/bin/firefox
+	
+	# move the original system-wide /usr/bin/mozilla-firefox to a new name
+	dpkg-divert --divert /usr/bin/mozilla-firefox.ubuntu --rename /usr/bin/mozilla-firefox
+	
+	# place a symlink to the newly installed firefox in /usr/bin/
+	ln -s /opt/firefox/firefox /usr/bin/mozilla-firefox
+fi
+
+###########################################################
+# Configure Kiosk Environment
+
+# Use xsession file
+cp -f $SOURCE/dotxsession $SOURCE/.xsession || true
+install -okiosk -gkiosk -m755 $SOURCE/.xsession /home/kiosk/
+
+# Get already prepared .mozilla directory complete with installation of r-kiosk.xpi extension 
+cp $SOURCE/dotmozilla.tar.gz /home/kiosk/
+rm -rf /home/kiosk/.mozilla
+tar -C /home/kiosk -xvf /home/kiosk/dotmozilla.tar.gz
+if [ ! -e /home/kiosk/bin ]; then
+	mkdir /home/kiosk/bin
+fi
+cp $SOURCE/kiosk.sh /home/kiosk/bin/
+cp $SOURCE/unkiosk.sh /home/kiosk/bin/
+chown -R kiosk. /home/kiosk
+
+# Toaster log (don't clobber existing)
+if [ ! -f /home/kiosk/toasting.log ]; then
+  touch toasting.log
+  install -okiosk -gwww-data -m664 toasting.log /home/kiosk
+fi
+# allow system to create backup files in /home/kiosk
+chmod 777 /home/kiosk
+
+###########################################################
+# System-wide settings
+
+# Add dvd-writers to hdparm.conf
+if [ ! -f /etc/hdparm.conf.pre-toaster ]; then
+	cp /etc/hdparm.conf /etc/hdparm.conf.pre-toaster
+	for drive in `ls /dev/hd* | grep -v [0-9]`; do
+		echo -e "$drive {\n\tdma = on\n\tio32_support = 1\n}\n" >> /etc/hdparm.conf
+	done
+	/etc/init.d/hdparm restart
+fi
+
+# Set up locales
+for lng in $localestoinstall; do
+	if ! grep -q "^$lng" /etc/locale.gen; then
+		echo "$lng.UTF-8 UTF-8" >> /etc/locale.gen
+	fi
+done
+locale-gen --keep-existing
+
+# Modify Apache DocumentRoot directive and restart apache
+if [ ! -f /etc/apache2/sites-available/freedomtoaster ]; then
+  mkdir -p /srv/www/kiosk
+	rm /etc/apache2/sites-enabled/000-default
+	install -m644 $SOURCE/000-default /etc/apache2/sites-available/freedomtoaster
+	ln -s ../sites-available/freedomtoaster /etc/apache2/sites-enabled/freedomtoaster
+	/etc/init.d/apache2 restart
+fi
+
+# Add www-data to sudoers
+# kiosk user has permission to do certain su tasks from GUI, not all
+if [ ! -f /etc/sudoers.pre-toaster ]; then
+	cp /etc/sudoers /etc/sudoers.pre-toaster
+	echo "www-data ALL=NOPASSWD: /usr/bin/cdrecord, /usr/bin/growisofs, /usr/bin/eject, /sbin/hdparm, /home/kiosk/bin/kiosk.sh, /home/kiosk/bin/unkiosk.sh" >> /etc/sudoers
+fi
+
+# Add www-data to cdrom group
+usermod -G cdrom www-data
+
+# Set up X
+if [ ! -f /usr/local/sbin/freedom-toaster-x ]; then
+	install -m755 $SOURCE/freedom-toaster-x /usr/local/sbin/freedom-toaster-x
+	install -m755 $SOURCE/freedom-toaster-x-init.d /etc/init.d/freedom-toaster-x
+
+	update-rc.d freedom-toaster-x defaults 13 01
+	if [ -L /etc/rc2.d/S13gdm ]; then
+		update-rc.d -f gdm remove
+	fi
+fi
+
+########################################################
+# Install Toaster sw
+
+# www and iso directories
+mkdir -p /srv/www/kiosk /srv/isos
+cp -af $SOURCE/kiosk/* /srv/www/kiosk
+cp -af $SOURCE/isos/* /srv/isos
+chown -R www-data: /srv/
+
+# Now enumerate all the CD/DVD devices into config.pl
+# We assume that the Ubuntu install sets up the correct mount points
+# and device names in /etc/fstab...
+NUMS=$(grep 'media/cdrom' /etc/fstab|tr -s ' '|cut -d' ' -f2|sed 's/\/media\/cdrom//')
+for NUM in $NUMS; do 
+   DEV=$(grep "/media/cdrom$NUM" /etc/fstab | tr -s ' ' | cut -d' ' -f1)
+   perl -pi -e "next if (/Capabilities/);s#'cdrw$NUM' => '[^']*'#'cdrw$NUM' => '$DEV'#" /srv/www/kiosk/cgi-bin/config.pl 
+done 
+
+OLDNUMS=$(grep '/dev/' /srv/www/kiosk/cgi-bin/config.pl|sed "s/^[^']*'cdrw//;s/^\([0-9]*\).*$/\1/")
+
+for OLDNUM in $OLDNUMS; do 
+	NOTFOUND=true
+   for NUM in $NUMS; do 
+		if [ $NUM = $OLDNUM ]; then
+			NOTFOUND=false
+		fi
+	done
+	if [ $NOTFOUND == true ]; then
+      perl -pi -e "s/'cdrw$OLDNUM' => '[^']*'[,\n\s]*//" /srv/www/kiosk/cgi-bin/config.pl 
+	fi
+done
+
+echo "################################################################################"
+echo "# Enter a unique short name with no spaces or commas, for this toaster         #"
+echo "# (to help identify log entries):                                              #"
+echo "################################################################################"
+read TOASTER_NAME
+echo "\$main::ToasterName = '$TOASTER_NAME';" >> /srv/www/kiosk/cgi-bin/config.pl
+
+# Get admin password
+chmod +x ./ToasterPasswd
+./ToasterPasswd
+
+# Decide whether to install the touchscreen software:
+echo "################################################################################"
+echo "# Do you want to install the egalax touchscreen drivers now? (Y/n):            #"
+echo "################################################################################"
+echo
+read X
+if [ a$X != an ]; then
+   contrib/touchscreens/setupHistory.sh
+else
+   /etc/init.d/freedom-toaster-x start
+fi
+
+echo "################################################################################"
+echo "#                              Install complete.                               #"
+echo "#                              =================                               #"
+echo "#   Remember that you might need to reboot your computer to use the faster     #"
+echo "#   kernel and take advantage of optimised drive settings.                     #"
+echo "################################################################################"
+exit 0

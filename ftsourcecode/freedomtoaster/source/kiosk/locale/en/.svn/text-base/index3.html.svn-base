@@ -1,0 +1,49 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+   <head>
+		<title>Linux</title>
+		<link rel="stylesheet" type="text/css" href="../../css/kiosk.css" title="first" />
+		<meta http-equiv="content-type"  content="text/html; charset=utf-8" />
+      <meta http-equiv="refresh"  content="25; URL=index4.html" />
+      <script src="../../kiosk.js" language="javascript" type="text/javascript"></script>
+	</head>
+   <body background="../../css/images/selectorBG.png" bgcolor="#C0C0C0"  onLoad="populateSelect();">
+      <div id="MoreInfo">
+         <a href="../../cgi-bin/knowMore.pl" title="About this Toaster">
+            <img src="../../css/images/K_button.gif" alt="?" width="113" height="120" border="0" /><br />
+
+         </a>
+      </div>
+      <div id="Home">
+         <a href="index0.html" title="Go to the beginning page">
+            <img src="../../css/images/H_button.gif" alt="Home" width="148" height="93" border="0" /><br />
+
+         </a>
+      </div>
+      <div id="next">
+         <a href="index4.html" title="Go to the next page">
+            <img src="../../css/images/R_button.gif" alt="Home" width="113" height="120" border="0" /></a>
+      </div>
+      <div id="back">
+         <a href="index2.html" title="Go to the previous page">
+            <img src="../../css/images/L_button.gif" alt="Home" width="148" height="93" border="0" /></a>
+      </div>
+      <div id="language-bg">
+      	<img src="../../css/images/language-bg.png" alt="background" width="220" height="77" border="0" />
+      </div>
+      <div id="language">
+         <select id="lang-sel" title="Language choice" onClick="magnifySelect(this);" onChange="changeLang(this);">
+         </select>   
+      </div>
+   <div id="content">
+      <img src="images/logoPage.png" width="400" height="131" style="margin-left:170px" /><br />
+      <h1>Getting Started with Linux</h1>
+      <p>Linux is the name of a powerful operating system that you can run on your home or business PC.</p>
+      <p>It is the system used and developed by scientists, researchers, IT professionals and hobbyists.  It is industrial strength computing for the ordinary user.</p>
+      <p>Linux is the system that someone gave to Mark Shuttleworth, which enabled him to build a multi-million Rand business from scratch.  That is why the Shuttleworth Foundation is making Linux accessible to all through this <strong>Freedom Toaster</strong>.</p>
+      <p>Linux comes bundled with programs and utilities and themes.  These bundles are called <em>distributions</em> (or <strong>distro</strong>s for short).  Like when you buy a Windows PC, you still need to buy MS Office and anti-virus utilities and things.  Those things all come included with a linux distro.</p>
+      <p>This kiosk can burn any of a number of linux distros, from those that come on 1 CD to those that come on 13 CDs (<em>that</em> is a lot of software!).  The next few screens will help you decide which distro you might like to try.</p>
+
+   </div>
+	</body>
+</html>

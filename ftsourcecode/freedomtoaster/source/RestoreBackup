@@ -1,0 +1,52 @@
+#!/bin/sh
+################################################################################
+# Purpose: Returns the old version of a system
+# Input  : To be run off a CD burnt from the toaster
+# Output : 1) The oldest version-number tarball on the CD (or in the same
+#             directory as this script, will be cracked in /
+# Remarks: 1) You need to be root or run $sudo ./RestoreBackup
+#          2) The tarball is expected to be called 'toaster-n.m.tar.gz
+# License: GPL (http://www.gnu.org/)
+# Created: 2005/11/04 Charles Oertel (charles@finebushpeople.net)
+################################################################################
+. ./functions.inc
+
+echo "Restore Freedom Toaster, $VERSION created by charles@finebushpeople.net"
+
+echo Choose which version to restore from:
+OPTIONS="`ls -tr toaster-[0-9.]*.tar.gz | sort -g` Quit"
+OPTIONA=($OPTIONS)
+
+retval=0
+while [ $retval -ne 1 ]
+do
+   select opt in $OPTIONS; do
+      if [ "$opt" = $OPTIONA ]; then
+         echo untarring $OPTIONA
+         echo 'Are you sure (Y/N)?'
+         read ANS
+         if [ $ANS = Y -o $ANS = y ]; then
+            crackArchive $opt
+            echo done
+         fi
+         exit
+
+      elif [ "$opt" = ${OPTIONA[1]} ]; then
+         echo untarring ${OPTIONA[1]}
+         echo 'Are you sure (Y/N)?'
+         read ANS
+         if [ $ANS = Y -o $ANS = y ]; then
+            crackArchive $opt
+            echo done
+         fi
+         exit
+      elif [ "$opt" = "Quit" ]; then
+         echo goodbye
+         exit
+      else
+         echo bad option
+      fi
+   done
+done
+exit 0
+

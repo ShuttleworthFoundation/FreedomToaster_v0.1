@@ -1,0 +1,20 @@
+<?xml version='1.0'?>
+<distro>
+	<name>Impi Linux</name>
+	<description>ImpiLinux is a complete desktop operating system based on the Ubuntu operating
+		system.</description>
+	<advantages>
+		<advantage>Impi is truly South African variant of the popular Ubuntu platform.</advantage>
+		<advantage>Impi is initially available in English, Xhosa and Afrikaans.</advantage>
+		<advantage>ImpiLinux is fully compatible with Ubuntu, meaning that any one of the 14000 software
+			packages available in the Ubuntu "Universe" repository can be loaded onto any ImpiLinux
+			distribution at any time without the hassles of software dependencies and
+		incompatibilities.</advantage>
+	</advantages>
+	<disadvantages>
+		<disadvantage>In comparison with Ubuntu, Impi has a small user support community.</disadvantage>
+	</disadvantages>
+   <defaults>
+     <defaultVersion>impi|2.0|CD|2</defaultVersion>
+   </defaults>
+</distro>

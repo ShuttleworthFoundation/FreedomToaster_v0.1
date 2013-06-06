@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="112"
+   name=""
+   committed-date="2006-02-16T08:04:32.162040Z"
+   url="https://svn1.cvsdude.com/techdocs/freedomtoaster/trunk/casestudy"
+   last-author="techdocs"
+   kind="dir"
+   uuid="8478f940-d901-0410-ad40-e0ac9cb6760e"
+   repos="https://svn1.cvsdude.com/techdocs/freedomtoaster"
+   revision="122"/>
+<entry
+   committed-rev="108"
+   name="casestudy-csir.xml"
+   text-time="2006-05-04T07:46:15.000000Z"
+   committed-date="2006-02-16T07:33:46.772149Z"
+   checksum="1853e54ae06d07be12e127d0b829525c"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T07:46:04.000000Z"/>
+<entry
+   committed-rev="112"
+   name="casestudy-tshwane-uni.xml"
+   text-time="2006-05-04T07:46:15.000000Z"
+   committed-date="2006-02-16T08:04:32.162040Z"
+   checksum="c33105515709d8a0a41d70dd9e41dfd5"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T07:46:07.000000Z"/>
+<entry
+   committed-rev="110"
+   name="casestudy-science-center.xml"
+   text-time="2006-05-04T07:46:15.000000Z"
+   committed-date="2006-02-16T07:48:40.245389Z"
+   checksum="e2489ac013fb2f8f17ec895953f4ba36"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T07:46:08.000000Z"/>
+<entry
+   committed-rev="107"
+   name="usecases.xml"
+   text-time="2006-05-04T07:46:15.000000Z"
+   committed-date="2006-02-12T15:04:28.390026Z"
+   checksum="853908a6f701a703a6418dffd4d9b289"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T07:46:15.000000Z"/>
+</wc-entries>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+   <head>
+		<title>Aide Creative Commons</title>
+		<link rel="stylesheet" type="text/css" href="../../css/kiosk.css" title="premier" />
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+      <meta http-equiv="refresh" content="240; URL=javascript:history.go(-1)" />
+      <script src="../../kiosk.js" language="javascript" type="text/javascript"></script>
+      <script src="../../prevnext.js" language="javascript" type="text/javascript"></script>
+	</head>
+   <body background="../../css/images/selectorBG.png" bgcolor="#C0C0C0">
+      <div id="Home">
+         <a href="index0.html" title="Accueil">
+            <img src="../../css/images/H_button.gif" alt="Accueil" width="148" height="93" border="0" /></a>
+      </div>
+      <div id="back">
+         <a href="javascript:history.go(-1)" title="Aller à la page précédente">
+            <img src="../../css/images/L_button.gif" alt="Accueil" width="148" height="93" border="0" /></a>
+      </div>
+   <div id="help">
+      <img src="images/logoHelp.png" width="305" height="100" align="right" style="margin:-10px -60px 0 0" />
+      <h1>Comment ça marche ?</h1>
+   
+      <img id="c1" src="images/ccp1.png" align="center" style="margin-left:5em;margin-top:0" />
+
+      <div style="position:absolute;bottom:2em;left:240px">
+      <a href="javascript:prev('c1','images/ccp')" style="float:left"><img src="images/back.png" /></a>
+      <a href="javascript:next('c1','images/ccp',14)" style="margin-left:2em"><img src="images/next.png" /></a>
+      <br /><br />
+         <p>Lire l'autre bande dessinée <a href="cc_cartoon1.html">Un éventail de droits</a>.</p>
+         <p>En savoir plus sur les <a href="help/cc_licenses.html">licences Creative Commons</a>.</p>
+         </div>
+
+   </div>
+	</body>
+</html>

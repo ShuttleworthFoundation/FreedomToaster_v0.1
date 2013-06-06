@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="491"
+   name=""
+   committed-date="2006-09-16T06:57:47.213121Z"
+   url="svn://edison.tsf.org.za/freedomtoaster/trunk/source"
+   last-author="charles.oertel"
+   kind="dir"
+   uuid="d86654f9-5701-0410-bb18-eb70f6cf68f4"
+   repos="svn://edison.tsf.org.za/freedomtoaster"
+   revision="491"/>
+<entry
+   committed-rev="104"
+   name="toaster.xml"
+   text-time="2006-05-25T12:15:22.000000Z"
+   committed-date="2006-03-05T18:27:39.956763Z"
+   checksum="f3408ea166a7a399a1d13315b6db2e9d"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:13.000000Z"/>
+<entry
+   committed-rev="129"
+   name="000-default"
+   text-time="2006-05-25T12:15:23.000000Z"
+   committed-date="2006-03-07T06:05:29.627528Z"
+   checksum="641472c6b7e60fa60bb7574821a6fdec"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:13.000000Z"/>
+<entry
+   committed-rev="486"
+   name="dotmozilla.tar.gz"
+   text-time="2006-11-03T09:15:16.000000Z"
+   committed-date="2006-06-28T09:12:55.016889Z"
+   checksum="5df64a6bf32a19047caa42de7966bda6"
+   last-author="stefano.rivera"
+   kind="file"
+   prop-time="2006-11-03T09:15:08.000000Z"/>
+<entry
+   name="debian"
+   kind="dir"/>
+<entry
+   committed-rev="214"
+   name="dotxsession"
+   text-time="2006-05-25T12:15:23.000000Z"
+   committed-date="2006-05-07T08:55:28.709368Z"
+   checksum="f4e3e36e96eec8b2bd3518867c6b4c3a"
+   last-author="stefano.rivera"
+   kind="file"
+   prop-time="2006-05-25T12:15:13.000000Z"/>
+<entry
+   committed-rev="491"
+   name="PackageList"
+   text-time="2006-11-03T09:15:16.000000Z"
+   committed-date="2006-09-16T06:57:47.213121Z"
+   checksum="94a56a84873fa0f2a044ef502465dec4"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:08.000000Z"/>
+<entry
+   committed-rev="297"
+   name="freedom-toaster-x-init.d"
+   text-time="2006-05-25T12:15:23.000000Z"
+   committed-date="2006-05-16T15:17:43.940662Z"
+   checksum="04ff27fd05d3e5238422a58f2a7bf719"
+   last-author="stefano.rivera"
+   kind="file"
+   prop-time="2006-05-25T12:15:13.000000Z"/>
+<entry
+   committed-rev="103"
+   name="MiscellaneousUpdates"
+   text-time="2006-05-25T12:15:23.000000Z"
+   committed-date="2006-03-05T18:23:26.202034Z"
+   checksum="c3bf46c7d6f3124b9050c9aa25560f80"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:13.000000Z"/>
+<entry
+   committed-rev="103"
+   name="setconfig.sh"
+   text-time="2006-05-25T12:15:23.000000Z"
+   committed-date="2006-03-05T18:23:26.202034Z"
+   checksum="1733ea4465c56c3e776afa7483ef3120"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:13.000000Z"/>
+<entry
+   committed-rev="307"
+   name="sources.list"
+   text-time="2006-05-25T12:15:23.000000Z"
+   committed-date="2006-05-16T22:07:02.390911Z"
+   checksum="6312d6cfaa943ca31285f54f90df903d"
+   last-author="stefano.rivera"
+   kind="file"
+   prop-time="2006-05-25T12:15:13.000000Z"/>
+<entry
+   committed-rev="297"
+   name="freedom-toaster-x"
+   text-time="2006-05-25T12:15:23.000000Z"
+   committed-date="2006-05-16T15:17:43.940662Z"
+   checksum="bf5e6c6df6dca99423fb40bedd8c2ae4"
+   last-author="stefano.rivera"
+   kind="file"
+   prop-time="2006-05-25T12:15:16.000000Z"/>
+<entry
+   committed-rev="397"
+   name="generate-toaster-cd.sh"
+   text-time="2006-06-07T07:21:58.000000Z"
+   committed-date="2006-05-31T10:33:20.776338Z"
+   checksum="c08cf0a3926aa65202d888df82af4db9"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-06-07T07:21:56.000000Z"/>
+<entry
+   committed-rev="103"
+   name="RestoreBackup"
+   text-time="2006-05-25T12:15:23.000000Z"
+   committed-date="2006-03-05T18:23:26.202034Z"
+   checksum="5befe1277528556400a3424adf8a5bb7"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:16.000000Z"/>
+<entry
+   committed-rev="484"
+   name="Makefile"
+   text-time="2006-11-03T09:15:16.000000Z"
+   committed-date="2006-06-24T19:50:06.431126Z"
+   checksum="12ad7760e8817248cfd4ea3facecc40f"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:08.000000Z"/>
+<entry
+   committed-rev="103"
+   name="config.inc"
+   text-time="2006-05-25T12:15:23.000000Z"
+   committed-date="2006-03-05T18:23:26.202034Z"
+   checksum="011a9f012466b113d79258a708f3a043"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:22.000000Z"/>
+<entry
+   name="po"
+   kind="dir"/>
+<entry
+   committed-rev="146"
+   name="NonCodeUpdates.tar.gz"
+   text-time="2006-05-25T12:15:22.000000Z"
+   committed-date="2006-03-07T19:55:19.085286Z"
+   checksum="3502e5b61691df15b2d7c8dc901ed648"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:14:52.000000Z"/>
+<entry
+   name="kiosk"
+   kind="dir"/>
+<entry
+   committed-rev="103"
+   name="functions.inc"
+   text-time="2006-05-25T12:15:22.000000Z"
+   committed-date="2006-03-05T18:23:26.202034Z"
+   checksum="ce357b27c1bc9fafbbbb952c5db020d2"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:14:52.000000Z"/>
+<entry
+   committed-rev="434"
+   name="README.nonetwork"
+   text-time="2006-11-03T09:15:16.000000Z"
+   committed-date="2006-06-08T19:13:14.325862Z"
+   checksum="cf74800c57e8b33a553c1f5bf90494db"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:14.000000Z"/>
+<entry
+   committed-rev="451"
+   name="SetupScript"
+   text-time="2006-11-03T09:15:16.000000Z"
+   committed-date="2006-06-11T12:53:52.447085Z"
+   checksum="6f9c2b9cec482e79c8fd5b34eba5bee2"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:14.000000Z"/>
+<entry
+   name="image-factory"
+   kind="dir"/>
+<entry
+   committed-rev="484"
+   name="virtualhost.in"
+   text-time="2006-11-03T09:15:16.000000Z"
+   committed-date="2006-06-24T19:50:06.431126Z"
+   checksum="7100d02ddb6b2ec11201448ac89bc297"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:14.000000Z"/>
+<entry
+   committed-rev="446"
+   name="kiosk.sh"
+   text-time="2006-11-03T09:15:16.000000Z"
+   committed-date="2006-06-11T08:40:52.075714Z"
+   checksum="574e65b6e41fcdb37afc726ee091ebb1"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:14.000000Z"/>
+<entry
+   committed-rev="103"
+   name="InstallScript"
+   text-time="2006-05-25T12:15:23.000000Z"
+   committed-date="2006-03-05T18:23:26.202034Z"
+   checksum="ed7fa8740fb97a3b4fc4c9ce78a8b148"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:13.000000Z"/>
+<entry
+   committed-rev="446"
+   name="unkiosk.sh"
+   text-time="2006-11-03T09:15:16.000000Z"
+   committed-date="2006-06-11T08:40:52.075714Z"
+   checksum="af733c53572a1ab40f655a428be6652c"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:14.000000Z"/>
+<entry
+   committed-rev="103"
+   name="MiscellaneousUpgrades"
+   text-time="2006-05-25T12:15:23.000000Z"
+   committed-date="2006-03-05T18:23:26.202034Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:13.000000Z"/>
+<entry
+   committed-rev="103"
+   name="ContentUpdate2"
+   text-time="2006-05-25T12:15:23.000000Z"
+   committed-date="2006-03-05T18:23:26.202034Z"
+   checksum="9eb730dd2a1e4fc266a6ddd6db345e9f"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:13.000000Z"/>
+<entry
+   name="contrib"
+   kind="dir"/>
+<entry
+   committed-rev="451"
+   name="ToasterPasswd"
+   text-time="2006-11-03T09:15:16.000000Z"
+   committed-date="2006-06-11T12:53:52.447085Z"
+   checksum="e6121b66f9d2724889d5ab8390ee3ec8"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:14.000000Z"/>
+<entry
+   committed-rev="103"
+   name="ContentUpdate"
+   text-time="2006-05-25T12:15:23.000000Z"
+   committed-date="2006-03-05T18:23:26.202034Z"
+   checksum="9eb730dd2a1e4fc266a6ddd6db345e9f"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:16.000000Z"/>
+<entry
+   name="isos"
+   kind="dir"/>
+</wc-entries>

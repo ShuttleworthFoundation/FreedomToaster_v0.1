@@ -1,0 +1,658 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.4//EN"
+                      "http://www.docbook.org/xml/4.4/docbookx.dtd" [
+<!ENTITY % globalent SYSTEM "../common/global.ent">
+%globalent;
+]>
+<book>
+	<bookinfo>
+		<title>Assembly Manual</title>
+		<subtitle>Building a Freedom Toaster</subtitle>
+		<author>
+			<firstname>Sean</firstname>
+			<surname>Wheller</surname>
+		</author>
+		<!-- TRANS:ROLES_OF_TRANSLATORS -->
+		&licensenotice;
+	</bookinfo>
+	<chapter>
+		<title>Introduction</title>
+		<para>A Freedom Toaster is physically comprise of the items listed in <xref linkend="bom"/>.
+			Majority of the parts listed are off-the-shelf consumer products. They can be sources
+			from building, electrical or computer supply stores. A few of the parts are bespoke
+			items. In order to assemble a Freedom Toaster raw materials will need to be fashioned to
+			specification.</para>
+		<sect1>
+			<title>Scope</title>
+			<para>This document explains how to assemble the physical housing and computer equipment
+				that comprise a Freedom Toaster, it also provides the specifications and
+				instructions required in order to make those parts that are bespoke and cannot be
+				bought from a supply-store.</para>
+			<para>Please note that this document does not include instructions on how to install,
+				configure or maintain any of the software components of the Freedom Toaster. For
+				information on these and other subjects that may be of interest to a Freedom Toaster
+				guardian see <xref linkend="docs"/>.</para>
+		</sect1>
+		<sect1>
+			<title>Prerequisites</title>
+			<para>Building a Freedom Toaster requires basic workshop skills and the application of
+				logic. No further skills are required.</para>
+		</sect1>
+		<sect1 id="docs">
+			<title>Associated Documentation</title>
+			<para>The following documents are associated with this document:</para>
+			<variablelist>
+				<!--&assembly-desc;--> &installation-desc; &maintenance-desc;
+				&customization-desc; &user-desc;</variablelist>
+		</sect1>
+		<sect1 id="tools">
+			<title>Tools Required</title>
+			<itemizedlist spacing="compact">
+				<listitem>
+					<para>1 X Philips Screw Driver</para>
+				</listitem>
+				<listitem>
+					<para>1 X Flat Head Screw Driver</para>
+				</listitem>
+				<listitem>
+					<para>Hammer</para>
+				</listitem>
+				<listitem>
+					<para>Contact Glue</para>
+				</listitem>
+				<listitem>
+					<para>Allen Key 4-5/32"</para>
+				</listitem>
+				<listitem>
+					<para>Spot Welder</para>
+				</listitem>
+				<listitem>
+					<para>Circular Saw</para>
+				</listitem>
+				<listitem>
+					<para>250ml Silver Metallic Paint</para>
+				</listitem>
+				<listitem>
+					<para>1 inch Paint Brush</para>
+				</listitem>
+				<listitem>
+					<para>HB Pencil</para>
+				</listitem>
+				<listitem>
+					<para>1 meter length of string</para>
+				</listitem>
+				<!-- What else?? -->
+			</itemizedlist>
+		</sect1>
+		<sect1 id="bom">
+			<title>Bill of Materials</title>
+			<para>Before proceeding please ensure that each of the items listed in the Bills of
+				Materials below are accounted for and available.</para>
+			<table id="computer-hardware-bom">
+				<title>Computer Parts Bill of Materials</title>
+				<tgroup cols="3">
+					<thead>
+						<row>
+							<entry>Item</entry>
+							<entry>Quantity</entry>
+							<entry>Notes</entry>
+						</row>
+					</thead>
+					<tbody>
+						<row>
+							<entry>AOpen MIDI Tower Chassis with 300W PSU</entry>
+							<entry>1</entry>
+							<entry>or equivalent</entry>
+						</row>
+						<row>
+							<entry>Intel i865G Bayfield motherboard with LAN</entry>
+							<entry>1</entry>
+							<entry>or equivalent</entry>
+						</row>
+						<row>
+							<entry>Intel Pentium4 3.0GHz (1MB)</entry>
+							<entry>1</entry>
+							<entry>or equivalent</entry>
+						</row>
+						<row>
+							<entry>Transcend 512MB400</entry>
+							<entry>1</entry>
+							<entry>or equivalent</entry>
+						</row>
+						<row>
+							<entry>Seagate 120GB Serial ATA Drive</entry>
+							<entry>1</entry>
+							<entry>or equivalent</entry>
+						</row>
+						<row>
+							<entry>Gigabyte CD-Writer</entry>
+							<entry>3</entry>
+							<entry>or equivalent</entry>
+						</row>
+						<row>
+							<entry>IDE Controller Card</entry>
+							<entry>1</entry>
+							<entry/>
+						</row>
+						<row>
+							<entry>IDE and Power extensions</entry>
+							<entry>3</entry>
+							<entry/>
+						</row>
+						<row>
+							<entry>Proline LP-15M04 15” Touch Screen LCD</entry>
+							<entry>1</entry>
+							<entry>
+								<itemizedlist spacing="compact">
+									<listitem>
+										<para>Viewing area 15” TFT</para>
+									</listitem>
+									<listitem>
+										<para>Resolution 800x600 SVGA</para>
+									</listitem>
+									<listitem>
+										<para>Colour 16.7M</para>
+									</listitem>
+									<listitem>
+										<para>Response time (tr/tf) 6/17ms</para>
+									</listitem>
+									<listitem>
+										<para>Contrast ratio 350:1</para>
+									</listitem>
+									<listitem>
+										<para>Brightness 250 cd/m2</para>
+									</listitem>
+									<listitem>
+										<para>View angle 120° (H) / 100° (V)</para>
+									</listitem>
+									<listitem>
+										<para>VGA Signal analog VGA</para>
+									</listitem>
+								</itemizedlist>
+							</entry>
+						</row>
+					</tbody>
+				</tgroup>
+			</table>
+			<note>
+				<para>This document does not discuss the software requirements of a Freedom Toaster.
+					Please see <xref linkend="docs"/> for more information.</para>
+			</note>
+			<table id="housing-bom">
+				<title>Housing Structure Bill of Materials</title>
+				<tgroup cols="3">
+					<thead>
+						<row>
+							<entry>Item</entry>
+							<entry>Quantity</entry>
+							<entry>Notes</entry>
+						</row>
+					</thead>
+					<tbody>
+						<row>
+							<entry>Baby H Alu Profile (3mm)</entry>
+							<entry>2</entry>
+							<entry>1.8m</entry>
+						</row>
+						<row>
+							<entry>Double H Profile (3mm)</entry>
+							<entry>2</entry>
+							<entry>1.8m</entry>
+						</row>
+						<row>
+							<entry>Aluminium Treadplate</entry>
+							<entry>1</entry>
+							<entry>1.2m x 1m</entry>
+						</row>
+						<row>
+							<entry>12mm Supawood</entry>
+							<entry>1</entry>
+							<entry>1.2m x 1m</entry>
+						</row>
+						<row>
+							<entry>16mm Chipboard (aluminium)</entry>
+							<entry>1</entry>
+							<entry>1.8m x 700mm</entry>
+						</row>
+						<row>
+							<entry>16mm Chipboard (aluminium)</entry>
+							<entry>2</entry>
+							<entry>1.8m x 300mm</entry>
+						</row>
+						<row>
+							<entry>1.5mm Clear UHI</entry>
+							<entry>2</entry>
+							<entry>1.8m x 502mm</entry>
+						</row>
+						<row>
+							<entry>3mm Clear Acrylic</entry>
+							<entry>1</entry>
+							<entry>1.8m x 672mm</entry>
+						</row>
+						<row>
+							<entry>4mm Monitor Bracket</entry>
+							<entry>1</entry>
+							<entry/>
+						</row>
+						<row>
+							<entry>2mm CD ROM Bracket</entry>
+							<entry>1</entry>
+							<entry/>
+						</row>
+						<row>
+							<entry>2mm Mounting Brackets</entry>
+							<entry>2</entry>
+							<entry/>
+						</row>
+						<row>
+							<entry>Vac Form to fit Monitor</entry>
+							<entry>1</entry>
+							<entry/>
+						</row>
+						<row>
+							<entry>Vac Form to fit CD Roms</entry>
+							<entry>1</entry>
+							<entry/>
+						</row>
+						<row>
+							<entry>625mm x 18W Light Fittings</entry>
+							<entry>6</entry>
+							<entry/>
+						</row>
+						<row>
+							<entry>Metal Cover for top</entry>
+							<entry>1</entry>
+							<entry/>
+						</row>
+						<row>
+							<entry>Reverse print side panels</entry>
+							<entry>2</entry>
+							<entry>1.8m x 502mm</entry>
+						</row>
+						<row>
+							<entry>Reverse print front panel</entry>
+							<entry>1</entry>
+							<entry>1.8m x 672mm</entry>
+						</row>
+						<row>
+							<entry>Laser Cut Treadplate</entry>
+							<entry>1</entry>
+							<entry/>
+						</row>
+						<row>
+							<entry>Router Cut Front Panel</entry>
+							<entry>1</entry>
+							<entry/>
+						</row>
+					</tbody>
+				</tgroup>
+			</table>
+		</sect1>
+		<sect1>
+			<title>First Angle Autographic</title>
+			<figure>
+				<title>First Angle Diagram</title>
+				<mediaobject>
+					<imageobject>
+						<imagedata fileref="../images/first-angle.png" format="PNG"/>
+					</imageobject>
+				</mediaobject>
+			</figure>
+		</sect1>
+	</chapter>
+	<chapter>
+		<title>Material Preparation</title>
+		<para>This chapter explains how to custom build specific parts for the Freedom Toaster,
+			including:</para>
+		<itemizedlist>
+			<listitem>
+				<para>
+					<xref linkend="roof-plate" endterm="title-roof-plate"/>
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<xref linkend="angle-bracket" endterm="title-angle-bracket"/>
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<xref linkend="base-plate" endterm="title-base-plate"/>
+				</para>
+			</listitem>
+		</itemizedlist>
+		<para>In manufacturing these items you may wish to use the services of a person or company
+			with workshop facilities.</para>
+		<sect1 id="roof-plate">
+			<title id="title-roof-plate">Housing roof-plate</title>
+			<para>The Housing roof-plate is made from sheet metal.</para>
+			<para>Using the measurements in the following diagram, follow the procedures below.</para>
+			<figure>
+				<title>Housing roof-plate (First Angle)</title>
+				<mediaobject>
+					<imageobject>
+						<imagedata fileref="../images/roof-plate.png" format="PNG"/>
+					</imageobject>
+				</mediaobject>
+			</figure>
+			<procedure>
+				<title>Building the Housing roof-plate</title>
+				<step>
+					<para>Make the roof-plate.</para>
+					<substeps>
+						<step>
+							<para>Start with a rectangular piece of sheet metal width 425mm, length
+								2250.5mm long.</para>
+						</step>
+						<step>
+							<para>Draw a line 35mm along each side of the length.</para>
+						</step>
+						<step>
+							<para>Carefully cut the lengths from each side, preserving them for use
+								as the roof-plate rim.</para>
+						</step>
+						<step>
+							<para>Draw a line 355mm on either side of the length center line of the
+								remaining rectangle.</para>
+						</step>
+						<step>
+							<para>Draw a line at 177.5 through the width along the length of the
+								rectangle.</para>
+						</step>
+						<step>
+							<para>Using the intersecting lines as the center, draw arc at either end
+								touching the sides.</para>
+						</step>
+						<step>
+							<para>Trim away the excess material outside of both arcs.</para>
+						</step>
+					</substeps>
+				</step>
+				<step>
+					<para>Make the roof-plate rim.</para>
+					<substeps>
+						<step>
+							<para>Join the two 35mm strips produced in the previous step, to form a
+								single strip 2230.531mm in length.</para>
+						</step>
+					</substeps>
+				</step>
+				<step>
+					<para>Spot weld the roof-plate rim to the roof-plate.</para>
+					<substeps>
+						<step>
+							<para>Starting at the a center, spot-weld the roof-plate rim at 90
+								degree angle to the circumference edge of the roof-plate.</para>
+						</step>
+					</substeps>
+				</step>
+				<step>
+					<para>Finishing</para>
+					<substeps>
+						<step>
+							<para>Use a file to smooth and flatten the joint edges.</para>
+						</step>
+						<step>
+							<para>Paint with metallic paint.</para>
+						</step>
+					</substeps>
+				</step>
+			</procedure>
+		</sect1>
+		<sect1 id="angle-bracket">
+			<title id="title-angle-bracket">Monitor Angle-bracket</title>
+			<para>The monitor bracket is made from 4mm steel.</para>
+			<para>Using the measurements in the following diagram, follow the procedures below.</para>
+			<figure>
+				<title>Monitor Angle-bracket (First Angle)</title>
+				<mediaobject>
+					<imageobject>
+						<imagedata fileref="../images/monitor-bracket.png" format="PNG" scalefit="1"
+							depth="8cm"/>
+					</imageobject>
+				</mediaobject>
+			</figure>
+			<procedure>
+				<title>Building the Monitor Angle-bracket</title>
+				<step>
+					<para>Start with a piece of 4mm thick steel ??mm in length, ??mm in
+					width.</para>
+				</step>
+				<step>
+					<para>...</para>
+				</step>
+			</procedure>
+		</sect1>
+		<sect1 id="base-plate">
+			<title id="title-base-plate">Housing Base-plate</title>
+			<para>The Housing Base-plate is comprised of two materials:</para>
+			<itemizedlist spacing="compact">
+				<listitem>
+					<para>Aluminum Tread plate</para>
+				</listitem>
+				<listitem>
+					<para>Chip Board</para>
+				</listitem>
+			</itemizedlist>
+			<para>Using the measurements in the following diagram, follow the procedures below.</para>
+			<figure>
+				<title>Housing Base-Plate (First Angle)</title>
+				<mediaobject>
+					<imageobject>
+						<imagedata fileref="../images/base-plate.png" format="PNG"/>
+					</imageobject>
+				</mediaobject>
+			</figure>
+			<procedure>
+				<title>Building the Housing Base-Plate</title>
+				<step>
+					<para>Create the basic shape.</para>
+					<substeps>
+						<step>
+							<para>Cut materials into a rectangle of width 1055 mm, length 950
+							mm.</para>
+						</step>
+						<step>
+							<para>From the center point draw an arc across one edge of the
+							width.</para>
+						</step>
+						<step>
+							<para>Cut away excess material to form the curved edge.</para>
+						</step>
+					</substeps>
+				</step>
+				<step>
+					<para>Create the hole in the tread plate.</para>
+					<substeps>
+						<step>
+							<para>Draw a line 50mm from the straight edge along the width.</para>
+						</step>
+						<step>
+							<para>Draw a line 227.5mm from the straight edge along the width.</para>
+						</step>
+						<step>
+							<para>Draw a line 405mm from the straight edge along the width.</para>
+						</step>
+						<step>
+							<para>Draw a line 355mm on each side of the width center-line along the
+								length.</para>
+						</step>
+						<step>
+							<para>Draw a line 525mm on each side of the width center-line along the
+								length.</para>
+							<para>You should see a rectangle.</para>
+						</step>
+						<step>
+							<para>Use the intersection where the line at 227.5mm crosses the two
+								355mm lines, draw arcs on each end and inside the borders of the
+								marked rectangle.</para>
+						</step>
+						<step>
+							<para>Cut away the center shape.</para>
+						</step>
+					</substeps>
+				</step>
+				<step>
+					<para>Secure the tread plate to the chip board using contact glue and
+						pop-rivets.</para>
+					<substeps>
+						<step>
+							<para>Match the basic shape and bond the tread plate on top of the chip
+								board.</para>
+						</step>
+						<step>
+							<para>Drill a hole through the tread plate around the edge at the top of
+								the arc, each corner and at the edge-points where the arch and
+								straight edges meet.</para>
+						</step>
+						<step>
+							<para>From the tread plate side, insert a pop-rivet into each
+							hole.</para>
+						</step>
+					</substeps>
+				</step>
+			</procedure>
+			<tip>
+				<para>Instead of cutting by hand using a circular saw, use a laser cutting
+				tool.</para>
+			</tip>
+		</sect1>
+	</chapter>
+	<chapter>
+		<title>Electrical Wiring</title>
+		<para>The electrical wiring circuit is comprised of:</para>
+		<itemizedlist>
+			<listitem>
+				<para>Six 625mm x 18W fluorescent light fittings.</para>
+			</listitem>
+			<listitem>
+				<para>One 3-point adapter.</para>
+			</listitem>
+			<listitem>
+				<para>?? meters 3-core electrical cable.</para>
+			</listitem>
+		</itemizedlist>
+		<figure>
+			<title>Electrical Wire Diagram</title>
+			<mediaobject>
+				<imageobject>
+					<imagedata fileref="../images/electric.png" format="PNG"/>
+				</imageobject>
+			</mediaobject>
+		</figure>
+	</chapter>
+	<chapter>
+		<title>Assembly</title>
+		<para>...</para>
+		<sect1>
+			<title>Housing Assembly</title>
+			<para>...</para>
+		</sect1>
+		<sect1>
+			<title>Computer Assembly</title>
+			<para>This section explains how to connect the CD/DVD devices and Hard Disk Drive for a
+				working Freedom Toaster hardware configuration. The figure below depicts a computer
+				motherboard and the CD/DVD device and Hard Disk Drive that need connecting.</para>
+			<figure>
+				<title>Computer Assembly (Reference)</title>
+				<mediaobject>
+					<imageobject>
+						<imagedata fileref="../images/pc-board.png" format="PNG"/>
+					</imageobject>
+				</mediaobject>
+			</figure>
+			<table>
+				<title>Computer Assembly (Reference)</title>
+				<tgroup cols="4">
+					<colspec colname="1" colnum="1" colwidth="1cm"/>
+					<colspec colname="2" colnum="2" colwidth="7cm"/>
+					<colspec colname="3" colnum="3" colwidth="1cm"/>
+					<colspec colname="4" colnum="4" colwidth="7cm"/>
+					<thead>
+						<row>
+							<entry>Item</entry>
+							<entry>Description</entry>
+							<entry>Item</entry>
+							<entry>Description</entry>
+						</row>
+					</thead>
+					<tbody>
+						<row>
+							<entry>A</entry>
+							<entry>
+								<para>PCI bus connector 6</para>
+								<para>Insert IDE Controller Card.</para>
+								<para>Connect third CD/DVD device to IDE controller card</para>
+							</entry>
+							<entry>G</entry>
+							<entry>AGP connector</entry>
+						</row>
+						<row>
+							<entry>B</entry>
+							<entry>PCI bus connector 5</entry>
+							<entry>H</entry>
+							<entry>Diskette drive</entry>
+						</row>
+						<row>
+							<entry>C</entry>
+							<entry>PCI bus connector 4</entry>
+							<entry>I</entry>
+							<entry>
+								<para>Primary Parallel ATA IDE</para>
+								<para>Connect first CD/DVD device</para>
+							</entry>
+						</row>
+						<row>
+							<entry>D</entry>
+							<entry>PCI bus connector 3</entry>
+							<entry>J</entry>
+							<entry>
+								<para>Secondary Parallel ATA IDE</para>
+								<para>Connect second CD/DVD device</para>
+							</entry>
+						</row>
+						<row>
+							<entry>E</entry>
+							<entry>PCI bus connector 2</entry>
+							<entry>K</entry>
+							<entry>
+								<para>Serial ATA connector 1</para>
+							</entry>
+						</row>
+						<row>
+							<entry>F</entry>
+							<entry>PCI bus connector 1</entry>
+							<entry>L</entry>
+							<entry>
+								<para>Serial ATA connector 0</para>
+								<para>Connect Hard Disk Drive (HDD)</para>
+							</entry>
+						</row>
+					</tbody>
+				</tgroup>
+			</table>
+			<procedure>
+				<title>Connecting CD/DVD and HDD</title>
+				<step>
+					<para>Insert the IDE controller card into a free PCI slot (see A).</para>
+				</step>
+				<step>
+					<para>Connect the HDD to SATA connector 0 (see L).</para>
+				</step>
+				<step>
+					<para>Connect first CD/DVD device to the Primary Parallel ATA IDE (see
+					I).</para>
+				</step>
+				<step>
+					<para>Connect the second CD/DVD device to the Secondary Parallel ATA IDE (see
+						J).</para>
+				</step>
+				<step>
+					<para>Connect the third CD/DVD device to the IDE controller card
+					interface.</para>
+				</step>
+			</procedure>
+			
+		</sect1>
+	</chapter>
+</book>

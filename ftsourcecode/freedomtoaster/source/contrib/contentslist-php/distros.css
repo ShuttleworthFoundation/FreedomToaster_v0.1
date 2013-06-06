@@ -1,0 +1,9 @@
+body {
+  font-family: "serif";
+}
+li.distro {
+  font-weight: bold;
+}
+li.version {
+  font-weight: normal;
+}

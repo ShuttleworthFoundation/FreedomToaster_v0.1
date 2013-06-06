@@ -1,0 +1,8 @@
+- find a way to get rid of focus border on buttons
+- try to give the window a background
+- remove 'insert disk and', instead add a check + a new window asking for disk
+- make obvious that buttons are clickable (maybe background colour/picture)
+-freedos?
+- move mouse pointer to a corner after an operation starts/ends so it doesn't hightlight a button
+- timers to close windows
+- logs

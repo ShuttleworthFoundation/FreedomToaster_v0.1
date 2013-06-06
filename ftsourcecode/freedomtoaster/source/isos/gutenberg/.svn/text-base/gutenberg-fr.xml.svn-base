@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<distro>
+   <name>Projet Gutenberg</name>
+   <description>Votre bibliothèque personnelle gratuite</description>
+   <advantages>
+      <advantage>Des livres célèbres sont mis à disposition de tous ceux qui ont accès à un ordinateur</advantage>
+      <advantage>Il contient de la littérature légère comme [an anglais] Alice au Pays des Merveilles, Peter Pan, les Fables d'Ésope, etc.</advantage>
+      <advantage>Il contient de la littérature classique comme la Bible ou d'autres documents religieux, Shakespeare, Moby Dick, Paradise Lost, etc.</advantage>
+      <advantage>Il contient des ouvrages de référence comme le thésaurus de Roget, des almanachs, un ensemble d'encyclopédies, de dictionnaires, etc.</advantage>
+      <advantage>On peut rechercher des citations ou des références de manière électronique dans les textes</advantage>
+      <advantage>Très utile pour le travail personnel, les projets et les devoirs !</advantage>
+      <advantage>Vous êtes libre de faire des copies pour votre école, votre bibliothèque locale, votre famille et vos amis</advantage> 
+   </advantages>
+   <disadvantages>
+      <disadvantage>Vous avez besoin d'un ordinateur pour lire ou accéder à cette littérature</disadvantage>
+   </disadvantages>
+   <defaults>
+     <defaultVersion>gutenberg|1.0|CD|1</defaultVersion>
+   </defaults>
+</distro>

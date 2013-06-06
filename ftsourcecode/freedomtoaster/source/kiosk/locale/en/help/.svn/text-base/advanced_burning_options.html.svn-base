@@ -1,0 +1,35 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+   <head>
+		<title>Distro Burning Help</title>
+		<link rel="stylesheet" type="text/css" href="../../../css/kiosk.css" title="first" />
+		<meta http-equiv="content-type"  content="text/html; charset=utf-8" />
+      <meta http-equiv="refresh"  content="25; URL=javascript:history.go(-1)" />
+      <script src="../../../kiosk.js" language="javascript" type="text/javascript"></script>
+	</head>
+   <body background="../../../css/images/selectorBG.png" bgcolor="#C0C0C0">
+      <div id="Home">
+         <a href="../index0.html" title="Home">
+            <img src="../../../css/images/H_button.gif" alt="Home" width="148" height="93" border="0" /></a>
+      </div>
+      <div id="back">
+         <a href="javascript:history.go(-1)" title="Go to the previous page">
+            <img src="../../../css/images/L_button.gif" alt="Home" width="148" height="93" border="0" /></a>
+      </div>
+   <div id="help">
+      <img src="../images/logoHelp.png" width="305" height="100" align="right" style="margin:-10px -60px 0 0" />
+      <h1>Choosing a Different Version Help</h1>
+         <p>Just highlight the version you want in the list of versions, then click the <b>'Add to Selection'</b> button</p>
+         <p><strong>Note:</strong> choosing a version using this mechanism will put you in <em>Advanced Mode</em>.  This means that you have the option of burning multiple CD isos to a DVD, and that you will be presented with a more advanced toaster queue page in order to specify your needs.</p>
+         <h2>Available Versions</h2>
+         <p>If there is only one version in the list, then it means that that is the only version available on this Freedom Toaster</p>
+         <h2>Some Versions are off the screen</h2>
+         <p>The list of versions can only show 10 at a time.  If there are more versions, you will notice a <b>scrollbar</b> on the right of the list.  Drag the bar up or down to show the other items in the list.</p>
+         <h2>Going Back to Where I was</h2>
+         <p>Just click the <b>'Back'</b> button <b>(&lt;)</b> on the bottom left</p>
+         <h2>Going Home</h2>
+         <p>Just click the <b>'Home'</b> button on the top left of the screen</p>
+
+   </div>
+</body>
+</html>

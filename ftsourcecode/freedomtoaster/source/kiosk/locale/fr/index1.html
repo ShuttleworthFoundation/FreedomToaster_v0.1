@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+   <head>
+		<title>Logiciel libre pour Windows</title>
+		<link rel="stylesheet" type="text/css" href="../../css/kiosk.css" title="premier" />
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+      <meta http-equiv="refresh" content="25; URL=index2.html" />
+      <script src="../../kiosk.js" language="javascript" type="text/javascript"></script>
+	</head>
+   <body background="../../css/images/selectorBG.png" bgcolor="#C0C0C0" onLoad="populateSelect();">
+      <div id="MoreInfo">
+         <a href="../../cgi-bin/knowMore.pl" title="À propos de ce Toaster">
+            <img src="../../css/images/K_button.gif" alt="?" width="113" height="120" border="0" /></a>
+      </div>
+      <div id="Home">
+         <a href="index0.html" title="Aller à la première page" target="_top">
+            <img src="../../css/images/H_button.gif" alt="Accueil" width="148" height="93" border="0" /><br />
+
+         </a>
+      </div>
+      <div id="next">
+         <a href="index2.html" title="Aller à la page suivante">
+            <img src="../../css/images/R_button.gif" alt="Accueil" width="113" height="120" border="0" /></a>
+      </div>
+      <div id="back">
+         <a href="index0.html" title="Aller à la page précédente">
+            <img src="../../css/images/L_button.gif" alt="Accueil" width="148" height="93" border="0" /></a>
+      </div>
+      <div id="language-bg">
+      	<img src="../../css/images/language-bg.png" alt="arrière-plan" width="220" height="77" border="0" />
+      </div>
+      <div id="language">
+         <select id="lang-sel" title="Choix de la langue" onClick="magnifySelect(this);" onChange="changeLang(this);">
+         </select>   
+      </div>
+   <div id="content">
+   <img src="images/logoPage.png" width="400" height="131" style="margin-left:170px" /><br />
+      <h1>Améliorez et sécurisez votre PC Windows&trade;</h1>
+      <p>Les logiciels libres disponibles sur ce <strong>Freedom Toaster</strong> incluent du logiciel pour Windows&trade;, ce qui vous permettra d'améliorer votre ordinateur rapidement et facilement.</p>
+      <ul>
+         <li>La plupart des virus et des spyware (logiciels espions) dans Windows sont le résultat de défauts de conceptions d'Internet Explorer&trade; et d'Outlook&trade;. Vous pouvez immédiatement améliorer la sécurité de votre ordinateur en utilisant Firefox et Thunderbird, disponibles sur les CD <em>Firemonger</em> et <em>OpenCD</em> ci-dessous.</li>
+         <li><strong>Outils bureautiques</strong> comme <em>OpenOffice</em> et <em>PDFCreator</em></li>
+         <li><strong>Logiciels de graphisme</strong> pour le dessin, le traitement de photos numériques, le rendu d'images 3D et le dessin vectoriel</li>
+         <li><strong>Outils multimédias</strong> pour le traitement du son (<em>Audacity</em>) et d'autres</li>
+         <li><strong>Jeux</strong> comme <em>Sokoban</em>, <em>Battle for Wesnoth</em> et d'autres</li>
+         <li><strong>Logiciels et utilitaires Internet</strong> comme <em>Firefox et Thunderbird</em>, <em>7-zip</em>, <em>Filezilla</em> et d'autres</li>
+      </ul>
+   <table>
+      <tr>
+         <td><a href="../../cgi-bin/distro.pl?distro=firemonger" title="Firefox et Thunderbird, navigateur Web et logiciel de messagerie" onmouseover="Linux.src='../../images/firemongerA.png'" onmouseout="Linux.src='../../images/firemongerB.png'">
+               <img name="Linux" src="../../images/firemongerB.png" width="231" height="71" id="Linux" /></a>
+         </td>
+         <td><a href="../../cgi-bin/distro.pl?distro=opencd" title="The Open CD" onmouseover="OpenCD.src='../../images/opencdA.png'" onmouseout="OpenCD.src='../../images/opencdB.png'">
+               <img name="OpenCD" src="../../images/opencdB.png" width="231" height="71" id="OpenCD" /></a>
+         </td>
+         <td><a href="../../cgi-bin/distro.pl?distro=ooffice" title="La suite bureautique libre compatible MS Office" onmouseover="OpenOffice.src='../../images/oofficeA.png'" onmouseout="OpenOffice.src='../../images/oofficeB.png'">
+               <img name="OpenOffice" src="../../images/oofficeB.png" width="231" height="71" id="OpenOffice" /></a>
+         </td>
+      </tr>
+   </table>
+   </div>
+	</body>
+</html>

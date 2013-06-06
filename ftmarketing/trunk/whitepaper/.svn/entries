@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="101"
+   name=""
+   committed-date="2006-02-09T17:03:47.759989Z"
+   url="https://svn1.cvsdude.com/techdocs/freedomtoaster/trunk/whitepaper"
+   last-author="techdocs"
+   kind="dir"
+   uuid="8478f940-d901-0410-ad40-e0ac9cb6760e"
+   repos="https://svn1.cvsdude.com/techdocs/freedomtoaster"
+   revision="122"/>
+<entry
+   committed-rev="101"
+   name="GOV-whitepaper.xml"
+   text-time="2006-05-04T08:19:14.000000Z"
+   committed-date="2006-02-09T17:03:47.759989Z"
+   checksum="c84410b00a9eaa88073b240306903a3e"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T08:19:09.000000Z"/>
+<entry
+   committed-rev="100"
+   name="UN-whitepaper.xml"
+   text-time="2006-05-04T08:19:14.000000Z"
+   committed-date="2006-02-09T17:01:10.412630Z"
+   checksum="ed74043f192157c748c6603c648ee6dd"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T08:19:12.000000Z"/>
+<entry
+   committed-rev="101"
+   name="NGO-whitepaper.xml"
+   text-time="2006-05-04T08:19:14.000000Z"
+   committed-date="2006-02-09T17:03:47.759989Z"
+   checksum="42fd363f3c186e2e3645e9c79855b998"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T08:19:14.000000Z"/>
+</wc-entries>

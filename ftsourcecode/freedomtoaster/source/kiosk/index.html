@@ -1,0 +1,78 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+   <head>
+	<title>Freedom Toaster Home</title>
+	<link rel="stylesheet" type="text/css" href="css/kiosk.css" title="first" />
+	<meta http-equiv="content-type"  content="text/html; charset=utf-8" />
+	<script src="home.js" language="javascript" type="text/javascript"></script>
+<SCRIPT language="JavaScript">
+<!-- 
+
+   top.location.target="_top";
+   if (window.location.target != "_top") {
+      top.location.href = window.location.href;
+   }
+
+   var mypage = "index0.html";
+
+   var str = location.search;
+   if (str.length != 0) {
+      mypage = str;
+      var qmark = mypage.indexOf('?');
+      mypage = mypage.substring(qmark+1);
+   }
+   
+   var languages = new Array();
+   var numLanguages = 0;
+   getFile('languages.txt','readLanguages');
+   
+   // Read the languages.txt file and put the result in an associated array
+   function readLanguages() {
+   	if (xmlhttp.readyState==4) {
+     	  if (xmlhttp.status==200) {   	
+     	 	var lines = xmlhttp.responseText.split("\n");
+     	 	for (line=0; line<lines.length; line++)	{
+     	 		if (lines[line]!="" && lines[line].substr(0,1)!="#") {
+     	 			var items = lines[line].split(";");
+     	 			languages[items[0]]= items[1];
+     	 			numLanguages++;
+     	 		}
+     	  	}
+     	  }
+      }
+   }
+
+   if (!readCookie('FTlang'))	setCookie('FTlang','en',360);
+   var lang=readCookie('FTlang');
+   
+   var contentPage = "locale/" + lang.substr(0,2) + "/" + mypage;
+   if (mypage.lastIndexOf("cgi-bin")>=0)	contentPage = mypage;
+   
+// Keep the inner width and height at 1024x768, if possible
+   function resizeWindow() {
+   	window.moveTo(0,0);
+   	wasteWidth = window.outerWidth - window.innerWidth;
+   	wasteHeight = window.outerHeight - window.innerHeight;
+   	newWidth = 1024 + wasteWidth;
+   	newHeight = 768 + wasteHeight;
+   	if (screen.width < newWidth)	newWidth = screen.width;
+   	if (screen.height < newHeight)	newHeight = screen.height;
+   	window.resizeTo(newWidth,newHeight);
+   }
+
+// -->
+</SCRIPT>
+   </head>   
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+document.write(
+   '<FRAMESET cols="200,*" framespacing="0" border="0" onload="resizeWindow();" onresize="resizeWindow();">',
+     '<FRAME name="burners" src="cgi-bin/burners.pl" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" noresize />',
+     '<FRAME name="contentarea" src="', contentPage, '" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" noresize />',
+   '</FRAMESET>'
+);
+
+// -->
+</SCRIPT>
+</html>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sayings>
+	<saying>
+		<title>Pourquoi passer aux logiciels libres</title>
+		<subtitle1>Il n'y a pas de licence à payer</subtitle1>
+		<content1>Le logiciel libre est exempt de coûts de licences, mais cela ne veut pas dire qu'il n'est pas sous licence. Il dispose bel et bien d'une licence, tout ce qu'il y a de plus légal.</content1>
+		<subtitle2>Il est libre</subtitle2>
+		<content2>Non seulement gratuit, mais libre d'une vraie liberté! La licence accorde explicitement le droit d'utiliser le logiciel comme vous le souhaitez. De plus, vous avez le droit de le modifier selon vos besoins (et vous êtes même encouragé à le faire). Modifié ou pas, vous avez le droit de le copier autant que vous le voulez, puis de le distribuer ou le vendre. La seule restriction, c'est que vous ne pouvez pas empêcher ceux à qui vous le donnez ou le vendez de profiter des mêmes droits.</content2>
+	</saying>
+	<saying>
+		<title>Est-ce que mes logiciels favoris sont libres ?</title>
+		<subtitle1>Programmes bien connus</subtitle1>
+		<content1>Il existe des équivalents à la plupart des suites bureautiques, y compris des traitements de texte, des tableurs et des logiciels de présentation</content1>
+		<subtitle2>Plus de 50'000 projets sont enregistrés chez Sourceforge.net</subtitle2>
+		<content2><span class="emph">Sourceforge.net</span> est un vivier de logiciels très important. C'est là que beaucoup de développeurs de logiciels libres enregistrent leurs projets. Si vous cherchez un logiciel bien particulier, c'est toujours un bon point de départ</content2>
+	</saying>
+	<saying>
+		<title>Sur quel type de matériel informatique fonctionne Linux ?</title>
+		<subtitle1>Support élargi</subtitle1>
+		<content1>Linux est probablement le système d'exploitation qui supporte le plus grand nombre de matériel. Cela va des plates-formes Intel et AMD x86 (PC) jusqu'aux gros ordinateurs IBM 390. Des organiseurs de poche jusqu'au Linux portable sous la forme de montres.</content1>
+		<subtitle2>Oui, c'est possible !</subtitle2>
+		<content2>Vous pouvez installer Linux sur votre ordinateur personnel, à votre bureau ou sur votre portable.</content2>
+	</saying>
+	<saying>
+		<title>Pourrai-je faire tout ce que je faisais avant ?</title>
+		<subtitle1>Polyvalent</subtitle1>
+		<content1>Linux et le logiciel libre sont si polyvalents que vous pourrez même faire PLUS que ce que vous faisiez auparavant.</content1>
+		<subtitle2>Bureaux virtuels</subtitle2>
+		<content2>Contrairement à d'autres systèmes, Linux présente une interface graphique vous permettant d'ouvrir simultanément plusieurs applications, dans différentes fenêtres et sans que les uns interfèrent avec les autres.</content2>
+	</saying>
+	<saying>
+		<title>Linux est-il difficile à apprendre ?</title>
+		<subtitle1>Oui et non</subtitle1>
+		<content1>Non, Linux n'est pas difficile à apprendre. Cependant, c'est un peu comme une boîte de Pandore. Plus vous apprenez, plus cela devient fascinant. Alors, dans un certain sens, OUI, il est difficile à apprendre car vous n'arriverez jamais au bout de ce que vous pouvez apprendre</content1>
+		<subtitle2>Au secours !</subtitle2>
+		<content2>Ça va arriver. Des groupes d'utilisateurs de Linux existent un peu partout. Certains se rencontrent régulièrement, et leurs listes de discussion par courriel offrent un support technique de première classe. Visitez le site www.aful.org/gul pour en savoir plus à ce sujet.</content2>
+	</saying>
+	<saying>
+		<title>Où puis-je obtenir Linux ?</title>
+		<subtitle1>Ici !</subtitle1>
+		<content1>Ce <em>Freedom Toaster</em> a été conçu dans le but de vous donner la possibilité de faire des copies des meilleurs logiciels libres et des contenus libres (Creative Commons) ici et maintenant.</content1>
+		<subtitle2>Vous voulez dire MAINTENANT ?</subtitle2>
+		<content2>Pour graver votre choix sur CD, amenez des CD-Rom ou CD-Réinscriptibles vierges (vous devriez pouvoir en acheter près de cet endroit) et et allez-y gaiement !</content2>
+	</saying>
+</sayings>

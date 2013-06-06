@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+   <head>
+		<title>Accueil Freedom Toaster</title>
+		<link rel="stylesheet" type="text/css" href="../../css/kiosk.css" title="premier" />
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+      <meta http-equiv="refresh" content="25; URL=index1.html" />
+      <script src="../../kiosk.js" language="javascript" type="text/javascript"></script>
+	</head>
+   <body background="../../css/images/selectorBG.png" bgcolor="#C0C0C0" onLoad="populateSelect();">
+      <div id="Home">
+         <a href="../../cgi-bin/admin.pl?task=login" title="Administrer le Toaster">
+               <img name="Blank" src="../../images/blank.png" width="231" height="71" id="Blank" /></a>
+      </div>
+      <div id="MoreInfo">
+         <a href="../../cgi-bin/knowMore.pl" title="À propos de ce Toaster"><img src="../../css/images/K_button.gif" alt="?" width="113" height="120" border="0" /></a>
+      </div>
+      <div id="next">
+         <a href="index1.html" title="Aller à la page suivante">
+            <img src="../../css/images/R_button.gif" alt="Accueil" width="113" height="120" border="0" /></a>
+      </div>
+      <div id="language-bg">
+      	<img src="../../css/images/language-bg.png" alt="arrière-plan" width="220" height="77" border="0" />
+      </div>
+      <div id="language">
+         <select id="lang-sel" title="Choix de la langue" onClick="magnifySelect(this);" onChange="changeLang(this);">
+         </select>   
+      </div>
+   <div id="content">
+   <img src="images/logoHome.png" width="500" height="195" style="margin-left:120px" /><br />
+   <ul>
+      <li>Cette machine contient du contenu et des logiciels libres pour Windows&trade; et Linux afin que vous puissiez les copier sur des CD (ou DVD) vierges.</li>
+      <li>Apportez des CD vierges et copiez ici des logiciels libres pour votre école, votre domicile ou votre entreprise. Sans coût.</li>
+      <li>Vous pouvez aussi graver de la musique, des images et des documents placés sous licence <strong>Creative Commons</strong>.</li>
+      <li><strong>Cliquez sur les boutons et les images à l'écran avec le doigt pour obtenir de plus amples informations et pour graver des logiciels libres pour votre usage</strong></li>
+   </ul>
+
+   <h2>Choisissez ce que vous souhaitez copier</h2>
+   <table>
+      <tr>
+         <td><a href="../../cgi-bin/distro.pl?distro=firemonger" title="Firefox et Thunderbird, navigateur Web et logiciel de messagerie" onmouseover="Firemonger.src='../../images/firemongerA.png'" onmouseout="Firemonger.src='../../images/firemongerB.png'">
+               <img name="Firemonger" src="../../images/firemongerB.png" width="231" height="71" id="Firemonger" /></a>
+         </td>
+         <td><a href="../../cgi-bin/admin.pl?task=burnCCFiles&amp;start=1" title="Rechercher de la musique, des photos et d'autres choses encore..." onmouseover="burnCCFiles.src='../../images/CCFindA.png'" onmouseout="burnCCFiles.src='../../images/CCFindB.png'">
+               <img name="burnCCFiles" src="../../images/CCFindB.png" width="231" height="71" id="burnCCFiles" /></a>
+	 </td>
+
+         <td><a href="../../cgi-bin/distro.pl?distro=gutenberg" title="CD de littérature Gutenberg" onmouseover="Gutenberg.src='../../images/gutenbergA.png'" onmouseout="Gutenberg.src='../../images/gutenbergB.png'">
+               <img name="Gutenberg" src="../../images/gutenbergB.png" width="231" height="71" id="Gutenberg" /></a>
+         </td>
+      </tr>
+      <tr>
+         <td><a href="../../cgi-bin/distro.pl?distro=opencd" title="The Open CD" onmouseover="OpenCD.src='../../images/opencdA.png'" onmouseout="OpenCD.src='../../images/opencdB.png'">
+               <img name="OpenCD" src="../../images/opencdB.png" width="231" height="71" id="OpenCD" /></a>
+         </td>
+         <td><a href="../../cgi-bin/distro.pl?distro=ooffice" title="La suite bureautique libre compatible MS Office" onmouseover="OpenOffice.src='../../images/oofficeA.png'" onmouseout="OpenOffice.src='../../images/oofficeB.png'">
+               <img name="OpenOffice" src="../../images/oofficeB.png" width="231" height="71" id="OpenOffice" /></a>
+         </td>
+         <td><a href="../../cgi-bin/chooseItem.pl?all.xml" title="Les distributions Linux" onmouseover="Linux.src='../../images/linuxA.png'" onmouseout="Linux.src='../../images/linuxB.png'">
+               <img name="Linux" src="../../images/linuxB.png" width="231" height="71" id="Linux" /></a>
+         </td>
+      </tr>
+      <tr>
+         <td><a href="../../cgi-bin/distro.pl?distro=go-open" title="Go Open Source" onmouseover="GoOpen.src='../../images/go-openA.png'" onmouseout="GoOpen.src='../../images/go-openB.png'">
+               <img name="GoOpen" src="../../images/go-openB.png" width="231" height="71" id="GoOpen" /></a>
+         </td>
+         <td>
+         </td>
+         <td><a href="../../cgi-bin/distro.pl?distro=toaster" title="Fabriquer un Freedom Toaster" onmouseover="Toaster.src='../../images/toasterA.png'" onmouseout="Toaster.src='../../images/toasterB.png'">
+               <img name="Toaster" src="../../images/toasterB.png" width="231" height="71" id="Toaster" /></a>
+         </td>
+      </tr>
+   </table>
+   </div>
+	</body>
+</html>

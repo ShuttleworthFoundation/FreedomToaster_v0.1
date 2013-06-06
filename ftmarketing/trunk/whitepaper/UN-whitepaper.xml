@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
+"http://www.docbook.org/xml/4.3/docbookx.dtd">
+<article>
+	<title>Whitepaper</title>
+	<subtitle>The UN Perspective</subtitle>
+	<sect1>
+		<title>The Freedom Toaster</title>
+		<para>It was just over a decade ago when Netscape floated and brought the World Wide Web
+			into the office, classroom and home, changing us from passive consumers of information,
+			to active participators.</para>
+		<para>Societies and economies have boomed due to the sharing of information. Both business
+			and learning have found commercial and cultural communities to interact with –
+			instantly. Knowledge has always driven the ability to attain and maintain wealth, in the
+				21<superscript>st</superscript> century this has never been more real.</para>
+		<para>Whilst the Internet has been hailed as a &quot;great equalizer&quot;
+			(Brynjolfsson and Smith 2000) of developing and developed nations there are however,
+			&quot;great disparities in opportunity to access the Internet, the information and
+			the educational/business opportunities tied to this&quot; (wikipedia.org, 07.10.05).</para>
+		<para>Due to poor quality and costly infrastructures, the knowledge gap, and all that that
+			implies, is widening. This knowledge gap is not just prevalent between developed and
+			developing countries, but is also seen in poor rural areas of the Western world.
+			This is inhibiting education, commerce and good health practice for all.</para>
+		<para>The Freedom Toaster acts as an equaliser.</para>
+	</sect1>
+	<sect1>
+		<title>What is the Freedom Toaster?</title>
+		<informaltable frame="none" colsep="0" rowsep="0">
+			<tgroup cols="2">
+				<colspec colnum="1" align="left"/>
+				<colspec colnum="3" align="center"/>
+				<tbody>
+					<row valign="top">
+						<entry>
+							<para>The Freedom Toaster is both a concept and a physical machine. As a
+								concept, the Freedom Toaster is a bandwidth substitute. It is a way
+								of moving massive amounts of information from a variety of sources,
+								including the Internet, to the remote end user without the
+								infrastructure that is usually required. Currently it is a system
+								for disseminating Free and Open Source Software (FOSS) and content
+								(operating systems, productivity and business software, community
+								e-books, e-learning packages). In physical form the Freedom Toaster
+								is a low cost computer, with CD/DVD-burning devices and a web
+								browser enabled touch screen interface assembled into what looks
+								like a vending machine.</para>
+						</entry>
+						<entry align="center">
+							<inlinemediaobject>
+								<imageobject>
+									<imagedata fileref="../images/freedom_toaster1.jpg"
+										format="JPEG" depth="7cm" scalefit="1" align="center"/>
+								</imageobject>
+							</inlinemediaobject>
+						</entry>
+					</row>
+					<row valign="top">
+						<entry>
+							<para>The name &quot;Freedom Toaster&quot; was chosen because it
+								uses Linux, a free license Operating System, and within the language
+								of Linux users the act of burning a CD is termed
+								&quot;toasting&quot;. However, it later became apparent that
+								the name had a deeper meaning than originally intended. It
+								encapsulates the philosophy of FOSS. We have the freedom to choose
+								which software we use, we have the freedom to change it if we want
+								to, and we have the freedom to share it with anyone, for free.</para>
+							<para>The Shuttleworth Foundation created and invested in the Freedom
+								Toaster project to further its mandate of driving innovation. Mark
+								Shuttleworth, the foundations' founder, believes that &quot;if
+								we are to lift Africa from her current circumstances, we will need a
+								generation of learners that are gifted with curiosity about the
+								world in which they live, and the tools to understand and shape that
+								world&quot;.</para>
+							<para>To do this, they need access to information.</para>
+						</entry>
+						<entry align="center">
+							<inlinemediaobject>
+								<imageobject>
+									<imagedata fileref="../images/toaster_proto.jpg" format="JPEG"
+										depth="8cm" scalefit="1" align="center"/>
+								</imageobject>
+							</inlinemediaobject>
+						</entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</informaltable>
+	</sect1>
+	<sect1>
+		<title>The importance of the Freedom Toaster</title>
+		<para><emphasis role="bold">The situation</emphasis> - In many parts of the world,
+			particularly in the developing world, there is a lack of communication infrastructure
+			and access to high technology. Whilst many in the developed world are able to use the
+			Internet to communicate in education, business and recreation, this is not the case in
+			regions such as Africa, South America, or Asia. The Internet World Stats Report (23rd
+			July 2005) states that in Africa only 1.8% of the population are Internet users. In
+			Latin America/Caribbean the figure is 12.5% and Asia is 8.9%. It is evident that these
+			populations do not benefit from the advantages that the Internet can give. Even if there
+			is access, it is often costly, of low bandwidth and quality. This prevents downloading
+			of the type of software and content that is available on the Freedom Toaster.</para>
+		<para><emphasis role="bold">The difference - now</emphasis> - Like many new concepts it is
+			important to understand the need that inspired the Freedom Toaster. It is equally
+			important to understand how the concept has developed, and what the possibilities may
+			be, both now and in the future. Freedom Toasters are currently available in sub-Saharan
+			Africa and although the number of Freedom Toaster's is only in double digits and the
+			system is still in its infancy, we can see the real difference in people's lives.</para>
+		<para>Through the hosting of Freedom Toasters, FOSS and content is made available to
+			everyone, regardless of colour, race, creed, religion, sexual orientation, class,
+			economic background, or political affiliation.</para>
+		<para>The Internet user who does not have the bandwidth to download a full operating system
+			to use on their computer can now go to a Freedom Toaster and burn one of the 13
+			different distributions of Linux currently available. This frees the person from the
+			frustration and cost of spending hours online waiting for a download (that may be
+			corrupted due to poor local connectivity) and then burning the CDs. It also saves the
+			countries limited bandwidth from continued downloads of the same files.</para>
+		<para>The person who has no access to the Internet but has a computer can now burn an
+			operating system, the OpenOffice.org productivity suite (immediately benefiting from the
+			word processor and spreadsheet applications), or the Project Gutenberg CD/DVD and
+			utilise them at no extra cost.</para>
+		<para>The Teachers can use the material on the Freedom Toaster to learn content for
+			themselves, and then teach what they have learnt. This could be the prefect distribution
+			tool for Departments of Education - ensuring that all teachers have curriculum aligned
+			materials to teach from.</para>
+		<para>A computer user who has used pirated software can erase all of all their illegal
+			software and install an up-to-date operating system that will provide all the necessary
+			tools they need to accomplish their computing tasks.</para>
+		<para>If an entrepreneur wishes to make money from their computer, by running an
+			import-export business, an accountancy practise, or a printing works, they are going to
+			need software specifically designed for the task. This doesn't come cheap. There is FOSS
+			software that fulfils all the criteria, available on the Internet, but these packages
+			are large, even by broadband standards, and not much good to someone who hasn't even got
+			a phone. With access to the Freedom Toaster the business person now has access to this
+			software, just for the price of the blank CDs.</para>
+		<para>General computer knowledge is increased by having Freedom Toasters in public places
+			(libraries, community centres, science/technology centres). For many people, computer
+			literacy is one of the key knowledge areas needed to find a better job. The Freedom
+			Toaster provides access to FOSS operating systems and productivity software that can be
+			used to train people how to use a computer, how to type, and how to write documents,
+			spreadsheets, and other documents. Computer literacy is improved, and more of the
+			digital divide is crossed.</para>
+		<para><emphasis role="bold">The difference - future</emphasis> - It is difficult to know
+			what will happen in the future, but there are specific trends that can be traced, and
+			predictions made. We can also imagine what the future will hold by asking ourselves
+			where we would want the world to be, and what would be different if a project such as
+			the Freedom Toaster proliferated across the developing world.</para>
+		<para>Gartner, a world renowned technology/business analysis and research company, in their
+			report entitled 'Gartners' Positions on the Five Hottest IT Topics and Trends in 2005',
+			tells us that Open Source Software (OSS) (a subset of FOSS) is a catalyst that will
+			restructure the IT industry, producing higher-quality software at a lower cost. They
+			predict that it won't destroy industry giants, such as IBM and Microsoft, but that it
+			will revolutionise software markets by moving revenue streams from license fees to
+			services and support.</para>
+		<para>Gartner warns that OSS strategies must address the unique characteristics of
+			individual markets and the differences in open-source license models. The Freedom
+			Toaster is one way of addressing OSS strategy within markets that have low (or no)
+			Internet penetration. The report by Gartner states that &quot;through 2005, OSS
+			products will account for no more than 10 percent of the portfolio of Global 2000
+			companies, but by 2008, 95 percent of Global 2000 organisations will have formal
+			open-source acquisition and management strategies that address the challenges and
+			opportunities that OSS introduces&quot;. If that many Global 2000 organisations will
+			be involved at some level, then access to FOSS will bring greater involvement in the
+			global economy and will create real opportunities for disadvantaged communities.</para>
+		<para>In 10 years time the world of computer software will be a completely different place.
+			Through projects like the Freedom Toaster, people could have access to FOSS and choose
+			this instead of piracy. Computer software companies could be making their profits from
+			offering technical support for FOSS projects and services instead of licenses for
+			operating systems and proprietary programs - opening up the market for small businesses
+			and aiding economic growth in rural developing nations.</para>
+		<para>In 15 years time the influence of FOSS may have changed the technical inequalities of
+			the developed and developing worlds. This means that the high school student in SOWETO
+			could customise an email system as part of a school project. When she graduates from
+			high school she could go on to become a high powered programmer for a major corporation
+			or enterprise. Or a student in Bogot&#225;, learning an accountancy package can take
+			the software with him when leaving school and set up his own business.</para>
+		<para>Having easy access to free license software could change so many people's lives for
+			the better. Teachers can have content, businesses can keep their books, entertainers,
+			programmers, musicians, writers, journalists, students, governments, multimedia
+			producers, and even cooks and cleaners could live better lives because of the influence
+			of something as simple as a Freedom Toaster.</para>
+	</sect1>
+	<sect1>
+		<title>What is the role of the Freedom Toaster in context of global development efforts?</title>
+		<para>The Freedom Toaster is a simple solution to a seemingly impossible problem - access.
+			By enabling access, we can help lift the barrier to educational content and start to
+			create a level playing field for the developing world.</para>
+		<itemizedlist mark="endash">
+			<listitem>
+				<para>
+					<emphasis role="bold">Access to information as a human right</emphasis>
+				</para>
+				<para>One of the fundamental principles that the Freedom Toaster addresses is the
+					idea that access to information is a basic human right. In many places around
+					the world information is inaccessible. The Freedom Toaster project creates a
+					vehicle for improving that access. It provides a platform for distributing
+					information and software to allow you to use and learn from it.</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="bold">Social and economic growth</emphasis>
+				</para>
+				<para>Access to the texts of the Project Gutenberg, and to other distributable
+					content (like awareness programs, community educational material and general
+					reference data on wikipedia.org) will enable teachers to better educate children
+					and communities, resulting in greater opportunities to prosper.</para>
+				<para>This better educated community will also enable small and medium sized
+					businesses to run with lower start-up and operating costs by using the FOSS
+					provided on the Freedom Toaster. Access to the source code will mean greater
+					customisation to local conditions by local programmers, ensuring that businesses
+					can be efficient, flexible and get the best from their tools.</para>
+			</listitem>
+		</itemizedlist>
+		<itemizedlist mark="endash">
+			<listitem>
+				<para>
+					<emphasis role="bold">Development</emphasis>
+				</para>
+				<para>The 'digital divide' is a key development issue. The Freedom Toaster provides
+					a vehicle for accessing FOSS where there is low or no Internet access, and this
+					brings digital information that requires high-bandwidth to a low digital
+					penetration area.</para>
+				<para>The ability to access information is relatively high in the developed world -
+					compulsive schooling, public libraries, media. The developing world is not able
+					to compete on this scale, either in terms of education or business. Virtual
+					classrooms are not an option for most in these regions, but virtual classroom
+					information could be made available through the vehicle of a Freedom Toaster. </para>
+				<para>The use of the software distributed by the Freedom Toaster will also create
+					markets and demand. Once more people are computer literate there will be a
+					greater demand for better communications infrastructure, and an increased demand
+					for other basic community needs.</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="bold">Empowerment</emphasis>
+				</para>
+				<para>The Freedom Toaster can be used as a tool to provide a means of empowerment.
+					Knowledge brings empowerment, and so access to knowledge brings the potential of
+					empowerment.</para>
+				<para>Women in Kabul would potentially have the same access and empowerment
+					opportunities as those in London. Men in Chile would have similar access and
+					opportunities to benefit from the open source movement as someone in the United
+					States or Europe.</para>
+				<para>Children in Sucre, Bolivia or in the disadvantaged northern inner-city areas
+					of the United Kingdom can have the same educational resources as Perth,
+					Australia. The potential of increased and equal access to FOSS, tutorials,
+					encyclopedias, and other reference materials (like the US CIA World Fact Book
+					contained in the Project Gutenberg and all of the collaborative content provided
+					on wikipedia.org) will bring higher quality education and greater empowerment
+					for teachers as well as students.</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="bold">Infrastructure</emphasis>
+				</para>
+				<para>High quality operating systems and business productivity software (both office
+					and Internet) are the virtual infrastructure of the information age - something
+					that is denied in areas of no real infrastructure. The Freedom Toaster
+					instantaneously solves this problem.</para>
+				<para>The potential infrastructure provided by access to a Freedom Toaster goes
+					beyond the software that it distributes. The general educational value and
+					computer literacy increase is a vital part of the virtual infrastructure;
+					ensuring that people are not left behind due to their geographic
+				location.</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="bold">Free and Legal vs. Culture of Piracy</emphasis>
+				</para>
+				<para>The Freedom Toaster addresses the issue of piracy by providing a high quality
+					alternative. According to the Software Piracy Study done by the Business
+					Software Association of Australia in 2004, an estimated 86% of software
+					installed on the computers in Zimbabwe was pirated. In India the figure was at
+					73%, in Brazil 61%, in South Africa 36%.</para>
+				<para>For every two dollars worth of software purchased legitimately, one dollar
+					worth is obtained illegally. In economic terms, this costs a country local
+					business and revenue, and increases costs of policing and policy creation.</para>
+				<para>With FOSS there is no need for a culture of piracy. The operating systems use
+					free licenses. Within the open source arena people can also access the code and
+					develop it to suit their own needs, or develop it in cooperation with
+				others.</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="bold">Literacy</emphasis>
+				</para>
+				<para>Literacy is the passport for full participation in today's society. Anyone who
+					cannot read or write will face difficulties in finding work, managing their
+					health, raising children, and coping with simple, every-day tasks such as
+					shopping and paying bills. Illiterate adults are often excluded from political
+					and social processes, and as such, are denied the chance to exercise their
+					rights and fulfil their responsibilities as citizens. Yet nearly one seventh of
+					the world's population is illiterate.</para>
+				<para>Worldwide figures released by UNESCO in August 2005 indicate that 784.8
+					million adults over the age of 15 cannot read or write. Even more alarming is
+					that just under two thirds are women.</para>
+				<para>Educational aptitude and abilities rise with the proliferation of information
+					- improving literacy problems in the developing world.</para>
+			</listitem>
+		</itemizedlist>
+		<para>The concepts contained in the Freedom Toaster project and the software that it
+			distributes help tackle many of the problems faced by the developing world, and even
+			some faced in the developed world.</para>
+	</sect1>
+	<sect1>
+		<title>Implementation</title>
+		<para>The Shuttleworth Foundation has provided the resources to take the idea of the Freedom
+			Toaster and make it a reality. Now the project needs to go where it is really needed -
+			the rest of the world.</para>
+		<para>The first stage is educating people about the Freedom Toaster concept. Community
+			project directors, Head Librarian's, Science Centre committees, and other organisations
+			and leaders are being approached with the possibility of hosting a Freedom Toaster.</para>
+		<para>The Shuttleworth Foundation drives social innovation by piloting projects and then
+			establishing information channels that explain successes and promote replication. By
+			giving people the tools to create, implement, maintain, market and develop Freedom
+			Toasters it is hoped that the project will grow wings and help disadvantaged communities
+			in all four corners of the world.</para>
+		<sect2>
+			<title>Where?</title>
+			<para>The list of where to host a Freedom Toaster should almost be endless, in South
+				Africa they are based in:</para>
+			<itemizedlist mark="endash">
+				<listitem>
+					<para>
+						<emphasis role="bold">Schools</emphasis>
+					</para>
+					<para>A school that hosts a Freedom Toaster will have access to the latest
+						educational material. With access to the FOSS content the interest of
+						students at the school would also become more highly focused on Information
+						Technology and all the advantages that brings - both in the classroom and
+						later on in life.</para>
+				</listitem>
+			</itemizedlist>
+			<para></para>
+			<itemizedlist mark="endash">
+				<listitem>
+					<para>
+						<emphasis role="bold">Libraries</emphasis>
+					</para>
+					<para>The Freedom Toaster currently contains both Project Gutenberg and
+						wikipedia.org. This collection of text based files contains literature from
+						around the world. It is a collection of fact and fiction, high literature
+						(poetry, plays, operas), scientific texts (Darwin's 'Origin of the Species'
+						or Einstein's works on relativity), philosophy, religious texts, and
+						reference works. Having this project available in libraries will increase
+						exposure to world class literature and will increase learning and education
+						for those who are wanting to learn.</para>
+					<para>The only limit to the information available is copyright law – anything
+						else a library would want can be hosted.</para>
+					<para>A library will also receive a public service benefit by hosting a Freedom
+						Toaster. The members of the library will gain access to world class software
+						and information.</para>
+				</listitem>
+				<listitem>
+					<para>
+						<emphasis role="bold">Science Centres, and Science/Technology
+						Expositions</emphasis>
+					</para>
+					<para>One of the goals of science centres is to engage the minds of those who
+						visit them with science and technology. Hosting a Freedom Toaster provides a
+						discussion point for the computer science topic and FOSS principles. It also
+						provides a community focus in that people have free access to the operating
+						systems and other software available around from the world.</para>
+				</listitem>
+				<listitem>
+					<para>
+						<emphasis role="bold">Shopping Malls and Retail Outlets</emphasis>
+					</para>
+					<para>Increased and prolonged footfall in shopping malls is attained furthering
+						their business directive.</para>
+				</listitem>
+			</itemizedlist>
+			<para>The importance of hosting a Freedom Toaster is not just the benefit that the
+				hosting location receives, but more particularly the benefit to the community. The
+				key is access. Everyone must be able to access the Freedom Toaster, free of charge
+				within reasonable hours in order to burn what they require from it.</para>
+		</sect2>
+		<sect2>
+			<title>When?</title>
+			<para>The needs and problems that the Freedom Toaster addresses are needs and problems
+				that require an immediate response. There is no other answer to the question of when
+				to implement than &apos;now!&apos;. People can have access to the FOSS and
+				content distributed by the Freedom Toaster, it is their right.</para>
+			<para>There are over 2 billion young people alive in the world today, most of them in
+				developing countries, and they are demanding access to the technological wonders of
+				our age. While the Freedom Toaster project does not directly address the problem of
+				getting computers into impoverished and low Internet access communities, it does
+				address the problem of access to the information that the Internet brings. If
+				projects like this are not implemented soon, many of these young people will be
+				disadvantaged and will seek other means of engagement in the information age.</para>
+		</sect2>
+		<?pagebreak?>
+		<sect2>
+			<title>How?</title>
+			<para>The Shuttleworth Foundation is creating documentation of how to build a Freedom
+				Toaster - The Freedom Toaster CookBook. The CookBook describes in detail each phase
+				of putting the Freedom Toaster together and loading the required software. This
+				information is freely available to anyone and will be ready for use from March 2006.
+				The idea of the Freedom Toaster can be adapted to many other circumstances by using
+				the basic construction information contained in this document.</para>
+			<para>An educational campaign is also taking place, first for people and institutions to
+				host Freedom Toasters, then for people who will have access to a Freedom Toaster.
+				Computer User Groups and volunteers have been part of this process to date, but more
+				needs to happen if the full benefits of the Freedom Toaster concept are to be
+				realised. Leaders and champions within communities then need to have the Freedom
+				Toaster built and securely placed in the hosting locations.</para>
+		</sect2>
+	</sect1>
+	<sect1>
+		<title>Future of the Toaster</title>
+		<para>We believe that we can prevent economic status from being the deciding factor in
+			access to information.</para>
+		<para>We want to see Freedom Toasters helping to set up businesses in Kinshasa, giving
+			university students' vital thesis content in Oslo and allowing teachers to get
+			scientific reference material in Santiago. The Freedom Toaster is a community based and
+			enabled project and therefore the future of the toaster has to belong to the future of
+			communities - the world.</para>
+	</sect1>
+	<sect1>
+		<title>More information</title>
+		<para>For more information on where you can find a Freedom Toaster, joining the Freedom
+			Toaster community or building one of your own, please visit: www.freedomtoaster.org or
+			contact info@freedomtoaster.org. </para>
+		<para>For more information on the Shuttleworth Foundation, their involvement education and
+			their open source philosophy, please visit www.shuttleworthfoundation.org.</para>
+		<para>The Freedom Toaster was created from an idea of one of the employees of the
+			Shuttleworth Foundation.  We would like to thank Jason Hudson for his effort, creativity
+			and passion.</para>
+	</sect1>
+</article>

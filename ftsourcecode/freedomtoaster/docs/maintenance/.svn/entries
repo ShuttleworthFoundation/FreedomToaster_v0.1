@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="192"
+   name=""
+   committed-date="2006-04-14T21:16:41.061852Z"
+   url="svn://edison.tsf.org.za/freedomtoaster/trunk/docs/maintenance"
+   last-author="claude.paroz"
+   kind="dir"
+   uuid="d86654f9-5701-0410-bb18-eb70f6cf68f4"
+   repos="svn://edison.tsf.org.za/freedomtoaster"
+   revision="349"/>
+<entry
+   committed-rev="192"
+   name="maintenancemanual.xml"
+   text-time="2006-05-25T12:15:24.000000Z"
+   committed-date="2006-04-14T21:16:41.061852Z"
+   checksum="4eb7ea9003c64c7871beffb1e01d713b"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-05-25T12:15:24.000000Z"/>
+<entry
+   committed-rev="192"
+   name="maintenancemanual.pot"
+   text-time="2006-05-25T12:15:24.000000Z"
+   committed-date="2006-04-14T21:16:41.061852Z"
+   checksum="029c64a7e6b65795d0f32e58cf6cc0c2"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-05-25T12:15:24.000000Z"/>
+</wc-entries>

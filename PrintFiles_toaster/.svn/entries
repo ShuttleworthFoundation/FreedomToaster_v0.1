@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="30"
+   name=""
+   committed-date="2007-04-11T15:14:22.712965Z"
+   url="svn://cdot.senecac.on.ca/toaster/artwork/vienna/PrintFiles_toaster"
+   last-author="andrew"
+   kind="dir"
+   uuid="c536e36b-9324-0410-a305-908bdbc2b7e3"
+   repos="svn://cdot.senecac.on.ca/toaster"
+   revision="30"/>
+<entry
+   committed-rev="30"
+   name="LICENCE.TXT"
+   text-time="2007-04-12T07:26:25.000000Z"
+   committed-date="2007-04-11T15:14:22.712965Z"
+   checksum="7ad24449c5fff943f96a3c8d07f6ebc1"
+   last-author="andrew"
+   kind="file"
+   prop-time="2007-04-12T07:22:18.000000Z"/>
+<entry
+   committed-rev="24"
+   name="for_print_CD1_back.ai"
+   text-time="2007-04-12T07:26:25.000000Z"
+   committed-date="2007-03-20T02:54:47.727129Z"
+   checksum="78225c2af57af12c875a966ac327787e"
+   last-author="andrew"
+   kind="file"
+   prop-time="2007-04-12T07:22:37.000000Z"/>
+<entry
+   committed-rev="25"
+   name="reference.PNG"
+   text-time="2007-04-12T07:26:25.000000Z"
+   committed-date="2007-03-20T03:26:51.766305Z"
+   checksum="aaac8c605f1b70381e7af25e1a666a4c"
+   last-author="andrew"
+   kind="file"
+   prop-time="2007-04-12T07:22:37.000000Z"/>
+<entry
+   committed-rev="24"
+   name="for_print_CD2_back.ai"
+   text-time="2007-04-12T07:26:25.000000Z"
+   committed-date="2007-03-20T02:54:47.727129Z"
+   checksum="afbc9f96966996d42c49375c58420c09"
+   last-author="andrew"
+   kind="file"
+   prop-time="2007-04-12T07:22:55.000000Z"/>
+<entry
+   committed-rev="24"
+   name="for_print_frontTxt_freedom.ai"
+   text-time="2007-04-12T07:26:25.000000Z"
+   committed-date="2007-03-20T02:54:47.727129Z"
+   checksum="f93b363e0eb4f0211a5e0a47c9a6702b"
+   last-author="andrew"
+   kind="file"
+   prop-time="2007-04-12T07:23:09.000000Z"/>
+<entry
+   committed-rev="24"
+   name="for_print_frontTxt_ibox.ai"
+   text-time="2007-04-12T07:26:25.000000Z"
+   committed-date="2007-03-20T02:54:47.727129Z"
+   checksum="2bc07d2f1da42eab33faf3877b491080"
+   last-author="andrew"
+   kind="file"
+   prop-time="2007-04-12T07:23:28.000000Z"/>
+<entry
+   committed-rev="24"
+   name="for_print_left.ai"
+   text-time="2007-04-12T07:26:25.000000Z"
+   committed-date="2007-03-20T02:54:47.727129Z"
+   checksum="d8a80702a23735ccf95b080d3146afae"
+   last-author="andrew"
+   kind="file"
+   prop-time="2007-04-12T07:24:04.000000Z"/>
+<entry
+   committed-rev="24"
+   name="for_print_right.ai"
+   text-time="2007-04-12T07:26:25.000000Z"
+   committed-date="2007-03-20T02:54:47.727129Z"
+   checksum="d5644f61203949da40db4d03e81c733e"
+   last-author="andrew"
+   kind="file"
+   prop-time="2007-04-12T07:24:34.000000Z"/>
+<entry
+   committed-rev="24"
+   name="background_only.ai"
+   text-time="2007-04-12T07:26:25.000000Z"
+   committed-date="2007-03-20T02:54:47.727129Z"
+   checksum="9528f6b920768c1b54c93a6165f75fc8"
+   last-author="andrew"
+   kind="file"
+   prop-time="2007-04-12T07:24:45.000000Z"/>
+<entry
+   committed-rev="24"
+   name="REFERENCE_PROOF.ai"
+   text-time="2007-04-12T07:26:25.000000Z"
+   committed-date="2007-03-20T02:54:47.727129Z"
+   checksum="ebd8a348c0a56a9197398442ebcf076c"
+   last-author="andrew"
+   kind="file"
+   prop-time="2007-04-12T07:25:26.000000Z"/>
+<entry
+   committed-rev="24"
+   name="for_print_toaster.ai"
+   text-time="2007-04-12T07:26:25.000000Z"
+   committed-date="2007-03-20T02:54:47.727129Z"
+   checksum="43ede08ddf57f4e3264fff51f85886c6"
+   last-author="andrew"
+   kind="file"
+   prop-time="2007-04-12T07:25:48.000000Z"/>
+<entry
+   committed-rev="24"
+   name="for_print_toasterBack.ai"
+   text-time="2007-04-12T07:26:25.000000Z"
+   committed-date="2007-03-20T02:54:47.727129Z"
+   checksum="0ce9be5f781b0a19076f4d57cc8b6806"
+   last-author="andrew"
+   kind="file"
+   prop-time="2007-04-12T07:26:14.000000Z"/>
+<entry
+   committed-rev="24"
+   name="for_print_top.ai"
+   text-time="2007-04-12T07:26:25.000000Z"
+   committed-date="2007-03-20T02:54:47.727129Z"
+   checksum="1c91c491f3130a61a15221a1dd4d5912"
+   last-author="andrew"
+   kind="file"
+   prop-time="2007-04-12T07:26:25.000000Z"/>
+</wc-entries>

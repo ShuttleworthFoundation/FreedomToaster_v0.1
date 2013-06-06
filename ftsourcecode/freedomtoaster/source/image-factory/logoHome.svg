@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg1400"
+   sodipodi:version="0.32"
+   inkscape:version="0.43"
+   width="210mm"
+   height="297mm"
+   sodipodi:docbase="./"
+   sodipodi:docname="logoHome.svg">
+  <metadata
+     id="metadata1405">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1403" />
+  <sodipodi:namedview
+     inkscape:window-height="900"
+     inkscape:window-width="1101"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="1.0831405"
+     inkscape:cx="448.55402"
+     inkscape:cy="877.81211"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:current-layer="svg1400" />
+  <image
+     xlink:href="logoHome-tmpl.png"
+     sodipodi:absref="logoHome-tmpl.png"
+     width="500.1662"
+     height="194.73447"
+     id="image1407"
+     x="0"
+     y="0" />
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot1409"
+     style="font-family:Verdana;font-weight:bold;font-style:italic;font-stretch:normal;font-variant:normal;font-size:18;text-anchor:middle;text-align:center;writing-mode:lr;line-height:180%"><flowRegion
+       id="flowRegion1411"><rect
+         id="rect1413"
+         width="488.39462"
+         height="34.159927"
+         x="5.5394473"
+         y="154.97169"
+         style="font-family:Verdana;font-weight:bold;font-style:italic;font-stretch:normal;font-variant:normal;font-size:18;text-anchor:middle;text-align:center;writing-mode:lr;line-height:180%" /></flowRegion><!--Translators: This text is for a logo, no more than 46 chars--><flowPara
+       id="flowPara1415">Burn free, as free as the source flows...</flowPara></flowRoot></svg>

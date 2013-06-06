@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="471"
+   name=""
+   committed-date="2006-06-14T18:32:31.165109Z"
+   url="svn://edison.tsf.org.za/freedomtoaster/trunk/source/kiosk/locale/en/images"
+   last-author="claude.paroz"
+   kind="dir"
+   uuid="d86654f9-5701-0410-bb18-eb70f6cf68f4"
+   repos="svn://edison.tsf.org.za/freedomtoaster"
+   revision="491"/>
+<entry
+   committed-rev="338"
+   name="advanced.xcf"
+   text-time="2006-05-25T12:14:54.000000Z"
+   committed-date="2006-05-23T13:18:41.474696Z"
+   checksum="4107ec678857eeadabd28900f3bfaedb"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:52.000000Z"/>
+<entry
+   committed-rev="410"
+   name="burndvd.png"
+   text-time="2006-06-07T07:21:39.000000Z"
+   committed-date="2006-06-03T16:38:35.722345Z"
+   checksum="9122bebe481725c1c341dcd8876cbe4e"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-06-07T07:21:32.000000Z"/>
+<entry
+   committed-rev="338"
+   name="other_versions.xcf"
+   text-time="2006-05-25T12:14:54.000000Z"
+   committed-date="2006-05-23T13:18:41.474696Z"
+   checksum="916040fe029b584e5dbfb5fdb17615d9"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:52.000000Z"/>
+<entry
+   committed-rev="338"
+   name="Toastem.xcf"
+   text-time="2006-05-25T12:14:54.000000Z"
+   committed-date="2006-05-23T13:18:41.474696Z"
+   checksum="2028bb63607339b67833e1f50c495285"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:52.000000Z"/>
+<entry
+   committed-rev="440"
+   name="logoHelp.png"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-10T16:58:03.576532Z"
+   checksum="a2bb65f16a2d9793fbf57244ab007de9"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:09.000000Z"/>
+<entry
+   committed-rev="338"
+   name="clear_list.xcf"
+   text-time="2006-05-25T12:14:54.000000Z"
+   committed-date="2006-05-23T13:18:41.474696Z"
+   checksum="e2fbe5f8f6b31fdee74a7723ac441f79"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:52.000000Z"/>
+<entry
+   committed-rev="338"
+   name="put_back_disabled.png"
+   text-time="2006-05-25T12:14:54.000000Z"
+   committed-date="2006-05-23T13:18:41.474696Z"
+   checksum="ec71bf1f01b8e0166566c7b4ec2ce06e"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:53.000000Z"/>
+<entry
+   committed-rev="338"
+   name="done.png"
+   text-time="2006-05-25T12:14:54.000000Z"
+   committed-date="2006-05-23T13:18:41.474696Z"
+   checksum="aa0f708633ea63fab49b930a42dd4b85"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:53.000000Z"/>
+<entry
+   committed-rev="338"
+   name="did_you_know.xcf"
+   text-time="2006-05-25T12:14:54.000000Z"
+   committed-date="2006-05-23T13:18:41.474696Z"
+   checksum="09d16397cb709d0c5c1bdb3595695b5a"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:53.000000Z"/>
+<entry
+   committed-rev="338"
+   name="add_to_selection.png"
+   text-time="2006-05-25T12:14:54.000000Z"
+   committed-date="2006-05-23T13:18:41.474696Z"
+   checksum="7888481bf8c44f010a65b457014a9dc3"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:53.000000Z"/>
+<entry
+   committed-rev="338"
+   name="skip.png"
+   text-time="2006-05-25T12:14:54.000000Z"
+   committed-date="2006-05-23T13:18:41.474696Z"
+   checksum="e9c4a580f6eb6a3286dd272bb5896b6a"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:53.000000Z"/>
+<entry
+   committed-rev="338"
+   name="addtags.png"
+   text-time="2006-05-25T12:14:54.000000Z"
+   committed-date="2006-05-23T13:18:41.474696Z"
+   checksum="6e151a87bf6dab60cc7c13360b9c84fc"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:53.000000Z"/>
+<entry
+   committed-rev="440"
+   name="logoHome.png"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-10T16:58:03.576532Z"
+   checksum="f000cdaeedc3df46bef5dc0581f3fafb"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:09.000000Z"/>
+<entry
+   committed-rev="338"
+   name="did_you_know_open.png"
+   text-time="2006-05-25T12:14:54.000000Z"
+   committed-date="2006-05-23T13:18:41.474696Z"
+   checksum="0f73e9aa76308af456337ccfbba976e2"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:53.000000Z"/>
+<entry
+   committed-rev="338"
+   name="next.png"
+   text-time="2006-05-25T12:14:54.000000Z"
+   committed-date="2006-05-23T13:18:41.474696Z"
+   checksum="c536937fe6dc9f5ce2f8b12ab2c374bb"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:53.000000Z"/>
+<entry
+   committed-rev="338"
+   name="do_it_now.png"
+   text-time="2006-05-25T12:14:54.000000Z"
+   committed-date="2006-05-23T13:18:41.474696Z"
+   checksum="e0e529e1a0be86602e4c1c57b1386a42"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:53.000000Z"/>
+<entry
+   committed-rev="338"
+   name="smallButtons.xcf"
+   text-time="2006-05-25T12:14:54.000000Z"
+   committed-date="2006-05-23T13:18:41.474696Z"
+   checksum="6e1c6f5fed09c765f02c1dbcdbe3470a"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:53.000000Z"/>
+<entry
+   committed-rev="338"
+   name="show_toast_list.png"
+   text-time="2006-05-25T12:14:54.000000Z"
+   committed-date="2006-05-23T13:18:41.474696Z"
+   checksum="c4cd70c4d5d8ee893b09f14a442eb2e6"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:53.000000Z"/>
+<entry
+   committed-rev="471"
+   name="ccp1.png"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-14T18:32:31.165109Z"
+   checksum="83824c272b6887ac976be64d80118074"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:09.000000Z"/>
+<entry
+   committed-rev="338"
+   name="add_to_dvd.png"
+   text-time="2006-05-25T12:14:54.000000Z"
+   committed-date="2006-05-23T13:18:41.474696Z"
+   checksum="af8e479ba804ca3eb062358ced5ff0b8"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:53.000000Z"/>
+<entry
+   committed-rev="471"
+   name="ccp2.png"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-14T18:32:31.165109Z"
+   checksum="517001a8fa679b703fdb6acaa60a1e06"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:09.000000Z"/>
+<entry
+   committed-rev="471"
+   name="ccp3.png"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-14T18:32:31.165109Z"
+   checksum="437bd32bafc8922364b1520ad634f705"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:09.000000Z"/>
+<entry
+   committed-rev="471"
+   name="ccp4.png"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-14T18:32:31.165109Z"
+   checksum="cddbe00a34a8352f540605cdbc633e3d"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:09.000000Z"/>
+<entry
+   committed-rev="471"
+   name="ccp5.png"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-14T18:32:31.165109Z"
+   checksum="10a603d7066140dc7847399851ed183e"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:09.000000Z"/>
+<entry
+   committed-rev="338"
+   name="add_to_selection.xcf"
+   text-time="2006-05-25T12:14:54.000000Z"
+   committed-date="2006-05-23T13:18:41.474696Z"
+   checksum="64d687950de0c391943f42f352dfa66d"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:54.000000Z"/>
+<entry
+   committed-rev="410"
+   name="backnext.xcf"
+   text-time="2006-06-07T07:21:39.000000Z"
+   committed-date="2006-06-03T16:38:35.722345Z"
+   checksum="2aad60753c9eba83ddfb1fd99f3165c1"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-06-07T07:21:33.000000Z"/>
+<entry
+   committed-rev="471"
+   name="ccp6.png"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-14T18:32:31.165109Z"
+   checksum="0db1b13937147c14ed7bb00260a8a878"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:09.000000Z"/>
+<entry
+   committed-rev="471"
+   name="ccp7.png"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-14T18:32:31.165109Z"
+   checksum="0c7122d06766f90e0c6e2b1dfeb7e178"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:09.000000Z"/>
+<entry
+   committed-rev="471"
+   name="ccp8.png"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-14T18:32:31.165109Z"
+   checksum="875a23f5e59fb1f3f4fd3063b1b28001"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:09.000000Z"/>
+<entry
+   committed-rev="471"
+   name="ccp9.png"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-14T18:32:31.165109Z"
+   checksum="ded31cfb619bcc42ed0c85c72839d2f9"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:09.000000Z"/>
+<entry
+   committed-rev="338"
+   name="toast_selection.png"
+   text-time="2006-05-25T12:14:54.000000Z"
+   committed-date="2006-05-23T13:18:41.474696Z"
+   checksum="a3bdf89c4fc9e2a5a8a9540e7162baa4"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:52.000000Z"/>
+<entry
+   committed-rev="338"
+   name="retry.png"
+   text-time="2006-05-25T12:14:54.000000Z"
+   committed-date="2006-05-23T13:18:41.474696Z"
+   checksum="6ed99d865d5ba80c05cfcd4b86a17444"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:52.000000Z"/>
+<entry
+   committed-rev="440"
+   name="logoHome.xcf"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-10T16:58:03.576532Z"
+   checksum="f99951d52f35f10f4458fd8294c15668"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:09.000000Z"/>
+<entry
+   committed-rev="471"
+   name="ccp10.png"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-14T18:32:31.165109Z"
+   checksum="14467cce87e42ba8655244e3e1609f09"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:09.000000Z"/>
+<entry
+   committed-rev="471"
+   name="ccp11.png"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-14T18:32:31.165109Z"
+   checksum="f6e80597083598b369d6371fdb0fad4a"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:09.000000Z"/>
+<entry
+   committed-rev="471"
+   name="ccp12.png"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-14T18:32:31.165109Z"
+   checksum="f827b50409d6b21fe9f97510b11b4e2f"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:09.000000Z"/>
+<entry
+   committed-rev="471"
+   name="ccp13.png"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-14T18:32:31.165109Z"
+   checksum="aa5677e60fbd7f949e8463b8c1237a5a"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:09.000000Z"/>
+<entry
+   committed-rev="471"
+   name="ccp14.png"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-14T18:32:31.165109Z"
+   checksum="429e34c5436f04b34b6231aa376bebce"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:09.000000Z"/>
+<entry
+   committed-rev="410"
+   name="burncd.png"
+   text-time="2006-06-07T07:21:39.000000Z"
+   committed-date="2006-06-03T16:38:35.722345Z"
+   checksum="80b8e7bd417a7acb4877a5c523659d5a"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-06-07T07:21:35.000000Z"/>
+<entry
+   committed-rev="338"
+   name="do_it_now.xcf"
+   text-time="2006-05-25T12:14:54.000000Z"
+   committed-date="2006-05-23T13:18:41.474696Z"
+   checksum="0f8eaae65a3def289d60b9761da7a7fc"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:52.000000Z"/>
+<entry
+   committed-rev="338"
+   name="add_to_dvd_disabled.png"
+   text-time="2006-05-25T12:14:54.000000Z"
+   committed-date="2006-05-23T13:18:41.474696Z"
+   checksum="524272fde266b4cd462b06019abf7702"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:53.000000Z"/>
+<entry
+   committed-rev="338"
+   name="clear_all.png"
+   text-time="2006-05-25T12:14:54.000000Z"
+   committed-date="2006-05-23T13:18:41.474696Z"
+   checksum="9b82e897e81dfdcc6c0c873daab92173"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:53.000000Z"/>
+<entry
+   committed-rev="338"
+   name="show_toast_list.xcf"
+   text-time="2006-05-25T12:14:54.000000Z"
+   committed-date="2006-05-23T13:18:41.474696Z"
+   checksum="f8c3d216de5f0a7733596005074a9631"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:53.000000Z"/>
+<entry
+   committed-rev="338"
+   name="add_to_dvd.xcf"
+   text-time="2006-05-25T12:14:54.000000Z"
+   committed-date="2006-05-23T13:18:41.474696Z"
+   checksum="46a2563cdd9cb069acb32c84e530def0"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:53.000000Z"/>
+<entry
+   committed-rev="338"
+   name="put_back.png"
+   text-time="2006-05-25T12:14:54.000000Z"
+   committed-date="2006-05-23T13:18:41.474696Z"
+   checksum="636653221ad4db33f7177be7010f229c"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:53.000000Z"/>
+<entry
+   committed-rev="338"
+   name="toast.png"
+   text-time="2006-05-25T12:14:54.000000Z"
+   committed-date="2006-05-23T13:18:41.474696Z"
+   checksum="2652a9f2247dbb8b18e63037a946b9a1"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:53.000000Z"/>
+<entry
+   committed-rev="338"
+   name="toast_selection.xcf"
+   text-time="2006-05-25T12:14:54.000000Z"
+   committed-date="2006-05-23T13:18:41.474696Z"
+   checksum="969489f8da36f9d26fcbd0c69feea63b"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:53.000000Z"/>
+<entry
+   committed-rev="338"
+   name="did_you_know_open2.png"
+   text-time="2006-05-25T12:14:54.000000Z"
+   committed-date="2006-05-23T13:18:41.474696Z"
+   checksum="3ed1028a6c37b8b8ad362906bfe441ac"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:53.000000Z"/>
+<entry
+   committed-rev="440"
+   name="logoPage.png"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-10T16:58:03.576532Z"
+   checksum="fb5c465734d34cfe74e6ef73e7b882f3"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:09.000000Z"/>
+<entry
+   committed-rev="338"
+   name="hide_advanced.png"
+   text-time="2006-05-25T12:14:54.000000Z"
+   committed-date="2006-05-23T13:18:41.474696Z"
+   checksum="8ff0860679781ea9d63b08756a83af9b"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:53.000000Z"/>
+<entry
+   committed-rev="338"
+   name="back.png"
+   text-time="2006-05-25T12:14:54.000000Z"
+   committed-date="2006-05-23T13:18:41.474696Z"
+   checksum="451780f8316299bb04d8a56df3460702"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:53.000000Z"/>
+<entry
+   committed-rev="471"
+   name="ccht1.png"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-14T18:32:31.165109Z"
+   checksum="be6bfa683ecfa1b952c15fe1be467d10"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:09.000000Z"/>
+<entry
+   committed-rev="410"
+   name="findmore.png"
+   text-time="2006-06-07T07:21:39.000000Z"
+   committed-date="2006-06-03T16:38:35.722345Z"
+   checksum="d4dc9d0011e52afccba43e9ff7f7523d"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-06-07T07:21:37.000000Z"/>
+<entry
+   committed-rev="471"
+   name="ccht2.png"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-14T18:32:31.165109Z"
+   checksum="7735ad33551974c88fe010fb6c56379c"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:09.000000Z"/>
+<entry
+   committed-rev="471"
+   name="ccht3.png"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-14T18:32:31.165109Z"
+   checksum="c75ed987e3996633893f38633fbb83be"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:09.000000Z"/>
+<entry
+   committed-rev="338"
+   name="advanced.png"
+   text-time="2006-05-25T12:14:54.000000Z"
+   committed-date="2006-05-23T13:18:41.474696Z"
+   checksum="ac8a669a7821d4d0c37090a600f1f232"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:53.000000Z"/>
+<entry
+   committed-rev="471"
+   name="ccht4.png"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-14T18:32:31.165109Z"
+   checksum="e1a7649137eb18515ea0ced40af29478"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:09.000000Z"/>
+<entry
+   committed-rev="471"
+   name="ccht5.png"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-14T18:32:31.165109Z"
+   checksum="052e0f9e9ab5576dad5aeee8640d6554"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:09.000000Z"/>
+<entry
+   committed-rev="471"
+   name="ccht6.png"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-14T18:32:31.165109Z"
+   checksum="fa7de56abd9083c1b3aa7b99d9114e1d"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:09.000000Z"/>
+<entry
+   committed-rev="471"
+   name="ccht7.png"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-14T18:32:31.165109Z"
+   checksum="63947c9e5ab372ca3347dc8e48b17197"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:09.000000Z"/>
+<entry
+   committed-rev="338"
+   name="other_versions.png"
+   text-time="2006-05-25T12:14:54.000000Z"
+   committed-date="2006-05-23T13:18:41.474696Z"
+   checksum="232326d802b105393f639fbacffbd283"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:53.000000Z"/>
+<entry
+   committed-rev="471"
+   name="ccht8.png"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-14T18:32:31.165109Z"
+   checksum="a5ce700ca264374593c74dfe9fa043b8"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:09.000000Z"/>
+<entry
+   committed-rev="338"
+   name="clear_all.xcf"
+   text-time="2006-05-25T12:14:54.000000Z"
+   committed-date="2006-05-23T13:18:41.474696Z"
+   checksum="0aa46b21fe99da3ff3ae326b152dc260"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:53.000000Z"/>
+<entry
+   committed-rev="471"
+   name="ccht9.png"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-14T18:32:31.165109Z"
+   checksum="4708f6af96e854b1eff40ed0841bbb0d"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:09.000000Z"/>
+<entry
+   committed-rev="338"
+   name="Toastem.png"
+   text-time="2006-05-25T12:14:54.000000Z"
+   committed-date="2006-05-23T13:18:41.474696Z"
+   checksum="ca0d92dd6da6959d8bd216a339d0afbe"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:53.000000Z"/>
+<entry
+   committed-rev="338"
+   name="clear_list.png"
+   text-time="2006-05-25T12:14:54.000000Z"
+   committed-date="2006-05-23T13:18:41.474696Z"
+   checksum="80daa1d6be125c3d737eb7359d2909a1"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:53.000000Z"/>
+<entry
+   committed-rev="471"
+   name="ccht10.png"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-14T18:32:31.165109Z"
+   checksum="d6c7c5b24da66c628b9b246b0fab0115"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:09.000000Z"/>
+<entry
+   committed-rev="471"
+   name="ccht11.png"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-14T18:32:31.165109Z"
+   checksum="91073a4d19a05a249889e08ff175f703"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:09.000000Z"/>
+<entry
+   committed-rev="338"
+   name="put_back.xcf"
+   text-time="2006-05-25T12:14:54.000000Z"
+   committed-date="2006-05-23T13:18:41.474696Z"
+   checksum="4f0b4eac33a025f52bbf8c5e434ab0b1"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:53.000000Z"/>
+<entry
+   committed-rev="471"
+   name="ccht12.png"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-14T18:32:31.165109Z"
+   checksum="1303680f799ad7e7626c9085f82f69bc"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:09.000000Z"/>
+<entry
+   committed-rev="471"
+   name="ccht13.png"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-14T18:32:31.165109Z"
+   checksum="306e1fb043c839fea2133c20d1724553"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:09.000000Z"/>
+<entry
+   committed-rev="471"
+   name="ccht14.png"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-14T18:32:31.165109Z"
+   checksum="14a6b623bbce927233c6f83599479833"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:09.000000Z"/>
+<entry
+   committed-rev="338"
+   name="blank.png"
+   text-time="2006-05-25T12:14:54.000000Z"
+   committed-date="2006-05-23T13:18:41.474696Z"
+   checksum="c05209dad3ade9082b1c16ac99c768e5"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:53.000000Z"/>
+<entry
+   committed-rev="471"
+   name="ccht15.png"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-14T18:32:31.165109Z"
+   checksum="43253ad1a56ec25fa48534d4330adb1a"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:09.000000Z"/>
+<entry
+   committed-rev="471"
+   name="ccht16.png"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-14T18:32:31.165109Z"
+   checksum="31b012c0aa2af3fc504ec7063dd31849"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:10.000000Z"/>
+<entry
+   committed-rev="440"
+   name="logoPage.xcf"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-10T16:58:03.576532Z"
+   checksum="fddac1753c537c7c7e8acf0ab98e59d6"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:10.000000Z"/>
+<entry
+   committed-rev="338"
+   name="hide_advanced.xcf"
+   text-time="2006-05-25T12:14:54.000000Z"
+   committed-date="2006-05-23T13:18:41.474696Z"
+   checksum="aad543b8fe83427bba6f369450e16acd"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:54.000000Z"/>
+<entry
+   committed-rev="338"
+   name="did_you_know.png"
+   text-time="2006-05-25T12:14:54.000000Z"
+   committed-date="2006-05-23T13:18:41.474696Z"
+   checksum="5bfee3bbfb7b677081006b06d7ed5c84"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:54.000000Z"/>
+</wc-entries>

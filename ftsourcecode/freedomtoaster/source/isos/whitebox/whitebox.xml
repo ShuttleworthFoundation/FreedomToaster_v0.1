@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<distro>
+   <name>Whitebox</name>
+   <description>Enterprise</description>
+   <advantages>
+      <advantage>It is built upon the RedHat Enterprise Linux (RHEL) distribution</advantage>
+      <advantage>You aren't tied in to RedHat's licensing or support contracts</advantage>
+   </advantages>
+   <disadvantages>
+      <disadvantage>Without RedHat support, you rely on porting to Whitebox from the next release of RedHat.  However, the community provides good free support.</disadvantage>
+   </disadvantages>
+   <defaults>
+     <defaultVersion>whitebox|manifestdestiny|CD|4</defaultVersion>
+   </defaults>
+</distro>

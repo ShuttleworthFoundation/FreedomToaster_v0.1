@@ -1,0 +1,21 @@
+<?xml version='1.0'?>
+<distro>
+   <name>The Open CD</name>
+   <description>Another of Mark Shuttleworth's pet projects</description>
+   <advantages>
+      <advantage>Free Software for Windows Users on an easy-to-install CD</advantage>
+	   <advantage>Contains OpenOffice - a free MS Office-compatible Office Suite</advantage>
+      <advantage>Firefox - a secure internet browser upgrade to IE</advantage>
+      <advantage>Thunderbird - an advanced email program that fights spam and viruses</advantage>
+      <advantage>The Gimp - do sophisticated graphics and photo retouching like a Photoshop pro</advantage>
+      <advantage>Includes games and screensavers</advantage>
+      <advantage>Ideal if you have a Windows PC and need good Office or Home software</advantage>
+      <advantage>A great way to try out Open Source software</advantage>
+   </advantages>
+   <disadvantages>
+      <disadvantage>While the open source software is often superior to more expensive commercial equivalents, it will still be limited by the problems inherent in MS Windows</disadvantage>
+   </disadvantages>
+   <defaults>
+     <defaultVersion>opencd|3.0|CD|1</defaultVersion>
+   </defaults>
+</distro>

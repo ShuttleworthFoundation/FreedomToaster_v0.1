@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+	<entry>
+		<key>fontBaseDir</key>
+		<value>/home/sean/work/tutuka/tutuka-docs/trunk/libs/</value>
+	</entry>
+	<fonts>
+		<font metrics-file="verdana.xml" kerning="yes"
+			embed-file="/usr/X11R6/lib/X11/fonts/truetype/verdana.ttf">
+			<font-triplet name="Verdana" style="normal" weight="normal"/>
+		</font>
+		<font metrics-file="verdanab.xml" kerning="yes"
+			embed-file="/usr/X11R6/lib/X11/fonts/truetype/verdanab.ttf">
+			<font-triplet name="Verdana" style="normal" weight="bold"/>
+		</font>
+		<font metrics-file="verdanai.xml" kerning="yes"
+			embed-file="/usr/X11R6/lib/X11/fonts/truetype/verdanai.ttf">
+			<font-triplet name="Verdana" style="italic" weight="normal"/>
+		</font>
+		<font metrics-file="verdanaz.xml" kerning="yes"
+			embed-file="/usr/X11R6/lib/X11/fonts/truetype/verdanaz.ttf">
+			<font-triplet name="Verdana" style="italic" weight="bold"/>
+		</font>
+	</fonts>
+</configuration>

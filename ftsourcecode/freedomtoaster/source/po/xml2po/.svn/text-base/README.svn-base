@@ -1,0 +1,1 @@
+The original xml2po tool from gnome-doc-utils don't support extracting of title and alt attributes of HTML tags. A patched version in this folder supports it, and is used in FT translation process until the modifications are integrated in the official xml2po release (see bug http://bugzilla.gnome.org/show_bug.cgi?id=343749)

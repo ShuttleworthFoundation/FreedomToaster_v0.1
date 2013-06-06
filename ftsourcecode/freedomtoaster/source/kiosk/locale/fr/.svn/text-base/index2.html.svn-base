@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+   <head>
+		<title>Bibliothèque littéraire Gutenberg</title>
+		<link rel="stylesheet" type="text/css" href="../../css/kiosk.css" title="premier" />
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+      <meta http-equiv="refresh" content="25; URL=index3.html" />
+      <script src="../../kiosk.js" language="javascript" type="text/javascript"></script>
+	</head>
+   <body background="../../css/images/selectorBG.png" bgcolor="#C0C0C0" onLoad="populateSelect();">
+      <div id="MoreInfo">
+         <a href="../../cgi-bin/knowMore.pl" title="À propos de ce Toaster">
+            <img src="../../css/images/K_button.gif" alt="?" width="113" height="120" border="0" /><br />
+
+         </a>
+      </div>
+      <div id="Home">
+         <a href="index0.html" title="Aller à la première page">
+            <img src="../../css/images/H_button.gif" alt="Accueil" width="148" height="93" border="0" /><br />
+
+         </a>
+      </div>
+      <div id="next">
+         <a href="index3.html" title="Aller à la page suivante">
+            <img src="../../css/images/R_button.gif" alt="Accueil" width="113" height="120" border="0" /></a>
+      </div>
+      <div id="back">
+         <a href="index1.html" title="Aller à la page précédente">
+            <img src="../../css/images/L_button.gif" alt="Accueil" width="148" height="93" border="0" /></a>
+      </div>
+      <div id="language-bg">
+      	<img src="../../css/images/language-bg.png" alt="arrière-plan" width="220" height="77" border="0" />
+      </div>
+      <div id="language">
+         <select id="lang-sel" title="Choix de la langue" onClick="magnifySelect(this);" onChange="changeLang(this);">
+         </select>   
+      </div>
+      <div id="content">
+      <img src="images/logoPage.png" width="400" height="131" style="margin-left:170px" /><br />
+      <h1>Gravez un CD de littérature célèbre</h1>
+      <h2>Projet Gutenberg</h2>
+      <p>Lorsque la <em>presse de Gutenberg</em> a été inventée, elle a permis la diffusion de l'information aux masses, et a amené finalement à la création de la démocratie.</p>
+      <p>Les ordinateurs sont bien plus performants qu'une presse d'imprimerie pour stocker et distribuer de l'information. Lorsque Michael Hart a reçu un compte d'ordinateur disposant de $100'000'000 de temps d'ordinateur, il a décidé que le meilleur usage qu'il pouvait en faire était de saisir tous les meilleurs ouvrages de littérature. Pour la postérité. Pour vous. Gratuitement.</p>
+      <ul>
+         <li>Idéal pour des projets scolaires, des devoirs et du travail à domicile</li>
+         <li>Contient des classiques pour la jeunesse ainsi que de la littérature traditionnelle et des ouvrages de référence</li>
+         <li>Simplicité de recherche de citations par sa nature électronique</li>
+      </ul>
+   <table>
+      <tr>
+         <td><a href="../../cgi-bin/distro.pl?distro=gutenberg" title="CD de littérature Gutenberg" onmouseover="Linux.src='../../images/gutenbergA.png'" onmouseout="Linux.src='../../images/gutenbergB.png'">
+               <img name="Linux" src="../../images/gutenbergB.png" width="231" height="71" id="Linux" /></a>
+         </td>
+      </tr>
+   </table>
+
+   </div>
+	</body>
+</html>

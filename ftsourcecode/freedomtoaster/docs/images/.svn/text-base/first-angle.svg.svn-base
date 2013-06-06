@@ -1,0 +1,2461 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.42.2"
+   sodipodi:docbase="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly"
+   sodipodi:docname="first-angle.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient54265">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop54267" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop54269" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;">
+      <path
+         sodipodi:nodetypes="cccc"
+         id="path4374"
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(-5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mstart"
+       style="overflow:visible">
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path4382"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.4)" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient54265"
+       id="linearGradient54271"
+       x1="742.78229"
+       y1="-556.63538"
+       x2="881.99664"
+       y2="-574.69562"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1.0000000"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.73738872"
+     inkscape:cx="372.04724"
+     inkscape:cy="526.18109"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer4"
+     inkscape:window-width="1272"
+     inkscape:window-height="946"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     showborder="false"
+     inkscape:showpageshadow="false"
+     showgrid="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:grid-bbox="false">
+    <sodipodi:guide
+       orientation="horizontal"
+       position="929.20822"
+       id="guide2054" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="-5.5523327"
+       id="guide2063" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="404.46608"
+       id="guide2067" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="830.28729"
+       id="guide3532" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="194.75875"
+       id="guide5177" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="585.27135"
+       id="guide5179" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="1050.3810"
+       id="guide5181" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="504.40807"
+       id="guide5185" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="580.14039"
+       id="guide5187" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="990.02363"
+       id="guide5189" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="-67.055095"
+       id="guide5191" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="95.243861"
+       id="guide5193" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="410.01842"
+       id="guide5195" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="1020.7750"
+       id="guide5950" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="958.84515"
+       id="guide5952" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="439.91559"
+       id="guide5992" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="569.75476"
+       id="guide5994" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="446.59731"
+       id="guide27383" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="556.31413"
+       id="guide27385" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="493.45345"
+       id="guide29198" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="415.32332"
+       id="guide29200" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="410.88224"
+       id="guide29202" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="214.47948"
+       id="guide29204" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="1177.1034"
+       id="guide33298" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="1181.5405"
+       id="guide33300" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="1184.0760"
+       id="guide33302" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="1419.8770"
+       id="guide33304" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="1376.1397"
+       id="guide33306" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="1328.5992"
+       id="guide33308" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="1372.3365"
+       id="guide33310" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="720.17089"
+       id="guide33318" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="750.02471"
+       id="guide33320" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="780.10585"
+       id="guide33322" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="1291.1646"
+       id="guide33328" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="1263.2449"
+       id="guide33330" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="1195.2581"
+       id="guide36318" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="-922.62499"
+       id="guide47346" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="-808.25755"
+       id="guide47348" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="203.03038"
+       id="guide51619" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="325.72500"
+       id="guide51621" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="204.71456"
+       id="guide52566" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="113.53004"
+       id="guide52568" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="325.38106"
+       id="guide53420" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="-929.97083"
+       id="guide3430" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="-800.45977"
+       id="guide3432" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="platform"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="tower"
+     style="display:inline" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="s-bracket" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="electrical"
+     style="display:inline" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="angle-bracket"
+     style="display:inline">
+    <g
+       style="display:inline"
+       id="g1913"
+       transform="translate(-373.0022,591.2914)">
+      <rect
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         y="-142.83342"
+         x="1019.4823"
+         height="1.9750465"
+         width="129.90044"
+         id="rect39509"
+         style="opacity:1.0000000;fill:#ffffff;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.073741034;stroke-linecap:square;stroke-miterlimit:4.0000000;stroke-dasharray:0.29496413 0.29496413 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         id="path2057"
+         d="M 405.72212,23.597026 L 405.72212,123.06578 L 406.12837,123.06578 C 406.12752,123.23459 406.09712,123.39677 406.09712,123.56578 C 406.09712,178.45872 450.62326,223.03452 505.50337,223.03453 C 560.38348,223.03453 604.94086,178.45872 604.94087,123.56578 C 604.94087,123.39679 604.91046,123.23457 604.90962,123.06578 L 605.06587,123.06578 L 605.06587,23.597026 L 405.72212,23.597026 z "
+         style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#1e1414;stroke-width:1.2500000;stroke-linecap:square;stroke-miterlimit:2.5000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         id="rect2059"
+         d="M 443.05886,32.343750 C 425.33731,32.343750 410.95114,45.975230 410.95115,62.781250 C 410.95115,79.587271 425.33731,93.218751 443.05886,93.218750 C 443.20551,93.218750 443.34123,93.189362 443.48741,93.187500 L 443.48741,93.375000 L 567.17132,93.375000 L 567.17132,93.281250 C 567.29518,93.282586 567.40975,93.312500 567.53393,93.312500 C 585.25549,93.312500 599.64165,79.649772 599.64165,62.843750 C 599.64165,46.037729 585.25549,32.406251 567.53393,32.406250 C 567.40975,32.406250 567.29518,32.436164 567.17132,32.437500 L 567.17132,32.375000 L 443.48741,32.375000 C 443.34132,32.373140 443.20542,32.343750 443.05886,32.343750 z "
+         style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#1e1414;stroke-width:1.2838379;stroke-linecap:square;stroke-miterlimit:2.5000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         id="path4405"
+         d="M 409.81249,51.802003 L 409.81249,-17.149593"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path4407"
+         d="M 599.27985,51.937516 L 599.52645,-19.149593"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.97644961;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path4409"
+         d="M 594.98022,-12.287817 L 414.43750,-12.714920"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.87500000;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Mstart);marker-mid:none;marker-end:url(#Arrow2Mend);stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path4417"
+         d="M 370.13610,38.377447 L 369.77000,87.433602"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.87500000;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Mstart);marker-mid:none;marker-end:url(#Arrow2Mend);stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <text
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         transform="matrix(0.000000,-1.000000,1.000000,0.000000,0.000000,0.000000)"
+         sodipodi:linespacing="125.00000%"
+         id="text4427"
+         y="365.96863"
+         x="-82.970123"
+         style="font-size:10.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="365.96863"
+           x="-82.970123"
+           id="tspan4429"
+           sodipodi:role="line">355 mm</tspan></text>
+      <text
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:linespacing="125.00000%"
+         id="text4431"
+         y="-15.215942"
+         x="480.54877"
+         style="font-size:10.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-15.215942"
+           x="480.54877"
+           id="tspan4433"
+           sodipodi:role="line">1050 mm</tspan></text>
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path5943"
+         d="M 504.49178,1.6621826 L 504.70000,255.23799"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0045ff;stroke-width:0.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:4.8000000 1.2000000 0.60000000 1.2000000 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path5948"
+         d="M 377.12420,122.87040 L 630.70000,122.66218"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0045ff;stroke-width:0.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:4.8000000 1.2000000 0.60000000 1.2000000 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         id="path5974"
+         d="M 405.22858,17.862174 L 405.22858,-49.273513"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.96350592;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         id="path5976"
+         d="M 605.35244,17.862174 L 605.35389,-49.273513"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.052214008;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         id="path5978"
+         d="M 599.22858,-29.549514 L 409.22859,-29.549514"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Mstart);marker-mid:none;marker-end:url(#Arrow2Mend);stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <text
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:linespacing="125.00000%"
+         id="text5980"
+         y="-33.404205"
+         x="479.97479"
+         style="font-size:10.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-33.404205"
+           x="479.97479"
+           id="tspan5982"
+           sodipodi:role="line">1055 mm</tspan></text>
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path7590"
+         d="M 354.50900,30.953256 L 427.90433,31.380356"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:1.3158685;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path7592"
+         d="M 351.44421,93.439998 L 424.83954,93.867098"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:1.3158685;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <rect
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         y="-129.00139"
+         x="404.43527"
+         height="4.7776127"
+         width="200.37048"
+         id="rect13933"
+         style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.53064030;stroke-linecap:square;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <rect
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         y="-131.47554"
+         x="404.25089"
+         height="1.9750465"
+         width="200.37048"
+         id="rect13931"
+         style="opacity:1.0000000;fill:#ffffff;fill-opacity:1.0000000;stroke:#060000;stroke-width:0.45800000;stroke-linecap:square;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path24309"
+         d="M 625.12023,27.861656 L 625.11895,97.347747"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.87500000;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Mstart);marker-mid:none;marker-end:url(#Arrow2Mend);stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <text
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         transform="matrix(0.000000,1.000000,-1.000000,0.000000,0.000000,0.000000)"
+         sodipodi:linespacing="125.00000%"
+         id="text24311"
+         y="-628.23352"
+         x="43.42783"
+         style="font-size:10.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-628.23352"
+           x="43.427830"
+           id="tspan24313"
+           sodipodi:role="line">518 mm</tspan></text>
+      <text
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         id="text24315"
+         y="250.16911"
+         x="472.50778"
+         style="font-size:12.000000px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;display:inline;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="250.16911"
+           x="472.50778"
+           id="tspan24317"
+           sodipodi:role="line">TOP VIEW</tspan></text>
+      <text
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         id="text24319"
+         y="-79.133202"
+         x="462.05063"
+         style="font-size:12.000000px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;display:inline;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="-79.133202"
+           x="462.05063"
+           id="tspan24321"
+           sodipodi:role="line">FRONT VIEW</tspan></text>
+      <g
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         transform="matrix(1.000000,0.000000,0.000000,0.994965,579.0704,-653.0223)"
+         id="g24341"
+         style="display:inline">
+        <rect
+           style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.53064030;stroke-linecap:square;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           id="rect24323"
+           width="200.37048"
+           height="4.7776127"
+           x="404.68784"
+           y="526.03723" />
+        <rect
+           style="opacity:1.0000000;fill:#ffffff;fill-opacity:1.0000000;stroke:#060000;stroke-width:0.45800000;stroke-linecap:square;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           id="rect24325"
+           width="200.37048"
+           height="1.9750465"
+           x="404.50345"
+           y="523.56305" />
+        <rect
+           style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#060000;stroke-width:0.51135790;stroke-linecap:square;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           id="rect24327"
+           width="128.72249"
+           height="235.61900"
+           x="440.71179"
+           y="287.32645" />
+        <rect
+           style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#060000;stroke-width:0.24498843;stroke-linecap:square;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           id="rect24329"
+           width="29.545795"
+           height="235.61900"
+           x="410.29120"
+           y="287.31525" />
+        <rect
+           style="opacity:1.0000000;fill:#ffffff;fill-opacity:1.0000000;stroke:#060000;stroke-width:0.22244789;stroke-linecap:square;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           id="rect24331"
+           width="3.7323167"
+           height="235.75398"
+           x="438.31711"
+           y="287.33997" />
+        <rect
+           style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#060000;stroke-width:0.24498843;stroke-linecap:square;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           id="rect24333"
+           width="29.545795"
+           height="235.61900"
+           x="570.33307"
+           y="287.13089" />
+        <rect
+           style="opacity:1.0000000;fill:#ffffff;fill-opacity:1.0000000;stroke:#060000;stroke-width:0.22244789;stroke-linecap:square;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           id="rect24335"
+           width="3.7323167"
+           height="235.75398"
+           x="568.12061"
+           y="287.06339" />
+      </g>
+      <text
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         transform="scale(1.002527,0.997480)"
+         id="text24337"
+         y="-60.412457"
+         x="1037.6863"
+         style="font-size:11.969758px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;display:inline;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="-60.412457"
+           x="1037.6863"
+           id="tspan24339"
+           sodipodi:role="line">BACK VIEW</tspan></text>
+      <rect
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         y="-129.78415"
+         x="710.24518"
+         height="4.7776127"
+         width="200.37048"
+         id="rect33314"
+         style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.53064030;stroke-linecap:square;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <rect
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         y="-131.38237"
+         x="710.36377"
+         height="1.9750465"
+         width="200.37048"
+         id="rect33316"
+         style="opacity:1.0000000;fill:#ffffff;fill-opacity:1.0000000;stroke:#060000;stroke-width:0.45800000;stroke-linecap:square;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path5964"
+         d="M 710.74952,-104.73824 L 710.25446,-122.74394"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.81643277;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         id="path5968"
+         d="M 905.00523,-108.20465 L 715.00523,-108.20465"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Mstart);marker-mid:none;marker-end:url(#Arrow2Mend);stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <text
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:linespacing="125.00000%"
+         id="text5970"
+         y="-97.492981"
+         x="796.70856"
+         style="font-size:10.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-97.492981"
+           x="796.70856"
+           id="tspan5972"
+           sodipodi:role="line">950 mm</tspan></text>
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path33339"
+         d="M 910.16483,-104.49745 L 909.66977,-122.50315"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.81643277;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         transform="matrix(0.427737,0.000000,0.000000,0.378770,429.2400,-180.1927)"
+         d="M 752.38920 -304.76254 A 2.2941108 2.7292006 0 1 1  747.80098,-304.76254 A 2.2941108 2.7292006 0 1 1  752.38920 -304.76254 z"
+         sodipodi:ry="2.7292006"
+         sodipodi:rx="2.2941108"
+         sodipodi:cy="-304.76254"
+         sodipodi:cx="750.09509"
+         id="path33341"
+         style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.42699999;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         id="path34081"
+         d="M 750.02471,-298.66712 L 750.02471,-292.64152"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0d32f8;stroke-width:0.20000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:0.80000000 0.40000000 0.20000000 0.40000000 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         id="path34821"
+         d="M 752.97272,-295.49234 L 746.94712,-295.49234"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0d32f8;stroke-width:0.20000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:0.80000000 0.40000000 0.20000000 0.40000000 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="ccc"
+         id="path34829"
+         d="M 752.16282,-297.30649 L 757.08696,-302.55460 L 786.95578,-302.61939"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.20000000;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Mstart);stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <text
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         id="text35569"
+         y="-302.5546"
+         x="787.99243"
+         style="font-size:12.000000px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;display:inline;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="-302.55460"
+           x="787.99243"
+           id="tspan35571"
+           sodipodi:role="line">10 mm dia</tspan></text>
+      <rect
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         y="-142.74207"
+         x="442.08109"
+         height="1.9750465"
+         width="125.72116"
+         id="rect35578"
+         style="opacity:1.0000000;fill:#ffffff;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.36278790;stroke-linecap:square;stroke-miterlimit:4.0000000;stroke-dasharray:1.4511516 1.4511516 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <rect
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         y="-142.71452"
+         x="720.25787"
+         height="1.9750465"
+         width="59.721703"
+         id="rect37058"
+         style="opacity:1.0000000;fill:#ffffff;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.050000001;stroke-linecap:square;stroke-miterlimit:4.0000000;stroke-dasharray:0.20000000 0.20000000 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         transform="matrix(0.306700,0.000000,0.000000,0.258600,544.9861,-62.99792)"
+         d="M 752.38920 -304.76254 A 2.2941108 2.7292006 0 1 1  747.80098,-304.76254 A 2.2941108 2.7292006 0 1 1  752.38920 -304.76254 z"
+         sodipodi:ry="2.7292006"
+         sodipodi:rx="2.2941108"
+         sodipodi:cy="-304.76254"
+         sodipodi:cx="750.09509"
+         id="path37062"
+         style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.42699999;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path37064"
+         d="M 774.87056,-149.63505 L 774.99835,-139.77063"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0d32f8;stroke-width:0.13993448;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:0.55973793 0.27986896 0.13993448 0.27986896 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path37066"
+         d="M 785.14531,-141.71699 L 772.79163,-141.71699"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0d32f8;stroke-width:0.13993448;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:0.55973793 0.27986896 0.13993448 0.27986896 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <g
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         transform="matrix(0.717030,0.000000,0.000000,0.682735,191.4643,55.69378)"
+         id="g37806"
+         style="display:inline">
+        <path
+           sodipodi:type="arc"
+           style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.42699999;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           id="path37808"
+           sodipodi:cx="750.09509"
+           sodipodi:cy="-304.76254"
+           sodipodi:rx="2.2941108"
+           sodipodi:ry="2.7292006"
+           d="M 752.38920 -304.76254 A 2.2941108 2.7292006 0 1 1  747.80098,-304.76254 A 2.2941108 2.7292006 0 1 1  752.38920 -304.76254 z"
+           transform="matrix(0.427737,0.000000,0.000000,0.378770,423.4088,-173.7460)" />
+        <path
+           style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0d32f8;stroke-width:0.20000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:0.80000000 0.40000000 0.20000000 0.40000000 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           d="M 744.19348,-292.22038 L 744.19348,-286.19478"
+           id="path37810" />
+        <path
+           style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0d32f8;stroke-width:0.20000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:0.80000000 0.40000000 0.20000000 0.40000000 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           d="M 747.14149,-289.04560 L 741.11589,-289.04560"
+           id="path37812" />
+      </g>
+      <text
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:linespacing="125.00000%"
+         id="text37825"
+         y="-142.28806"
+         x="781.13831"
+         style="font-size:10.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-142.28806"
+           x="781.13831"
+           id="tspan37827"
+           sodipodi:role="line">85 mm</tspan></text>
+      <text
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         transform="matrix(0.000000,-1.000000,1.000000,0.000000,0.000000,0.000000)"
+         sodipodi:linespacing="125.00000%"
+         id="text37829"
+         y="774.20654"
+         x="142.65355"
+         style="font-size:10.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="774.20654"
+           x="142.65355"
+           id="tspan37831"
+           sodipodi:role="line">35 mm</tspan></text>
+      <text
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         id="text37981"
+         y="-73.42852"
+         x="767.68945"
+         style="font-size:12.000000px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;display:inline;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="-73.428520"
+           x="767.68945"
+           id="tspan37983"
+           sodipodi:role="line">LEFT SIDE VIEW</tspan></text>
+      <rect
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         y="-242.67030"
+         x="1030.2925"
+         height="95.507118"
+         width="105.69034"
+         id="rect37985"
+         style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.53527552;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path38727"
+         d="M 1030.4783,-244.05309 L 1030.6175,-262.05879"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.81643277;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path38729"
+         d="M 1130.5246,-250.50683 L 1035.0406,-250.50683"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Mstart);marker-mid:none;marker-end:url(#Arrow2Mend);stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <text
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:linespacing="125.00000%"
+         id="text38731"
+         y="-253.32115"
+         x="1065.0128"
+         style="font-size:10.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-253.32115"
+           x="1065.0128"
+           id="tspan38733"
+           sodipodi:role="line">530 mm</tspan></text>
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path38735"
+         d="M 1135.5256,-262.32958 L 1135.6648,-244.32388"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.81643277;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <rect
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         y="-236.60936"
+         x="1034.3052"
+         height="1.4972159"
+         width="95.040192"
+         id="rect39475"
+         style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.063553236;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <rect
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         y="-230.42981"
+         x="1034.3052"
+         height="1.4972159"
+         width="95.040192"
+         id="rect39477"
+         style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.063553236;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <rect
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         y="-224.25029"
+         x="1034.3052"
+         height="1.4972159"
+         width="95.040192"
+         id="rect39479"
+         style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.063553236;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <rect
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         y="-218.07086"
+         x="1034.3052"
+         height="1.4972159"
+         width="95.040192"
+         id="rect39481"
+         style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.063553236;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <rect
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         y="-211.89133"
+         x="1034.3052"
+         height="1.4972159"
+         width="95.040192"
+         id="rect39483"
+         style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.063553236;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <rect
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         y="-205.71188"
+         x="1034.3052"
+         height="1.4972159"
+         width="95.040192"
+         id="rect39485"
+         style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.063553236;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <rect
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         y="-199.53235"
+         x="1040.6447"
+         height="1.4972159"
+         width="88.704842"
+         id="rect39491"
+         style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.061398488;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <rect
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         y="-193.35292"
+         x="1040.6447"
+         height="1.4972159"
+         width="88.704842"
+         id="rect39493"
+         style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.061398488;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <rect
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         y="-187.17340"
+         x="1034.3052"
+         height="1.4972159"
+         width="95.040192"
+         id="rect39495"
+         style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.063553236;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <rect
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         y="-180.99385"
+         x="1034.3052"
+         height="1.4972159"
+         width="95.040192"
+         id="rect39497"
+         style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.063553236;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <rect
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         y="-174.81438"
+         x="1034.3052"
+         height="1.4972159"
+         width="95.040192"
+         id="rect39499"
+         style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.063553236;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <rect
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         y="-168.63495"
+         x="1034.3052"
+         height="1.4972159"
+         width="95.040192"
+         id="rect39501"
+         style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.063553236;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <rect
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         y="-162.45543"
+         x="1034.3052"
+         height="1.4972159"
+         width="95.040192"
+         id="rect39503"
+         style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.063553236;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <rect
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         y="-156.27600"
+         x="1034.3052"
+         height="1.4972159"
+         width="95.040192"
+         id="rect39505"
+         style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.063553236;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         transform="translate(0.134972,-1.840448)"
+         d="M 1039.0145 -193.49687 A 3.3068140 3.1718421 0 1 1  1032.4008,-193.49687 A 3.3068140 3.1718421 0 1 1  1039.0145 -193.49687 z"
+         sodipodi:ry="3.1718421"
+         sodipodi:rx="3.3068140"
+         sodipodi:cy="-193.49687"
+         sodipodi:cx="1035.7076"
+         id="path39507"
+         style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.53600001;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path39511"
+         d="M 1137.9505,-242.49383 L 1160.3493,-242.35463"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.91060072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path39513"
+         d="M 1137.2790,-147.33857 L 1159.6778,-147.19937"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.91060072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path39515"
+         d="M 1157.1150,-152.15407 L 1156.9800,-238.72992"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Mstart);marker-mid:none;marker-end:url(#Arrow2Mend);stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <text
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:linespacing="125.00000%"
+         id="text39517"
+         y="-135.4594"
+         x="1158.9231"
+         style="font-size:10.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-135.45940"
+           x="1158.9231"
+           id="tspan39519"
+           sodipodi:role="line">120 mm</tspan></text>
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path40259"
+         d="M 1157.3174,-136.64426 L 1157.1824,-143.72160"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Mstart);marker-mid:none;marker-end:url(#Arrow2Mend);stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <text
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         transform="matrix(0.000000,1.000000,-1.000000,0.000000,0.000000,0.000000)"
+         sodipodi:linespacing="125.00000%"
+         id="text40261"
+         y="-1158.7437"
+         x="-205.11835"
+         style="font-size:10.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#f90606;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-1158.7437"
+           x="-205.11835"
+           id="tspan40263"
+           sodipodi:role="line">180 mm</tspan></text>
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         transform="matrix(5.110279,0.000000,0.000000,5.188893,-1177.480,-451.4823)"
+         d="M 431.49901 58.548401 A 0.39870062 0.37771639 0 1 1  430.70161,58.548401 A 0.39870062 0.37771639 0 1 1  431.49901 58.548401 z"
+         sodipodi:ry="0.37771639"
+         sodipodi:rx="0.39870062"
+         sodipodi:cy="58.548401"
+         sodipodi:cx="431.10031"
+         id="path49474"
+         style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.081374682;stroke-linecap:square;stroke-miterlimit:2.5000000;stroke-dasharray:0.61300003 0.61300003 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         id="path49476"
+         d="M 1021.4771,-147.66041 L 1029.9388,-147.68453"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0f29f2;stroke-width:0.30966112;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:0.61932221 0.30966110 0.15483055 0.30966110 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         id="path49478"
+         d="M 1025.5297,-151.64252 L 1025.5535,-143.05075"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0f29f2;stroke-width:0.30966112;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:0.61932221 0.30966110 0.15483055 0.30966110 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path5984"
+         d="M 439.84197,28.945898 L 439.90499,100.59008"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0045ff;stroke-width:0.17545415;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:1.4036332 0.35090831 0.17545416 0.35090831 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path5986"
+         d="M 401.09183,62.788790 L 477.83849,62.729960"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0045ff;stroke-width:0.17545415;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:1.4036332 0.35090831 0.17545416 0.35090831 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path5988"
+         d="M 569.86640,28.495414 L 569.92942,100.13961"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0045ff;stroke-width:0.17545415;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:1.4036332 0.35090831 0.17545416 0.35090831 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path5990"
+         d="M 531.31763,62.741054 L 608.06429,62.682224"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0045ff;stroke-width:0.17545415;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:1.4036332 0.35090831 0.17545416 0.35090831 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <rect
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         y="36.204369"
+         x="440.45328"
+         height="1.8181883"
+         width="129.65311"
+         id="rect5996"
+         style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#1e1414;stroke-width:0.30051869;stroke-linecap:square;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <rect
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         transform="matrix(0.000000,-1.000000,-1.000000,0.000000,0.000000,0.000000)"
+         y="-442.22125"
+         x="-89.179565"
+         height="1.8679893"
+         width="50.918015"
+         id="rect6765"
+         style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#1e1414;stroke-width:0.19089015;stroke-linecap:square;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="ccccccccccc"
+         id="text6769"
+         d="M 437.28907,37.261334 L 437.28907,36.951934 L 439.61233,36.951934 L 439.61233,35.790894 L 437.28907,35.790894 L 437.28907,35.481484 L 442.03439,35.481484 L 442.03439,35.790894 L 440.17323,35.790894 L 440.22458,37.262644 L 437.28907,37.261334"
+         style="font-size:7.6601934px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;display:inline;font-family:Bitstream Vera Sans" />
+      <text
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         transform="matrix(0.000000,0.740412,-1.350599,0.000000,0.000000,0.000000)"
+         id="text6776"
+         y="-323.98999"
+         x="119.94479"
+         style="font-size:4.8325262px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;display:inline;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="-323.98999"
+           x="119.94479"
+           id="tspan6778"
+           sodipodi:role="line">H</tspan></text>
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="ccccccccccc"
+         id="path6781"
+         d="M 572.28688,37.155634 L 572.28688,36.883384 L 570.78713,36.883384 L 570.78713,35.861714 L 572.28688,35.861714 L 572.28688,35.589464 L 569.22361,35.589464 L 569.22361,35.861714 L 570.42505,35.861714 L 570.39191,37.156784 L 572.28688,37.155634"
+         style="font-size:7.6601934px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;display:inline;font-family:Bitstream Vera Sans" />
+      <rect
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         transform="matrix(0.000000,-1.000000,-1.000000,0.000000,0.000000,0.000000)"
+         y="-570.09796"
+         x="-89.370178"
+         height="2.3225801"
+         width="51.214779"
+         id="rect6783"
+         style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#1e1414;stroke-width:0.21347332;stroke-linecap:square;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <text
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         transform="matrix(0.000000,0.699373,-1.429852,0.000000,0.000000,0.000000)"
+         id="text6785"
+         y="-396.95245"
+         x="127.28186"
+         style="font-size:4.5646577px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;display:inline;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="-396.95245"
+           x="127.28186"
+           id="tspan6787"
+           sodipodi:role="line">H</tspan></text>
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path6801"
+         d="M 379.43520,38.009238 L 434.85860,38.436338"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:1.1434703;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path6803"
+         d="M 379.75479,88.935548 L 435.17819,89.362648"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:1.1434703;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path6805"
+         d="M 398.40318,82.746078 L 398.19292,42.735738"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.87500000;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Mstart);marker-mid:none;marker-end:url(#Arrow2Mend);stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <text
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         transform="matrix(0.000000,-1.000000,1.000000,0.000000,0.000000,0.000000)"
+         sodipodi:linespacing="125.00000%"
+         id="text6807"
+         y="392.99493"
+         x="-83.910629"
+         style="font-size:10.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="392.99493"
+           x="-83.910629"
+           id="tspan6809"
+           sodipodi:role="line">300 mm</tspan></text>
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="ccccccccccc"
+         id="path6811"
+         d="M 347.53931,-10.283090 L 347.53931,-11.446990 L 354.44340,-11.446990 L 354.44340,-15.814470 L 347.53931,-15.814470 L 347.53931,-16.978360 L 361.64109,-16.978360 L 361.64109,-15.814470 L 356.11024,-15.814470 L 356.26283,-10.278180 L 347.53931,-10.283090"
+         style="font-size:7.6601934px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;display:inline;font-family:Bitstream Vera Sans" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         transform="matrix(1.381665,0.000000,0.000000,1.338722,-212.5269,-355.2018)"
+         d="M 424.82529 259.21829 A 13.719302 13.929560 0 1 1  397.38669,259.21829 A 13.719302 13.929560 0 1 1  424.82529 259.21829 z"
+         sodipodi:ry="13.929560"
+         sodipodi:rx="13.719302"
+         sodipodi:cy="259.21829"
+         sodipodi:cx="411.10599"
+         id="path6813"
+         style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#d3cfcf;stroke-width:0.38308147;stroke-linecap:square;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="ccccc"
+         id="rect7553"
+         d="M 356.53508,-15.329470 L 369.46592,-15.329470 C 366.94283,-12.210650 371.04285,-10.563640 369.46592,-7.5499500 L 356.53508,-7.5499500 L 356.53508,-15.329470 z "
+         style="fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.48713690;stroke-linecap:square;stroke-miterlimit:4.0000000;stroke-dasharray:0.97427380 0.48713690 0.24356845 0.48713690 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="ccccc"
+         id="path7556"
+         d="M 364.41973,-7.0528600 L 364.41973,5.8779800 C 361.30091,3.3548900 359.65390,7.4549100 356.64021,5.8779800 L 356.64021,-7.0528600 L 364.41973,-7.0528600 z "
+         style="fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.48713690;stroke-linecap:square;stroke-miterlimit:4.0000000;stroke-dasharray:0.97427380 0.48713690 0.24356845 0.48713690 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="ccccc"
+         id="path7558"
+         d="M 354.06064,-15.306770 L 341.12980,-15.306770 C 343.65289,-13.933100 339.55287,-13.207690 341.12980,-11.880330 L 354.06064,-11.880330 L 354.06064,-15.306770 z "
+         style="fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.32329270;stroke-linecap:square;stroke-miterlimit:4.0000000;stroke-dasharray:0.64658542 0.32329271 0.16164636 0.32329271 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <g
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         transform="translate(-62.30534,-207.0189)"
+         id="g7583"
+         style="display:inline">
+        <path
+           sodipodi:type="arc"
+           style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#d3cfcf;stroke-width:0.38299927;stroke-linecap:square;stroke-miterlimit:4.0000000;stroke-dasharray:0.97427380 0.48713690 0.24356845 0.48713690 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000"
+           id="path7562"
+           sodipodi:cx="411.10599"
+           sodipodi:cy="259.21829"
+           sodipodi:rx="13.719302"
+           sodipodi:ry="13.929560"
+           d="M 424.82529 259.21829 A 13.719302 13.929560 0 1 1  397.38669,259.21829 A 13.719302 13.929560 0 1 1  424.82529 259.21829 z"
+           transform="matrix(1.381665,0.000000,0.000000,1.338722,-148.9423,23.50933)" />
+        <path
+           style="fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.32329270;stroke-linecap:square;stroke-miterlimit:4.0000000;stroke-dasharray:0.64658542 0.32329271 0.16164636 0.32329271 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000"
+           d="M 418.14623,368.41411 L 405.21539,368.41411 C 407.73848,369.78778 403.63846,370.51319 405.21539,371.84055 L 418.14623,371.84055 L 418.14623,368.41411 z "
+           id="path7568"
+           sodipodi:nodetypes="ccccc" />
+        <text
+           xml:space="preserve"
+           style="font-size:12.660830px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+           x="372.47083"
+           y="-406.37091"
+           id="text7570"
+           transform="matrix(0.000000,0.981416,-1.018936,0.000000,0.000000,0.000000)"><tspan
+             sodipodi:role="line"
+             id="tspan7572"
+             x="372.47083"
+             y="-406.37091">H</tspan></text>
+        <path
+           style="fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.32329270;stroke-linecap:square;stroke-miterlimit:4.0000000;stroke-dasharray:0.64658542 0.32329271 0.16164636 0.32329271 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000"
+           d="M 420.18196,368.44161 L 433.11280,368.44161 C 430.58971,369.81528 434.68973,370.54069 433.11280,371.86805 L 420.18196,371.86805 L 420.18196,368.44161 z "
+           id="path7574"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <rect
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         y="89.626640"
+         x="440.71378"
+         height="1.0197940"
+         width="128.84129"
+         id="rect7643"
+         style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#1e1414;stroke-width:0.22435944;stroke-linecap:square;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         id="path9889"
+         d="M 571.34472,35.987519 C 586.03825,35.987519 597.98064,48.242014 597.98063,63.350372 C 597.98063,78.458732 586.03825,90.713232 571.34472,90.713222 C 571.22313,90.713222 571.12909,90.686812 571.00789,90.685132 L 571.00789,89.954712 C 571.03448,89.956812 571.05830,89.954712 571.08562,89.954712 C 585.47545,89.954712 597.15150,78.042622 597.15150,63.378462 C 597.15151,48.714306 585.47545,36.830317 571.08562,36.830317 C 571.05832,36.830317 571.03449,36.828213 571.00789,36.830317 L 571.00789,36.015612 C 571.12902,36.013940 571.22321,35.987519 571.34472,35.987519 z "
+         style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#1e1414;stroke-width:0.13058215;stroke-linecap:square;stroke-miterlimit:2.5000000;stroke-dasharray:0.26116431 0.52232862 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         id="path9891"
+         d="M 438.71447,35.997959 C 424.02094,35.997959 412.07855,48.252454 412.07856,63.360812 C 412.07856,78.469172 424.02094,90.723672 438.71447,90.723662 C 438.83606,90.723662 438.93010,90.697252 439.05130,90.695572 L 439.05130,89.965152 C 439.02471,89.967252 439.00089,89.965152 438.97357,89.965152 C 424.58374,89.965152 412.90769,78.053062 412.90769,63.388902 C 412.90768,48.724746 424.58374,36.840757 438.97357,36.840757 C 439.00087,36.840757 439.02470,36.838653 439.05130,36.840757 L 439.05130,36.026052 C 438.93017,36.024380 438.83598,35.997959 438.71447,35.997959 z "
+         style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#1e1414;stroke-width:0.13058215;stroke-linecap:square;stroke-miterlimit:2.5000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path4413"
+         d="M 570.01810,34.744147 L 569.95429,-2.3809649"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.94208241;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <text
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:linespacing="125.00000%"
+         id="text4435"
+         y="0.86140746"
+         x="486.7175"
+         style="font-size:10.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="0.86140746"
+           x="486.71750"
+           id="tspan4437"
+           sodipodi:role="line">710 mm</tspan></text>
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path6789"
+         d="M 440.24650,34.637857 L 440.67360,1.2399434"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.88764226;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path6793"
+         d="M 563.52858,7.3345594 L 446.41636,7.3345594"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.87500000;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Mstart);marker-mid:none;marker-end:url(#Arrow2Mend);stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <g
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         id="g11402"
+         style="display:inline">
+        <rect
+           style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.25151321;stroke-linecap:square;stroke-miterlimit:2.5000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000"
+           id="rect9900"
+           width="10.242071"
+           height="10.235515"
+           x="429.89313"
+           y="57.307331" />
+        <path
+           sodipodi:type="arc"
+           style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.15000001;stroke-linecap:square;stroke-miterlimit:2.5000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000"
+           id="path9902"
+           sodipodi:cx="431.10031"
+           sodipodi:cy="58.548401"
+           sodipodi:rx="0.39870062"
+           sodipodi:ry="0.37771639"
+           d="M 431.49901 58.548401 A 0.39870062 0.37771639 0 1 1  430.70161,58.548401 A 0.39870062 0.37771639 0 1 1  431.49901 58.548401 z"
+           transform="matrix(1.048964,0.000000,0.000000,1.102762,-20.70979,-5.706496)" />
+        <path
+           sodipodi:type="arc"
+           style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.25000000;stroke-linecap:square;stroke-miterlimit:2.5000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           id="path9904"
+           sodipodi:cx="431.10031"
+           sodipodi:cy="58.548401"
+           sodipodi:rx="0.39870062"
+           sodipodi:ry="0.37771639"
+           d="M 431.49901 58.548401 A 0.39870062 0.37771639 0 1 1  430.70161,58.548401 A 0.39870062 0.37771639 0 1 1  431.49901 58.548401 z"
+           transform="translate(7.428415,0.293778)" />
+        <path
+           sodipodi:type="arc"
+           style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.25000000;stroke-linecap:square;stroke-miterlimit:2.5000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           id="path9906"
+           sodipodi:cx="431.10031"
+           sodipodi:cy="58.548401"
+           sodipodi:rx="0.39870062"
+           sodipodi:ry="0.37771639"
+           d="M 431.49901 58.548401 A 0.39870062 0.37771639 0 1 1  430.70161,58.548401 A 0.39870062 0.37771639 0 1 1  431.49901 58.548401 z"
+           transform="translate(7.386446,7.323499)" />
+        <path
+           sodipodi:type="arc"
+           style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.25000000;stroke-linecap:square;stroke-miterlimit:2.5000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           id="path9908"
+           sodipodi:cx="431.10031"
+           sodipodi:cy="58.548401"
+           sodipodi:rx="0.39870062"
+           sodipodi:ry="0.37771639"
+           d="M 431.49901 58.548401 A 0.39870062 0.37771639 0 1 1  430.70161,58.548401 A 0.39870062 0.37771639 0 1 1  431.49901 58.548401 z"
+           transform="translate(0.398693,7.323500)" />
+        <path
+           style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0f29f2;stroke-width:0.10000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:0.20000000 0.10000000 0.050000000 0.10000000 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000"
+           d="M 430.70550,58.849318 L 432.36130,58.844667"
+           id="path10648" />
+        <path
+           style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0f29f2;stroke-width:0.10000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:0.20000000 0.10000000 0.050000000 0.10000000 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           d="M 431.49851,58.081883 L 431.50317,59.737683"
+           id="path11388" />
+        <path
+           style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0f29f2;stroke-width:0.10000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:0.20000000 0.10000000 0.050000000 0.10000000 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           d="M 437.72900,58.846165 L 439.38480,58.841514"
+           id="path11390" />
+        <path
+           style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0f29f2;stroke-width:0.10000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:0.20000000 0.10000000 0.050000000 0.10000000 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           d="M 438.52201,58.078730 L 438.52667,59.734530"
+           id="path11392" />
+        <path
+           style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0f29f2;stroke-width:0.10000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:0.20000000 0.10000000 0.050000000 0.10000000 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           d="M 437.69993,65.854004 L 439.35573,65.849353"
+           id="path11394" />
+        <path
+           style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0f29f2;stroke-width:0.10000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:0.20000000 0.10000000 0.050000000 0.10000000 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           d="M 438.49294,65.086569 L 438.49760,66.742369"
+           id="path11396" />
+        <path
+           style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0f29f2;stroke-width:0.10000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:0.20000000 0.10000000 0.050000000 0.10000000 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           d="M 430.69209,65.854004 L 432.34789,65.849353"
+           id="path11398" />
+        <path
+           style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0f29f2;stroke-width:0.10000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:0.20000000 0.10000000 0.050000000 0.10000000 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           d="M 431.48510,65.086569 L 431.48976,66.742369"
+           id="path11400" />
+      </g>
+      <g
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         transform="translate(140.1806,0.353952)"
+         id="g11417"
+         style="display:inline">
+        <rect
+           style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.25151321;stroke-linecap:square;stroke-miterlimit:2.5000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000"
+           id="rect11419"
+           width="10.242071"
+           height="10.235515"
+           x="429.89313"
+           y="57.307331" />
+        <path
+           sodipodi:type="arc"
+           style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.15000001;stroke-linecap:square;stroke-miterlimit:2.5000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000"
+           id="path11421"
+           sodipodi:cx="431.10031"
+           sodipodi:cy="58.548401"
+           sodipodi:rx="0.39870062"
+           sodipodi:ry="0.37771639"
+           d="M 431.49901 58.548401 A 0.39870062 0.37771639 0 1 1  430.70161,58.548401 A 0.39870062 0.37771639 0 1 1  431.49901 58.548401 z"
+           transform="matrix(1.048964,0.000000,0.000000,1.102762,-20.70979,-5.706496)" />
+        <path
+           sodipodi:type="arc"
+           style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.25000000;stroke-linecap:square;stroke-miterlimit:2.5000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           id="path11423"
+           sodipodi:cx="431.10031"
+           sodipodi:cy="58.548401"
+           sodipodi:rx="0.39870062"
+           sodipodi:ry="0.37771639"
+           d="M 431.49901 58.548401 A 0.39870062 0.37771639 0 1 1  430.70161,58.548401 A 0.39870062 0.37771639 0 1 1  431.49901 58.548401 z"
+           transform="translate(7.428415,0.293778)" />
+        <path
+           sodipodi:type="arc"
+           style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.25000000;stroke-linecap:square;stroke-miterlimit:2.5000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           id="path11425"
+           sodipodi:cx="431.10031"
+           sodipodi:cy="58.548401"
+           sodipodi:rx="0.39870062"
+           sodipodi:ry="0.37771639"
+           d="M 431.49901 58.548401 A 0.39870062 0.37771639 0 1 1  430.70161,58.548401 A 0.39870062 0.37771639 0 1 1  431.49901 58.548401 z"
+           transform="translate(7.386446,7.323499)" />
+        <path
+           sodipodi:type="arc"
+           style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.25000000;stroke-linecap:square;stroke-miterlimit:2.5000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           id="path11427"
+           sodipodi:cx="431.10031"
+           sodipodi:cy="58.548401"
+           sodipodi:rx="0.39870062"
+           sodipodi:ry="0.37771639"
+           d="M 431.49901 58.548401 A 0.39870062 0.37771639 0 1 1  430.70161,58.548401 A 0.39870062 0.37771639 0 1 1  431.49901 58.548401 z"
+           transform="translate(0.398693,7.323500)" />
+        <path
+           style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0f29f2;stroke-width:0.10000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:0.20000000 0.10000000 0.050000000 0.10000000 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000"
+           d="M 430.70550,58.849318 L 432.36130,58.844667"
+           id="path11429" />
+        <path
+           style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0f29f2;stroke-width:0.10000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:0.20000000 0.10000000 0.050000000 0.10000000 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           d="M 431.49851,58.081883 L 431.50317,59.737683"
+           id="path11431" />
+        <path
+           style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0f29f2;stroke-width:0.10000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:0.20000000 0.10000000 0.050000000 0.10000000 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           d="M 437.72900,58.846165 L 439.38480,58.841514"
+           id="path11433" />
+        <path
+           style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0f29f2;stroke-width:0.10000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:0.20000000 0.10000000 0.050000000 0.10000000 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           d="M 438.52201,58.078730 L 438.52667,59.734530"
+           id="path11435" />
+        <path
+           style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0f29f2;stroke-width:0.10000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:0.20000000 0.10000000 0.050000000 0.10000000 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           d="M 437.69993,65.854004 L 439.35573,65.849353"
+           id="path11437" />
+        <path
+           style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0f29f2;stroke-width:0.10000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:0.20000000 0.10000000 0.050000000 0.10000000 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           d="M 438.49294,65.086569 L 438.49760,66.742369"
+           id="path11439" />
+        <path
+           style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0f29f2;stroke-width:0.10000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:0.20000000 0.10000000 0.050000000 0.10000000 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           d="M 430.69209,65.854004 L 432.34789,65.849353"
+           id="path11441" />
+        <path
+           style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0f29f2;stroke-width:0.10000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:0.20000000 0.10000000 0.050000000 0.10000000 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           d="M 431.48510,65.086569 L 431.48976,66.742369"
+           id="path11443" />
+      </g>
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         id="path12447"
+         d="M 366.81274,-23.298871 L 437.13005,34.837488"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.52100003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:2.0840000 0.52100000 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path13189"
+         d="M 370.44678,176.61018 L 438.92273,91.962538"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.52100003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:2.0840000 0.52100000 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <rect
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         y="-367.71219"
+         x="440.45923"
+         height="235.61900"
+         width="128.72249"
+         id="rect13191"
+         style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#060000;stroke-width:0.51135790;stroke-linecap:square;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <rect
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         y="-367.72339"
+         x="410.03864"
+         height="235.61900"
+         width="29.545795"
+         id="rect14675"
+         style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#060000;stroke-width:0.24498843;stroke-linecap:square;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <rect
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         y="-367.90775"
+         x="570.08051"
+         height="235.61900"
+         width="29.545795"
+         id="rect21325"
+         style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#060000;stroke-width:0.24498843;stroke-linecap:square;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <rect
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         transform="matrix(0.000000,1.000000,-1.000000,0.000000,0.000000,0.000000)"
+         y="-598.03656"
+         x="21.626125"
+         height="0.92190009"
+         width="81.415123"
+         id="rect21327"
+         style="opacity:1.0000000;fill:#ffffff;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.23598471;stroke-linecap:square;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path22805"
+         d="M 595.41463,24.744340 C 586.22357,24.303184 578.17529,26.310916 575.18552,31.073233"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#dadada;stroke-width:0.39542440;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-miterlimit:4.0000000;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path24284"
+         d="M 595.65114,101.49185 C 586.46008,101.93300 578.41180,99.925270 575.42203,95.162953"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#dadada;stroke-width:0.39542440;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-miterlimit:4.0000000;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         id="path24288"
+         d="M 407.65206,-367.44676 L 359.44780,-367.44676"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.81643277;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path24292"
+         d="M 374.83266,-360.90783 L 375.19748,-134.06098"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Mstart);marker-mid:none;marker-end:url(#Arrow2Mend);stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <text
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         transform="matrix(0.000000,-1.000000,1.000000,0.000000,0.000000,0.000000)"
+         sodipodi:linespacing="125.00000%"
+         id="text24294"
+         y="371.6813"
+         x="228.29095"
+         style="font-size:10.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="371.68130"
+           x="228.29095"
+           id="tspan24296"
+           sodipodi:role="line">1800 mm</tspan></text>
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path24298"
+         d="M 401.50047,-129.56914 L 360.66530,-129.31503"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.81643277;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         id="path24305"
+         d="M 647.94485,21.744828 L 599.74059,21.744828"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.81643277;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         id="path24307"
+         d="M 648.30966,102.37012 L 600.10540,102.37012"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.81643277;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <rect
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         y="-321.62198"
+         x="472.60727"
+         height="44.332520"
+         width="64.308762"
+         id="rect24350"
+         style="opacity:1.0000000;fill:#ffffff;fill-opacity:1.0000000;stroke:#010101;stroke-width:0.69195521;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:1.3839104 4.1517313 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <rect
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         y="-237.22513"
+         x="492.22113"
+         height="25.229702"
+         width="24.565357"
+         id="rect25090"
+         style="opacity:1.0000000;fill:#ffffff;fill-opacity:1.0000000;stroke:#010101;stroke-width:0.42699999;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:1.7080000 1.7080000 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         id="path25832"
+         d="M 661.37187,-367.70900 L 591.57297,-367.70900"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.98243088;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path25834"
+         d="M 616.56167,-322.23982 L 538.85374,-321.88435"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.81643277;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path25836"
+         d="M 616.84158,-278.32455 L 539.13365,-277.96908"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.81643277;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path25838"
+         d="M 610.86354,-363.48843 L 611.22836,-325.74946"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Mstart);marker-mid:none;marker-end:url(#Arrow2Mend);stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path25840"
+         d="M 611.21900,-317.63332 L 610.87289,-281.67168"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Mstart);marker-mid:none;marker-end:url(#Arrow2Mend);stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <text
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         transform="matrix(0.000000,1.000000,-1.000000,0.000000,0.000000,0.000000)"
+         sodipodi:linespacing="125.00000%"
+         id="text25842"
+         y="-619.49652"
+         x="-367.29718"
+         style="font-size:10.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-619.49652"
+           x="-367.29718"
+           id="tspan25844"
+           sodipodi:role="line">300 mm</tspan></text>
+      <text
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         transform="matrix(0.000000,1.000000,-1.000000,0.000000,0.000000,0.000000)"
+         sodipodi:linespacing="125.00000%"
+         id="text25846"
+         y="-618.43011"
+         x="-321.18668"
+         style="font-size:10.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-618.43011"
+           x="-321.18668"
+           id="tspan25848"
+           sodipodi:role="line">330 mm</tspan></text>
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path25850"
+         d="M 472.61569,-336.21438 L 472.61569,-322.65684"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.35249248;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path25852"
+         d="M 536.91707,-336.20401 L 536.91707,-322.64646"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.35249248;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path25854"
+         d="M 477.62687,-328.34928 L 532.38481,-328.35863"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Mstart);marker-mid:none;marker-end:url(#Arrow2Mend);stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path25876"
+         d="M 658.27456,-236.65379 L 519.00198,-236.29832"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:1.0930011;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path25878"
+         d="M 615.42713,-212.64461 L 519.24320,-212.28914"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.90832031;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path25880"
+         d="M 609.90401,-232.04729 L 609.91337,-215.99174"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Mstart);marker-mid:none;marker-end:url(#Arrow2Mend);stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <text
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         transform="matrix(0.000000,1.000000,-1.000000,0.000000,0.000000,0.000000)"
+         sodipodi:linespacing="125.00000%"
+         id="text25882"
+         y="-617.82605"
+         x="-246.62009"
+         style="font-size:10.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-617.82605"
+           x="-246.62009"
+           id="tspan25884"
+           sodipodi:role="line">135 mm</tspan></text>
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path25886"
+         d="M 492.32032,-210.35583 L 492.32032,-197.15623"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.59206963;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path25888"
+         d="M 516.49200,-210.19718 L 516.49200,-196.99758"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.59206963;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <text
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:linespacing="125.00000%"
+         id="text25890"
+         y="-190.68509"
+         x="484.55606"
+         style="font-size:10.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-190.68509"
+           x="484.55606"
+           id="tspan25892"
+           sodipodi:role="line">160 mm</tspan></text>
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path25894"
+         d="M 496.55612,-202.25016 L 513.32260,-202.25951"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Mstart);marker-mid:none;marker-end:url(#Arrow2Mend);stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path25896"
+         d="M 644.98826,-363.13296 L 645.35308,-240.08217"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Mstart);marker-mid:none;marker-end:url(#Arrow2Mend);stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <text
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         transform="matrix(0.000000,1.000000,-1.000000,0.000000,0.000000,0.000000)"
+         sodipodi:linespacing="125.00000%"
+         id="text25898"
+         y="-650.06659"
+         x="-313.36642"
+         style="font-size:10.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-650.06659"
+           x="-313.36642"
+           id="tspan25900"
+           sodipodi:role="line">870 mm</tspan></text>
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cccccccccc"
+         id="rect26642"
+         d="M 470.87091,-323.60748 L 471.11737,-275.59948 L 538.82103,-275.66109 L 538.94426,-323.60748 L 470.87091,-323.60748 z M 474.90774,-319.58570 L 534.90743,-319.58570 L 534.84582,-279.18996 L 474.78451,-279.43642 L 474.90774,-319.58570 z "
+         style="opacity:1.0000000;fill:#ffffff;fill-opacity:0.73446327;stroke:#010101;stroke-width:0.72825259;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <rect
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         y="90.542130"
+         x="471.00131"
+         height="0.74110204"
+         width="67.285896"
+         id="rect27387"
+         style="opacity:1.0000000;fill:#ffffff;fill-opacity:1.0000000;stroke:#010101;stroke-width:0.15577793;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path31788"
+         d="M 401.00858,-124.40515 L 360.68161,-124.15104"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.81643277;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <text
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:linespacing="125.00000%"
+         id="text31790"
+         y="-123.56751"
+         x="323.5506"
+         style="font-size:10.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-123.56751"
+           x="323.55060"
+           id="tspan31792"
+           sodipodi:role="line">20 mm</tspan></text>
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cccccccccc"
+         id="path31796"
+         d="M 491.01563,-238.45466 L 490.92329,-210.56868 L 518.13341,-210.52251 L 518.08724,-238.45466 L 491.01563,-238.45466 z M 493.78218,-235.76757 L 515.18220,-235.81374 L 515.13603,-213.30194 L 493.92070,-213.25577 L 493.78218,-235.76757 z "
+         style="opacity:1.0000000;fill:#ffffff;fill-opacity:0.73446327;stroke:#010101;stroke-width:0.36124355;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path32536"
+         d="M 470.82507,-352.29482 L 470.82507,-324.24438"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.50702482;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path32538"
+         d="M 538.91171,-352.46162 L 538.91171,-324.41115"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.50702482;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:nodetypes="cc"
+         id="path32540"
+         d="M 475.44952,-347.60708 L 535.33587,-347.73854"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Mstart);marker-mid:none;marker-end:url(#Arrow2Mend);stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <text
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:linespacing="125.00000%"
+         id="text32542"
+         y="-350.47745"
+         x="486.02524"
+         style="font-size:10.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-350.47745"
+           x="486.02524"
+           id="tspan32544"
+           sodipodi:role="line">415 mm</tspan></text>
+      <g
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         transform="matrix(0.000000,-1.000000,1.000000,0.000000,731.7986,215.4165)"
+         id="g32550"
+         style="display:inline">
+        <path
+           style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.35249248;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline"
+           d="M 534.70727,-275.10971 L 534.70727,-261.55217"
+           id="path32546"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#d3cfcf;stroke-width:0.35249248;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline"
+           d="M 539.00865,-275.09934 L 539.00865,-261.54179"
+           id="path32548"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <text
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:linespacing="125.00000%"
+         id="text25856"
+         y="-329.89459"
+         x="483.90329"
+         style="font-size:10.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-329.89459"
+           x="483.90329"
+           id="tspan25858"
+           sodipodi:role="line">310 mm</tspan></text>
+      <text
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:linespacing="125.00000%"
+         id="text32556"
+         y="-311.33463"
+         x="443.12021"
+         style="font-size:10.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-311.33463"
+           x="443.12021"
+           id="tspan32558"
+           sodipodi:role="line">25 mm</tspan></text>
+      <rect
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         y="-366.89221"
+         x="720.41736"
+         height="235.61900"
+         width="59.442066"
+         id="rect33324"
+         style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#060000;stroke-width:0.34749189;stroke-linecap:square;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <rect
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         transform="matrix(0.000000,-1.000000,1.000000,0.000000,0.000000,0.000000)"
+         y="780.18372"
+         x="276.29193"
+         height="0.74110204"
+         width="47.430683"
+         id="rect33326"
+         style="opacity:1.0000000;fill:#ffffff;fill-opacity:1.0000000;stroke:#010101;stroke-width:0.13078973;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <rect
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         transform="matrix(0.000000,-1.000000,1.000000,0.000000,0.000000,0.000000)"
+         y="780.16833"
+         x="210.89700"
+         height="0.74110204"
+         width="27.842920"
+         id="rect33332"
+         style="opacity:1.0000000;fill:#ffffff;fill-opacity:1.0000000;stroke:#010101;stroke-width:0.10020775;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <rect
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         y="-367.69867"
+         x="438.06454"
+         height="235.75398"
+         width="3.7323167"
+         id="rect20585"
+         style="opacity:1.0000000;fill:#ffffff;fill-opacity:1.0000000;stroke:#060000;stroke-width:0.22244789;stroke-linecap:square;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <rect
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         y="-367.97525"
+         x="567.86804"
+         height="235.75398"
+         width="3.7323167"
+         id="rect15417"
+         style="opacity:1.0000000;fill:#ffffff;fill-opacity:1.0000000;stroke:#060000;stroke-width:0.22244789;stroke-linecap:square;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <g
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         transform="matrix(-0.189856,0.000000,0.000000,-0.201995,416.2830,6.749717)"
+         id="g41017">
+        <rect
+           style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:1.6559399;stroke-linecap:square;stroke-miterlimit:2.5000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           id="rect41019"
+           width="76.092621"
+           height="4.9904184"
+           x="-501.95917"
+           y="-160.80516" />
+        <path
+           style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0f29f2;stroke-width:0.39906490;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:0.79812982 0.39906492 0.19953247 0.39906492 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           d="M -437.65519,-300.59227 L -437.61989,-322.82694"
+           id="path41021" />
+        <path
+           style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0f29f2;stroke-width:0.39906490;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:0.79812982 0.39906492 0.19953247 0.39906492 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           d="M -491.63539,-300.59227 L -491.60009,-322.82692"
+           id="path41023" />
+        <rect
+           style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#030000;stroke-width:0.12255783;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:0.24511568 0.49023136 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           id="rect41025"
+           width="6.9373708"
+           height="5.1110129"
+           x="-495.34430"
+           y="-160.86046" />
+        <rect
+           style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#030000;stroke-width:0.13124999;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:0.26250000 0.52500000 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           id="rect41027"
+           width="6.9373708"
+           height="5.8616977"
+           x="-441.44916"
+           y="-161.09734" />
+        <rect
+           style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:1.6720917;stroke-linecap:square;stroke-miterlimit:2.5000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           id="rect41029"
+           width="77.584251"
+           height="4.9904184"
+           x="-502.77972"
+           y="-314.58008" />
+        <rect
+           style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:2.6588988;stroke-linecap:square;stroke-miterlimit:2.5000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           id="rect41031"
+           width="76.463493"
+           height="153.22350"
+           x="-502.21918"
+           y="-308.39215" />
+        <rect
+           style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#030000;stroke-width:0.13124999;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:0.26250000 0.52500000 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           id="rect41033"
+           width="6.9373708"
+           height="5.8616977"
+           x="-494.65717"
+           y="-315.39447" />
+        <rect
+           style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#030000;stroke-width:0.13124999;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:0.26250000 0.52500000 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           id="rect41035"
+           width="6.9373708"
+           height="5.8616977"
+           x="-440.76199"
+           y="-314.87225" />
+        <rect
+           style="opacity:1.0000000;fill:#ffffff;fill-opacity:1.0000000;stroke:#010101;stroke-width:1.3821586;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           id="rect41037"
+           width="4.9345345"
+           height="127.55971"
+           x="-465.87210"
+           y="-307.91956" />
+        <path
+           style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0f29f2;stroke-width:0.39906490;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:0.79812982 0.39906492 0.19953247 0.39906492 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           d="M -437.72649,-146.03965 L -437.69119,-168.27432"
+           id="path41039" />
+        <path
+           style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0f29f2;stroke-width:0.39906490;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:0.79812982 0.39906492 0.19953247 0.39906492 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           d="M -491.70669,-146.03965 L -491.67139,-168.27430"
+           id="path41041" />
+      </g>
+      <g
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         transform="matrix(0.180855,0.000000,0.000000,-0.100959,789.8512,-318.9939)"
+         id="g41056">
+        <path
+           style="opacity:1.0000000;fill:#ffffff;fill-opacity:1.0000000;stroke:#030000;stroke-width:1.0940000;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2.5000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           d="M -382.98808,-498.26274 L -382.98808,-420.10810 L -382.95688,-420.10810 L -382.95688,-415.16400 L -228.39429,-415.16400 L -228.39429,-337.26291 L -223.11309,-337.26291 L -223.11309,-415.44924 L -223.14429,-415.44924 L -223.14429,-420.52010 L -377.73808,-420.52010 L -377.73808,-498.26274 L -382.98808,-498.26274 z "
+           id="path41058" />
+        <path
+           style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0f29f2;stroke-width:0.75330561;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:1.5066112 0.75330558 0.37665279 0.75330558 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           d="M -365.83478,-433.24937 L -392.84758,-433.44001"
+           id="path41060"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0f29f2;stroke-width:0.75330561;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:1.5066112 0.75330558 0.37665279 0.75330558 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           d="M -365.83478,-485.64951 L -392.96158,-485.84014"
+           id="path41062"
+           sodipodi:nodetypes="cc" />
+        <rect
+           style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#010101;stroke-width:0.24169794;stroke-linecap:square;stroke-miterlimit:2.5000000;stroke-dasharray:0.24169792 0.72509373 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           id="rect41064"
+           width="5.8582482"
+           height="4.9295349"
+           x="-488.55411"
+           y="377.87775"
+           transform="matrix(0.000000,1.000000,-1.000000,0.000000,0.000000,0.000000)" />
+        <rect
+           style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#010101;stroke-width:0.23387247;stroke-linecap:square;stroke-miterlimit:2.5000000;stroke-dasharray:0.23387246 0.70161737 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           id="rect41066"
+           width="5.8582482"
+           height="4.6154952"
+           x="-436.39810"
+           y="378.14240"
+           transform="matrix(0.000000,1.000000,-1.000000,0.000000,0.000000,0.000000)" />
+        <path
+           style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0f29f2;stroke-width:0.75330561;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:1.5066112 0.75330558 0.37665279 0.75330558 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           d="M -211.19899,-351.98707 L -238.21179,-352.17771"
+           id="path41068"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0f29f2;stroke-width:0.75330561;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:1.5066112 0.75330558 0.37665279 0.75330558 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           d="M -211.19899,-404.38721 L -238.32579,-404.57784"
+           id="path41070"
+           sodipodi:nodetypes="cc" />
+        <rect
+           style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#010101;stroke-width:0.24169794;stroke-linecap:square;stroke-miterlimit:2.5000000;stroke-dasharray:0.24169792 0.72509373 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           id="rect41072"
+           width="5.8582482"
+           height="4.9295349"
+           x="-407.29172"
+           y="223.24199"
+           transform="matrix(0.000000,1.000000,-1.000000,0.000000,0.000000,0.000000)" />
+        <rect
+           style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#010101;stroke-width:0.23387247;stroke-linecap:square;stroke-miterlimit:2.5000000;stroke-dasharray:0.23387246 0.70161737 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           id="rect41074"
+           width="5.8582482"
+           height="4.6154952"
+           x="-355.13580"
+           y="223.50664"
+           transform="matrix(0.000000,1.000000,-1.000000,0.000000,0.000000,0.000000)" />
+        <path
+           style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;display:inline"
+           d="M -377.62918,-474.95362 L -247.71299,-420.79030"
+           id="path41076" />
+        <path
+           style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.0067611px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;display:inline"
+           d="M -358.12288,-415.28235 L -228.20669,-360.38415"
+           id="path41078" />
+      </g>
+      <rect
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         y="60.015884"
+         x="442.16302"
+         height="5.7610817"
+         width="125.30352"
+         id="rect41818"
+         style="opacity:1.0000000;fill:#000000;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.53600001;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000" />
+      <rect
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         y="-367.80289"
+         x="441.87497"
+         height="4.9553680"
+         width="126.16769"
+         id="rect41820"
+         style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.53600001;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:3.2160000 3.2160000 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         transform="matrix(7.572869,0.000000,0.000000,7.493452,-2514.809,-801.9987)"
+         d="M 431.49901 58.548401 A 0.39870062 0.37771639 0 1 1  430.70161,58.548401 A 0.39870062 0.37771639 0 1 1  431.49901 58.548401 z"
+         sodipodi:ry="0.37771639"
+         sodipodi:rx="0.39870062"
+         sodipodi:cy="58.548401"
+         sodipodi:cx="431.10031"
+         id="path42569"
+         style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.081374682;stroke-linecap:square;stroke-miterlimit:2.5000000;stroke-dasharray:0.61300003 0.61300003 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         id="path42571"
+         d="M 743.80111,-363.23933 L 756.34032,-363.27417"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0f29f2;stroke-width:0.45300001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:0.90600000 0.45300000 0.22650000 0.45300000 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         id="path42573"
+         d="M 749.80651,-368.99003 L 749.84181,-356.58237"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0f29f2;stroke-width:0.45300001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:0.90600000 0.45300000 0.22650000 0.45300000 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline" />
+      <path
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         id="path49480"
+         d="M 1021.0846,-151.81856 L 1010.2988,-161.43690 L 974.31725,-161.52679"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.58784795;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Mstart);stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;display:inline" />
+      <text
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:linespacing="125.00000%"
+         id="text50220"
+         y="-158.74017"
+         x="931.00177"
+         style="font-size:10.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-158.74017"
+           x="931.00177"
+           id="tspan50222"
+           sodipodi:role="line">Hole for </tspan><tspan
+           id="tspan50224"
+           y="-146.24017"
+           x="931.00177"
+           sodipodi:role="line">AC Main </tspan><tspan
+           id="tspan50226"
+           y="-133.74017"
+           x="931.00177"
+           sodipodi:role="line">Cable</tspan></text>
+      <text
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         sodipodi:linespacing="125.00000%"
+         id="text50228"
+         y="-345.12567"
+         x="791.83282"
+         style="font-size:10.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-345.12567"
+           x="791.83282"
+           id="tspan50230"
+           sodipodi:role="line">Hole for </tspan><tspan
+           id="tspan50232"
+           y="-332.62567"
+           x="791.83282"
+           sodipodi:role="line">AC Main </tspan><tspan
+           id="tspan50234"
+           y="-320.12567"
+           x="791.83282"
+           sodipodi:role="line">Cable</tspan></text>
+      <g
+         inkscape:export-ydpi="300.00000"
+         inkscape:export-xdpi="300.00000"
+         inkscape:export-filename="/home/sean/work/swf/freedomtoaster/trunk/docs/assembly/firstangle.png"
+         transform="matrix(0.128265,0.000000,0.000000,0.114113,798.2103,-173.5227)"
+         id="g37963">
+        <rect
+           style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:1.8946631;stroke-linecap:square;stroke-miterlimit:2.5000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000"
+           id="rect37837"
+           width="77.561867"
+           height="76.699341"
+           x="-415.19983"
+           y="280.69800" />
+        <path
+           sodipodi:type="arc"
+           style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.14969410;stroke-linecap:square;stroke-miterlimit:2.5000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000"
+           id="path37839"
+           sodipodi:cx="431.10031"
+           sodipodi:cy="58.548401"
+           sodipodi:rx="0.39870062"
+           sodipodi:ry="0.37771639"
+           d="M 431.49901 58.548401 A 0.39870062 0.37771639 0 1 1  430.70161,58.548401 A 0.39870062 0.37771639 0 1 1  431.49901 58.548401 z"
+           transform="matrix(7.943667,0.000000,0.000000,8.263494,-3827.557,-191.4931)" />
+        <path
+           sodipodi:type="arc"
+           style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.16100000;stroke-linecap:square;stroke-miterlimit:2.5000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           id="path37841"
+           sodipodi:cx="431.10031"
+           sodipodi:cy="58.548401"
+           sodipodi:rx="0.39870062"
+           sodipodi:ry="0.37771639"
+           d="M 431.49901 58.548401 A 0.39870062 0.37771639 0 1 1  430.70161,58.548401 A 0.39870062 0.37771639 0 1 1  431.49901 58.548401 z"
+           transform="matrix(7.572869,0.000000,0.000000,7.493452,-3614.470,-146.5301)" />
+        <path
+           sodipodi:type="arc"
+           style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.16100000;stroke-linecap:square;stroke-miterlimit:2.5000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           id="path37843"
+           sodipodi:cx="431.10031"
+           sodipodi:cy="58.548401"
+           sodipodi:rx="0.39870062"
+           sodipodi:ry="0.37771639"
+           d="M 431.49901 58.548401 A 0.39870062 0.37771639 0 1 1  430.70161,58.548401 A 0.39870062 0.37771639 0 1 1  431.49901 58.548401 z"
+           transform="matrix(7.572869,0.000000,0.000000,7.493452,-3614.788,-93.85343)" />
+        <path
+           sodipodi:type="arc"
+           style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.16100000;stroke-linecap:square;stroke-miterlimit:2.5000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           id="path37845"
+           sodipodi:cx="431.10031"
+           sodipodi:cy="58.548401"
+           sodipodi:rx="0.39870062"
+           sodipodi:ry="0.37771639"
+           d="M 431.49901 58.548401 A 0.39870062 0.37771639 0 1 1  430.70161,58.548401 A 0.39870062 0.37771639 0 1 1  431.49901 58.548401 z"
+           transform="matrix(7.572869,0.000000,0.000000,7.493452,-3667.705,-93.85343)" />
+        <path
+           style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0f29f2;stroke-width:0.75330561;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:1.5066112 0.75330558 0.37665279 0.75330558 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000"
+           d="M -409.04780,292.25283 L -396.50864,292.21799"
+           id="path37847" />
+        <path
+           style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0f29f2;stroke-width:0.75330561;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:1.5066112 0.75330558 0.37665279 0.75330558 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           d="M -403.04244,286.50206 L -403.00715,298.90972"
+           id="path37849" />
+        <path
+           style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0f29f2;stroke-width:0.75330561;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:1.5066112 0.75330558 0.37665279 0.75330558 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           d="M -355.85975,292.22915 L -343.32060,292.19431"
+           id="path37851" />
+        <path
+           style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0f29f2;stroke-width:0.75330561;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:1.5066112 0.75330558 0.37665279 0.75330558 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           d="M -349.85439,286.47845 L -349.81910,298.88611"
+           id="path37853" />
+        <path
+           style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0f29f2;stroke-width:0.75330561;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:1.5066112 0.75330558 0.37665279 0.75330558 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           d="M -356.07990,344.74207 L -343.54074,344.70722"
+           id="path37855" />
+        <path
+           style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0f29f2;stroke-width:0.75330561;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:1.5066112 0.75330558 0.37665279 0.75330558 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           d="M -350.07454,338.99137 L -350.26719,365.72096"
+           id="path37857"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0f29f2;stroke-width:0.75330561;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:1.5066112 0.75330558 0.37665279 0.75330558 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           d="M -409.14935,344.74207 L -396.61019,344.70722"
+           id="path37859" />
+        <path
+           style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#0f29f2;stroke-width:0.75330561;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:1.5066112 0.75330558 0.37665279 0.75330558 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           d="M -403.03002,338.99137 L -403.22267,365.83373"
+           id="path37861"
+           sodipodi:nodetypes="cc" />
+        <rect
+           style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#000000;stroke-width:0.47660792;stroke-linecap:square;stroke-miterlimit:2.5000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           id="rect37863"
+           width="78.913040"
+           height="4.7703414"
+           x="-415.81039"
+           y="357.96103" />
+        <rect
+           style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#010101;stroke-width:0.24927785;stroke-linecap:square;stroke-miterlimit:2.5000000;stroke-dasharray:0.24927783 0.74783347 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000"
+           id="rect37865"
+           width="5.9203353"
+           height="5.1885853"
+           x="-405.96530"
+           y="357.41922" />
+        <rect
+           style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;stroke:#010101;stroke-width:0.24927785;stroke-linecap:square;stroke-miterlimit:2.5000000;stroke-dasharray:0.24927783 0.74783347 ;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;display:inline"
+           id="rect37867"
+           width="5.9203353"
+           height="5.1885853"
+           x="-353.25659"
+           y="357.36285" />
+      </g>
+    </g>
+  </g>
+</svg>

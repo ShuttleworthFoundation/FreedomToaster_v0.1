@@ -1,0 +1,394 @@
+# translation of fr.po to Français
+# translation of images.po to Français
+# Paroz Claude, 2006.
+# Paroz Claude, 2006.
+msgid ""
+msgstr ""
+"Project-Id-Version: fr\n"
+"POT-Creation-Date: 2006-04-15 00:03+0200\n"
+"PO-Revision-Date: 2006-04-15 15:15+0200\n"
+"Last-Translator: Paroz Claude\n"
+"Language-Team: Français <fr@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.10.2\n"
+
+#: images/base-plate.svg:279(format) images/electric.svg:279(format)
+#: images/first-angle.svg:279(format) images/monitor-bracket.svg:275(format)
+#: images/pc-board.svg:42(format) images/roof-plate.svg:279(format)
+#: images/tower-bracket.svg:275(format)
+msgid "image/svg+xml"
+msgstr "image/svg+xml"
+
+#: images/base-plate.svg:360(tspan) images/first-angle.svg:382(tspan)
+#, no-wrap
+msgid "355 mm"
+msgstr "355 mm"
+
+#: images/base-plate.svg:374(tspan) images/first-angle.svg:396(tspan)
+#: images/roof-plate.svg:871(tspan)
+#, no-wrap
+msgid "1050 mm"
+msgstr "1050 mm"
+
+#: images/base-plate.svg:425(tspan) images/first-angle.svg:454(tspan)
+#, no-wrap
+msgid "1055 mm"
+msgstr "1055 mm"
+
+#: images/base-plate.svg:474(tspan) images/electric.svg:557(tspan)
+#: images/first-angle.svg:526(tspan)
+#, no-wrap
+msgid "TOP VIEW"
+msgstr "Vue de dessus"
+
+#: images/base-plate.svg:487(tspan) images/electric.svg:567(tspan)
+#: images/first-angle.svg:539(tspan)
+#, no-wrap
+msgid "FRONT VIEW"
+msgstr "Vue de face"
+
+#: images/base-plate.svg:536(tspan) images/first-angle.svg:659(tspan)
+#, no-wrap
+msgid "950 mm"
+msgstr "950 mm"
+
+#: images/base-plate.svg:557(tspan) images/electric.svg:750(tspan)
+#: images/first-angle.svg:841(tspan)
+#, no-wrap
+msgid "LEFT SIDE VIEW"
+msgstr "Vue de gauche"
+
+#: images/base-plate.svg:609(tspan) images/first-angle.svg:1407(tspan)
+#: images/roof-plate.svg:1032(tspan)
+#, no-wrap
+msgid "710 mm"
+msgstr "710 mm"
+
+#: images/base-plate.svg:655(tspan) images/first-angle.svg:1973(tspan)
+#, no-wrap
+msgid "20 mm"
+msgstr "20 mm"
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
+#: images/base-plate.svg:0(None) images/electric.svg:0(None)
+#: images/first-angle.svg:0(None) images/monitor-bracket.svg:0(None)
+#: images/pc-board.svg:0(None) images/roof-plate.svg:0(None)
+#: images/tower-bracket.svg:0(None)
+msgid "translator-credits"
+msgstr "Claude Paroz <paroz@email.ch>, 2006"
+
+#: images/electric.svg:613(tspan) images/first-angle.svg:610(tspan)
+#, no-wrap
+msgid "BACK VIEW"
+msgstr "Vue arrière"
+
+#: images/electric.svg:660(tspan) images/first-angle.svg:715(tspan)
+#, no-wrap
+msgid "10 mm dia"
+msgstr "10 mm dia"
+
+#: images/electric.svg:728(tspan) images/first-angle.svg:813(tspan)
+#, no-wrap
+msgid "85 mm"
+msgstr "85 mm"
+
+#: images/electric.svg:740(tspan) images/first-angle.svg:828(tspan)
+#: images/roof-plate.svg:883(tspan)
+#, no-wrap
+msgid "35 mm"
+msgstr "35 mm"
+
+#: images/electric.svg:934(tspan) images/electric.svg:958(tspan)
+#: images/first-angle.svg:1205(tspan) images/first-angle.svg:1238(tspan)
+#: images/first-angle.svg:1355(tspan) images/pc-board.svg:297(tspan)
+#, no-wrap
+msgid "H"
+msgstr "H"
+
+#: images/electric.svg:1041(tspan) images/electric.svg:1060(tspan)
+#: images/first-angle.svg:2335(tspan) images/first-angle.svg:2357(tspan)
+#, no-wrap
+msgid "Hole for "
+msgstr "Trou pour"
+
+#: images/electric.svg:1045(tspan) images/electric.svg:1064(tspan)
+#: images/first-angle.svg:2339(tspan) images/first-angle.svg:2361(tspan)
+#, no-wrap
+msgid "AC Main "
+msgstr "Câble"
+
+#: images/electric.svg:1049(tspan) images/electric.svg:1068(tspan)
+#: images/first-angle.svg:2343(tspan) images/first-angle.svg:2365(tspan)
+#, no-wrap
+msgid "Cable"
+msgstr "d'alimentation"
+
+#: images/electric.svg:1930(tspan)
+#, no-wrap
+msgid "220V AC"
+msgstr "220V AC"
+
+#: images/electric.svg:1940(tspan)
+#, no-wrap
+msgid "3-point adapter"
+msgstr "Adaptateur 3 points"
+
+#: images/electric.svg:1997(tspan)
+#, no-wrap
+msgid "Connect all 6 fittings"
+msgstr "Connecter les 6 tubes"
+
+#: images/electric.svg:2001(tspan)
+#, no-wrap
+msgid "using parallel"
+msgstr "avec des"
+
+#: images/electric.svg:2005(tspan)
+#, no-wrap
+msgid "connections"
+msgstr "connexions parallèles"
+
+#: images/electric.svg:2028(tspan) images/electric.svg:2229(tspan)
+#, no-wrap
+msgid "1"
+msgstr "1"
+
+#: images/electric.svg:2052(tspan) images/electric.svg:2255(tspan)
+#, no-wrap
+msgid "2"
+msgstr "2"
+
+#: images/electric.svg:2076(tspan) images/electric.svg:2281(tspan)
+#, no-wrap
+msgid "3"
+msgstr "3"
+
+#: images/electric.svg:2100(tspan) images/electric.svg:2307(tspan)
+#, no-wrap
+msgid "4"
+msgstr "4"
+
+#: images/electric.svg:2124(tspan) images/electric.svg:2333(tspan)
+#, no-wrap
+msgid "5"
+msgstr "5"
+
+#: images/electric.svg:2148(tspan) images/electric.svg:2359(tspan)
+#, no-wrap
+msgid "6"
+msgstr "6"
+
+#: images/electric.svg:2182(tspan)
+#, no-wrap
+msgid "Connect"
+msgstr "Connecter"
+
+#: images/electric.svg:2186(tspan)
+#, no-wrap
+msgid "Computer Power Supply"
+msgstr "l'alimentation de l'ordinateur"
+
+#: images/electric.svg:2196(tspan)
+#, no-wrap
+msgid "#1 - #6 = "
+msgstr "#1 - #6 = "
+
+#: images/electric.svg:2200(tspan)
+#, no-wrap
+msgid "625mm"
+msgstr "625mm"
+
+#: images/electric.svg:2204(tspan)
+#, no-wrap
+msgid "18W  Single Flouresent Fittings"
+msgstr "Tube néon 18W"
+
+#: images/first-angle.svg:513(tspan)
+#, no-wrap
+msgid "518 mm"
+msgstr "518 mm"
+
+#: images/first-angle.svg:881(tspan)
+#, no-wrap
+msgid "530 mm"
+msgstr "530 mm"
+
+#: images/first-angle.svg:1080(tspan)
+#, no-wrap
+msgid "120 mm"
+msgstr "120 mm"
+
+#: images/first-angle.svg:1103(tspan)
+#, no-wrap
+msgid "180 mm"
+msgstr "180 mm"
+
+#: images/first-angle.svg:1277(tspan) images/first-angle.svg:1794(tspan)
+#, no-wrap
+msgid "300 mm"
+msgstr "300 mm"
+
+#: images/first-angle.svg:1698(tspan)
+#, no-wrap
+msgid "1800 mm"
+msgstr "1800 mm"
+
+#: images/first-angle.svg:1809(tspan)
+#, no-wrap
+msgid "330 mm"
+msgstr "330 mm"
+
+#: images/first-angle.svg:1872(tspan)
+#, no-wrap
+msgid "135 mm"
+msgstr "135 mm"
+
+#: images/first-angle.svg:1902(tspan)
+#, no-wrap
+msgid "160 mm"
+msgstr "160 mm"
+
+#: images/first-angle.svg:1933(tspan)
+#, no-wrap
+msgid "870 mm"
+msgstr "870 mm"
+
+#: images/first-angle.svg:2019(tspan)
+#, no-wrap
+msgid "415 mm"
+msgstr "415 mm"
+
+#: images/first-angle.svg:2051(tspan)
+#, no-wrap
+msgid "310 mm"
+msgstr "310 mm"
+
+#: images/first-angle.svg:2065(tspan)
+#, no-wrap
+msgid "25 mm"
+msgstr "25 mm"
+
+#: images/monitor-bracket.svg:423(tspan) images/monitor-bracket.svg:455(tspan)
+#: images/tower-bracket.svg:594(tspan)
+#, no-wrap
+msgid "105 mm"
+msgstr "105 mm"
+
+#: images/monitor-bracket.svg:712(tspan)
+#, no-wrap
+msgid "250 mm"
+msgstr "250 mm"
+
+#: images/pc-board.svg:183(tspan)
+#, no-wrap
+msgid "A"
+msgstr "A"
+
+#: images/pc-board.svg:197(tspan)
+#, no-wrap
+msgid "B"
+msgstr "B"
+
+#: images/pc-board.svg:211(tspan)
+#, no-wrap
+msgid "C"
+msgstr "C"
+
+#: images/pc-board.svg:225(tspan)
+#, no-wrap
+msgid "D"
+msgstr "D"
+
+#: images/pc-board.svg:239(tspan)
+#, no-wrap
+msgid "E"
+msgstr "E"
+
+#: images/pc-board.svg:253(tspan)
+#, no-wrap
+msgid "F"
+msgstr "F"
+
+#: images/pc-board.svg:267(tspan)
+#, no-wrap
+msgid "G"
+msgstr "G"
+
+#: images/pc-board.svg:308(tspan)
+#, no-wrap
+msgid "I"
+msgstr "I"
+
+#: images/pc-board.svg:318(tspan)
+#, no-wrap
+msgid "J"
+msgstr "J"
+
+#: images/pc-board.svg:374(tspan)
+#, no-wrap
+msgid "K"
+msgstr "K"
+
+#: images/pc-board.svg:384(tspan)
+#, no-wrap
+msgid "L"
+msgstr "L"
+
+#: images/pc-board.svg:504(tspan) images/pc-board.svg:514(tspan)
+#: images/pc-board.svg:524(tspan)
+#, no-wrap
+msgid "CD/DVD"
+msgstr "CD/DVD"
+
+#: images/pc-board.svg:534(tspan)
+#, no-wrap
+msgid "IDE Controller"
+msgstr "Contrôleur IDE"
+
+#: images/pc-board.svg:563(tspan)
+#, no-wrap
+msgid "HDD"
+msgstr "Disque dur"
+
+#: images/pc-board.svg:574(tspan)
+#, no-wrap
+msgid "SATA Mother Board"
+msgstr "Carte mère Sata"
+
+#: images/roof-plate.svg:909(tspan)
+#, no-wrap
+msgid "front"
+msgstr "de face"
+
+#: images/roof-plate.svg:920(tspan)
+#, no-wrap
+msgid "top"
+msgstr "de dessus"
+
+#: images/roof-plate.svg:931(tspan)
+#, no-wrap
+msgid "lsv"
+msgstr "de gauche"
+
+#: images/roof-plate.svg:973(tspan)
+#, no-wrap
+msgid "305 mm"
+msgstr "305 mm"
+
+#: images/roof-plate.svg:1005(tspan)
+#, no-wrap
+msgid "10 mm"
+msgstr "10 mm"
+
+#: images/roof-plate.svg:1054(tspan)
+#, no-wrap
+msgid "177 mm"
+msgstr "177 mm"
+
+#: images/tower-bracket.svg:646(tspan) images/tower-bracket.svg:658(tspan)
+#, no-wrap
+msgid "125 mm"
+msgstr "125 mm"
+

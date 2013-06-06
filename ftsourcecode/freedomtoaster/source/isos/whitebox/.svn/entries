@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="483"
+   name=""
+   committed-date="2006-06-24T15:20:39.491741Z"
+   url="svn://edison.tsf.org.za/freedomtoaster/trunk/source/isos/whitebox"
+   last-author="claude.paroz"
+   kind="dir"
+   uuid="d86654f9-5701-0410-bb18-eb70f6cf68f4"
+   repos="svn://edison.tsf.org.za/freedomtoaster"
+   revision="491"/>
+<entry
+   name="liberation"
+   kind="dir"/>
+<entry
+   committed-rev="453"
+   name="whitebox.xml"
+   text-time="2006-11-03T09:15:15.000000Z"
+   committed-date="2006-06-11T14:31:19.868602Z"
+   checksum="5f583f7e082d5228e94e5d700a23f3af"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:15.000000Z"/>
+<entry
+   committed-rev="453"
+   name="whitebox-fr.xml"
+   text-time="2006-11-03T09:15:15.000000Z"
+   committed-date="2006-06-11T14:31:19.868602Z"
+   checksum="f0b2e79f5f55add21100097819fb34d8"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:15.000000Z"/>
+</wc-entries>

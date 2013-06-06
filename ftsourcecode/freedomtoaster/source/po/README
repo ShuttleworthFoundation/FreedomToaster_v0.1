@@ -1,0 +1,50 @@
+             The Freedom Toaster translation toolchain
+              ==========================
+              
+When strings change somewhere in the source code of the Freedom Toaster
+software, the Makefile in the po folder provide commands for updating the
+templates for translation. The entire toolchain is described here:
+
+1) A string changes in a source file (HTMl, Perl, etc.)
+2) "make pot" creates a new .pot (template) file
+3) The new pot file should then be uploaded to Rosetta
+    https://launchpad.net/products/ftsoftware/+translations
+4) When translators have translated the new/modified strings, the po files 
+    are downloaded from Rosetta and commited in SVN
+5) If a new language (.po file) is downloaded, the LINGUAS file has to be
+    updated with the new language code, as well as the kiosk/languages.txt
+    file
+6) "make translations" regenerates the localised HTML files for each 
+    language, as well as the .mo compiled file
+
+About images
+========
+When an image needs to be localized, create a .png file without the English
+text, and save it in the image-factory folder. Import the png in Inkscape and
+add the English text in a text block here. Save the resulting file in a .svg file
+in image-factory.
+As svg files are XML, this allows for extracting all strings to be put in a .po
+translation file.
+
+At build time ('make translations'), it replaces the original text with the 
+localized one and export the result in a .png localized image in the 
+/locale/../image dir.
+
+Copyright (c) 2006, Claude Paroz <paroz@email.ch>
+
+   This program is free software; you can redistribute it and/or modify
+   it under the terms of the GNU General Public License as published by
+   the Free Software Foundation; either version 2 of the License, or
+   (at your option) any later version.
+
+   This program is distributed in the hope that it will be useful,
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+   GNU General Public License for more details.
+
+   You should have received a copy of the GNU General Public License along
+   with this program; if not, write to the Free Software Foundation, Inc.
+   59 Temple Place, Suite 330, Boston, MA 02111-1307 USA.
+
+On Debian systems, the complete text of the GNU General Public License can
+be found in the `/usr/share/common-licenses/GPL' file.

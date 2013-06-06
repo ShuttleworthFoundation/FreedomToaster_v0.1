@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.4//EN"
+                      "http://www.docbook.org/xml/4.4/docbookx.dtd" [
+<!ENTITY % globalent SYSTEM "../common/global.ent">
+%globalent;
+]>
+<book>
+	<bookinfo>
+		<title>Maintenance Manual</title>
+		<subtitle>Servicing the Freedom Toaster</subtitle>
+		<authorgroup>
+			<author>
+				<firstname>Sean</firstname>
+				<surname>Wheller</surname>
+			</author>
+		</authorgroup>
+		&licensenotice;
+		<!-- TRANS:ROLES_OF_TRANSLATORS -->
+	</bookinfo>
+	<chapter>
+		<title>Introduction</title>
+		<para>...</para>
+		<sect1>
+			<title>Scope</title>
+			<para>Text</para>
+		</sect1>
+		<sect1>
+			<title>Prerequisites</title>
+			<para>...</para>
+		</sect1>
+		<sect1>
+			<title>Associated Documentation</title>
+			<para>The following documents are associated with this document:</para>
+			<variablelist> &assembly-desc; &installation-desc;
+				<!--&maintenance-desc;--> &customization-desc; &user-desc;</variablelist>
+		</sect1>
+		<sect1>
+			<title>Requirements</title>
+			<para>...</para>
+		</sect1>
+	</chapter>
+	</book>
+	

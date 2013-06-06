@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="483"
+   name=""
+   committed-date="2006-06-24T15:20:39.491741Z"
+   url="svn://edison.tsf.org.za/freedomtoaster/trunk/source/isos/debian"
+   last-author="claude.paroz"
+   kind="dir"
+   uuid="d86654f9-5701-0410-bb18-eb70f6cf68f4"
+   repos="svn://edison.tsf.org.za/freedomtoaster"
+   revision="491"/>
+<entry
+   name="sarge"
+   kind="dir"/>
+<entry
+   committed-rev="453"
+   name="debian.xml"
+   text-time="2006-11-03T09:15:15.000000Z"
+   committed-date="2006-06-11T14:31:19.868602Z"
+   checksum="a288526922e30d33e3246de2645693e4"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:15.000000Z"/>
+<entry
+   committed-rev="453"
+   name="debian-fr.xml"
+   text-time="2006-11-03T09:15:15.000000Z"
+   committed-date="2006-06-11T14:31:19.868602Z"
+   checksum="8a3531b02510feb59ab0f682cb67853b"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:15.000000Z"/>
+</wc-entries>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ENTITY ubuntu-ver "5.10 (Intel x86 Edition)" >
+<!ENTITY toaster-ver "3.0" >
+<!ENTITY licensenotice SYSTEM "licensenotice.xml" >
+<!ENTITY assembly-desc SYSTEM "assembly-desc.xml" >
+<!ENTITY installation-desc SYSTEM "installation-desc.xml" >
+<!ENTITY maintenance-desc SYSTEM "maintenance-desc.xml" >
+<!ENTITY customization-desc SYSTEM "customization-desc.xml" >
+<!ENTITY user-desc SYSTEM "user-desc.xml" >

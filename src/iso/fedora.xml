@@ -1,0 +1,16 @@
+<iso>
+<displayname>Fedora Core 6 (DVD)</displayname>
+<description>Fedora is a powerful, fast-changing Linux distribution. It can be used as a desktop or server environment, or it can be used to learn about Linux and experiment with new technologies.</description>
+<longdescription>Fedora is a powerful, fast-changing Linux distribution. It can be used as a desktop or server environment, or it can be used to learn about Linux and experiment with new technologies.
+
+The DVD includes the operating system, server software and applications, inluding:
+- asd
+- dsa
+- qwe
+- ewq
+
+The Fedora project is sponsored by RedHat.</longdescription>
+<picture>fedora.png</picture>
+<filename>FC-6-i386-disc1.iso</filename>
+<type>DVD</type>
+</iso>

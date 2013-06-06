@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="483"
+   name=""
+   committed-date="2006-06-24T15:20:39.491741Z"
+   url="svn://edison.tsf.org.za/freedomtoaster/trunk/source/isos/slackware/10.2"
+   last-author="claude.paroz"
+   kind="dir"
+   uuid="d86654f9-5701-0410-bb18-eb70f6cf68f4"
+   repos="svn://edison.tsf.org.za/freedomtoaster"
+   revision="491"/>
+<entry
+   name="CD"
+   kind="dir"/>
+<entry
+   committed-rev="483"
+   name="Slackware10.2.xml"
+   text-time="2006-11-03T09:15:16.000000Z"
+   committed-date="2006-06-24T15:20:39.491741Z"
+   checksum="96c4279862c1bea4331ffb855b83f39b"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:16.000000Z"/>
+</wc-entries>

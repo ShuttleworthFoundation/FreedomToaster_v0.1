@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="490"
+   name=""
+   committed-date="2006-07-12T04:47:05.521561Z"
+   url="svn://edison.tsf.org.za/freedomtoaster/trunk/source/kiosk/locale/en"
+   last-author="charles.oertel"
+   kind="dir"
+   uuid="d86654f9-5701-0410-bb18-eb70f6cf68f4"
+   repos="svn://edison.tsf.org.za/freedomtoaster"
+   revision="491"/>
+<entry
+   committed-rev="490"
+   name="index5.html"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-07-12T04:47:05.521561Z"
+   checksum="b809d975817c3b7f983297aa18afae07"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:09.000000Z"/>
+<entry
+   committed-rev="471"
+   name="cc_cartoon2.html"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-14T18:32:31.165109Z"
+   checksum="d9281a6b666209f8e38b2b04ae89ed6f"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:09.000000Z"/>
+<entry
+   committed-rev="440"
+   name="index6.html"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-10T16:58:03.576532Z"
+   checksum="52278fc7c48defea50b0b13a77bbee2d"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:09.000000Z"/>
+<entry
+   committed-rev="440"
+   name="index7.html"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-10T16:58:03.576532Z"
+   checksum="46fbc2a226b86885095b9a68b9bd67a9"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:09.000000Z"/>
+<entry
+   name="images"
+   kind="dir"/>
+<entry
+   name="help"
+   kind="dir"/>
+<entry
+   committed-rev="472"
+   name="index0.html"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-14T18:39:54.093410Z"
+   checksum="d7bb99db8fcc3b87ee4389521352d924"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:10.000000Z"/>
+<entry
+   committed-rev="440"
+   name="index1.html"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-10T16:58:03.576532Z"
+   checksum="d1515589d4a8dd22c97b5defcd4a18e1"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:10.000000Z"/>
+<entry
+   committed-rev="440"
+   name="index2.html"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-10T16:58:03.576532Z"
+   checksum="ce49b4d836e42eb44412c2f022b0ced4"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:10.000000Z"/>
+<entry
+   committed-rev="440"
+   name="index99.html"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-10T16:58:03.576532Z"
+   checksum="469c5d2a94ea83fb38678868de0ed961"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:10.000000Z"/>
+<entry
+   name="sayings"
+   kind="dir"/>
+<entry
+   committed-rev="440"
+   name="index3.html"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-10T16:58:03.576532Z"
+   checksum="0cdfe9a14c85141855406dec7395ae5b"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:10.000000Z"/>
+<entry
+   committed-rev="440"
+   name="index4.html"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-10T16:58:03.576532Z"
+   checksum="9659cae6aa499871d850a70f1d12cc25"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:10.000000Z"/>
+<entry
+   committed-rev="471"
+   name="cc_cartoon1.html"
+   text-time="2006-11-03T09:15:10.000000Z"
+   committed-date="2006-06-14T18:32:31.165109Z"
+   checksum="c5eb6b1eef03ae9fcc3cca5d69b85fa0"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:10.000000Z"/>
+</wc-entries>

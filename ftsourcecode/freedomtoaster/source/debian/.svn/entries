@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="485"
+   name=""
+   committed-date="2006-06-24T19:52:13.085357Z"
+   url="svn://edison.tsf.org.za/freedomtoaster/trunk/source/debian"
+   last-author="claude.paroz"
+   kind="dir"
+   uuid="d86654f9-5701-0410-bb18-eb70f6cf68f4"
+   repos="svn://edison.tsf.org.za/freedomtoaster"
+   revision="491"/>
+<entry
+   committed-rev="485"
+   name="freedomtoaster.postrm.debhelper"
+   text-time="2006-11-03T09:15:07.000000Z"
+   committed-date="2006-06-24T19:52:13.085357Z"
+   checksum="b1a1efc39eebaf78336368c9129df9b8"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:07.000000Z"/>
+<entry
+   committed-rev="485"
+   name="control"
+   text-time="2006-11-03T09:15:07.000000Z"
+   committed-date="2006-06-24T19:52:13.085357Z"
+   checksum="16baaa5f59f97b567f5e437dd1f87ddc"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:07.000000Z"/>
+<entry
+   committed-rev="16"
+   name="compat"
+   text-time="2006-05-25T12:15:13.000000Z"
+   committed-date="2005-09-30T09:07:07.106835Z"
+   checksum="48a24b70a0b376535542b996af517398"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:13.000000Z"/>
+<entry
+   committed-rev="485"
+   name="config"
+   text-time="2006-11-03T09:15:07.000000Z"
+   committed-date="2006-06-24T19:52:13.085357Z"
+   checksum="f92f36fa47f83db9b5541ea3b3780b5f"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:07.000000Z"/>
+<entry
+   committed-rev="485"
+   name="freedomtoaster.postinst"
+   text-time="2006-11-03T09:15:07.000000Z"
+   committed-date="2006-06-24T19:52:13.085357Z"
+   checksum="388f1967cb60271509800939ad337a96"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:07.000000Z"/>
+<entry
+   committed-rev="485"
+   name="changelog"
+   text-time="2006-11-03T09:15:07.000000Z"
+   committed-date="2006-06-24T19:52:13.085357Z"
+   checksum="0c7f2fab6e61df6cefd56e98707b1c13"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:07.000000Z"/>
+<entry
+   committed-rev="485"
+   name="freedomtoaster.prerm"
+   text-time="2006-11-03T09:15:07.000000Z"
+   committed-date="2006-06-24T19:52:13.085357Z"
+   checksum="0febbe1bccbd6e7e34d832eb284d3d4b"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:07.000000Z"/>
+<entry
+   committed-rev="485"
+   name="copyright"
+   text-time="2006-11-03T09:15:07.000000Z"
+   committed-date="2006-06-24T19:52:13.085357Z"
+   checksum="8cd67a7c9b6060ecd5be63c22b43ca21"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:07.000000Z"/>
+<entry
+   committed-rev="485"
+   name="rules"
+   text-time="2006-11-03T09:15:07.000000Z"
+   committed-date="2006-06-24T19:52:13.085357Z"
+   checksum="9ab5be2a3034e3a84c1fa65912194669"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:07.000000Z"/>
+<entry
+   committed-rev="485"
+   name="templates"
+   text-time="2006-11-03T09:15:07.000000Z"
+   committed-date="2006-06-24T19:52:13.085357Z"
+   checksum="8f547bf7791b9a88589385e0c0ceb022"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:07.000000Z"/>
+</wc-entries>

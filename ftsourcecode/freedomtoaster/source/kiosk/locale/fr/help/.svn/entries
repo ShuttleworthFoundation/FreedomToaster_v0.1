@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="475"
+   name=""
+   committed-date="2006-06-14T21:04:17.655284Z"
+   url="svn://edison.tsf.org.za/freedomtoaster/trunk/source/kiosk/locale/fr/help"
+   last-author="claude.paroz"
+   kind="dir"
+   uuid="d86654f9-5701-0410-bb18-eb70f6cf68f4"
+   repos="svn://edison.tsf.org.za/freedomtoaster"
+   revision="491"/>
+<entry
+   committed-rev="443"
+   name="advanced_burning_options.html"
+   text-time="2006-11-03T09:15:13.000000Z"
+   committed-date="2006-06-11T07:41:37.373322Z"
+   checksum="5feba02d0f837c9beb1a5441e659d8aa"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:12.000000Z"/>
+<entry
+   committed-rev="443"
+   name="advanced_queue_options.html"
+   text-time="2006-11-03T09:15:13.000000Z"
+   committed-date="2006-06-11T07:41:37.373322Z"
+   checksum="599317579204b5354b5cbc70736841ff"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:12.000000Z"/>
+<entry
+   committed-rev="443"
+   name="show_queue.html"
+   text-time="2006-11-03T09:15:13.000000Z"
+   committed-date="2006-06-11T07:41:37.373322Z"
+   checksum="56121cbac9007a292c74796124110289"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:12.000000Z"/>
+<entry
+   committed-rev="475"
+   name="find_cc_files.html"
+   text-time="2006-11-03T09:15:13.000000Z"
+   committed-date="2006-06-14T21:04:17.655284Z"
+   checksum="13019dfc9068b05319fd7434b90f07ee"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:12.000000Z"/>
+<entry
+   committed-rev="443"
+   name="distro_burning.html"
+   text-time="2006-11-03T09:15:13.000000Z"
+   committed-date="2006-06-11T07:41:37.373322Z"
+   checksum="c90e460af1383a795819ea2c69ecbeaf"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:12.000000Z"/>
+<entry
+   committed-rev="457"
+   name="cc_licenses.html"
+   text-time="2006-11-03T09:15:13.000000Z"
+   committed-date="2006-06-12T18:09:19.175482Z"
+   checksum="b18f08b5bcab2867d908a48902a7195d"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:12.000000Z"/>
+</wc-entries>

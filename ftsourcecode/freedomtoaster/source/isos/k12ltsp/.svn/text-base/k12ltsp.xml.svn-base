@@ -1,0 +1,18 @@
+<?xml version='1.0'?>
+<distro>
+   <name>K12LTSP</name>
+   <description>What SLUG install in tuXlab schools</description>
+   <advantages>
+      <advantage>It is based upon the Fedora distribution</advantage>
+      <advantage>It therefore has wide support and the backing of a company like RedHat</advantage>
+      <advantage>It has been successfully deployed througout schools across the peninsula</advantage>
+      <advantage>It has all the education applications built in</advantage>
+      <advantage>It is build specifically for using Linux in a thin client (terminal server) environment</advantage>
+   </advantages>
+   <disadvantages>
+      <disadvantage>It is built on Fedora Core</disadvantage>
+   </disadvantages>
+   <defaults>
+     <defaultVersion>k12ltsp|4.2.1|CD|5</defaultVersion>
+   </defaults>
+</distro>

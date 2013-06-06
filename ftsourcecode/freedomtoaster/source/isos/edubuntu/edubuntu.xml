@@ -1,0 +1,20 @@
+<?xml version='1.0'?>
+<distro>
+   <name>EdUbuntu</name>
+   <description>Mark Shuttleworth's New Venture</description>
+   <advantages>
+      <advantage>Based upon the world-famous Ubuntu distribution</advantage>
+      <advantage>It is "desktop ready"</advantage>
+      <advantage>It is a single disc</advantage>
+      <advantage>It is easy to install and has some features that are "Proudly South African"</advantage>
+      <advantage>It is simple to install and certainly recommended for the novice</advantage>
+      <advantage>The most recent version sets the standard in many 
+areas</advantage>
+   </advantages>
+   <disadvantages>
+      <disadvantage>Can you think of any disadvantages to equipping schools with free computer software?</disadvantage>
+   </disadvantages>
+   <defaults>
+     <defaultVersion>edubuntu|5.10-Install-Breezy|CD|1</defaultVersion>
+   </defaults>
+</distro>

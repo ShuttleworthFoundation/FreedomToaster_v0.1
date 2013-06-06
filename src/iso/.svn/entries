@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="29"
+   name=""
+   committed-date="2007-04-09T01:19:52.956061Z"
+   url="svn://cdot.senecac.on.ca/toaster/src/iso"
+   last-author="andrew"
+   kind="dir"
+   uuid="c536e36b-9324-0410-a305-908bdbc2b7e3"
+   repos="svn://cdot.senecac.on.ca/toaster"
+   revision="30"/>
+<entry
+   committed-rev="29"
+   name="fedora.xml"
+   text-time="2007-04-12T07:22:01.000000Z"
+   committed-date="2007-04-09T01:19:52.956061Z"
+   checksum="df3d0be89c5ea599849fd4a8b0617272"
+   last-author="andrew"
+   kind="file"
+   prop-time="2007-04-12T07:21:59.000000Z"/>
+<entry
+   committed-rev="29"
+   name="opensuse.xml"
+   text-time="2007-04-12T07:22:01.000000Z"
+   committed-date="2007-04-09T01:19:52.956061Z"
+   checksum="d9b999978bd6e7a43380f5c30664b114"
+   last-author="andrew"
+   kind="file"
+   prop-time="2007-04-12T07:21:59.000000Z"/>
+<entry
+   committed-rev="27"
+   name="systemrescuecd.xml"
+   text-time="2007-04-12T07:22:01.000000Z"
+   committed-date="2007-04-08T07:20:24.121542Z"
+   checksum="a238dba6889a76e094d6b999c7a51b03"
+   last-author="andrew"
+   kind="file"
+   prop-time="2007-04-12T07:21:59.000000Z"/>
+<entry
+   committed-rev="29"
+   name="ubuntu.xml"
+   text-time="2007-04-12T07:22:01.000000Z"
+   committed-date="2007-04-09T01:19:52.956061Z"
+   checksum="7ec1f241943c58540f621a04aa46c276"
+   last-author="andrew"
+   kind="file"
+   prop-time="2007-04-12T07:21:59.000000Z"/>
+<entry
+   committed-rev="7"
+   name="fedora.png"
+   text-time="2007-04-12T07:22:01.000000Z"
+   committed-date="2007-01-03T22:32:10.910549Z"
+   checksum="a7facfd5ac9b421734262cf447b92918"
+   last-author="andrew"
+   kind="file"
+   prop-time="2007-04-12T07:21:59.000000Z"/>
+<entry
+   committed-rev="7"
+   name="opensuse.png"
+   text-time="2007-04-12T07:22:01.000000Z"
+   committed-date="2007-01-03T22:32:10.910549Z"
+   checksum="06ab8a5ed60523980154b7e9af1c6c90"
+   last-author="andrew"
+   kind="file"
+   prop-time="2007-04-12T07:21:59.000000Z"/>
+<entry
+   committed-rev="27"
+   name="knoppixdvd.xml"
+   text-time="2007-04-12T07:22:01.000000Z"
+   committed-date="2007-04-08T07:20:24.121542Z"
+   checksum="94c1b926a704478800a1f628e09ce2ed"
+   last-author="andrew"
+   kind="file"
+   prop-time="2007-04-12T07:21:59.000000Z"/>
+<entry
+   committed-rev="18"
+   name="systemrescuecd.png"
+   text-time="2007-04-12T07:22:01.000000Z"
+   committed-date="2007-02-12T17:38:49.553366Z"
+   checksum="978e42e3aad2365f6d72ea65b598a28f"
+   last-author="andrew"
+   kind="file"
+   prop-time="2007-04-12T07:22:00.000000Z"/>
+<entry
+   committed-rev="7"
+   name="ubuntu.png"
+   text-time="2007-04-12T07:22:01.000000Z"
+   committed-date="2007-01-03T22:32:10.910549Z"
+   checksum="971b026dec171211d6f88202288c3ac3"
+   last-author="andrew"
+   kind="file"
+   prop-time="2007-04-12T07:22:00.000000Z"/>
+<entry
+   committed-rev="27"
+   name="opencd.xml"
+   text-time="2007-04-12T07:22:01.000000Z"
+   committed-date="2007-04-08T07:20:24.121542Z"
+   checksum="969b18f33074da5e448b6804a7e25ed9"
+   last-author="andrew"
+   kind="file"
+   prop-time="2007-04-12T07:22:00.000000Z"/>
+<entry
+   committed-rev="16"
+   name="knoppix.png"
+   text-time="2007-04-12T07:22:01.000000Z"
+   committed-date="2007-01-31T17:13:00.775289Z"
+   checksum="714927468eeb924d8c96dfd88f026c14"
+   last-author="andrew"
+   kind="file"
+   prop-time="2007-04-12T07:22:00.000000Z"/>
+<entry
+   committed-rev="16"
+   name="opencd.png"
+   text-time="2007-04-12T07:22:01.000000Z"
+   committed-date="2007-01-31T17:13:00.775289Z"
+   checksum="9c15a54f21be0ca248281809dfddfd36"
+   last-author="andrew"
+   kind="file"
+   prop-time="2007-04-12T07:22:01.000000Z"/>
+<entry
+   committed-rev="27"
+   name="knoppixcd.xml"
+   text-time="2007-04-12T07:22:01.000000Z"
+   committed-date="2007-04-08T07:20:24.121542Z"
+   checksum="44e713b6674744f4c114bfadd6dfed10"
+   last-author="andrew"
+   kind="file"
+   prop-time="2007-04-12T07:22:01.000000Z"/>
+</wc-entries>

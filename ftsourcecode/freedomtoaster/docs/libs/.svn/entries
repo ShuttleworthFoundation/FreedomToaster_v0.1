@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="185"
+   name=""
+   committed-date="2006-04-10T20:02:21.456506Z"
+   url="svn://edison.tsf.org.za/freedomtoaster/trunk/docs/libs"
+   last-author="sean.wheller"
+   kind="dir"
+   uuid="d86654f9-5701-0410-bb18-eb70f6cf68f4"
+   repos="svn://edison.tsf.org.za/freedomtoaster"
+   revision="349"/>
+<entry
+   committed-rev="73"
+   name="verdana.xml"
+   text-time="2006-05-25T12:15:26.000000Z"
+   committed-date="2006-03-01T14:22:03.432130Z"
+   checksum="4165a1c7e38490b681e966a70cf7cab3"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:25.000000Z"/>
+<entry
+   committed-rev="73"
+   name="fo.ft.titlepages.xsl"
+   text-time="2006-05-25T12:15:26.000000Z"
+   committed-date="2006-03-01T14:22:03.432130Z"
+   checksum="cdfc81e626251eae41683f864283e2b1"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:25.000000Z"/>
+<entry
+   committed-rev="73"
+   name="customspan.xsl"
+   text-time="2006-05-25T12:15:26.000000Z"
+   committed-date="2006-03-01T14:22:03.432130Z"
+   checksum="cd267ec0be9b0a20d15b5856876173ed"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:26.000000Z"/>
+<entry
+   committed-rev="73"
+   name="verdanab.xml"
+   text-time="2006-05-25T12:15:26.000000Z"
+   committed-date="2006-03-01T14:22:03.432130Z"
+   checksum="79523da08cd3b4d3d1453cbe8041e1ec"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:26.000000Z"/>
+<entry
+   committed-rev="185"
+   name="userconfig.xml"
+   text-time="2006-05-25T12:15:26.000000Z"
+   committed-date="2006-04-10T20:02:21.456506Z"
+   checksum="209f74beec6fd4e2211ad7e636c7bbb5"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:26.000000Z"/>
+<entry
+   committed-rev="184"
+   name="fo-cust.xsl"
+   text-time="2006-05-25T12:15:26.000000Z"
+   committed-date="2006-04-10T20:01:40.072850Z"
+   checksum="ab0bc6cbdaeaffb69694853d4fb87bf4"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:26.000000Z"/>
+<entry
+   committed-rev="73"
+   name="html-cust.xsl"
+   text-time="2006-05-25T12:15:26.000000Z"
+   committed-date="2006-03-01T14:22:03.432130Z"
+   checksum="295e9939f86966ac4e811ff639a96550"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:26.000000Z"/>
+<entry
+   committed-rev="73"
+   name="verdanai.xml"
+   text-time="2006-05-25T12:15:26.000000Z"
+   committed-date="2006-03-01T14:22:03.432130Z"
+   checksum="3069f9c8a0d18655a0ae3a8e7e33e427"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:26.000000Z"/>
+<entry
+   committed-rev="73"
+   name="xinclude.mod"
+   text-time="2006-05-25T12:15:26.000000Z"
+   committed-date="2006-03-01T14:22:03.432130Z"
+   checksum="4bb7ccb98998d3f26a586db58d51f705"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:26.000000Z"/>
+<entry
+   committed-rev="73"
+   name="common-cust.xsl"
+   text-time="2006-05-25T12:15:26.000000Z"
+   committed-date="2006-03-01T14:22:03.432130Z"
+   checksum="c93c539794aab19f78c794287dcca944"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:26.000000Z"/>
+<entry
+   committed-rev="73"
+   name="verdanaz.xml"
+   text-time="2006-05-25T12:15:26.000000Z"
+   committed-date="2006-03-01T14:22:03.432130Z"
+   checksum="16cb646c95f59eafe8d6862a15015085"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:26.000000Z"/>
+<entry
+   committed-rev="73"
+   name="html-chunk-cust.xsl"
+   text-time="2006-05-25T12:15:26.000000Z"
+   committed-date="2006-03-01T14:22:03.432130Z"
+   checksum="9bfc883339ba75c99f473fc7f2dc8bcc"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:26.000000Z"/>
+<entry
+   committed-rev="73"
+   name="html.titlepage.templates.xml"
+   text-time="2006-05-25T12:15:26.000000Z"
+   committed-date="2006-03-01T14:22:03.432130Z"
+   checksum="6b51e287524083e11d9dc56043ce1e6b"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:26.000000Z"/>
+<entry
+   committed-rev="73"
+   name="fo.titlepage.templates.xml"
+   text-time="2006-05-25T12:15:26.000000Z"
+   committed-date="2006-03-01T14:22:03.432130Z"
+   checksum="37c8e1457beba91372b5f7cecf28abd6"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:26.000000Z"/>
+</wc-entries>

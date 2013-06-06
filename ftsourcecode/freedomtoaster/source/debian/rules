@@ -1,0 +1,39 @@
+#!/usr/bin/make -f
+DESTINATION=$(CURDIR)/debian/freedomtoaster
+
+build: build-stamp
+build-stamp:
+	dh_testdir
+	$(MAKE) 
+	touch build-stamp
+
+
+install: build
+	dh_testdir
+	dh_testroot
+	dh_clean -k
+	dh_installdirs etc/apache2/sites-available etc/apache2/sites-enabled
+	$(MAKE) install DESTDIR=$(DESTINATION) HTMLDIR=/usr/share/freedomtoaster/html
+
+binary-indep: build install
+	dh_testdir
+	dh_testroot
+	dh_installchangelogs
+	dh_installdocs
+	dh_installdebconf
+	dh_compress
+	dh_installdeb
+	dh_gencontrol
+	dh_builddeb
+
+binary: binary-indep
+
+clean:
+	dh_testdir
+	dh_testroot
+	rm -f build-stamp
+	# Add here commands to clean up after the build process.
+	-$(MAKE) clean
+	dh_clean
+
+.PHONY: build clean binary-indep binary install

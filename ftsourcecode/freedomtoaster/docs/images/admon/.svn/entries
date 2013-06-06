@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="99"
+   name=""
+   committed-date="2006-03-05T07:56:08.451837Z"
+   url="svn://edison.tsf.org.za/freedomtoaster/trunk/docs/images/admon"
+   last-author="sean.wheller"
+   kind="dir"
+   uuid="d86654f9-5701-0410-bb18-eb70f6cf68f4"
+   repos="svn://edison.tsf.org.za/freedomtoaster"
+   revision="349"/>
+<entry
+   committed-rev="99"
+   name="tip.png"
+   text-time="2006-05-25T12:15:24.000000Z"
+   committed-date="2006-03-05T07:56:08.451837Z"
+   checksum="51e985cff57583428c96ce143c2981ca"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:24.000000Z"/>
+<entry
+   committed-rev="99"
+   name="important.png"
+   text-time="2006-05-25T12:15:24.000000Z"
+   committed-date="2006-03-05T07:56:08.451837Z"
+   checksum="fa424b87fd96f1d285a1701dce5866fb"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:24.000000Z"/>
+<entry
+   committed-rev="99"
+   name="caution.png"
+   text-time="2006-05-25T12:15:24.000000Z"
+   committed-date="2006-03-05T07:56:08.451837Z"
+   checksum="7fdfb4569324bc345206957e66b1d659"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:24.000000Z"/>
+<entry
+   committed-rev="99"
+   name="warning.png"
+   text-time="2006-05-25T12:15:24.000000Z"
+   committed-date="2006-03-05T07:56:08.451837Z"
+   checksum="fb4ed20859747ee9f7ca185160fbe4a8"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:24.000000Z"/>
+<entry
+   committed-rev="99"
+   name="note.png"
+   text-time="2006-05-25T12:15:24.000000Z"
+   committed-date="2006-03-05T07:56:08.451837Z"
+   checksum="3ca86bd7fa88bdb79d22bca6cf86da31"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:24.000000Z"/>
+</wc-entries>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<varlistentry>
+    <term>Assembly Manual</term>
+    <listitem>
+        <para>This document defines the Shuttleworth Foundation specification for manufacture of a
+            production Freedom Toaster system. It explains how to assemble the physical housing and
+            computer equipment that comprise a Freedom Toaster, it also provides the specifications
+            and instructions required in order to make those parts that are bespoke and cannot be
+            bought from a supply-store.</para>
+    </listitem>
+</varlistentry>

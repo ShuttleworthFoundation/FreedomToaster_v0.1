@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<distro>
+   <name>Debian</name>
+   <description>Un de nos favoris !</description>
+   <advantages>
+      <advantage>Debian dispose d'un des plus grands dépôts de logiciels libres</advantage>
+      <advantage>Il a une grande base d'utilisateurs</advantage>
+      <advantage>Un de ses aspects les plus appréciés et le système d'installation et de mise à jour des logiciels</advantage>
+      <advantage>Il privilégie la stabilité par rapport à la nouveauté. En conséquence, tous les paquets de la version stable sont vraiment stables et solides</advantage>
+   </advantages>
+   <disadvantages>
+      <disadvantage>Certains débutants avec Linux le trouvent difficile à installer et à configurer</disadvantage>
+      <disadvantage>Il privilégie la stabilité par rapport à la nouveauté. En conséquence, les paquets sont parfois un peu dépassés</disadvantage>
+      <disadvantage>Il vous faudra de nombreux CD pour obtenir la totale !</disadvantage>
+   </disadvantages>
+   <defaults>
+     <defaultVersion>debian|sarge|CD|14</defaultVersion>
+   </defaults>
+</distro>

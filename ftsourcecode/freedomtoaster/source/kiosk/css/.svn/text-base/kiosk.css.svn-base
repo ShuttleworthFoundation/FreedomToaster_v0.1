@@ -1,0 +1,396 @@
+/*******************************************************************************
+ * Kiosk CSS
+ * Purpose : Set appearance for the selector section of the Freedom Toaster
+ * Created : Charles Oertel (2005/11/05)
+ * License : GPL
+*******************************************************************************/
+body {
+	font-family: "Helvetica", "sans-serif";
+        font-size : small;
+}
+img {
+   border   :   none;
+   margin   :   0;
+}
+ 
+table {
+   margin : 3px auto;
+}
+
+A:link { text-decoration: none; }
+
+BUTTON { border: none; margin: 0; padding: 0}
+
+#distTxt { margin-left: 30px; margin-right: 30px; width: 300px; height: 240px; margin-top: 20px; text-align: center }
+.aboutDistroName {color: #bd6c0b; font-size: medium; font-weight: bold; text-align:left }
+.aboutDistro { font-size: small; color: #FFFFFF; text-align:left; }
+
+#changeCDs { color: #FFFFFF; margin-left: 128px; width: 760px; height: 440px; margin-top: 220px; text-align: center }
+.changeCDsTitle {color: #000000; font-size: x-large; padding: 20px;font-weight: bold; }
+.changeCDsTxt { font-size: medium;padding-top:30px; color: #FFFFFF; text-align:left; }
+#okBut { position: absolute; top: 170px; left: 160px; cursor: default; } 
+
+#didUKnow {position: absolute; margin-top: 35px; margin-left: 20px; width: 170px; height: 160px}
+.didBody { }
+
+#did { position: absolute; top: 400px; left:100px;}
+
+#topLbut {
+  position: absolute;
+  top: 71px;
+  left: 262px;
+}
+
+#topRbut {
+  position: absolute;
+  top: 71px;
+  left: 515px;
+}
+
+#closeBut {
+	position: absolute;
+	margin: 0;
+	top: 160px;
+	left: 20px;
+	cursor: default;
+}
+
+#onwardBut {
+	position: absolute;
+	margin: 0;
+	top: 160px;
+	left: 295px;
+	cursor: default;
+	border: none;
+}
+
+#whatUNeed li {
+	color: white;
+	font-size: small;
+}
+
+li {
+	font-size: large;
+	color: #000000;
+}
+
+li.distInfo {
+	color: white;
+	font-size: medium;
+}
+
+li.newL {
+	text-align: left;
+	font-size: x-large;
+	list-style-type: none;
+	letter-spacing:0.1em;
+	font-variant: small-caps;
+	list-style-image: none;
+}
+
+li.newR {
+	text-align: right;
+	font-size: x-large;
+	list-style-image:none;
+	letter-spacing:0.1em;
+	font-variant: small-caps;
+	list-style-type: none;
+}
+
+.credits {
+	font-size: medium;
+}
+.creditsTitle {
+	font-weight: bold;
+	font-size: medium;
+	color: #000000; 
+	text-align: right;
+}
+
+.hiddentxt {
+	color: #ec870e;
+}
+
+.emph {
+	font-weight: bold;	
+	color: #0000FF;
+}
+
+.e {
+	font-size: xx-large;	
+	color: #FFFFFF;
+}
+
+.infoHead {
+   width : 500px;
+   margin : 0 auto;
+   margin-top  :  20px;
+   height: 90px;
+   padding  :  0;
+	text-align: center;
+	font-variant: small-caps;
+	color: #000000;
+}
+h1 {
+   text-align: center;
+   font-variant: small-caps;
+   color: black;
+   font-size    :   x-large;
+   padding-top  :  10px;
+   margin-bottom:   20px;
+}
+h1+ul {
+   padding-top   :   40px;
+}
+
+h2 {
+   margin-bottom    :   0;
+   padding-bottom   :   0;
+   font-size        :   large;
+}
+h2+ul   {
+   margin-top   :   0;
+   padding-top  :   0;
+}
+
+#txtMoreInfoL {
+	text-align: left;
+}
+
+#txtMoreInfoR {
+	text-align: right;
+}
+
+#LearnMore, #finalPage, #moreInfo, #content, #help {
+	width: 700px;
+	height: 560px;
+   margin    : 0 auto;
+	font-size: large;
+	color: #FFFFFF;
+}
+div#content p {
+   color : black;
+   text-align  :  justify;
+}
+div#prevnext {
+	text-align	:	center;
+}
+
+div#help h1 {
+   text-align   : left;
+   margin-left  : 80px;
+   margin-right : 10px;
+   padding-top  : 35px;
+   color	: black;
+   font-weight  : bold;
+}
+#back {
+	position: absolute;
+	border: 0;
+	bottom: 0;
+	left: 0;
+}
+
+#burnem {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
+
+#next {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
+
+#language-bg {
+	position: absolute;
+	width: 220px;
+	bottom: 0;
+	left: 50%;
+	margin-left: -110px;
+}
+
+#language {
+	position: absolute;
+	text-align: center;
+	width: 220px;
+	bottom: 25px;
+	left: 50%;
+	margin-left: -110px;
+}
+
+#lang-sel {
+	text-align: center; 
+	color: white; 
+	background-color: transparent/*#ec870e*/;
+	border-width: 0px;
+	border: transparent;
+	font-size: medium;
+	font-weight: bold;
+}
+
+#closeDistInfo {
+	position:absolute;
+	top: 188px;
+	left: 168px;
+}
+
+IMG {
+	border: none;
+}
+
+DIV#topButtons IMG {
+  border-width: 0;
+}
+/* Added by Charles */
+div#distroVersion {
+   height   :  auto;
+   vertical-align   :  middle;
+   text-align  :  center;
+   padding  :   0;
+   color       :  black;
+   font-size   :  110%;
+   margin      :  0;
+}
+div#distroVersion select {
+   font-size   :  110%;
+   background   :   #ec8;
+}
+div#distroVersion label {
+   font-size   :  130%;
+   line-height : 52px;
+   margin-top  : 0;
+   padding-top : 0;
+}
+
+
+div#MoreInfo {
+   background : transparent;
+   position :   absolute;
+   top      :   0;
+   right    :   0;
+   font-size    :   small;
+   text-align   :   center;
+}
+div#MoreInfo a  {
+   text-decoration  :   none;
+   color    :   black;
+}
+div#Home {
+background : transparent;
+   position :   absolute;
+   top      :   0;
+   left     :   0;
+   font-size    :   small;
+   text-align   :   center;
+}
+div#Home a  {
+   text-decoration  :   none;
+   color    :   black;
+}
+ol#ISOList {
+   margin	:	0 auto;
+   font-size	:	large;
+   font-weight	:	bold;
+}
+ul#CUTList>li {
+   display	:	inline;
+   float	:	left;
+   padding	:	.2em 1em;
+   margin	:	0;
+   line-height	:	1.1em;
+   font-size	:	medium;
+   width	:	auto;
+   border	:	1px solid silver;
+}
+table#Credits	{
+   position : absolute;
+   top   : 520px;
+   left    : 150px;
+   margin : 0;
+}
+
+.key {
+   border	:	1px solid gray;
+   padding	:	20px;
+}
+.key:hover {
+   background	:	#666;
+}
+.key:visited {
+   text-decoration	:	none;
+}
+table#Queues {
+   position :  absolute;
+   bottom   :  4px;
+   left     :  0;
+   text-align : center;
+   color :  black;
+}
+div#admin, div#admin>h1, div#admin>h2, div#admin>table  {
+   text-align  :  center;
+}
+div#admin>p {
+   margin      :  1em auto;
+   text-align  :  left;
+   width       :  80%;
+}
+div#admin select, div#admin input {
+   font-size   :  150%;
+   line-height :  150%;
+}
+
+.button {
+   color    :  black;
+   border	:	1px solid gray;
+   background	:	#fc0;
+   line-height : 40px;
+   padding	:	10px;
+}
+.button:hover {
+   color :  white;
+   background	:	#666;
+}
+.button:visited {
+   text-decoration	:	none;
+}
+ul.DiskInventory,  ul.DiskInventory li {
+   font-size   :  12px;
+   line-height :  12px;
+   margin      :  1px 1em;
+   padding     :  1px 1em;
+}
+div.DVDQueue {
+width :  328px;
+float :  left;
+border   :  1px solid black;
+background  :  #c84;
+text-align  :  center;
+z-index  :  1000;
+}
+div.DVDQueue>select {
+width :  96%;
+background  :  #ffc;
+margin   :  5px auto;
+}
+div.DVDQueue>h2 {
+   color :  black;
+   text-align   :  center;
+margin   :  5px;
+}
+div#BurnerQueues {
+position :  absolute;
+bottom   :  50px;
+left     :  140px;
+width :  700px;
+z-index  :  1000;
+}
+div#BurnerQueues div.DVDQueue>select {
+   background  :  #c90;
+}
+div#showQueue {
+width :  100%;
+height   :  100%;
+background  :  transparent URL(../images/arrow4.gif) 3px 240px no-repeat;
+}

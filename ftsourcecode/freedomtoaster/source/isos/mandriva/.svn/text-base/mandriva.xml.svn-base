@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<distro>
+   <name>Mandriva - previously Mandrake</name>
+   <description>A nice starting point for many</description>
+   <advantages>
+      <advantage>It is loosely based upon the RedHat distribution of Linux</advantage>
+      <advantage>It is "desktop ready"</advantage>
+      <advantage>It is simple to install and certainly recommended for the novice</advantage>
+      <advantage>It has a loyal following, and is renowned for its support of the latest drivers, and its slick graphics and display</advantage>
+   </advantages>
+   <disadvantages>
+      <disadvantage>It is has a very quick release cycle (every 6 months)</disadvantage>
+   </disadvantages>
+   <defaults>
+     <defaultVersion>mandriva|free-2006|CD|3</defaultVersion>
+   </defaults>
+</distro>

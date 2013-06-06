@@ -1,0 +1,32 @@
+
+<VirtualHost *>
+        ServerName freedomtoaster
+        DocumentRoot @@HTMLDIR@@
+        ServerAdmin webmaster@localhost
+        ErrorLog /var/log/apache2/error.log
+        CustomLog /var/log/apache2/access.log combined
+        
+        <Directory />
+                Options FollowSymLinks
+                AllowOverride None
+        </Directory>
+        <Directory @@HTMLDIR@@>
+                Options Indexes FollowSymLinks MultiViews
+                AllowOverride None
+                Order allow,deny
+                allow from all
+        </Directory>
+
+        ScriptAlias /cgi-bin/ @@CGIDIR@@/
+        <Directory @@CGIDIR@@>
+                AllowOverride None
+                Options ExecCGI -MultiViews +SymLinksIfOwnerMatch
+                Order allow,deny
+                Allow from all
+        </Directory>
+
+        # Possible values include: debug, info, notice, warn, error, crit,
+        # alert, emerg.
+        LogLevel warn
+        ServerSignature On
+</VirtualHost>

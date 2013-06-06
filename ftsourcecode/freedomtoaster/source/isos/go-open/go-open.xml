@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<distro>
+   <name>The Go Open TV show</name>
+   <description>A series of TV shows highlighting Open Source software</description>
+   <advantages>
+      <advantage>Find out more about Open Source software in an entertaining South African TV show</advantage>
+      <advantage>Meet some of the faces behind Open Source software and learn what makes them tick.  Some parts of the show feature Mark Shuttleworth explaining how to use open source office software.</advantage>
+      <advantage>Laugh at the zany antics of the show's host, John Vlismus</advantage>
+   </advantages>
+   <disadvantages>
+      <disadvantage>You need to be able to play *.ogm media files on your PC (on Ubuntu use totem or xfmedia)</disadvantage>
+      <disadvantage>The show is in English, if you are not english-speaking</disadvantage>
+   </disadvantages>
+   <defaults>
+     <defaultVersion>go-open|series1|DVD|1</defaultVersion>
+   </defaults>
+</distro>

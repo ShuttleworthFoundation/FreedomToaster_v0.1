@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<infos>
+	<info>
+		<title>Linus aime les manchots</title>
+		<content>Malgré qu'il fût mordu par un manchot, Linus aime les manchots</content>
+	</info>
+	<info>
+		<title>Linux était un étudiant</title>
+		<content>Lorsque Linus a écrit le noyau, il étudiait à Helsinki, en Finlande</content>
+	</info>
+	<info>
+		<title>Numérotation du noyau</title>
+		<content>Les noyaux aux numéros de version pairs sont stables, alors que les impairs sont en phase de test</content>
+	</info>
+	<info>
+		<title>Linux embarqué</title>
+		<content>Linux a envahi le monde de l'embarqué. Bientôt, votre réfrigérateur, votre four micro-onde et votre grille-pain fonctionneront avec Linux</content>
+	</info>
+	<info>
+		<title>Linux est le noyau</title>
+		<content>Linux n'est pas le système d'exploitation complet. C'est juste le noyau. Beaucoup de fonctionnalités standard (gcc, cp, mv, etc.) ont été développées par la FSF</content>
+	</info>
+	<info>
+		<title>Larry Wall</title>
+		<content>Le développeur de <b>Perl</b><br/><b>Perl</b> - Liste de détritus éclectiques et pathétiques ou Language pratique d'extraction et de rapport. Comme vous voulez !</content>
+	</info>
+	<info>
+		<title>Eric Raymond</title>
+		<content>La personne ayant inventé le terme <i>Open Source</i> a écrit un livre sur ce sujet qui s'intitule <b>La catédrale et le bazar</b></content>
+	</info>
+	<info>
+		<title>GNU</title>
+		<content><b>GNU</b> signifie GNU is not UNIX, un acronyme récursif. Bien que la grande partie de Linux soit proche de UNIX, Linux n'est pas UNIX</content>
+	</info>
+	<info>
+		<title>Reproduction</title>
+		<content>La reproduction de Linux sur le plus possible de machines est vivement encouragée</content>
+	</info>
+	<info>
+		<title>Double démarrage</title>
+		<content>Si vous craignez un peu de détruire tous vos logiciels propriétaires, vous pouvez installer Linux en double démarrage. Cela signifie que vous aurez deux systèmes sur un seul ordinateur.</content>
+	</info>
+	<info>
+		<title>Free-play</title>
+		<content>La fabrique de torches électriques d'Afrique du Sud<br/>Un passionné a réussi à démarrer Linux sur une carte mère alimentée par une torche free-play - assez pour faire siffler les oreilles de Ripley !</content>
+	</info>
+	<info>
+		<title>Le système de cette borne</title>
+		<content>A été conçu par Eugene de <b>Pumphaus Designs</b> et développé par Hamish de <b>QED Technologies</b></content>
+	</info>
+	<info>
+		<title>Tux le manchot</title>
+		<content>Tux a été conçu avec un logiciel libre appelé <b>The Gimp</b></content>
+	</info>
+	<info>
+		<title>Guido van Rossum</title>
+		<content>Le développeur de <i>l'autre</i> langage intéressant, <b>Python</b>. Python peut être téléchargé sur<br/>www.python.org</content>
+	</info>
+	<info>
+		<title>Qui a créé Tux</title>
+		<content>Tux a été créé dans le cadre d'une compétition. Larry Ewing l'a gagnée avec la création de Tux</content>
+	</info>
+	<info>
+		<title>Beaucoup de Tux, un système</title>
+		<content>Un peu comme <i>Beaucoup de cultures, une ville</i>, Tux possède plusieurs apparences. Voir <b>http://lwn.net/Gallery</b></content>
+	</info>
+	<info>
+		<title>Le manchot africain</title>
+		<content>Appelé anciennement Jackass le manchot, c'est <b>notre</b> mascotte à nous. Voyez-le en action à l'Aquarium des Deux Océans, à la plage de Bolders ou dans la Baie de Betties</content>
+	</info>
+</infos>

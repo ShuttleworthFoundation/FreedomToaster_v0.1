@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="247"
+   name=""
+   committed-date="2006-05-09T08:48:23.203800Z"
+   url="svn://edison.tsf.org.za/freedomtoaster/trunk/docs/common"
+   last-author="sean.wheller"
+   kind="dir"
+   uuid="d86654f9-5701-0410-bb18-eb70f6cf68f4"
+   repos="svn://edison.tsf.org.za/freedomtoaster"
+   revision="349"/>
+<entry
+   committed-rev="64"
+   name="licensenotice.xml"
+   text-time="2006-05-25T12:15:25.000000Z"
+   committed-date="2006-03-01T08:41:24.521539Z"
+   checksum="e4b5fc0e171e142f63418ec3afdfd5aa"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:25.000000Z"/>
+<entry
+   committed-rev="69"
+   name="customization-desc.xml"
+   text-time="2006-05-25T12:15:25.000000Z"
+   committed-date="2006-03-01T13:13:17.937887Z"
+   checksum="6b8e3481987fcc9db51969757c13af63"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:25.000000Z"/>
+<entry
+   committed-rev="247"
+   name="global.ent"
+   text-time="2006-05-25T12:15:25.000000Z"
+   committed-date="2006-05-09T08:48:23.203800Z"
+   checksum="5bae1c498ccfd5c3f7fd00c439bd4da8"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:25.000000Z"/>
+<entry
+   committed-rev="232"
+   name="common.pot"
+   text-time="2006-05-25T12:15:25.000000Z"
+   committed-date="2006-05-08T18:44:28.072357Z"
+   checksum="7e63f698f319caef87d9729793e83793"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-05-25T12:15:25.000000Z"/>
+<entry
+   committed-rev="71"
+   name="user-desc.xml"
+   text-time="2006-05-25T12:15:25.000000Z"
+   committed-date="2006-03-01T14:06:38.135537Z"
+   checksum="6e019494ec1d0d5a2d08cdd16d4165c8"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:25.000000Z"/>
+<entry
+   committed-rev="89"
+   name="assembly-desc.xml"
+   text-time="2006-05-25T12:15:25.000000Z"
+   committed-date="2006-03-04T10:45:53.294410Z"
+   checksum="939112b2100e99d590dc63b2d37cc7f3"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:25.000000Z"/>
+<entry
+   committed-rev="69"
+   name="installation-desc.xml"
+   text-time="2006-05-25T12:15:25.000000Z"
+   committed-date="2006-03-01T13:13:17.937887Z"
+   checksum="1fde107d1a69589064dc91de1d4472c0"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:25.000000Z"/>
+<entry
+   committed-rev="69"
+   name="maintenance-desc.xml"
+   text-time="2006-05-25T12:15:25.000000Z"
+   committed-date="2006-03-01T13:13:17.937887Z"
+   checksum="bfbe5bc0929a19ef2a5c4550980bb2b5"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:25.000000Z"/>
+<entry
+   name="po"
+   kind="dir"/>
+</wc-entries>

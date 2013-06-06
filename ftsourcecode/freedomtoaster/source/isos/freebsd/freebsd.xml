@@ -1,0 +1,22 @@
+<?xml version='1.0'?>
+<distro>
+   <name>FreeBSD</name>
+   <description>Well, not quite linux, but what the hell</description>
+   <advantages>
+      <advantage>It is NOT Linux</advantage>
+      <advantage>It is based upon the BSD version of Unix</advantage>
+      <advantage>It is stable, robust and very secure</advantage>
+      <advantage>It is used in many real-world situations where networking is a priority</advantage>
+      <advantage>It is a VERY loyal following</advantage>
+   </advantages>
+   <disadvantages>
+      <disadvantage>It is NOT Linux</disadvantage>
+      <disadvantage>It's advocates (usually) don't get on with Linux people :(</disadvantage>
+      <disadvantage>It is certainly NOT ready for the desktop (although this is not what is was designed for)</disadvantage>
+      <disadvantage>It is NOT as intuitive as Ubuntu, SUSE or Mandrake</disadvantage>
+      <disadvantage>You're on your own :)</disadvantage>
+   </disadvantages>
+   <defaults>
+     <defaultVersion>freebsd|6.0|CD|2</defaultVersion>
+   </defaults>
+</distro>

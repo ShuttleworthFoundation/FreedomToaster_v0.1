@@ -1,0 +1,160 @@
+#!/bin/sh
+################################################################################
+# Purpose: Runs from /tmp to update distros on the Freedom Toaster
+# Input  : DVDs and CDs that have been written using the Toaster 'Burn Updates'
+#          function.
+# Output : 1) New content (updated and new distros) are copied from DVD onto the
+#             correct location on the toaster
+# Remarks: The script mounts the install CD and 'exec's UpgradeToaster on exit
+# License: GPL (http://www.gnu.org/)
+# Created: 2005/11/03 Charles Oertel (charles@finebushpeople.net)
+################################################################################
+. ./functions.inc
+
+set +x
+echo '**************************************************************'
+echo '* Welcome to the Freedom Toaster content updater:'
+echo '* Version:$VERSION created by charles@finebushpeople.net'
+echo '* This script needs to be running from your hard disk as root'
+echo '* It will prompt you to insert the content DVDs and CDs into '
+echo '* the DVD/CD drives, so these drives need to be unmounted and'
+echo '* empty before you continue.'
+echo '* Press ENTER to continue, ctl-C to cancel'
+read JNK
+echo '*** Please wait while I try to find a DVD drive...'
+JNK=x
+
+
+# first, which drive can we use for DVDs
+getUnmountedDVDRW  # populates DVDDRIVES
+getDVDRWPATH       # matches device with mount-point
+
+
+# This section is populated by cgi-bin/burn.pl script to 
+# successively mount DVDs and copy their content to the right places
+###BURNTOP
+# update script generated from Freedom Toaster
+VOLNAME=x
+JNK=x
+until [ x$VOLNAME = xqJyo001 -o x$JNK = 'xskip' ]
+do
+   eject $DVDDRIVES
+   echo Insert the DVD Labeled qJyo001 and press ENTER
+   read JNK
+   if [ ! x$JNK = 'xskip' ]; then
+      VOLNAME=$(volname $DVDDRIVES)
+   fi
+done
+if [ ! x$JNK = 'xskip' ]; then
+   mount $DVDDRIVES
+echo "Copying  $DVDRWPATH/3opensuse_10.iso  to  $ISODIR/suse/10/CD/"
+cp -uv  $DVDRWPATH/3opensuse_10.iso   $ISODIR/suse/10/CD/
+echo "Copying  $DVDRWPATH/5opensuse_10.iso  to  $ISODIR/suse/10/CD/"
+cp -uv  $DVDRWPATH/5opensuse_10.iso   $ISODIR/suse/10/CD/
+echo "Copying  $DVDRWPATH/1openlab4.iso  to  $ISODIR/openlab/4/CD/"
+cp -uv  $DVDRWPATH/1openlab4.iso   $ISODIR/openlab/4/CD/
+echo "Copying  $DVDRWPATH/2opensuse_10.iso  to  $ISODIR/suse/10/CD/"
+cp -uv  $DVDRWPATH/2opensuse_10.iso   $ISODIR/suse/10/CD/
+echo "Copying  $DVDRWPATH/1knoppix_4.iso  to  $ISODIR/knoppix/4.0/CD/"
+cp -uv  $DVDRWPATH/1knoppix_4.iso   $ISODIR/knoppix/4.0/CD/
+echo "Copying  $DVDRWPATH/4opensuse_10.iso  to  $ISODIR/suse/10/CD/"
+cp -uv  $DVDRWPATH/4opensuse_10.iso   $ISODIR/suse/10/CD/
+echo "Copying  $DVDRWPATH/1OpenOffice_2_install.iso  to  $ISODIR/ooffice/2.0/CD/"
+cp -uv  $DVDRWPATH/1OpenOffice_2_install.iso   $ISODIR/ooffice/2.0/CD/
+fi
+VOLNAME=x
+JNK=x
+until [ x$VOLNAME = xqJyo002 -o x$JNK = 'xskip' ]
+do
+   eject $DVDDRIVES
+   echo Insert the DVD Labeled qJyo002 and press ENTER
+   read JNK
+   if [ ! x$JNK = 'xskip' ]; then
+      VOLNAME=$(volname $DVDDRIVES)
+   fi
+done
+if [ ! x$JNK = 'xskip' ]; then
+   mount $DVDDRIVES
+echo "Copying  $DVDRWPATH/1gutenberg_cd.iso  to  $ISODIR/gutenberg/1.0/CD/"
+cp -uv  $DVDRWPATH/1gutenberg_cd.iso   $ISODIR/gutenberg/1.0/CD/
+echo "Copying  $DVDRWPATH/1opensuse_10.iso  to  $ISODIR/suse/10/CD/"
+cp -uv  $DVDRWPATH/1opensuse_10.iso   $ISODIR/suse/10/CD/
+echo "Copying  $DVDRWPATH/4slackware_source_10.2.iso  to  $ISODIR/slackware/10.2/CD/"
+cp -uv  $DVDRWPATH/4slackware_source_10.2.iso   $ISODIR/slackware/10.2/CD/
+echo "Copying  $DVDRWPATH/3slackware_source_10.2.iso  to  $ISODIR/slackware/10.2/CD/"
+cp -uv  $DVDRWPATH/3slackware_source_10.2.iso   $ISODIR/slackware/10.2/CD/
+echo "Copying  $DVDRWPATH/edubuntu-5.10-install-i386.iso  to  $ISODIR/edubuntu/5.10-Install-Breezy/CD/"
+cp -uv  $DVDRWPATH/edubuntu-5.10-install-i386.iso   $ISODIR/edubuntu/5.10-Install-Breezy/CD/
+echo "Copying  $DVDRWPATH/2slackware_install_10.2.iso  to  $ISODIR/slackware/10.2/CD/"
+cp -uv  $DVDRWPATH/2slackware_install_10.2.iso   $ISODIR/slackware/10.2/CD/
+fi
+VOLNAME=x
+JNK=x
+until [ x$VOLNAME = xqJyo003 -o x$JNK = 'xskip' ]
+do
+   eject $DVDDRIVES
+   echo Insert the DVD Labeled qJyo003 and press ENTER
+   read JNK
+   if [ ! x$JNK = 'xskip' ]; then
+      VOLNAME=$(volname $DVDDRIVES)
+   fi
+done
+if [ ! x$JNK = 'xskip' ]; then
+   mount $DVDDRIVES
+echo "Copying  $DVDRWPATH/1kubuntu_5.10_install.iso  to  $ISODIR/kubuntu/5.10-Install-Kubuntu/CD/"
+cp -uv  $DVDRWPATH/1kubuntu_5.10_install.iso   $ISODIR/kubuntu/5.10-Install-Kubuntu/CD/
+echo "Copying  $DVDRWPATH/1slackware_install_10.2.iso  to  $ISODIR/slackware/10.2/CD/"
+cp -uv  $DVDRWPATH/1slackware_install_10.2.iso   $ISODIR/slackware/10.2/CD/
+echo "Copying  $DVDRWPATH/1ubuntu_5.10_live.iso  to  $ISODIR/ubuntu/5.10-LiveCD-Breezy/CD/"
+cp -uv  $DVDRWPATH/1ubuntu_5.10_live.iso   $ISODIR/ubuntu/5.10-LiveCD-Breezy/CD/
+echo "Copying  $DVDRWPATH/1ubuntu-5.10-install-i386.iso  to  $ISODIR/ubuntu/5.10-Install-Breezy/CD/"
+cp -uv  $DVDRWPATH/1ubuntu-5.10-install-i386.iso   $ISODIR/ubuntu/5.10-Install-Breezy/CD/
+echo "Copying  $DVDRWPATH/1OpenCD-3.0.iso  to  $ISODIR/opencd/3.0/CD/"
+cp -uv  $DVDRWPATH/1OpenCD-3.0.iso   $ISODIR/opencd/3.0/CD/
+echo "Copying  $DVDRWPATH/1ubuntu_server_5.10.iso  to  $ISODIR/ubuntu/5.10-Server-Breezy/CD/"
+cp -uv  $DVDRWPATH/1ubuntu_server_5.10.iso   $ISODIR/ubuntu/5.10-Server-Breezy/CD/
+fi
+VOLNAME=x
+JNK=x
+until [ x$VOLNAME = xKNOPPIX                          -o x$JNK = 'xskip' ]
+do
+   eject $DVDDRIVES
+   echo Insert the DVD Labeled KNOPPIX                          and press ENTER
+   read JNK
+   if [ ! x$JNK = 'xskip' ]; then
+      VOLNAME=$(volname $DVDDRIVES)
+   fi
+done
+if [ ! x$JNK = 'xskip' ]; then
+   readcd -v dev=$DVDDRIVES f=$ISODIR/knoppix/4.0/DVD/1Disk_Knoppix4.0_DVD.iso
+fi
+VOLNAME=x
+JNK=x
+until [ "x$VOLNAME" = "xUbuntu_Breezy_DVD" -o x$JNK = 'xskip' ]
+do
+   eject $DVDDRIVES
+   echo Insert the DVD Labeled 'Ubuntu_Breezy_DVD' and press ENTER
+   read JNK
+   if [ ! x$JNK = 'xskip' ]; then
+      VOLNAME=$(volname $DVDDRIVES | tr -s ' ' | sed 's/ $//')
+   fi
+done
+if [ ! x$JNK = 'xskip' ]; then
+   readcd -v dev=$DVDDRIVES f=$ISODIR/ubuntu/5.10-Install-Breezy/DVD/1ubuntu_install_DVD.iso
+fi
+
+INSTALLVOLUME='qJyo-Update'
+
+# *************** Done **************** 
+###BURNBOT
+
+# Now we make sure permissions are set properly:
+pushd $ISODIR
+chown -R www-data: *
+cd $BASEPATH
+chown -R www-data: *
+
+# Now we invoke the install script again
+popd
+exec ./InstallScript
+

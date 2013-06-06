@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="453"
+   name=""
+   committed-date="2006-06-11T14:31:19.868602Z"
+   url="svn://edison.tsf.org.za/freedomtoaster/trunk/source/isos/mandriva"
+   last-author="charles.oertel"
+   kind="dir"
+   uuid="d86654f9-5701-0410-bb18-eb70f6cf68f4"
+   repos="svn://edison.tsf.org.za/freedomtoaster"
+   revision="491"/>
+<entry
+   name="10.2"
+   kind="dir"/>
+<entry
+   committed-rev="453"
+   name="mandriva.xml"
+   text-time="2006-11-03T09:15:16.000000Z"
+   committed-date="2006-06-11T14:31:19.868602Z"
+   checksum="8922de9c747f9c504cf0d28fda0e7036"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:16.000000Z"/>
+<entry
+   committed-rev="453"
+   name="mandriva-fr.xml"
+   text-time="2006-11-03T09:15:16.000000Z"
+   committed-date="2006-06-11T14:31:19.868602Z"
+   checksum="d0ac323d9a99335c3b6be8ac6e9f0783"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:16.000000Z"/>
+<entry
+   name="free-2006"
+   kind="dir"/>
+<entry
+   committed-rev="453"
+   name="mandrake-fr.xml"
+   text-time="2006-11-03T09:15:16.000000Z"
+   committed-date="2006-06-11T14:31:19.868602Z"
+   checksum="3a5d4dcd00497f45ba2801d69c13db39"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:16.000000Z"/>
+</wc-entries>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="99"
+   name=""
+   committed-date="2006-03-05T07:56:08.451837Z"
+   url="svn://edison.tsf.org.za/freedomtoaster/trunk/docs/images/navig"
+   last-author="sean.wheller"
+   kind="dir"
+   uuid="d86654f9-5701-0410-bb18-eb70f6cf68f4"
+   repos="svn://edison.tsf.org.za/freedomtoaster"
+   revision="349"/>
+<entry
+   committed-rev="99"
+   name="prev.gif"
+   text-time="2006-05-25T12:15:25.000000Z"
+   committed-date="2006-03-05T07:56:08.451837Z"
+   checksum="83f8b53887b66bc5f5eadd8f57a46f02"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:24.000000Z"/>
+<entry
+   committed-rev="99"
+   name="toc-minus.png"
+   text-time="2006-05-25T12:15:25.000000Z"
+   committed-date="2006-03-05T07:56:08.451837Z"
+   checksum="72baddf4a76d4d74f634edf1e71134b3"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:24.000000Z"/>
+<entry
+   committed-rev="99"
+   name="next.gif"
+   text-time="2006-05-25T12:15:25.000000Z"
+   committed-date="2006-03-05T07:56:08.451837Z"
+   checksum="1dc9edd8ded46190e4ae7cf0a6379371"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:24.000000Z"/>
+<entry
+   committed-rev="99"
+   name="up.gif"
+   text-time="2006-05-25T12:15:25.000000Z"
+   committed-date="2006-03-05T07:56:08.451837Z"
+   checksum="897f1a3925075fd341976753633c3469"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:25.000000Z"/>
+<entry
+   committed-rev="99"
+   name="toc-plus.png"
+   text-time="2006-05-25T12:15:25.000000Z"
+   committed-date="2006-03-05T07:56:08.451837Z"
+   checksum="ee8d311bafbc474875730d7644e86047"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:25.000000Z"/>
+<entry
+   committed-rev="99"
+   name="home.gif"
+   text-time="2006-05-25T12:15:25.000000Z"
+   committed-date="2006-03-05T07:56:08.451837Z"
+   checksum="3176e5d41c6b9472d0f1eb07e6cd57ff"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:25.000000Z"/>
+<entry
+   committed-rev="99"
+   name="toc-blank.png"
+   text-time="2006-05-25T12:15:25.000000Z"
+   committed-date="2006-03-05T07:56:08.451837Z"
+   checksum="a9dfccc01739501bbc01d561da12c944"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:25.000000Z"/>
+</wc-entries>

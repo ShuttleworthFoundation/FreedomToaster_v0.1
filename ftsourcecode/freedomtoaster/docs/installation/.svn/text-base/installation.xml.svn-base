@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.4//EN"
+                      "http://www.docbook.org/xml/4.4/docbookx.dtd" [
+<!ENTITY % globalent SYSTEM "../common/global.ent">
+%globalent;
+]>
+<book>
+	<bookinfo>
+		<title>Installation Manual</title>
+		<subtitle>Installing the Freedom Toaster</subtitle>
+		<authorgroup>
+			<author>
+				<firstname>Sean</firstname>
+				<surname>Wheller</surname>
+			</author>
+		</authorgroup>
+		<!-- TRANS:ROLES_OF_TRANSLATORS --> &licensenotice; </bookinfo>
+	<chapter>
+		<title>Introduction</title>
+		<para>Thanks to some nifty scripts, installation of a Freedom Toaster is mostly an automated
+			process. Follow the instructions in this book to install a Freedom Toaster in accordance with
+			the Shuttleworth Foundation specification.</para>
+		<sect1>
+			<title>Scope</title>
+			<para>This document guides you through the process of installing and configuring the computer
+				system part of the Freedom Toaster. The resulting system will be in accordance with the
+				production system specification defined by the Shuttleworth Foundation.</para>
+			<para>While this specification defines Ubuntu &ubuntu-ver; as the distribution upon which
+				to build a Freedom Toaster, please note that any Linux-based distribution can be used.
+				Similarly, there can be any number of ways to configure a Freedom Toaster system. Such
+				experimentation and deviation from the original specification is encouraged, but are beyond
+				the scope of this document.</para>
+			<para>If you choose to install on a distribution other than Ubuntu &ubuntu-ver; the
+				convenience scripts discussed in this manual and provided for automating installation will
+				not work. You will need to modify the script to work with your specific distribution. If you
+				do create scripts to setup Freedom Toaster on another distribution, we hope you will share
+				them with project so that others may benefit.</para>
+			<para>If you choose to deviate from the specification, this document will serve as a guide of
+				what is needed and you will have to exchange things such as names of applications, file
+				system paths and commands as is appropriate for your system.</para>
+		</sect1>
+		<sect1>
+			<title>Prerequisites</title>
+			<para>For purpose of brevity, this document assumes reasonable proficiency at installing and
+				administering computer systems based on Linux. Ubuntu specific knowledge or expertise is not
+				a prerequisite.</para>
+		</sect1>
+		<sect1 id="docs">
+			<title>Associated Documentation</title>
+			<para>The following documents are associated with this document:</para>
+			<variablelist> &assembly-desc; <!--&installation-desc;--> &maintenance-desc;
+				&customization-desc; &user-desc; </variablelist>
+		</sect1>
+		<sect1>
+			<title>Requirements</title>
+			<para>Before proceeding with installation of a Freedom Toaster please ensure that the
+				following items are available.</para>
+			<itemizedlist>
+				<listitem>
+					<para>Ubuntu Linux Install CD - &ubuntu-ver;. Download <ulink
+							url="http://cdimage.ubuntu.com/releases/5.10/release/">here</ulink>.</para>
+				</listitem>
+				<listitem>
+					<para>eGalax Touch Screen Linux Drivers. Download the Fedora Core RPM <ulink
+							url="http://www.egalax.com.tw/">here</ulink>.</para>
+				</listitem>
+				<listitem>
+					<para>A Freedom Toaster Install Pack or a broadband connection to the Internet.</para>
+				</listitem>
+			</itemizedlist>
+			<note>
+				<para>If you are using a Touch Screen monitor device other than the one listed in the
+					Shuttleworth specification please ensure that the device is Linux compatible and that you
+					are in possession of the appropriate Linux drivers.</para>
+			</note>
+		</sect1>
+		<sect1>
+			<title>Freedom Toaster Install Pack</title>
+			<para>If installation from the Internet is not possible, use of the Freedom Toaster Install
+				Pack is recommended. The Install Pack is available as a tarball or ISO image from the <ulink
+					url="http://www.freedomtoaster.org/installpack">Freedom Toaster Web Site</ulink>. The
+				Install Pack contains the most current stable version of the Freedom Toaster software and
+				everything needed in order to install, upgrade and configure a Freedom Toaster on top of a
+				new Ubuntu 5.10 server installation.</para>
+			<para>As of version 3.0 of the Freedom Toaster, the Install Pack is also available from other
+				Freedom Toasters. So, if you have a Freedom Toaster near you, you can burn a copy of the
+				Freedom Toaster Install Pack.</para>
+		</sect1>
+	</chapter>
+	<chapter id="installation">
+		<title id="title-installation">Installation</title>
+		<para>This chapter explains how to install the components required for a Freedom Toaster. The
+			installation overview is as follows:</para>
+		<itemizedlist>
+			<listitem>
+				<para>
+					<xref linkend="install-linux" endterm="title-install-linux"/>
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<xref linkend="install-ft" endterm="title-install-ft"/>
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<xref linkend="install-touch" endterm="title-install-touch"/>
+				</para>
+			</listitem>
+		</itemizedlist>
+		<sect1 id="install-linux">
+			<title id="title-install-linux">Install Base System</title>
+			<para>At time of writing, production Freedom Toaster systems were based on server install of
+				Ubuntu &ubuntu-ver;. During installation, prompts guide you through the process. For the
+				most part it is up to the person performing the installation to make selections based on the
+				particular circumstances of the computer, language selection, geographic location, etc.</para>
+			<para>The main point at which installation of Ubuntu for a Freedom Toaster differs from most
+				installations is the partition setup. Because a Freedom Toaster serves digital content and
+				software, the partition on which the images (content and software) reside needs to be large
+				enough to accommodate the sum of all the image sizes that will be made available. It is also
+				advised that some room be left for growth. Additionally, since a standard Freedom Toaster is
+				installed with three CD/DVD burning devices, that may be required to burn simultaneously, a
+				reasonably large swap space, 1 Gigabyte or greater, is required.</para>
+			<para>Assuming your Freedom Toaster disk meets the recommended specification (Seagate 120GB
+				Serial ATA Drive). The following partition setup is recommended using the ext3 file system.</para>
+			<itemizedlist spacing="compact">
+				<listitem>
+					<para><filename class="directory">/boot</filename>- 60M</para>
+				</listitem>
+				<listitem>
+					<para><filename class="directory">/</filename>- 2G</para>
+				</listitem>
+				<listitem>
+					<para><filename class="directory">/home</filename>- 2G</para>
+				</listitem>
+				<listitem>
+					<para><filename class="directory">/var</filename>- 2G</para>
+				</listitem>
+				<listitem>
+					<para><filename class="directory">/tmp</filename>- 2G</para>
+				</listitem>
+				<listitem>
+					<para><filename class="directory">/usr</filename>- 3G</para>
+				</listitem>
+				<listitem>
+					<para><filename class="directory">/srv</filename>- what's left</para>
+				</listitem>
+			</itemizedlist>
+
+			<procedure>
+				<title>Install Base</title>
+				<step>
+					<para>Set the computer system BIOS to boot from ROM.</para>
+				</step>
+				<step>
+					<para>Place the &quot;Install CD&quot; into the Primary ROM device and restart.</para>
+					<para>The primary ROM device is usually the one connected directly to the second
+						motherboard IDE.</para>
+				</step>
+				<step>
+					<para>At the Ubuntu installation boot prompt type <userinput>server</userinput> then press
+							<keycap>Enter</keycap>.</para>
+				</step>
+				<step>
+					<para>Follow the installation, select options as is suitable, create partitions as per
+						recommendations above.</para>
+				</step>
+				<step>
+					<para>When prompted to create an admin user, use the following username:</para>
+					<itemizedlist>
+						<listitem>
+							<para><emphasis role="bold">Full Name:</emphasis>kiosk-admin</para>
+						</listitem>
+						<listitem>
+							<para><emphasis role="bold">Username:</emphasis>kiosk-admin</para>
+						</listitem>
+						<listitem>
+							<para><emphasis role="bold">Password:</emphasis> Enter a string or your choice</para>
+						</listitem>
+					</itemizedlist>
+					<para>This account is your administrative account. Do not forget to record the account
+						password for future use.</para>
+				</step>
+				<step>
+					<para>When installation is complete, login to the new server using the kiosk-admin
+						account.</para>
+				</step>
+			</procedure>
+		</sect1>
+		<sect1 id="install-ft">
+			<title id="title-install-ft">Install Freedom Toaster Software</title>
+			<para>This section explains how to install and configure the Freedom Toaster software and
+				content.</para>
+			<para>Unless you are using the Freedom Toaster Installation Pack, it is recommended that the
+				Freedom Toaster is connected to the Internet.</para>
+			<note>
+				<para>This procedure and the scripts used assume an Ubuntu server installation as per the
+					previous section.</para>
+			</note>
+			<para>The Freedom Toaster software can be installed from the following installation sources:</para>
+			<itemizedlist>
+				<listitem>
+					<para>
+						<emphasis role="bold">Network</emphasis>
+					</para>
+					<para>This option installs the Freedom Toaster via the Internet using the project
+						Subversion repository as the input source. The following versions of the software are
+						available select the option of your choice.</para>
+					<orderedlist>
+						<listitem>
+							<para><emphasis role="bold">tags</emphasis> - This option installs the current stable
+								version of the Freedom Toaster. It is recommended for use on all production
+							systems. This is the most current stable version and is the one used in producing the Freedom
+							Toaster Install Pack.</para>
+						</listitem>
+						<listitem>
+							<para><emphasis role="bold">branches</emphasis> - This option installs the current
+								unstable version of the project currently under testing. The files installed are still under
+								the Subversion revision control system. To enable faster patch and testing cycle during
+								development. This version is a candidate for release as a
+								'stable' version.</para>
+						</listitem>
+						<listitem>
+							<para><emphasis role="bold">trunk</emphasis> - This is the development version of the
+								Freedom Toaster software. It is the bleeding edge of project development. As such it
+								may not work or features may produce unexpected results. Installation of this
+								version is only recommended for people wishing to develop the Freedom Toaster
+								software. The files installed are still under
+								the Subversion revision control system. To enable faster patch and testing cycle during
+								development.</para>
+						</listitem>
+					</orderedlist>
+				</listitem>
+				<listitem>
+					<para>
+						<emphasis role="bold">CD/DVD/HDD</emphasis>
+					</para>
+					<itemizedlist>
+						<listitem>
+							<para>This option installs the Freedom Toaster from CD/DVD  or Hard Disk Drive using the
+								Freedom Toaster Install Pack.</para>
+						</listitem>
+					</itemizedlist>
+				</listitem>
+			</itemizedlist>
+			<procedure>
+				<title>Network Installation</title>
+				<step>
+					<para>Start the computer and login using the kiosk-admin account.</para>
+				</step>
+				<step>
+					<para>Login as 'root'.</para>
+					<para>
+						<command>sudo -H -s</command>
+					</para>
+				</step>
+				<step>
+					<para>Insert the Ubuntu Install CD.</para>
+				</step>
+				<step>
+					<para>Download the file named <filename>SetupScript</filename> using the command below.</para>
+					<para>
+						<command>wget http://learnlinux.tsf.org.za/ft/SetupScript</command>
+					</para>
+				</step>
+				<step>
+					<para>Make the script editable and executable.</para>
+					<para>
+						<command>chmod a+x SetupScript</command>
+					</para>
+				</step>
+				
+				<step>
+					<para>Execute the <filename>SetupScript</filename>.</para>
+					<para>
+						<command>./SetupScript</command>
+					</para>
+				</step>
+				<step>
+					<para>When prompted to proceed, enter <userinput>y</userinput>.</para>
+				</step>
+				<step>
+					<para>Select the installation source of your choice, enter <userinput>1</userinput>,
+							<userinput>2</userinput> or <userinput>3</userinput>.</para>
+				</step>
+				<step>
+					<para>Proceed, from time-to-time a prompt may be displayed requesting whether or not to
+						install listed packages without verification, enter <userinput>y</userinput>.</para>
+				</step>
+				<step>
+					<para>When prompted to configure <package>xserver-org</package>, press the
+						<keycap>Tab</keycap> key to focus on the <guibutton>OK</guibutton> button and then press
+							<keycap>Enter</keycap>. This will select the defaults and proceed with the
+						installation.</para>
+				</step>
+				<step>
+					<para>When the installation is complete the message, &quot;We're Done!!&quot; is
+						displayed, remove the Ubuntu Install CD from the drive then restart the system by
+						pressing the <keycombo>
+							<keycap>Ctrl</keycap>
+							<keycap>Alt</keycap>
+							<keycap>Delete</keycap>
+						</keycombo> key combination.</para>
+				</step>
+			</procedure>
+			<procedure>
+				<title>CD/DVD Installation</title>
+				<step>
+					<para>Start the computer and login using the kiosk-admin account.</para>
+				</step>
+				<step>
+					<para>Login as 'root'.</para>
+					<para>
+						<command>sudo -H -s</command>
+					</para>
+				</step>
+				<step>
+					<para>Insert the Freedom Toaster Install Pack.</para>
+				</step>
+				<step>
+					<para>Mount the CD/DVD drive containing the media.</para>
+					<para>
+						<command>mount /dev/hdc</command>
+						<screen>
+mount: block device /dev/hdc is write-protected, mounting read-only
+						</screen>
+					</para>
+				</step>
+				<step>
+					<para>Change directory to the root of the CD.</para>
+					<para>
+						<command>cd /media/cdrom</command>
+					</para>
+				</step>
+				
+				<step>
+					<para>Execute the <filename>SetupScript</filename>.</para>
+					<para>
+						<command>../SetupScript</command>
+					</para>
+					<note>
+						<para>The command above contains two periods (..) this is not a typo, it is known as sourcing
+							and is required.</para>
+					</note>
+				</step>
+				<step>
+					<para>When prompted to proceed, enter <userinput>y</userinput>.</para>
+				</step>
+				<step>
+					<para>Select <option>1</option>, when prompted to select CD or Network, select
+						<option>1</option> to install from CD.</para>
+				</step>
+				<step>
+					<para>Proceed, from time-to-time a prompt may be displayed requesting whether or not to
+						install listed packages without verification, enter <userinput>y</userinput>.</para>
+				</step>
+				<step>
+					<para>When prompted to configure <package>xserver-org</package>, press the
+						<keycap>Tab</keycap> key to focus on the <guibutton>OK</guibutton> button and then press
+						<keycap>Enter</keycap>. This will select the defaults and proceed with the
+						installation.</para>
+				</step>
+				<step>
+					<para>When the installation is complete the message, &quot;We're Done!!&quot; is
+						displayed, remove the Ubuntu Install CD from the drive then restart the system by
+						pressing the <keycombo>
+							<keycap>Ctrl</keycap>
+							<keycap>Alt</keycap>
+							<keycap>Delete</keycap>
+						</keycombo> key combination.</para>
+				</step>
+			</procedure>
+			<tip>
+				<para>When using the Freedom Toaster Install Pack it is also possible to execute the
+					installation from a directory on the local hard drive. To do so, just copy the contents of
+					the CD, or to extract the tarball available from the Freedom Toaster Web Site, into a directory
+					and execute the SetupScript from there.</para>
+			</tip>
+		</sect1>
+		<sect1 id="install-touch">
+			<title id="title-install-touch">Install Touch Screen Drivers</title>
+			<para>Drivers for touch screen monitors are usually specific to a particular monitor type.
+				Linux drivers for the eGalax, the monitor used on production systems, are available on the
+				CD-ROM supplied with the monitor and from the <ulink url="http://www.egalax.com.tw/">eGalax
+					Web Site</ulink>. Download the latest Touchkit Setup script (contained in
+					<filename>Fedora_4.tar.gz</filename>) for Fedora Core to your user home folder.</para>
+			<note>
+				<para>There is no need to download and install <package>sharutils</package> as it has
+					already been installed in the previous section.</para>
+			</note>
+			<para>Since the Touchkit Setup is for a RPM-based system, well will not be able to use it
+				unless we make some change to prepare it for use on Ubuntu. The following procedure outlines the
+				steps required.</para>
+			<procedure>
+				<title>Install the Kernel Sources</title>
+				<step>
+					<para>Login as the kiosk-admin user.</para>
+				</step>
+				<step>
+					<para>Install <package>linux-source-2.6.12</package>.</para>
+					<para>
+						<command>sudo apt-get install linux-source-2.6.12</command>
+					</para>
+				</step>
+				<step>
+					<para>Create a link from the build to the source tree.</para>
+					<para>
+						<command>ln -s /usr/src/linux-source-2.6.12 /lib/modules/2.6.12-10-686/build</command>
+					</para>
+				</step>
+				<step>
+					<para>Add kiosk-admin to the src group.</para>
+					<para>
+						<command>adduser kiosk-admin src</command>
+					</para>
+				</step>
+				<step>
+					<para>Switch kiosk-admin to root.</para>
+					<para>
+						<command>sudo su - kiosk-admin</command>
+					</para>
+				</step>
+				
+				<step>
+					<para>Change to the <filename class="directory">src/</filename> directory.</para>
+					<para>
+						<command>cd /usr/src</command>
+					</para>
+				</step>
+				<step>
+					<para>Extract the kernel source archive.</para>
+					<para>
+						<command>tar -xjf linux-source-2.6.12.tar.bz2</command>
+					</para>
+				</step>
+				<step>
+					<para>Change to the extracted source directory.</para>
+					<para>
+						<command>linux-source-2.6.12/</command>
+					</para>
+				</step>
+				<step>
+					<para>Run the make</para>
+					<para>
+						<command>make oldconfig</command>
+					</para>
+					<para>
+						<command>make</command>
+					</para>
+				</step>
+			</procedure>
+			<para>The following procedure assumes that the touch monitor attached to the system is the eGalax
+			model listed in the specification and the drivers, provided in a tarball, have been copied to the
+			kiosk-admin user home directory.</para>
+			<procedure>
+				<title>Install Touchkit</title>
+				<step>
+					<para>Change to the user home directory.</para>
+					<para><command>cd</command></para>
+				</step>
+				<step>
+					<para>Extract the tarball.</para>
+					<para>
+						<command>tar -xzf Fedora_4.tar.gz</command>
+					</para>
+				</step>
+				<step>
+					<para>Execute the touchkit script.</para>
+					<para><command>Fedora_4/touchkit.setup.sh</command></para>
+				</step>
+				<step>
+					<para>Change to the temporary touchkit directory</para>
+					<para><command>cd /tmp/touchkit</command></para>
+				</step>
+				<step>
+					<para>Before we can build touchkit we need to:</para>
+					<substeps>
+						<step>
+							<para>Set the kernel headers.</para>
+							<para>
+								<command>
+							sed -i 's#/lib/modules/$(shell uname -r)/build#/usr/src/linux-source-2.6.12#' usb/Makefile
+								</command>
+							</para>
+						</step>
+						<step>
+							<para>Remove the RPM related build information.</para>
+							<para>
+								<command>sed -i '11,39d' setup</command>
+							</para>
+						</step>
+						<step>
+							<para>Change the location of <filename>rc.local</filename></para>
+							<para><command>sed -i 's/rc.d/rcS.d/' utility/rclocal.tcl</command></para>
+						</step>
+					</substeps>
+					
+				</step>
+				<step>
+					<para>Run the touchkit build and setup.</para>
+					<para><command>sudo ./setup</command></para>
+				</step>
+			</procedure>
+		</sect1>
+	</chapter>
+	<chapter id="configuration">
+		<title id="title-configuration">Configuration</title>
+		<para>This chapter explains how to perform the final configuration changes to a newly installed
+			Freedom Toaster.</para>
+		<para>The <filename>SetupScript</filename> used in <xref linkend="install-ft"/> has performed
+			most of the required configuration changes. What remains is as follows:</para>
+		<itemizedlist>
+			<listitem>
+				<para>
+					<xref linkend="content" endterm="title-content"/>
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<xref linkend="calibration" endterm="title-calibration"/>
+				</para>
+			</listitem>
+		</itemizedlist>
+		<sect1 id="content">
+			<title id="title-content">Add Content Packages</title>
+			<para>During installation the folder <filename class="directory">srv/isos/</filename> and its
+				contents was created. This directory is
+				intended to organize the Freedom Toaster content and contains everything needed except the
+				ISO images themselves.</para>
+			<para>The software and digital content stored on the Freedom Toaster are available for
+				download from the individual project Web Sites. The Software and content files are normally
+				available in the ISO 9660 file system format. An ISO 9660 file system is a standard CD-ROM
+				file system that allows you to read the same CD-ROM whether you're on a PC, Mac, or other
+				major computer platform. Almost all computers with CD-ROM drives can read files from an ISO
+				9660 file system. ISO files are also called ISO images because the contain an image of what
+				the CD-ROM will look like.</para>
+			<para>The hierarchy of <filename class="directory">isos/</filename> directory is logically
+				structured using the following syntax logic:</para>
+			<para>
+				<filename class="directory">isos/distro/version/medium</filename>
+			</para>
+			
+			<itemizedlist>
+				<para>Where:</para>
+				<listitem>
+					<para><filename class="directory">isos/</filename> is the root of the
+							<filename>/srv/isos/</filename> directory.</para>
+				</listitem>
+				<listitem>
+					<para><filename class="directory">distro/</filename> is the name of the content (software
+						or content), in lowercase. For example, <package>ubuntu</package>, <package>suse</package>,
+						<package>gutenberg</package>.</para>
+				</listitem>
+				<listitem>
+					<para><filename class="directory">version/</filename> is the version number of the
+						ISO package.</para>
+				</listitem>
+				<listitem>
+					<para><filename class="directory">medium/</filename> is the format, CD or DVD</para>
+				</listitem>
+			</itemizedlist>
+			<note>
+				<para>The folder naming convention is all lower case without spaces in strings.</para>
+			</note>
+			<para>ISO images from each of the projects need to be downloaded to their respective
+				directories. Obtaining the ISO images can be done in the following ways:</para>
+			<itemizedlist>
+				<listitem>
+					<para><emphasis role="bold">Download</emphasis> - Download each of the ISO files from the
+						various project servers or their mirrors. To assist in this procedure a simple shell
+						script is provided in the <filename class="directory">contrib/getcontent-sh/</filename>
+						directory found in the project source tree or the Install Pack. When using this script,
+						it is recommended to change the Fully Qualified Domain Names (FQDN) and paths to suite
+						local servers or mirrors.</para>
+				</listitem>
+				<listitem>
+					<para><emphasis role="bold">Toaster</emphasis> - From version 3.0 the Freedom Toaster has
+						the ability to toast update packages. This requires an already running Freedom Toaster,
+						1 CD and several DVDs.</para>
+				</listitem>
+				<listitem>
+					<para>As an alternative route, post a request to the Freedom Toaster user list to see if
+						somebody can help you.</para>
+				</listitem>
+				<listitem>
+					<para>If all these options fail, please contact Jason Hudson at the <ulink
+						url="http://www.tsf.org.za">Shuttleworth Foundation</ulink>.</para>
+				</listitem>
+			</itemizedlist>
+		</sect1>
+		<sect1 id="calibration">
+			<title id="title-calibration">Check Configuration and Calibrate</title>
+			<para>The final step in installation of a Freedom Toaster is to check the system configuration and
+				calibrate the burners. These tasks are performed from the Freedom Toaster administration
+				interface.</para>
+			<para>This interface is accessed from the Home page by touching the empty space between the
+				<guibutton>FireMonger</guibutton> and <guibutton>Project Gutenberg</guibutton> graphic buttons.
+				This will display the administration Login screen, which provides a virtual keyboard that
+				enables input of the admin password.</para>
+			<!-- <figure>
+				<title>Administration Login</title>
+				<mediaobject>
+					<imageobject>
+						<imagedata fileref="images/" format="PNG" scalefit="1" depth="5cm"/>
+					</imageobject>
+					
+				</mediaobject>
+				</figure> -->
+			<procedure>
+				<title>First Time Admin Login</title>
+				<step>
+					<para>Touch the empty space between the <guibutton>FireMonger</guibutton> and
+							<guibutton>Project Gutenberg</guibutton> graphic buttons. The on screen keyboard is
+						displayed.</para>
+				</step>
+				<step>
+					<para>Enter the administration password by touching each of the letters of the password,
+						then touch the <guibutton>Enter</guibutton> button.</para>
+				</step>
+				<step>
+					<para>When prompted to remember the password for this site, touch the <guibutton>Never for
+							This Site</guibutton> button. This will ensure that a user must always enter the
+						password in order to gain access to the administration interface.</para>
+				</step>
+			</procedure>
+			<!-- <figure>
+				<title>Admin Interface</title>
+				<mediaobject>
+				<imageobject>
+				<imagedata fileref="images/" format="PNG" scalefit="1" depth="5cm"/>
+				</imageobject>
+				</mediaobject>
+				</figure> -->
+			<procedure>
+				<title>Check Configuration</title>
+				<step>
+					<para>...</para>
+				</step>
+			</procedure>
+			<procedure>
+				<title>Calibrate the Burners</title>
+				<step>
+					<para>...</para>
+				</step>
+			</procedure>
+			<para>Following successful calibration all that will remain as a final test is to try burn a CD
+				or DVD on the system, and what better way to test than by burning a backup of the newly
+				installed system.</para>
+			<procedure>
+				<title>Burn a Backup</title>
+				<step>
+					<para>...</para>
+				</step>
+			</procedure>
+		</sect1>
+	</chapter>
+</book>

@@ -1,0 +1,1138 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2006-04-14 23:08+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: application/x-xml2pot; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+
+#: customizationmanual.xml:9
+#, no-c-format
+#. Tag: title
+msgid "Customization Manual"
+msgstr ""
+
+#: customizationmanual.xml:10
+#, no-c-format
+#. Tag: subtitle
+msgid "Modifying the Freedom Toaster"
+msgstr ""
+
+#: customizationmanual.xml:12
+#, no-c-format
+#. Tag: author
+msgid "<firstname>Graham</firstname> <surname>Goode</surname>"
+msgstr ""
+
+#: customizationmanual.xml:16
+#, no-c-format
+#. Tag: corpauthor
+msgid "The Shuttleworth Foundation"
+msgstr ""
+
+#: customizationmanual.xml:18
+#, no-c-format
+#. Tag: trans_comment
+msgid "ROLES_OF_TRANSLATORS"
+msgstr ""
+
+#: customizationmanual.xml:22
+#, no-c-format
+#. Tag: title
+msgid "Introduction"
+msgstr ""
+
+#: customizationmanual.xml:23
+#, no-c-format
+#. Tag: para
+msgid "The default software interface loaded with production Freedom Toaster systems is open source software released under terms of the GNU General Public License. Under the terms of this license anyone is allowed to redistribute it and/or modify the software under the license terms. Under such a liberal license anyone is free, even encouraged, to innovate and use the Freedom Toaster software as is, or as a basis for creating a whole new product."
+msgstr ""
+
+#: customizationmanual.xml:30
+#, no-c-format
+#. Tag: title
+msgid "Scope"
+msgstr ""
+
+#: customizationmanual.xml:31
+#, no-c-format
+#. Tag: para
+msgid "This document explains how to change the code of the default Freedom Toaster software application as downloaded from freedomtoaster.org."
+msgstr ""
+
+#: customizationmanual.xml:35
+#, no-c-format
+#. Tag: title
+msgid "Prerequisites"
+msgstr ""
+
+#: customizationmanual.xml:36
+#, no-c-format
+#. Tag: para
+msgid "In order to use this document a working knowledge of HTML, Cascading Style Sheets, and some knowledge of java scripting and perl are recommended. If you do not have these basic requirements please find someone in your organization who does, who can assist you in customizing the Freedom Toaster to meet your requirements."
+msgstr ""
+
+#: customizationmanual.xml:40
+#, no-c-format
+#. Tag: para
+msgid "The Freedom Toaster runs on an Ubuntu Linux system, so a working knowledge of Linux will be helpful, but is not an absolute necessity, you can pick up the basics of Linux in a good online tutorial. A working knowledge of Web Servers (particularly Apache) would also be helpful."
+msgstr ""
+
+#: customizationmanual.xml:44
+#, no-c-format
+#. Tag: para
+msgid "You do not need to be an advanced programmer to use this manual. The instructions are easy to follow and are given in a step-by-step manner. There are many tutorials and discussion groups available on the Internet that will be able to assist you should you need further help or deeper understanding of a process."
+msgstr ""
+
+#: customizationmanual.xml:50
+#, no-c-format
+#. Tag: title
+msgid "Associated Documentation"
+msgstr ""
+
+#: customizationmanual.xml:51
+#, no-c-format
+#. Tag: variablelist
+msgid "&assembly-desc; &installation-desc; &maintenance-desc; &user-desc;"
+msgstr ""
+
+#: customizationmanual.xml:55
+#, no-c-format
+#. Tag: title
+msgid "Requirements"
+msgstr ""
+
+#: customizationmanual.xml:56
+#, no-c-format
+#. Tag: para
+msgid "The following software is required in order to customize Freedom Toaster."
+msgstr ""
+
+#: customizationmanual.xml:59
+#, no-c-format
+#. Tag: para
+msgid "A plain text editor."
+msgstr ""
+
+#: customizationmanual.xml:62
+#, no-c-format
+#. Tag: para
+msgid "A copy of the Freedom Toaster source code."
+msgstr ""
+
+#: customizationmanual.xml:68
+#, no-c-format
+#. Tag: title
+msgid "Why Customize?"
+msgstr ""
+
+#: customizationmanual.xml:70
+#, no-c-format
+#. Tag: title
+msgid "Freedom Toaster - As Is"
+msgstr ""
+
+#: customizationmanual.xml:71
+#, no-c-format
+#. Tag: para
+msgid "The Freedom Toaster is setup to provide 'toastable' disk images of specific software and other digital information. If the use of the Freedom Toaster is to provide the community with the default disk images then the Freedom Toaster interface can remain as it is, or can be customized to a specific language or location (i.e. the user interface can be translated into Xhosa or Portuguese or the background image can show the University or store logo somewhere)."
+msgstr ""
+
+#: customizationmanual.xml:77
+#, no-c-format
+#. Tag: para
+msgid "This type of Customization leaves the software of the Freedom Toaster virtually unchanged, but is useful for integrating the Freedom Toaster into a particular community."
+msgstr ""
+
+#: customizationmanual.xml:81
+#, no-c-format
+#. Tag: title
+msgid "Language Customization"
+msgstr ""
+
+#: customizationmanual.xml:82
+#, no-c-format
+#. Tag: para
+msgid "It is possible to completely translate all the menu options and sayings on the Freedom Toaster. It is also possible to have various languages used in the screen saver sayings. For example, one could add translations of the text and have the screen saver scroll though the saying in English, then in Afrikaans, Zulu, Pedi, German, or whatever other language the user of the Freedom Toaster would be familiar with."
+msgstr ""
+
+#: customizationmanual.xml:90
+#, no-c-format
+#. Tag: title
+msgid "Location Customization"
+msgstr ""
+
+#: customizationmanual.xml:91
+#, no-c-format
+#. Tag: para
+msgid "Given the open source nature of the Freedom Toaster project, it is also possible to change the colors of the background, the type of fonts used, the style of the pictures, etc. For instance, if a Company had a chain of stores throughout the country and they wanted to host Freedom Toasters in each of their stores, they could have the Company Logo displayed somewhere, or could place some of their own advertisement in the screen saver sayings section."
+msgstr ""
+
+#: customizationmanual.xml:100
+#, no-c-format
+#. Tag: title
+msgid "Freedom Toaster - Fully Customized"
+msgstr ""
+
+#: customizationmanual.xml:101
+#, no-c-format
+#. Tag: para
+msgid "If the content of the Freedom Toaster (in regard to CD images) is to be added to or changed, then the HTML user interface might need to be changed to reflect these additions. Using the information contained in this manual you will be able change the user interface to reflect the information that you are offering on your Freedom Toaster. You will also be able to locate the places in the file system where XML files, images and new CD or DVD images need to be placed to be part of the interface."
+msgstr ""
+
+#: customizationmanual.xml:107
+#, no-c-format
+#. Tag: para
+msgid "You will need a working knowledge of Perl scripts in order to fully customize the Freedom Toaster. The user interface interacts with the hardware of the machine through Perl CGI scripts. If you have a good background in programing you should be able to do an online Perl tutorial and teach yourself the necessary information to successfully customize the scripts (using the original scripts as examples if necessary). Most changes to the look and feel of the Freedom Toaster can be done without using Perl."
+msgstr ""
+
+#: customizationmanual.xml:116
+#, no-c-format
+#. Tag: title
+msgid "Customization Process"
+msgstr ""
+
+#: customizationmanual.xml:117
+#, no-c-format
+#. Tag: para
+msgid "In this manual we will approach &apos;customization&apos; on two different levels. We will deal with the simple elements of customizing the interface first. These are the changes to the cosmetics of the Freedom Toaster, what it looks like, the colors, images, sayings, and description texts. We then delve deeper into the interface and deal with the JavaScript that sets everything in motion, and the Perl scripts that do the &apos;under-the-hood&apos; work of actually taking the CD images and toasting them on the CD Drives."
+msgstr ""
+
+#: customizationmanual.xml:124
+#, no-c-format
+#. Tag: para
+msgid "Please familiarize yourself with the layout of the user interface directory. Take note of the <filename>index.html</filename> file and the following <filename>index0.html</filename> to <filename>index7.html</filename> and <filename>index99.html</filename> files. Explore subdirectories and take note that the Perl scripts are in the cgi-bin subdirectory, the cascading style sheets are in the css subdirectory (with some of the images in the <filename class=\"directory\">css/images</filename> subdirectory), the screen saver sayings and distribution descriptions are in the sayings subdirectory, the help HTML pages are in the help subdirectory and the main images are in the images subdirectory."
+msgstr ""
+
+#: customizationmanual.xml:137
+#, no-c-format
+#. Tag: title
+msgid "HOWTO Customize Freedom Toaster"
+msgstr ""
+
+#: customizationmanual.xml:139
+#, no-c-format
+#. Tag: title
+msgid "Before you begin"
+msgstr ""
+
+#: customizationmanual.xml:140
+#, no-c-format
+#. Tag: para
+msgid "The very first step to customizing the user interface of the Freedom Toaster is to backup all the files that are involved, so that you can restore them and regain functionality should something go wrong during your customization exercise."
+msgstr ""
+
+#: customizationmanual.xml:144
+#, no-c-format
+#. Tag: para
+msgid "Using the command line do:"
+msgstr ""
+
+#: customizationmanual.xml:147
+#, no-c-format
+#. Tag: command
+msgid "cd /srv/www/kiosk/"
+msgstr ""
+
+#: customizationmanual.xml:152
+#, no-c-format
+#. Tag: command
+msgid "tar zcvf toaster.backup.tgz *"
+msgstr ""
+
+#: customizationmanual.xml:156
+#, no-c-format
+#. Tag: para
+msgid "If you are more used to using a graphical interface (Gnome, KDE) then use the archiver program of your choice and make a backup of the directory containing the user interface."
+msgstr ""
+
+#: customizationmanual.xml:159
+#, no-c-format
+#. Tag: para
+msgid "Once this step is completed, you may change anything with the secure knowledge that any mistakes you may make (or technical problems that you may run into) will not completely disable the system. You will now always have something to refer back to."
+msgstr ""
+
+#: customizationmanual.xml:165
+#, no-c-format
+#. Tag: title
+msgid "Simple Customization"
+msgstr ""
+
+#: customizationmanual.xml:166
+#, no-c-format
+#. Tag: para
+msgid "In this section of the manual we deal with the simpler changes that can be made to the Freedom Toaster's user interface. These are typically changes that will affect the look of the user interface, and some of the information presented."
+msgstr ""
+
+#: customizationmanual.xml:170
+#, no-c-format
+#. Tag: title
+msgid "Understanding the basics"
+msgstr ""
+
+#: customizationmanual.xml:171
+#, no-c-format
+#. Tag: para
+msgid "The user interface is a self contained web-front application that runs on the Apache server. It uses HTML frames and CSS absolute positioning to render the screen configuration. It also uses a JavaScript to scroll through the navigational screens. Each of the navigational pages uses Perl CGI scripts to interact with the CD/DVD drives and the images to be toasted. The initial page frames are setup in the <filename>index.html</filename> file, and the <filename>kiosk.js</filename> javascript file is called."
+msgstr ""
+
+#: customizationmanual.xml:178
+#, no-c-format
+#. Tag: para
+msgid "We will now go through files used at the basic level of the navigational system, beginning with the Cascading Style Sheets."
+msgstr ""
+
+#: customizationmanual.xml:182
+#, no-c-format
+#. Tag: title
+msgid "The Cascading Style Sheets"
+msgstr ""
+
+#: customizationmanual.xml:183
+#, no-c-format
+#. Tag: para
+msgid "There are three <filename class=\"extension\">.css</filename> files that control the various sections of the user interface, including:"
+msgstr ""
+
+#: customizationmanual.xml:202
+#, no-c-format
+#. Tag: para
+msgid "Within these three files are the layout of the images, the color of the text, the style of fonts used, and the positioning of the text and image sections."
+msgstr ""
+
+#: customizationmanual.xml:205
+#, no-c-format
+#. Tag: title
+msgid "kiosk.css"
+msgstr ""
+
+#: customizationmanual.xml:206
+#, no-c-format
+#. Tag: para
+msgid "This cascading style sheet controls the main user interface. It is referenced by each of the kiosk <filename>index*.html</filename> files and all html pages that are output by the perl scripts. The Freedom Toaster interface assumes a screen size of 1024 x 768 pixels, which will affect the positioning of the buttons, borders, and text (as well as the size of background images etc)."
+msgstr ""
+
+#: customizationmanual.xml:211
+#, no-c-format
+#. Tag: para
+msgid "Like all default type style sheets <filename>kiosk.css</filename> sets the web page font style, image borders, table margins, HTML link properties, and button borders and margins. These can be found at the beginning of the file. The background color and background image of each page is set in the body tag of each index file (a legacy construct that will be factored out in later releases)."
+msgstr ""
+
+#: customizationmanual.xml:217
+#, no-c-format
+#. Tag: title
+msgid "General Page Options"
+msgstr ""
+
+#: customizationmanual.xml:218
+#, no-c-format
+#. Tag: para
+msgid "These are the general page properties that are controlled by <filename>kiosk.css</filename>:"
+msgstr ""
+
+#: customizationmanual.xml:222
+#, no-c-format
+#. Tag: para
+msgid "img - Image borders and margins"
+msgstr ""
+
+#: customizationmanual.xml:225
+#, no-c-format
+#. Tag: para
+msgid "table - Table margins"
+msgstr ""
+
+#: customizationmanual.xml:228
+#, no-c-format
+#. Tag: para
+msgid "A:link - Html link properties"
+msgstr ""
+
+#: customizationmanual.xml:231
+#, no-c-format
+#. Tag: para
+msgid "BUTTON - Button border, margin, and padding"
+msgstr ""
+
+#: customizationmanual.xml:234
+#, no-c-format
+#. Tag: para
+msgid "li - List Properties"
+msgstr ""
+
+#: customizationmanual.xml:237
+#, no-c-format
+#. Tag: para
+msgid "h1 - First Heading"
+msgstr ""
+
+#: customizationmanual.xml:240
+#, no-c-format
+#. Tag: para
+msgid "h1+ul - List immediately following a First Heading"
+msgstr ""
+
+#: customizationmanual.xml:243
+#, no-c-format
+#. Tag: para
+msgid "h2 - Second Heading"
+msgstr ""
+
+#: customizationmanual.xml:246
+#, no-c-format
+#. Tag: para
+msgid "h2+ul - List immediately following a Second Heading"
+msgstr ""
+
+#: customizationmanual.xml:251
+#, no-c-format
+#. Tag: title
+msgid "Navigation Options"
+msgstr ""
+
+#: customizationmanual.xml:252
+#, no-c-format
+#. Tag: para
+msgid "<filename>Kiosk.css</filename> controls the positioning of the navigation buttons and the main content text area of each of the <filename>index?.html</filename> files. The following list shows the control sections that deal with those navigation pages properties:"
+msgstr ""
+
+#: customizationmanual.xml:258
+#, no-c-format
+#. Tag: para
+msgid "div#MoreInfo"
+msgstr ""
+
+#: customizationmanual.xml:261
+#, no-c-format
+#. Tag: para
+msgid "div#Home"
+msgstr ""
+
+#: customizationmanual.xml:264
+#, no-c-format
+#. Tag: para
+msgid "div#next"
+msgstr ""
+
+#: customizationmanual.xml:267
+#, no-c-format
+#. Tag: para
+msgid "div#back"
+msgstr ""
+
+#: customizationmanual.xml:270
+#, no-c-format
+#. Tag: para
+msgid "div#content"
+msgstr ""
+
+#: customizationmanual.xml:273
+#, no-c-format
+#. Tag: para
+msgid "These five division property definition sections control the position of the various buttons and the main text content area. The actual text for each navigation page is contained in the <filename>index?.html</filename> file."
+msgstr ""
+
+#: customizationmanual.xml:280
+#, no-c-format
+#. Tag: title
+msgid "burner.css"
+msgstr ""
+
+#: customizationmanual.xml:281
+#, no-c-format
+#. Tag: para
+msgid "This cascading style sheet is called from within the Perl scripts. It controls the look and absolute positions text and images of the CD/DVD burning navigation screen."
+msgstr ""
+
+#: customizationmanual.xml:286
+#, no-c-format
+#. Tag: title
+msgid "tooltip.css"
+msgstr ""
+
+#: customizationmanual.xml:287
+#, no-c-format
+#. Tag: para
+msgid "This cascading style sheet is also called from within the Perl scripts. It controls the position of the tooltips given."
+msgstr ""
+
+#: customizationmanual.xml:293
+#, no-c-format
+#. Tag: title
+msgid "Changing the Navigation pages of the Freedom Toaster"
+msgstr ""
+
+#: customizationmanual.xml:294
+#, no-c-format
+#. Tag: para
+msgid "The HTML files that control the navigation of the Freedom Toaster contain the text of each page as well as the href tags to the Perl scripts. Any changes to the Freedom Toaster will need to be reflected in these pages."
+msgstr ""
+
+#: customizationmanual.xml:298
+#, no-c-format
+#. Tag: title
+msgid "The 'index' HTML frames"
+msgstr ""
+
+#: customizationmanual.xml:299
+#, no-c-format
+#. Tag: para
+msgid "The <filename>index?.html</filename> pages contain the background image and background color properties within the body tag. If you are customizing the Freedom Toaster for a specific location and want to change the background color you will need to do so within each <filename>index?.html</filename> page (as well as in all references to the background image in the perl scripts - the easiest might be to change the background image itself, keeping the same filename as before)."
+msgstr ""
+
+#: customizationmanual.xml:306
+#, no-c-format
+#. Tag: title
+msgid "To Change the Background Color"
+msgstr ""
+
+#: customizationmanual.xml:307
+#, no-c-format
+#. Tag: para
+msgid "Edit each index HTML file, from <filename>index0.html</filename> to <filename>index99.html</filename>, and change the value of the <sgmltag class=\"attribute\">bgcolor</sgmltag> attribute to whatever color you want the background color to be."
+msgstr ""
+
+#: customizationmanual.xml:313
+#, no-c-format
+#. Tag: title
+msgid "To Change the Background Image"
+msgstr ""
+
+#: customizationmanual.xml:314
+#, no-c-format
+#. Tag: para
+msgid "Edit each index HTML file, from <filename>index0.html</filename> to <filename>index99.html</filename>, and change the value of the <sgmltag class=\"attribute\">background</sgmltag> attribute from <sgmltag class=\"attvalue\">css/images/selectorBG.png</sgmltag> to path and filename of the background image you have created. We would recommend that you save your background image file to the same directory (css/images)."
+msgstr ""
+
+#: customizationmanual.xml:320
+#, no-c-format
+#. Tag: para
+msgid "If you are customizing the language of Freedom Toaster for your location, each of these pages will need to be changed. The text located in page can be translated into other languages (you just need to be careful of how many words you use so that you don't overflow the absolute area of the content division)."
+msgstr ""
+
+#: customizationmanual.xml:327
+#, no-c-format
+#. Tag: title
+msgid "Translations"
+msgstr ""
+
+#: customizationmanual.xml:328
+#, no-c-format
+#. Tag: para
+msgid "The first stage of translating the Freedom Toaster interface onto another language is the navigation sequence of index pages. You will need to edit each <filename>index?.html</filename> file, from <filename>index0.html</filename> to <filename>index99.html</filename>, and change the text within the <emphasis>content</emphasis> division."
+msgstr ""
+
+#: customizationmanual.xml:333
+#, no-c-format
+#. Tag: para
+msgid "You will also need to translate each of the screen output quote statements of the Perl scripts, the sayings <filename class=\"extension\">.info</filename> files in the sayings subdirectory, and the content divisions of the help HTML file in the help subdirectory."
+msgstr ""
+
+#: customizationmanual.xml:336
+#, no-c-format
+#. Tag: para
+msgid "If you add a new CD/DVD image to the Toaster you will need to either reference the new image from these pages or create a new index page for the new images. The index pages grow in sequential number order, so adding a new index page is as simple as creating a page with the next number (i.e <filename>index8.html</filename>), and stitching the page into the sequence by editing the links in the 'next' and the 'back' divisions to be the next and the previous page in the sequence. You will need to edit the 'next' link in the page before the new one to link to the new one, and the 'back' link in the page after the new one to link back to the new one."
+msgstr ""
+
+#: customizationmanual.xml:348
+#, no-c-format
+#. Tag: title
+msgid "The 'Help' HTML pages"
+msgstr ""
+
+#: customizationmanual.xml:349
+#, no-c-format
+#. Tag: para
+msgid "There are four help pages in the <filename class=\"directory\">help/</filename> subdirectory:"
+msgstr ""
+
+#: customizationmanual.xml:354
+#, no-c-format
+#. Tag: filename
+msgid "advanced_burning_options.html"
+msgstr ""
+
+#: customizationmanual.xml:359
+#, no-c-format
+#. Tag: filename
+msgid "advanced_queue_options.html"
+msgstr ""
+
+#: customizationmanual.xml:364
+#, no-c-format
+#. Tag: filename
+msgid "distro_burning.html"
+msgstr ""
+
+#: customizationmanual.xml:369
+#, no-c-format
+#. Tag: filename
+msgid "show_queue.html"
+msgstr ""
+
+#: customizationmanual.xml:373
+#, no-c-format
+#. Tag: para
+msgid "These help pages detail how to choose a different distributions, the various queue options, and advanced help for both topics. If you have added a new iso to the Freedom Toaster collection you will not need to change anything in these help files as the same parameters will apply to your new iso file as to the other iso files."
+msgstr ""
+
+#: customizationmanual.xml:378
+#, no-c-format
+#. Tag: para
+msgid "Feel free to produce additional help pages or modify the existing ones to make the system easier to use for your users. You can make a given help file 'context specific' to a given page by linking to it in the 'help' division of that page."
+msgstr ""
+
+#: customizationmanual.xml:384
+#, no-c-format
+#. Tag: title
+msgid "Changing Images"
+msgstr ""
+
+#: customizationmanual.xml:385
+#, no-c-format
+#. Tag: para
+msgid "The kiosk user interface uses <filename class=\"extension\">.png</filename> and <filename class=\"extension\">.gif</filename> files, so you will need to create or edit images with your favorite graphics program that supports these two image file type (i.e. <application>The Gimp</application>). If you are using <application>Gimp</application> then you will be able to open the original image files of the <filename class=\"extension\">.png</filename> and <filename class=\"extension\">.gif</filename> images (the <filename class=\"extension\">.xcf</filename> files available on the <application>Subversion</application> repository if they are not in your <filename class=\"directory\">images/</filename> subdirectory."
+msgstr ""
+
+#: customizationmanual.xml:394
+#, no-c-format
+#. Tag: para
+msgid "There are two subdirectories that contain images. The <filename class=\"directory\">images/</filename> subdirectory and the <filename class=\"directory\">css/images/</filename> subdirectory. In the <filename class=\"directory\">images/</filename> subdirectory are the distribution images (main images and mouse over images) and the toaster burning icons. The <filename class=\"directory\">css/images/</filename> subdirectory contains the images and icons for the navigation pages and the page background images, and it is intended for images related to the look and style of the Freedom Toaster."
+msgstr ""
+
+#: customizationmanual.xml:398
+#, no-c-format
+#. Tag: para
+msgid "The names of the images are fairly intuitive (i.e. <filename>H_button.gif</filename> for the '<guibutton>home</guibutton>' button image) so you will be able to change the various images."
+msgstr ""
+
+#: customizationmanual.xml:404
+#, no-c-format
+#. Tag: title
+msgid "Specific Customization Instructions"
+msgstr ""
+
+#: customizationmanual.xml:405
+#, no-c-format
+#. Tag: para
+msgid "In this section of the manual I will take you through some step-by-step customizations. We will deal with the changing of the user interface background, changing the button images, the default text font, and finally we will take you through adding a new information screen to the navigation process."
+msgstr ""
+
+#: customizationmanual.xml:410
+#, no-c-format
+#. Tag: title
+msgid "Changing the background"
+msgstr ""
+
+#: customizationmanual.xml:411
+#, no-c-format
+#. Tag: para
+msgid "The background is controlled by two images - <filename>selectorBG.png</filename> and <filename>burnerBG.png</filename>. They are located in the <filename class=\"directory\">css/images/</filename> subdirectory. The default Freedom Toaster background is the lovely burnt orange color. If you need to change the color you simply need to change the orange color in these two images to the color needed. Be aware that some of the distribution image buttons have transparent sections and so the new background color will show through them."
+msgstr ""
+
+#: customizationmanual.xml:418
+#, no-c-format
+#. Tag: para
+msgid "Before you continue with the editing of the images, have you done the backup that you were asked to do at the beginning of the manual? If so then open <filename>selectorBG.png</filename> in your favorite image editing program. Use the '<guibutton>fill</guibutton>' color tool (or <guibutton>color replacer tool</guibutton> if your graphics program has one) and change the burnt orange to the color of your choice. Do the same for <filename>burnerBG.png</filename>. Save each file (remember that you have a backup of these files in the <filename>toaster.backup.tgz</filename> file created at the beginning of the customization process)."
+msgstr ""
+
+#: customizationmanual.xml:427
+#, no-c-format
+#. Tag: para
+msgid "If you wanted to include a specific image within the background, you could add the image to the <filename>selectorBG.png</filename> file."
+msgstr ""
+
+#: customizationmanual.xml:431
+#, no-c-format
+#. Tag: title
+msgid "Changing the image buttons"
+msgstr ""
+
+#: customizationmanual.xml:432
+#, no-c-format
+#. Tag: para
+msgid "The image buttons are contained in the <filename class=\"directory\">css/images/</filename> subdirectory and are transparency enabled animated GIF files. We are going to add a letter to the background of each navigation button, signifying a chain of stores that is hosting the Freedom Toaster kiosks. We will edit the four images, <filename>H_button</filename>, <filename>L_button</filename>, <filename>R_button</filename> and <filename>K_button</filename>. A working knowledge of <application>the GIMP (Graphical Image Manipulation Program)</application> is assumed in this section. If you do not have <application>the GIMP</application>, burn yourself the Knoppix LiveCD from the Freedom Toaster and boot from the CD. If you are performing this customization on a MS-Windows based machine, toast yourself a copy of the OpenCD and install <application>the GIMP</application> from the disk."
+msgstr ""
+
+#: customizationmanual.xml:443
+#, no-c-format
+#. Tag: para
+msgid "Open <application>the Gimp</application> and load H_button.xcf (this is <application>the GIMP</application> file that contains the layers used to create the animated GIF). Add a text area to the image in a new layer. Enter the letter that corresponds to the Store, i.e. <userinput>M</userinput> for Mack's, and change the text attributes to suit the button and the store image, color, font size, font style, etc. Make sure the alignment of the <emphasis>\"M\"</emphasis> is correct and that it's positioning in the image looks good. Remember that the final GIF file is an animated GIF, so position your changes to either correspond to the to the movement of the central sphere, or place it as part of the textured background of the button. Play with the position of the new layer in the layer stack until you have it in the right position. Then save the file (remember that you have a backup if things don't work out the quite the way you want it) as a <application>GIMP</application> image. Now save it as a <filename class=\"extension\">.gif image</filename>. You could also do these image edits in the whatever image editor you know best, just load the animated GIF file and create the changes, making sure that the transparent sections remain the same."
+msgstr ""
+
+#: customizationmanual.xml:458
+#, no-c-format
+#. Tag: para
+msgid "Do the same thing for each of the button files, then load the user interface and see how the changes look in the live web setting. If you are not satisfied with the changes you have made, go back to the images and edit them until they all look good and function properly."
+msgstr ""
+
+#: customizationmanual.xml:464
+#, no-c-format
+#. Tag: title
+msgid "Changing the Fonts"
+msgstr ""
+
+#: customizationmanual.xml:465
+#, no-c-format
+#. Tag: para
+msgid "The basic font on the user interface of the Freedom Toaster is very easy to change. Font's for specific divisions or headings require a little more work."
+msgstr ""
+
+#: customizationmanual.xml:467
+#, no-c-format
+#. Tag: para
+msgid "To change the default font type, open <filename>kiosk.css</filename> in your favorite text editor. Within the 'body' tag section you will see <emphasis>{ font-family: \"Helvetica\", \"sans-serif\"; font-size : small; }</emphasis>. Change the \"Helvetica\" entry to the font-family type of your choice, for this example we will use the family name \"Arial\" and the generic-family \"serif\". So our body tag in <filename>kiosk.css</filename> now looks like this:"
+msgstr ""
+
+#: customizationmanual.xml:474
+#, no-c-format
+#. Tag: code
+msgid "body { font-family: \"Arial\", \"serif\"; font-size : small; }"
+msgstr ""
+
+#: customizationmanual.xml:476
+#, no-c-format
+#. Tag: para
+msgid "I would suggest that you do not change the <varname>font-size</varname>, but if you really need to then change the <emphasis>small</emphasis> to the font size of your choice (like 10px."
+msgstr ""
+
+#: customizationmanual.xml:479
+#, no-c-format
+#. Tag: para
+msgid "Many of the divisions and section CSS definitions have font attributes as well. If you wanted to change all the text that had been displayed in <emphasis>\"Helvetica\"</emphasis> to <emphasis>\"Arial\"</emphasis> you would perform a 'search and replace' within your text editor, replacing the old font with the new. If you only wanted to change the font of a particular title or section, then you would locate the attribute section in the <filename>kiosk.css</filename> file and change the font attributes there."
+msgstr ""
+
+#: customizationmanual.xml:488
+#, no-c-format
+#. Tag: title
+msgid "Adding a new Navigation Page"
+msgstr ""
+
+#: customizationmanual.xml:489
+#, no-c-format
+#. Tag: para
+msgid "In this part you will step through creating a new navigation page. We will add an information page, not a new distribution page. You can use the information given here as a basis for adding a new distribution page."
+msgstr ""
+
+#: customizationmanual.xml:492
+#, no-c-format
+#. Tag: para
+msgid "Start up your HTML-editor (or text editor if you prefer hard coding HTML). Open <filename>index5.html</filename> to use as a template for the new page. Save <filename>index5.html</filename> as <filename>index8.html</filename> (or whatever the next in sequence number is). Now edit the file to reflect the information that you want to present. In this example we will add a page that tells the user about the University that is hosting the Freedom Toaster."
+msgstr ""
+
+#: customizationmanual.xml:498
+#, no-c-format
+#. Tag: para
+msgid "Edit the HTML <emphasis>title</emphasis> property to \"University Information\". Change the URL pointer of <emphasis>meta http-equiv=\"refresh\" content=\"25; URL=index6.html\"</emphasis> to <emphasis>URL=index99.html</emphasis>. In the <emphasis>back</emphasis> div change the URL pointer of <emphasis>href=\"index4.html\"</emphasis> to <emphasis>href=index7.html</emphasis>. In the <emphasis>next</emphasis> div change the URL pointer of <emphasis>href=\"index6.html\"</emphasis> to <emphasis>href=index99.html</emphasis>."
+msgstr ""
+
+#: customizationmanual.xml:506
+#, no-c-format
+#. Tag: para
+msgid "Then in the <emphasis>\"content\"</emphasis> division, edit the text within the HTML tags to reflect information about the University. For example, change the heading from 'Freedom Toaster' to 'University of The World', and then include text and images about the university. Save the <filename>index8.html</filename> file."
+msgstr ""
+
+#: customizationmanual.xml:510
+#, no-c-format
+#. Tag: para
+msgid "To have <filename>index7.html</filename> reflect the addition of a page within the <filename>index?.html</filename> sequence, open <filename>index7.html</filename> and edit the URL pointer of <emphasis>meta http-equiv=\"refresh\" content=\"25; URL=index99.html\"</emphasis> to <emphasis>URL=index8.html</emphasis>. In the <emphasis>next</emphasis> div change the URL pointer of <emphasis>href=\"index99.html\"</emphasis> to <emphasis>href=index8.html</emphasis>."
+msgstr ""
+
+#: customizationmanual.xml:517
+#, no-c-format
+#. Tag: para
+msgid "To have <filename>index99.html</filename> point back to the new page in the <filename>index?.html</filename> sequence, open <filename>index99.html</filename> and edit the <emphasis>back</emphasis> div from <emphasis>href=\"index7.html\"</emphasis> to <emphasis>href=index8.html</emphasis>."
+msgstr ""
+
+#: customizationmanual.xml:522
+#, no-c-format
+#. Tag: para
+msgid "Now load the user interface on the Web Server and test the new page."
+msgstr ""
+
+#: customizationmanual.xml:526
+#, no-c-format
+#. Tag: title
+msgid "Advanced Customization"
+msgstr ""
+
+#: customizationmanual.xml:528
+#, no-c-format
+#. Tag: title
+msgid "Changing the 'Sayings' Scripts"
+msgstr ""
+
+#: customizationmanual.xml:529
+#, no-c-format
+#. Tag: para
+msgid "There are two files in the <filename class=\"directory\">sayings/</filename> subdirectory that are called from the <filename>knowMore.pl</filename> Perl script, <filename>knowMore.info</filename> and <filename>did_u_know.info</filename>. These are more of the 'find out more' session. To add or change the information, open the <filename class=\"extension\">.info</filename> files in a plain text editor and add or change the text, being careful to follow the same format of quotes and semi-colons around each saying."
+msgstr ""
+
+#: customizationmanual.xml:538
+#, no-c-format
+#. Tag: title
+msgid "Changing the Distribution Description Scripts"
+msgstr ""
+
+#: customizationmanual.xml:539
+#, no-c-format
+#. Tag: para
+msgid "Each of the Linux distributions also has a <filename class=\"extension\">.xml</filename> file within its iso image directory. If you have added a new distro or a new information CD image you may also want to create a <filename class=\"extension\">.xml</filename> file for it. To edit the distro <filename class=\"extension\">.xml</filename> files or to create a new one use a plain text editor. Read a few of the distribution <filename class=\"extension\">.xml</filename> files before you edit or create a new one so that you are familiar with the layout (advantages.. disadvantages...)."
+msgstr ""
+
+#: customizationmanual.xml:548
+#, no-c-format
+#. Tag: title
+msgid "Changing the kiosk JavaScript"
+msgstr ""
+
+#: customizationmanual.xml:549
+#, no-c-format
+#. Tag: para
+msgid "If you need to tweak the java script you will find it in the default folder along with the <filename>index?.html</filename> pages. It controls the sequence of pages and interacts with the JavaScript within <filename>index.html</filename>."
+msgstr ""
+
+#: customizationmanual.xml:554
+#, no-c-format
+#. Tag: title
+msgid "The CGI Perl Scripts"
+msgstr ""
+
+#: customizationmanual.xml:555
+#, no-c-format
+#. Tag: para
+msgid "The Perl CGI scripts form the core of the operation of the Freedom Toaster. They are the link between the web based user interface and the hardware of the machine. Any customization that goes beyond the mere look of the Freedom Toaster will need to be based in these script and referred to in the navigation <filename>index?.html</filename> files."
+msgstr ""
+
+#: customizationmanual.xml:562
+#, no-c-format
+#. Tag: para
+msgid "<filename>admin.pl</filename> - This Perl script sets the Freedom Toaster up to be used. Depending on the task required, it will call other Perl scripts; <filename>checkconfig.pl</filename>, <filename>calibrate.pl</filename>, <filename>show.pl</filename>, <filename>burn.pl</filename>, <filename>upgrade.pl</filename>, and <filename>login.pl</filename>."
+msgstr ""
+
+#: customizationmanual.xml:570
+#, no-c-format
+#. Tag: para
+msgid "<filename>burn.pl</filename> - This script sets up the CD/DVD list for toasting, and performs the toasting sequence. As long as you have set up a new CD/DVD ISO image in the correct manner with the correct information in the related XML file you should not have to change any of the functionality of this script. If you are translating the interface of the Freedom Toaster then you will need to translate the text that will be output from the script to the screen."
+msgstr ""
+
+#: customizationmanual.xml:579
+#, no-c-format
+#. Tag: para
+msgid "<filename>burners.pl</filename> - This script controls the CD\\DVD devices. It opens each device that has been queued for toasting, loads the iso images into the toasting program, and initiates the toasting sequence in the three drives. It also calls the 'tooltip' slideshow while the devices are busy toasting the iso images. It also shows the burner status as the iso is toasted to the CD\\DVD."
+msgstr ""
+
+#: customizationmanual.xml:587
+#, no-c-format
+#. Tag: para
+msgid "<filename>calibrate.pl</filename> - This script sets up the CD\\DVD devices using the open source cdrecord program (comes with most Linux distributions)."
+msgstr ""
+
+#: customizationmanual.xml:592
+#, no-c-format
+#. Tag: para
+msgid "<filename>checkconfig.pl</filename> - This script displays the 'check toaster configuration' page."
+msgstr ""
+
+#: customizationmanual.xml:596
+#, no-c-format
+#. Tag: para
+msgid "<filename>chooseItem.pl</filename> - This script sets up the screen that allows the user to select the software or information to be toasted to the CD/DVDs."
+msgstr ""
+
+#: customizationmanual.xml:601
+#, no-c-format
+#. Tag: para
+msgid "<filename>closeCD.pl</filename> - As the title of this script suggests, it checks on the closed status of the CD/DVD drives and resets the <filename class=\"directory\">tmp/</filename> files from the previous toasting session."
+msgstr ""
+
+#: customizationmanual.xml:607
+#, no-c-format
+#. Tag: para
+msgid "<filename>common.pl</filename> - This script sets up system specific sub routines. It creates:"
+msgstr ""
+
+#: customizationmanual.xml:611
+#, no-c-format
+#. Tag: para
+msgid "get_date"
+msgstr ""
+
+#: customizationmanual.xml:612
+#, no-c-format
+#. Tag: para
+msgid "Returns the current date."
+msgstr ""
+
+#: customizationmanual.xml:615
+#, no-c-format
+#. Tag: para
+msgid "makeVolumeBaseName"
+msgstr ""
+
+#: customizationmanual.xml:616
+#, no-c-format
+#. Tag: para
+msgid "Creates a random four letter CD/DVD volume code to keep them unique."
+msgstr ""
+
+#: customizationmanual.xml:620
+#, no-c-format
+#. Tag: para
+msgid "burnMedium"
+msgstr ""
+
+#: customizationmanual.xml:621
+#, no-c-format
+#. Tag: para
+msgid "Calls the system to do the CD/DVD toasting using the cdrecord program."
+msgstr ""
+
+#: customizationmanual.xml:625
+#, no-c-format
+#. Tag: para
+msgid "blankMedium"
+msgstr ""
+
+#: customizationmanual.xml:626
+#, no-c-format
+#. Tag: para
+msgid "Blanks rewritable CDs"
+msgstr ""
+
+#: customizationmanual.xml:629
+#, no-c-format
+#. Tag: para
+msgid "readDVDstatus"
+msgstr ""
+
+#: customizationmanual.xml:630
+#, no-c-format
+#. Tag: para
+msgid "Checks the state of the DVD disk after toasting."
+msgstr ""
+
+#: customizationmanual.xml:633
+#, no-c-format
+#. Tag: para
+msgid "findUnmountedCD"
+msgstr ""
+
+#: customizationmanual.xml:634
+#, no-c-format
+#. Tag: para
+msgid "Returns the device of any unmounted CD/DVD drives."
+msgstr ""
+
+#: customizationmanual.xml:637
+#, no-c-format
+#. Tag: para
+msgid "getMountPath"
+msgstr ""
+
+#: customizationmanual.xml:638
+#, no-c-format
+#. Tag: para
+msgid "Returns the mount point path of the mounted device."
+msgstr ""
+
+#: customizationmanual.xml:641
+#, no-c-format
+#. Tag: para
+msgid "distroVersions"
+msgstr ""
+
+#: customizationmanual.xml:642
+#, no-c-format
+#. Tag: para
+msgid "Collects information to be displayed about the distribution by reading the directories and the distribution XML file."
+msgstr ""
+
+#: customizationmanual.xml:646
+#, no-c-format
+#. Tag: para
+msgid "printVersionSelect"
+msgstr ""
+
+#: customizationmanual.xml:647
+#, no-c-format
+#. Tag: para
+msgid "Displays the default button or the version select screen."
+msgstr ""
+
+#: customizationmanual.xml:650
+#, no-c-format
+#. Tag: para
+msgid "countDiscs"
+msgstr ""
+
+#: customizationmanual.xml:651
+#, no-c-format
+#. Tag: para
+msgid "Returns the number of ISO files to be toasted for the distribution."
+msgstr ""
+
+#: customizationmanual.xml:655
+#, no-c-format
+#. Tag: para
+msgid "showCart"
+msgstr ""
+
+#: customizationmanual.xml:656
+#, no-c-format
+#. Tag: para
+msgid "Displays a list of the ISOs that have been chosen."
+msgstr ""
+
+#: customizationmanual.xml:659
+#, no-c-format
+#. Tag: para
+msgid "sendDistrosTo"
+msgstr ""
+
+#: customizationmanual.xml:660
+#, no-c-format
+#. Tag: para
+msgid "Puts the chosen distribution ISOs in CDQueue (or DVDQueue) so that toasting may begin."
+msgstr ""
+
+#: customizationmanual.xml:664
+#, no-c-format
+#. Tag: para
+msgid "showIsoLists"
+msgstr ""
+
+#: customizationmanual.xml:665
+#, no-c-format
+#. Tag: para
+msgid "Displays the CDList (or DVDList) of ISOs that are ready to be sent to the toasting queue or consolidated onto a DVD."
+msgstr ""
+
+#: customizationmanual.xml:669
+#, no-c-format
+#. Tag: para
+msgid "putCDsIntoDVD"
+msgstr ""
+
+#: customizationmanual.xml:670
+#, no-c-format
+#. Tag: para
+msgid "Moves the combined ISOs from the CD2DVDList to the DVD ISOs on the DVDList."
+msgstr ""
+
+#: customizationmanual.xml:674
+#, no-c-format
+#. Tag: para
+msgid "sendListToQueue"
+msgstr ""
+
+#: customizationmanual.xml:675
+#, no-c-format
+#. Tag: para
+msgid "Moves the list of ISOs from the CDList (or DVDList) to the relevant burner queues."
+msgstr ""
+
+#: customizationmanual.xml:679
+#, no-c-format
+#. Tag: para
+msgid "showBurnerQueues"
+msgstr ""
+
+#: customizationmanual.xml:680
+#, no-c-format
+#. Tag: para
+msgid "Displays the CDQueue or the DVDQueue that the burners (burners.pl) read from to get the next iso to toast."
+msgstr ""
+
+#: customizationmanual.xml:684
+#, no-c-format
+#. Tag: para
+msgid "clearCart"
+msgstr ""
+
+#: customizationmanual.xml:685
+#, no-c-format
+#. Tag: para
+msgid "Clears the list of the ISOs chosen by the user and not yet sent ot the burner queues."
+msgstr ""
+
+#: customizationmanual.xml:689
+#, no-c-format
+#. Tag: para
+msgid "clearList"
+msgstr ""
+
+#: customizationmanual.xml:690
+#, no-c-format
+#. Tag: para
+msgid "The same subroutine as above"
+msgstr ""
+
+#: customizationmanual.xml:693
+#, no-c-format
+#. Tag: para
+msgid "shoppingCartCount"
+msgstr ""
+
+#: customizationmanual.xml:694
+#, no-c-format
+#. Tag: para
+msgid "Counts the number of items that have been selected by the user but have not yet been sent to the CD/DVD burners."
+msgstr ""
+
+#: customizationmanual.xml:700
+#, no-c-format
+#. Tag: para
+msgid "<filename>config.pl</filename> - This script maps the CD and DVD writer devices to the IDE device in <filename class=\"directory\">dev/</filename>."
+msgstr ""
+
+#: customizationmanual.xml:704
+#, no-c-format
+#. Tag: para
+msgid "<filename>distro.pl</filename> - This script sets up the section of a distribution page and the links to the help files."
+msgstr ""
+
+#: customizationmanual.xml:708
+#, no-c-format
+#. Tag: para
+msgid "<filename>knowMore.pl</filename> - This script sets up the sequence and display of the knowMore.info and didUKnow.info files in the 'Find-out-more' session."
+msgstr ""
+
+#: customizationmanual.xml:713
+#, no-c-format
+#. Tag: para
+msgid "<filename>login.pl</filename> - This script presents the Administration login and password page."
+msgstr ""
+
+#: customizationmanual.xml:717
+#, no-c-format
+#. Tag: para
+msgid "<filename>ok.pl</filename> - This script is called from the printVersionSelect subroutine in the common.pl script. It is part of the sequence of getting the distro images to the toasting queue."
+msgstr ""
+
+#: customizationmanual.xml:722
+#, no-c-format
+#. Tag: para
+msgid "<filename>show.pl</filename> - This script displays the queue status of the CD/DVD burners."
+msgstr ""
+
+#: customizationmanual.xml:726
+#, no-c-format
+#. Tag: para
+msgid "<filename>showQueue.pl</filename> - This script displays the \"Toast your selection\" page and sets in motion the script sequence of the toasting and clearing lists."
+msgstr ""
+
+#: customizationmanual.xml:731
+#, no-c-format
+#. Tag: para
+msgid "<filename>upgrade.pl</filename> - This script displays the upgrade options and the results of the option chosen."
+msgstr ""
+

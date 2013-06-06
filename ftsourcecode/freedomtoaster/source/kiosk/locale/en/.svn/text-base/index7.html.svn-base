@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+   <head>
+		<title>Linux for Schools</title>
+		<link rel="stylesheet" type="text/css" href="../../css/kiosk.css" title="first" />
+		<meta http-equiv="content-type"  content="text/html; charset=utf-8" />
+      <meta http-equiv="refresh"  content="25; URL=index99.html" />
+      <script src="../../kiosk.js" language="javascript" type="text/javascript"></script>
+	</head>
+   <body background="../../css/images/selectorBG.png" bgcolor="#C0C0C0" onLoad="populateSelect();">
+      <div id="MoreInfo">
+         <a href="../../cgi-bin/knowMore.pl" title="About this Toaster">
+            <img src="../../css/images/K_button.gif" alt="?" width="113" height="120" border="0" /><br />
+
+         </a>
+      </div>
+      <div id="Home">
+         <a href="index0.html" title="Go to the beginning page">
+            <img src="../../css/images/H_button.gif" alt="Home" width="148" height="93" border="0" /><br />
+
+         </a>
+      </div>
+      <div id="next">
+         <a href="index99.html" title="Go to the next page">
+            <img src="../../css/images/R_button.gif" alt="Next" width="113" height="120" border="0" /></a>
+      </div>
+      <div id="back">
+         <a href="index6.html" title="Go to the previous page">
+            <img src="../../css/images/L_button.gif" alt="Previous" width="148" height="93" border="0" /></a>
+      </div>
+            <div id="language-bg">
+      	<img src="../../css/images/language-bg.png" alt="background" width="220" height="77" border="0" />
+      </div>
+      <div id="language">
+         <select id="lang-sel" title="Language choice" onClick="magnifySelect(this);" onChange="changeLang(this);">
+         </select>   
+      </div>
+   <div id="content">
+      <img src="images/logoPage.png" width="400" height="131" style="margin-left:170px" /><br />
+      <h1>A Free School Computer Lab</h1>
+   <p>The distro below is what The Shuttleworth Foundation puts into schools for free - it will work with PCs that companies are throwing away (P1 with 48Mb RAM).</p>
+   <p>Using the CDs below, a school can install a 20 workstation computer lab for around R22 000.  This is in stark contrast to figures 10 times that amount quoted by some projects that are using other software.</p>
+   <p>This is the package used by the <strong>Schools Linux User Group</strong> (www.slug.org.za) volunteers.  It is possible for a poor school to have a computer lab installed, with the help of volunteers, in a matter of 3 weeks, at a cost that can be funded with tuckshop money.</p>
+   <table>
+      <tr>
+         <td><a href="../../cgi-bin/distro.pl?distro=edubuntu" title="Edubuntu - ubuntu, K12 and South African education programs, school administration and the linux terminal server project, made by Shuttleworth's tuXlabs project"
+               onmouseover="Edubuntu.src='../../images/edubuntuA.png'" 
+               onmouseout="Edubuntu.src='../../images/edubuntuB.png'">
+               <img name="Edubuntu" src="../../images/edubuntuB.png" width="231" height="71" /></a>
+         </td>
+         <td><a href="../../cgi-bin/distro.pl?distro=openlab" title="OpenLab 4 - the Southern African school lab system used by Namibia's Schoolnet and optimised for low-spec hardware"
+               onmouseover="Openlab.src='../../images/openlabA.png'" 
+               onmouseout="Openlab.src='../../images/openlabB.png'">
+               <img name="Openlab" src="../../images/openlabB.png" width="231" height="71" /></a>
+         </td>
+         <td><a href="../../cgi-bin/distro.pl?distro=k12ltsp" title="K12-ltsp - the K12 educational programs and the linux terminal server project, with modifications made by Shuttleworth's tuXlabs project"
+               onmouseover="k12ltsp.src='../../images/k12ltspA.png'" 
+               onmouseout="k12ltsp.src='../../images/k12ltspB.png'">
+               <img name="k12ltsp" src="../../images/k12ltspB.png" width="231" height="71" /></a>
+         </td>
+      </tr>
+   </table>
+
+
+   </div>
+	</body>
+</html>

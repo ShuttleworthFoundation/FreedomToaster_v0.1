@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+   <head>
+		<title>Linux pour les experts</title>
+		<link rel="stylesheet" type="text/css" href="../../css/kiosk.css" title="premier" />
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+      <meta http-equiv="refresh" content="25; URL=index7.html" />
+      <script src="../../kiosk.js" language="javascript" type="text/javascript"></script>
+	</head>
+   <body background="../../css/images/selectorBG.png" bgcolor="#C0C0C0" onLoad="populateSelect();">
+      <div id="MoreInfo">
+         <a href="../../cgi-bin/knowMore.pl" title="À propos de ce Toaster">
+            <img src="../../css/images/K_button.gif" alt="?" width="113" height="120" border="0" /><br />
+
+         </a>
+      </div>
+      <div id="Home">
+         <a href="index0.html" title="Aller à la première page">
+            <img src="../../css/images/H_button.gif" alt="Accueil" width="148" height="93" border="0" /><br />
+
+         </a>
+      </div>
+      <div id="next">
+         <a href="index7.html" title="Aller à la page suivante">
+            <img src="../../css/images/R_button.gif" alt="Suivant" width="113" height="120" border="0" /></a>
+      </div>
+      <div id="back">
+         <a href="index5.html" title="Aller à la page précédente">
+            <img src="../../css/images/L_button.gif" alt="Précédent" width="148" height="93" border="0" /></a>
+      </div>
+      <div id="language-bg">
+      	<img src="../../css/images/language-bg.png" alt="arrière-plan" width="220" height="77" border="0" />
+      </div>
+      <div id="language">
+         <select id="lang-sel" title="Choix de la langue" onClick="magnifySelect(this);" onChange="changeLang(this);">
+         </select>   
+      </div>
+      <div id="content">
+      <img src="images/logoPage.png" width="400" height="131" style="margin-left:170px" /><br />
+      <h1>Linux pour les experts</h1>
+      <p>Ces distributions sont plus difficiles à configurer et sont fréquemment utilisées par des experts qui aiment les défis. Ceci dit, elles ne sont pas particulièrement difficiles, et les communautés des adeptes de ces distributions sont toujours disposés à aider. Gentoo, réputée comme un des systèmes Linux les plus durs, dispose aussi de la meilleure documentation.</p>
+   <table>
+      <tr>
+         <td><a href="../../cgi-bin/distro.pl?distro=debian" title="Debian, la distribution Open Source de référence" onmouseover="debian.src='../../images/debianA.png'" onmouseout="debian.src='../../images/debianB.png'">
+               <img name="debian" src="../../images/debianB.png" width="231" height="71" id="debian" /></a>
+         </td>
+         <td><a href="../../cgi-bin/distro.pl?distro=slackware" title="Slackware, la plus ancienne distribution : Slack un jour, Slack toujours" onmouseover="slackware.src='../../images/slackwareA.png'" onmouseout="slackware.src='../../images/slackwareB.png'">
+               <img name="slackware" src="../../images/slackwareB.png" width="231" height="71" id="slackware" /></a>
+         </td>
+         <td><a href="../../cgi-bin/distro.pl?distro=gentoo" title="Gentoo, la plus rapide de toutes" onmouseover="gentoo.src='../../images/gentooA.png'" onmouseout="gentoo.src='../../images/gentooB.png'">
+               <img name="gentoo" src="../../images/gentooB.png" width="231" height="71" id="gentoo" /></a>
+         </td>
+      </tr>
+   </table>
+   <h2>Un réseau ou serveur web</h2>
+   <p>En fait, FreeBSD n'est pas Linux, mais il fonctionne sur les mêmes bases. C'est le système utilisé par de gros fournisseurs de services d'hébergement, car il est conçu pour être sécurisé dans un environnement en réseau. Il n'est pas adapté à un usage bureautique de tous les jours.</p>
+   <table>
+      <tr>
+         <td><a href="../../cgi-bin/distro.pl?distro=freebsd" title="K12-ltsp, des programmes éducatifs et le projet linux terminal server, modifiés par le projet tuXlabs de la Fondation Shuttleworth" onmouseover="freebsd.src='../../images/freebsdA.png'" onmouseout="freebsd.src='../../images/freebsdB.png'">
+               <img name="freebsd" src="../../images/freebsdB.png" width="231" height="71" id="freebsd" /></a>
+         </td>
+      </tr>
+   </table>
+
+   </div>
+	</body>
+</html>

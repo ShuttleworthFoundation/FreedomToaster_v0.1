@@ -1,0 +1,20 @@
+<?xml version='1.0'?>
+<distro>
+   <name>Knoppix</name>
+   <description>A powerful bootable Live CD</description>
+   <advantages>
+      <advantage>It is Linux "ready to run" - just add hardware (;</advantage>
+      <advantage>It has all the standard packages you will be looking for - OpenOffice, Gimp, Mozilla, Evolution and more...</advantage>
+      <advantage>It requires NO installation - it runs from the CD</advantage>
+      <advantage>It is small - it only uses a single CD</advantage>
+      <advantage>It is the ideal distro if you want to get a feeling of what Linux is all about, but aren't ready to repartition you hard disk</advantage>
+   </advantages>
+   <disadvantages>
+      <disadvantage>In this "ready to run" format, it is not installed on any hardware</disadvantage>
+      <disadvantage>It can be slow since it boots from CD every time</disadvantage>
+      <disadvantage>You cannot upgrade packages or make changes to the distro on the CD</disadvantage>
+   </disadvantages>
+   <defaults>
+     <defaultVersion>knoppix|4.0|CD|1</defaultVersion>
+   </defaults>
+</distro>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<varlistentry>
+    <term>Maintenance Manual</term>
+    <listitem>
+        <para>Explains how to perform routine maintenance tasks such as checking and gathering
+            statistics, upgrading Freedom Toaster software, and loading new Freedom Toaster
+        content.</para>
+    </listitem>
+</varlistentry>

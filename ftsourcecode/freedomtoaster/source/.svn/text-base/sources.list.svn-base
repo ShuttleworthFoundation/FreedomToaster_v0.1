@@ -1,0 +1,4 @@
+deb cdrom:[Ubuntu 5.10 _Breezy Badger_ - Release i386 (20051012)]/ breezy main
+deb http://us.archive.ubuntu.com/ubuntu breezy main universe
+deb http://us.archive.ubuntu.com/ubuntu breezy-updates main universe
+deb http://security.ubuntu.com/ubuntu breezy-security main universe

@@ -1,0 +1,80 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+   <head>
+		<title>Linux for Beginners</title>
+		<link rel="stylesheet" type="text/css" href="../../css/kiosk.css" title="first" />
+		<meta http-equiv="content-type"  content="text/html; charset=utf-8" />
+      <meta http-equiv="refresh"  content="25; URL=index6.html" />
+      <script src="../../kiosk.js" language="javascript" type="text/javascript"></script>
+	</head>
+   <body background="../../css/images/selectorBG.png" bgcolor="#C0C0C0" onLoad="populateSelect();">
+      <div id="MoreInfo">
+         <a href="../../cgi-bin/knowMore.pl" title="About this Toaster">
+            <img src="../../css/images/K_button.gif" alt="?" width="113" height="120" border="0" /><br />
+
+         </a>
+      </div>
+      <div id="Home">
+         <a href="index0.html" title="Go to the beginning page">
+            <img src="../../css/images/H_button.gif" alt="Home" width="148" height="93" border="0" /><br />
+
+         </a>
+      </div>
+      <div id="next">
+         <a href="index6.html" title="Go to the next page">
+            <img src="../../css/images/R_button.gif" alt="Next" width="113" height="120" border="0" /></a>
+      </div>
+      <div id="back">
+         <a href="index4.html" title="Go to the previous page">
+            <img src="../../css/images/L_button.gif" alt="Previous" width="148" height="93" border="0" /></a>
+      </div>
+      <div id="language-bg">
+      	<img src="../../css/images/language-bg.png" alt="background" width="220" height="77" border="0" />
+      </div>
+      <div id="language">
+         <select id="lang-sel" title="Language choice" onClick="magnifySelect(this);" onChange="changeLang(this);">
+         </select>   
+      </div>
+   <div id="content">
+      <img src="images/logoPage.png" width="400" height="131" style="margin-left:170px" /><br />
+      <h1>Linux for Intermediate Users</h1>
+      <p>These distros are slightly more difficult to use, or are used for specific purposes.</p>
+   <table>
+      <tr>
+         <td><a href="../../cgi-bin/distro.pl?distro=fedora" title="Fedora - ex Redhat, is still popular, but we recommend CentOS or Suse" 
+               onmouseover="fedora.src='../../images/fedoraA.png'" 
+               onmouseout="fedora.src='../../images/fedoraB.png'">
+               <img name="fedora" src="../../images/fedoraB.png" width="231" height="71" /></a>
+         </td>
+         <td><a href="../../cgi-bin/distro.pl?distro=impi" title="Impi - a small-business system with the Cubit accounting system included"
+               onmouseover="impi.src='../../images/impiA.png'" 
+               onmouseout="impi.src='../../images/impiB.png'">
+               <img name="impi" src="../../images/impiB.png" width="231" height="71" /></a>
+         </td>
+         <td><a href="../../cgi-bin/distro.pl?distro=centos" title="A whitebox version of Redhat that circumvents some of RedHat's licensing issues, with strong community support"
+               onmouseover="whitebox.src='../../images/centosA.png'" 
+               onmouseout="whitebox.src='../../images/centosB.png'">
+               <img name="whitebox" src="../../images/centosB.png" width="231" height="71" /></a>
+         </td>
+      </tr>
+   </table>
+      <h2>Live CDs</h2>
+      <p>Live CDs will allow you to boot your PC into Linux <strong>without making any permanent changes</strong>.  As soon as you take the CD out of the CDROM your PC returns to its Windows mundaneness.  A system booted from CD will contain a full office suite and many other tools.  I always carry a Knoppix CD with me in case I need to diagnose a foreign system.</p>
+   <table>
+      <tr>
+         <td><a href="../../cgi-bin/distro.pl?distro=knoppix" title="Knoppix - the benchmark live CD" 
+               onmouseover="knoppix.src='../../images/knoppixA.png'" 
+               onmouseout="knoppix.src='../../images/knoppixB.png'">
+               <img name="knoppix" src="../../images/knoppixB.png" width="231" height="71" /></a>
+         </td>
+         <td><a href="../../cgi-bin/distro.pl?distro=clusterknoppix" title="ClusterKnoppix - boot up the PCs in your computer lab to be a super-computer"
+               onmouseover="clusterknoppix.src='../../images/clusterknoppixA.png'" 
+               onmouseout="clusterknoppix.src='../../images/clusterknoppixB.png'">
+               <img name="clusterknoppix" src="../../images/clusterknoppixB.png" width="231" height="71" /></a>
+         </td>
+      </tr>
+   </table>
+
+   </div>
+	</body>
+</html>

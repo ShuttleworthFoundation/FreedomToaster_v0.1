@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<distro>
+	<name>Suse</name>
+	<description>Récemment acquise par Novell, SUSE Linux est une distribution populaire née en Allemagne.</description>
+	<advantages>
+		<advantage>Aussi bonne pour un ordinateur de bureau que pour un serveur.</advantage>
+		<advantage>L'installation laisse le choix entre les bureaux KDE ou GNOME.</advantage>
+		<advantage>Très bon support plug-and-play pour les appareils périphériques.</advantage>
+		<advantage>Contient beaucoup de modules pour l'accès aux partitions Windows.</advantage>
+		<advantage>Très bon équilibre entre la simplicité d'utilisation pour les nouveaux utilisateurs et l'accès aux fonctions avancées pour les spécialistes.</advantage>
+		<advantage>Simple à configurer à l'aide de l'outil YaST (Yet Another Setup Tool).</advantage>
+		<advantage>Elle comporte 5 CD, ce qui est pratique si vous ne disposez pas d'une connexion Internet rapide.</advantage>
+	</advantages>
+	<disadvantages>
+		<disadvantage>Elle comporte 5 CD.</disadvantage>
+	</disadvantages>
+   <defaults>
+     <defaultVersion>suse|10.1|CD|5</defaultVersion>
+   </defaults>
+</distro>

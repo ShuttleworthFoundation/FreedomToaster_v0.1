@@ -1,0 +1,465 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2006-05-08 20:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: images/base-plate.svg:279(format) images/electric.svg:279(format)
+#: images/first-angle.svg:279(format) images/monitor-bracket.svg:275(format)
+#: images/pc-board.svg:42(format) images/roof-plate.svg:279(format)
+#: images/screen-estate.svg:423(format) images/touch.svg:41(format)
+#: images/tower-bracket.svg:275(format)
+msgid "image/svg+xml"
+msgstr ""
+
+#: images/base-plate.svg:360(tspan) images/first-angle.svg:382(tspan)
+#, no-wrap
+msgid "355 mm"
+msgstr ""
+
+#: images/base-plate.svg:374(tspan) images/first-angle.svg:396(tspan)
+#: images/roof-plate.svg:871(tspan)
+#, no-wrap
+msgid "1050 mm"
+msgstr ""
+
+#: images/base-plate.svg:425(tspan) images/first-angle.svg:454(tspan)
+#, no-wrap
+msgid "1055 mm"
+msgstr ""
+
+#: images/base-plate.svg:474(tspan) images/electric.svg:557(tspan)
+#: images/first-angle.svg:526(tspan)
+#, no-wrap
+msgid "TOP VIEW"
+msgstr ""
+
+#: images/base-plate.svg:487(tspan) images/electric.svg:567(tspan)
+#: images/first-angle.svg:539(tspan)
+#, no-wrap
+msgid "FRONT VIEW"
+msgstr ""
+
+#: images/base-plate.svg:536(tspan) images/first-angle.svg:659(tspan)
+#, no-wrap
+msgid "950 mm"
+msgstr ""
+
+#: images/base-plate.svg:557(tspan) images/electric.svg:750(tspan)
+#: images/first-angle.svg:841(tspan)
+#, no-wrap
+msgid "LEFT SIDE VIEW"
+msgstr ""
+
+#: images/base-plate.svg:609(tspan) images/first-angle.svg:1407(tspan)
+#: images/roof-plate.svg:1032(tspan)
+#, no-wrap
+msgid "710 mm"
+msgstr ""
+
+#: images/base-plate.svg:655(tspan) images/first-angle.svg:1973(tspan)
+#, no-wrap
+msgid "20 mm"
+msgstr ""
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
+#: images/base-plate.svg:0(None) images/electric.svg:0(None)
+#: images/first-angle.svg:0(None) images/monitor-bracket.svg:0(None)
+#: images/pc-board.svg:0(None) images/roof-plate.svg:0(None)
+#: images/screen-estate.svg:0(None) images/touch.svg:0(None)
+#: images/tower-bracket.svg:0(None)
+msgid "translator-credits"
+msgstr ""
+
+#: images/electric.svg:613(tspan) images/first-angle.svg:610(tspan)
+#, no-wrap
+msgid "BACK VIEW"
+msgstr ""
+
+#: images/electric.svg:660(tspan) images/first-angle.svg:715(tspan)
+#, no-wrap
+msgid "10 mm dia"
+msgstr ""
+
+#: images/electric.svg:728(tspan) images/first-angle.svg:813(tspan)
+#, no-wrap
+msgid "85 mm"
+msgstr ""
+
+#: images/electric.svg:740(tspan) images/first-angle.svg:828(tspan)
+#: images/roof-plate.svg:883(tspan)
+#, no-wrap
+msgid "35 mm"
+msgstr ""
+
+#: images/electric.svg:934(tspan) images/electric.svg:958(tspan)
+#: images/first-angle.svg:1205(tspan) images/first-angle.svg:1238(tspan)
+#: images/first-angle.svg:1355(tspan) images/pc-board.svg:297(tspan)
+#, no-wrap
+msgid "H"
+msgstr ""
+
+#: images/electric.svg:1041(tspan) images/electric.svg:1060(tspan)
+#: images/first-angle.svg:2335(tspan) images/first-angle.svg:2357(tspan)
+#, no-wrap
+msgid "Hole for "
+msgstr ""
+
+#: images/electric.svg:1045(tspan) images/electric.svg:1064(tspan)
+#: images/first-angle.svg:2339(tspan) images/first-angle.svg:2361(tspan)
+#, no-wrap
+msgid "AC Main "
+msgstr ""
+
+#: images/electric.svg:1049(tspan) images/electric.svg:1068(tspan)
+#: images/first-angle.svg:2343(tspan) images/first-angle.svg:2365(tspan)
+#, no-wrap
+msgid "Cable"
+msgstr ""
+
+#: images/electric.svg:1930(tspan)
+#, no-wrap
+msgid "220V AC"
+msgstr ""
+
+#: images/electric.svg:1940(tspan)
+#, no-wrap
+msgid "3-point adapter"
+msgstr ""
+
+#: images/electric.svg:1997(tspan)
+#, no-wrap
+msgid "Connect all 6 fittings"
+msgstr ""
+
+#: images/electric.svg:2001(tspan)
+#, no-wrap
+msgid "using parallel"
+msgstr ""
+
+#: images/electric.svg:2005(tspan)
+#, no-wrap
+msgid "connections"
+msgstr ""
+
+#: images/electric.svg:2028(tspan) images/electric.svg:2229(tspan)
+#, no-wrap
+msgid "1"
+msgstr ""
+
+#: images/electric.svg:2052(tspan) images/electric.svg:2255(tspan)
+#, no-wrap
+msgid "2"
+msgstr ""
+
+#: images/electric.svg:2076(tspan) images/electric.svg:2281(tspan)
+#, no-wrap
+msgid "3"
+msgstr ""
+
+#: images/electric.svg:2100(tspan) images/electric.svg:2307(tspan)
+#, no-wrap
+msgid "4"
+msgstr ""
+
+#: images/electric.svg:2124(tspan) images/electric.svg:2333(tspan)
+#, no-wrap
+msgid "5"
+msgstr ""
+
+#: images/electric.svg:2148(tspan) images/electric.svg:2359(tspan)
+#, no-wrap
+msgid "6"
+msgstr ""
+
+#: images/electric.svg:2182(tspan)
+#, no-wrap
+msgid "Connect"
+msgstr ""
+
+#: images/electric.svg:2186(tspan)
+#, no-wrap
+msgid "Computer Power Supply"
+msgstr ""
+
+#: images/electric.svg:2196(tspan)
+#, no-wrap
+msgid "#1 - #6 = "
+msgstr ""
+
+#: images/electric.svg:2200(tspan)
+#, no-wrap
+msgid "625mm"
+msgstr ""
+
+#: images/electric.svg:2204(tspan)
+#, no-wrap
+msgid "18W  Single Flouresent Fittings"
+msgstr ""
+
+#: images/first-angle.svg:513(tspan)
+#, no-wrap
+msgid "518 mm"
+msgstr ""
+
+#: images/first-angle.svg:881(tspan)
+#, no-wrap
+msgid "530 mm"
+msgstr ""
+
+#: images/first-angle.svg:1080(tspan)
+#, no-wrap
+msgid "120 mm"
+msgstr ""
+
+#: images/first-angle.svg:1103(tspan)
+#, no-wrap
+msgid "180 mm"
+msgstr ""
+
+#: images/first-angle.svg:1277(tspan) images/first-angle.svg:1794(tspan)
+#, no-wrap
+msgid "300 mm"
+msgstr ""
+
+#: images/first-angle.svg:1698(tspan)
+#, no-wrap
+msgid "1800 mm"
+msgstr ""
+
+#: images/first-angle.svg:1809(tspan)
+#, no-wrap
+msgid "330 mm"
+msgstr ""
+
+#: images/first-angle.svg:1872(tspan)
+#, no-wrap
+msgid "135 mm"
+msgstr ""
+
+#: images/first-angle.svg:1902(tspan)
+#, no-wrap
+msgid "160 mm"
+msgstr ""
+
+#: images/first-angle.svg:1933(tspan)
+#, no-wrap
+msgid "870 mm"
+msgstr ""
+
+#: images/first-angle.svg:2019(tspan)
+#, no-wrap
+msgid "415 mm"
+msgstr ""
+
+#: images/first-angle.svg:2051(tspan)
+#, no-wrap
+msgid "310 mm"
+msgstr ""
+
+#: images/first-angle.svg:2065(tspan)
+#, no-wrap
+msgid "25 mm"
+msgstr ""
+
+#: images/monitor-bracket.svg:423(tspan) images/monitor-bracket.svg:455(tspan)
+#: images/tower-bracket.svg:594(tspan)
+#, no-wrap
+msgid "105 mm"
+msgstr ""
+
+#: images/monitor-bracket.svg:712(tspan)
+#, no-wrap
+msgid "250 mm"
+msgstr ""
+
+#: images/pc-board.svg:183(tspan)
+#, no-wrap
+msgid "A"
+msgstr ""
+
+#: images/pc-board.svg:197(tspan)
+#, no-wrap
+msgid "B"
+msgstr ""
+
+#: images/pc-board.svg:211(tspan)
+#, no-wrap
+msgid "C"
+msgstr ""
+
+#: images/pc-board.svg:225(tspan)
+#, no-wrap
+msgid "D"
+msgstr ""
+
+#: images/pc-board.svg:239(tspan)
+#, no-wrap
+msgid "E"
+msgstr ""
+
+#: images/pc-board.svg:253(tspan)
+#, no-wrap
+msgid "F"
+msgstr ""
+
+#: images/pc-board.svg:267(tspan)
+#, no-wrap
+msgid "G"
+msgstr ""
+
+#: images/pc-board.svg:308(tspan)
+#, no-wrap
+msgid "I"
+msgstr ""
+
+#: images/pc-board.svg:318(tspan)
+#, no-wrap
+msgid "J"
+msgstr ""
+
+#: images/pc-board.svg:374(tspan)
+#, no-wrap
+msgid "K"
+msgstr ""
+
+#: images/pc-board.svg:384(tspan)
+#, no-wrap
+msgid "L"
+msgstr ""
+
+#: images/pc-board.svg:504(tspan) images/pc-board.svg:514(tspan)
+#: images/pc-board.svg:524(tspan)
+#, no-wrap
+msgid "CD/DVD"
+msgstr ""
+
+#: images/pc-board.svg:534(tspan)
+#, no-wrap
+msgid "IDE Controller"
+msgstr ""
+
+#: images/pc-board.svg:563(tspan)
+#, no-wrap
+msgid "HDD"
+msgstr ""
+
+#: images/pc-board.svg:574(tspan)
+#, no-wrap
+msgid "SATA Mother Board"
+msgstr ""
+
+#: images/roof-plate.svg:909(tspan)
+#, no-wrap
+msgid "front"
+msgstr ""
+
+#: images/roof-plate.svg:920(tspan)
+#, no-wrap
+msgid "top"
+msgstr ""
+
+#: images/roof-plate.svg:931(tspan)
+#, no-wrap
+msgid "lsv"
+msgstr ""
+
+#: images/roof-plate.svg:973(tspan)
+#, no-wrap
+msgid "305 mm"
+msgstr ""
+
+#: images/roof-plate.svg:1005(tspan)
+#, no-wrap
+msgid "10 mm"
+msgstr ""
+
+#: images/roof-plate.svg:1054(tspan)
+#, no-wrap
+msgid "177 mm"
+msgstr ""
+
+#: images/screen-estate.svg:562(tspan)
+#, no-wrap
+msgid "Show Toast List"
+msgstr ""
+
+#: images/screen-estate.svg:677(tspan)
+#, no-wrap
+msgid "Previous"
+msgstr ""
+
+#: images/screen-estate.svg:689(tspan)
+#, no-wrap
+msgid "Device"
+msgstr ""
+
+#: images/screen-estate.svg:693(tspan)
+#, no-wrap
+msgid "Status"
+msgstr ""
+
+#: images/screen-estate.svg:705(tspan)
+#, no-wrap
+msgid "Action"
+msgstr ""
+
+#: images/screen-estate.svg:709(tspan)
+#, no-wrap
+msgid "Button"
+msgstr ""
+
+#: images/screen-estate.svg:721(tspan)
+#, no-wrap
+msgid "Next"
+msgstr ""
+
+#: images/screen-estate.svg:733(tspan)
+#, no-wrap
+msgid "Help"
+msgstr ""
+
+#: images/screen-estate.svg:745(tspan)
+#, no-wrap
+msgid "Home"
+msgstr ""
+
+#: images/screen-estate.svg:756(tspan)
+#, no-wrap
+msgid "Screen Title"
+msgstr ""
+
+#: images/screen-estate.svg:768(tspan)
+#, no-wrap
+msgid "Menus/"
+msgstr ""
+
+#: images/screen-estate.svg:772(tspan)
+#, no-wrap
+msgid "Options"
+msgstr ""
+
+#: images/screen-estate.svg:783(tspan)
+#, no-wrap
+msgid "Message"
+msgstr ""
+
+#: images/screen-estate.svg:864(tspan)
+#, no-wrap
+msgid "Navigation"
+msgstr ""
+
+#: images/screen-estate.svg:868(tspan)
+#, no-wrap
+msgid "Buttons"
+msgstr ""
+
+#: images/tower-bracket.svg:646(tspan) images/tower-bracket.svg:658(tspan)
+#, no-wrap
+msgid "125 mm"
+msgstr ""

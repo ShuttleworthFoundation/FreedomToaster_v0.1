@@ -1,0 +1,20 @@
+<?xml version='1.0'?>
+<distro>
+   <name>Project Gutenberg</name>
+   <description>Your Free Personal Library</description>
+   <advantages>
+      <advantage>Great books are made available to anybody with access to a computer</advantage>
+      <advantage>Contains Light Literature such as Alice in Wonderland, Through the Looking-Glass, Peter Pan, Aesop's Fables, etc.</advantage>
+      <advantage>Contains Heavy Literature such as the Bible or other religious documents, Shakespeare, Moby Dick, Paradise Lost, etc.</advantage>
+      <advantage>Contains References such as Roget's Thesaurus, almanacs, and a set of encyclopedia, dictionaries, etc.</advantage>
+      <advantage>Texts can be searched electronically for quotes and references</advantage>
+      <advantage>Great for help with homework, projects and assignments!</advantage>
+      <advantage>You are free to make copies to give to your school, local library and your friends &amp; family</advantage> 
+   </advantages>
+   <disadvantages>
+      <disadvantage>You need a computer to read or access this literature</disadvantage>
+   </disadvantages>
+   <defaults>
+     <defaultVersion>gutenberg|1.0|CD|1</defaultVersion>
+   </defaults>
+</distro>

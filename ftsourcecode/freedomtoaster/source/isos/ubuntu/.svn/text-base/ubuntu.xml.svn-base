@@ -1,0 +1,20 @@
+<?xml version='1.0'?>
+<distro>
+	<name>Ubuntu</name>
+	<description>Ubuntu is a complete Linux-based operating system, freely available with both
+		community and professional support.</description>
+	<advantages>
+		<advantage>It is "desktop ready" but also good as a server - especially now that long term support has been added..</advantage>
+		<advantage>It is a single disc that is also used as a Live CD.</advantage>
+		<advantage>It is easy to install - it boots as a full linux Live CD, which allows you to confirm that it will work on your hard, then allows you to run a simple, six-step graphical install.</advantage>
+		<advantage>It is recommended for the novice, but meets corporate and server-room needs with its long term support and paid for professional support options.</advantage>
+	</advantages>
+	<disadvantages>
+		<disadvantage>It is not as widely accepted as RedHat and Suse - but that is changing because
+			it is better in many respects, and it was recently voted the best linux distribution of
+		2005</disadvantage>
+	</disadvantages>
+   <defaults>
+     <defaultVersion>ubuntu|6.06-Dapper-Desktop|CD|1</defaultVersion>
+   </defaults>
+</distro>

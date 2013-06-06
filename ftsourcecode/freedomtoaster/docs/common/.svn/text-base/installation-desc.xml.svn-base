@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<varlistentry>
+    <term>Installation Manual</term>
+    <listitem>
+        <para>Explains how to install and configure the software components of the Freedom Toaster
+            from scratch.</para>
+    </listitem>
+</varlistentry>

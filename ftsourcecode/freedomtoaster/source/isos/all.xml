@@ -1,0 +1,21 @@
+<?xml version='1.0'?>
+<list>
+   <items>
+      <path>ubuntu</path>
+      <path>edubuntu</path>
+      <path>openlab</path>
+      <path>kubuntu</path>
+      <path>impi</path>
+      <path>suse</path>
+      <path>debian</path>
+      <path>fedora</path>
+      <path>centos</path>
+      <path>mandriva</path>
+      <path>slackware</path>
+      <path>gentoo</path>
+      <path>k12ltsp</path>
+      <path>freebsd</path>
+      <path>knoppix</path>
+      <path>clusterknoppix</path>
+   </items>
+</list>

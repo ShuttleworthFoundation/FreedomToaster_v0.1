@@ -1,0 +1,83 @@
+/*******************************************************************************
+ * Burners CSS
+ * Purpose : Set appearance for the burner section of the Freedom Toaster
+ * Created : Charles Oertel (2005/11/05)
+ * License : GPL
+*******************************************************************************/
+body {
+	font-family: "Helvetica", "sans-serif";
+        font-size : small;
+}
+img {
+   border   :   none;
+   margin   :   0;
+}
+ 
+table {
+   margin : 3px auto;
+}
+
+A:link { text-decoration: none; }
+
+BUTTON { border: none; margin: 0; padding: 0}
+
+
+
+
+div#topStatusBox {
+        position        :       absolute;
+        top     :       70px;
+        left    :       5px;
+        text-align      :       center;
+        width   :       200px;
+        color   :       black;
+}
+div.CDRWStatus {
+        text-align      :       center;
+        width   :       196px;
+        height  :       200px;
+        font-size : small;
+        line-height : 1em;
+        background : transparent URL(../images/cdrw_dark.png) 50px 0 no-repeat;
+	position : relative;
+}
+div.CDRWStatus h2 {
+   font-size : 12px;
+	text-align: center;
+	margin      : 0 auto;
+	margin-bottom  : 85px;
+	padding   : 0;
+
+}
+div.CDRWStatus p {
+	text-align : center;
+	width   : 100%;
+   padding : 0;
+   margin  : 0;
+	z-index	: 100;
+}
+div.CDRWStatus p.Percentage {
+   position: absolute;
+	top     : 49px;
+}
+div.CDRWStatus p#Speed {
+   position: absolute;
+	top     : 95px;
+}
+div.StatusMarker {
+   position	: absolute;
+   top		:	0;
+   left		:	50px;
+   background   :   transparent URL(../images/cdrw.png) 0 0 no-repeat;
+   height	:	120px;
+   z-index	: 10;
+}
+div#BlinkingLight {
+   position  : absolute;
+   top      : 67px;
+   left     :  55px;
+   background : transparent URL(../images/blinking.gif) top left;
+   width    : 9px;
+   height   : 7px;
+   z-index  : 200;
+}

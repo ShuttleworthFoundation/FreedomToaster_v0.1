@@ -1,0 +1,9 @@
+<?xml version='1.0'?>
+<title>What Software do you want?</title>
+<links>
+   <link>
+      <url>cgi-bin/chooseItem.pl?list=all</url>
+      <text>Show all Linux distibutions</text>
+      <image>k12ltsp</image>
+   </link>
+</links>

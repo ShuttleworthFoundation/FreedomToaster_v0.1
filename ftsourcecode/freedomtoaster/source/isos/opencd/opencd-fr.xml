@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<distro>
+   <name>The Open CD</name>
+   <description>Un autre projet favori de Mark Shuttleworth</description>
+   <advantages>
+      <advantage>Logiciels libres pour les utilisateurs de Windows sur un CD facile à installer</advantage>
+	   <advantage>Contient OpenOffice, une suite bureautique libre compatible avec MS Office</advantage>
+      <advantage>Firefox, un navigateur Internet sécurisé pour remplacer Internet Explorer</advantage>
+      <advantage>Thunderbird, un logiciel de messagerie puissant qui lutte contre le pourriel et les virus.</advantage>
+      <advantage>The Gimp, un logiciel de graphisme et de retouche d'image perfectionné comparable à Photoshop</advantage>
+      <advantage>Contient des jeux et des économiseurs d'écran</advantage>
+      <advantage>Idéal si vous possédez un ordinateur Windows et que vous avez besoin de bons logiciels</advantage>
+      <advantage>Une très bonne manière de tester des logiciels libres</advantage>
+   </advantages>
+   <disadvantages>
+      <disadvantage>Bien que les logiciels libres soient souvent meilleurs que leurs équivalents propriétaires onéreux, ils seront toujours limités par les problèmes inhérents à MS Windows</disadvantage>
+   </disadvantages>
+   <defaults>
+     <defaultVersion>opencd|3.0|CD|1</defaultVersion>
+   </defaults>
+</distro>

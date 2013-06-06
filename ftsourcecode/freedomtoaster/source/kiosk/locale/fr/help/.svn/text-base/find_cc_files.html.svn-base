@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+   <head>
+		<title>Aide Creative Commons</title>
+		<link rel="stylesheet" type="text/css" href="../../../css/kiosk.css" title="premier" />
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+      <meta http-equiv="refresh" content="45; URL=javascript:history.go(-1)" />
+      <script src="../../../kiosk.js" language="javascript" type="text/javascript"></script>
+	</head>
+   <body background="../../../css/images/selectorBG.png" bgcolor="#C0C0C0">
+      <div id="Home">
+         <a href="../index0.html" title="Accueil">
+            <img src="../../../css/images/H_button.gif" alt="Accueil" width="148" height="93" border="0" /></a>
+      </div>
+      <div id="back">
+         <a href="javascript:history.go(-1)" title="Aller à la page précédente">
+            <img src="../../../css/images/L_button.gif" alt="Accueil" width="148" height="93" border="0" /></a>
+      </div>
+   <div id="help">
+      <img src="../images/logoHelp.png" width="305" height="100" align="right" style="margin:-10px -60px 0 0" />
+      <h1>Aide Creative Commons</h1>
+      <h2>Creative Commons est une organisation sans but lucratif qui propose des licence de droits d'auteur souples pour des oeuvres créatives.</h2>
+      <p>Ces licences permettent notamment que vous puissiez sélectionner, graver et utiliser du contenu qui a été placé sur ce Freedom Toaster par d'autres personnes.</p>
+       
+      <h2>Un exemple</h2>
+   
+      <img src="../../../images/ccdj.gif" align="left" style="margin-right:1em; margin-top:1em" /><p><strong>http://ccMixter.org</strong> [anglais] est un site communautaire de musique sur lequel vous trouvez des remix sous licence Creative Commons et où l'on peut écouter, mixer, échantillonner ou interagir avec la musique comme cela vous chante. De telles possibilités existent sur ce Freedom Toaster.</p>
+
+      <h2>Autre exemple</h2>
+      <p>Les photos de Gus sont en ligne et sous licence «&nbsp;Pas d'utilisation commerciale&nbsp;» et «&nbsp;Partage à l'identique des conditions initiales&nbsp;». Camille est une artiste amateur en collage; elle utilise les photos de Gus pour un de ses collages. Partage à l'identique des conditions initiales exige que Camille publie son collage avec la même licence. Il s'ensuit que son oeuvre sera aussi disponible pour tout le monde, avec les mêmes conditions que Gus lui a mis à disposition son oeuvre.</p>
+      <ul style="margin-left:5em">
+         <li><a href="../cc_cartoon1.html">Une bande dessinée sur les droits Creative Commons</a>.</li>
+         <li><a href="../cc_cartoon2.html">Comment fonctionnent les licences Creative Commons</a>.</li>
+         <li>En savoir plus sur les <a href="../help/cc_licenses.html">licences Creative Commons</a>.</li>
+         </ul>
+
+   </div>
+	</body>
+</html>

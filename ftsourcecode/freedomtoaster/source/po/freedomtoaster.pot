@@ -1,0 +1,3632 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2006-06-14 22:52+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../kiosk/locale/en/help/advanced_burning_options.html:4(title)
+#: ../kiosk/locale/en/help/distro_burning.html:4(title)
+msgid "Distro Burning Help"
+msgstr ""
+
+#: ../kiosk/locale/en/help/advanced_burning_options.html:5(link:title)
+#: ../kiosk/locale/en/help/advanced_queue_options.html:5(link:title)
+#: ../kiosk/locale/en/cc_cartoon1.html:5(link:title)
+#: ../kiosk/locale/en/cc_cartoon2.html:5(link:title)
+#: ../kiosk/locale/en/help/cc_licenses.html:5(link:title)
+#: ../kiosk/locale/en/help/distro_burning.html:5(link:title)
+#: ../kiosk/locale/en/help/find_cc_files.html:5(link:title)
+#: ../kiosk/locale/en/index0.html:6(link:title)
+#: ../kiosk/locale/en/index1.html:5(link:title)
+#: ../kiosk/locale/en/index2.html:5(link:title)
+#: ../kiosk/locale/en/index3.html:5(link:title)
+#: ../kiosk/locale/en/index4.html:5(link:title)
+#: ../kiosk/locale/en/index5.html:5(link:title)
+#: ../kiosk/locale/en/index6.html:5(link:title)
+#: ../kiosk/locale/en/index7.html:5(link:title)
+#: ../kiosk/locale/en/index99.html:5(link:title)
+#: ../kiosk/locale/en/help/show_queue.html:5(link:title)
+msgid "first"
+msgstr ""
+
+#: ../kiosk/locale/en/help/advanced_burning_options.html:12(a:title)
+#: ../kiosk/locale/en/help/advanced_burning_options.html:13(img:alt)
+#: ../kiosk/locale/en/help/advanced_burning_options.html:17(img:alt)
+#: ../kiosk/locale/en/help/advanced_queue_options.html:12(a:title)
+#: ../kiosk/locale/en/help/advanced_queue_options.html:13(img:alt)
+#: ../kiosk/locale/en/help/advanced_queue_options.html:17(img:alt)
+#: ../kiosk/locale/en/cc_cartoon1.html:13(a:title)
+#: ../kiosk/locale/en/cc_cartoon1.html:14(img:alt)
+#: ../kiosk/locale/en/cc_cartoon1.html:18(img:alt)
+#: ../kiosk/locale/en/cc_cartoon2.html:13(a:title)
+#: ../kiosk/locale/en/cc_cartoon2.html:14(img:alt)
+#: ../kiosk/locale/en/cc_cartoon2.html:18(img:alt)
+#: ../kiosk/locale/en/help/cc_licenses.html:12(a:title)
+#: ../kiosk/locale/en/help/cc_licenses.html:13(img:alt)
+#: ../kiosk/locale/en/help/cc_licenses.html:17(img:alt)
+#: ../kiosk/locale/en/help/distro_burning.html:12(a:title)
+#: ../kiosk/locale/en/help/distro_burning.html:13(img:alt)
+#: ../kiosk/locale/en/help/distro_burning.html:17(img:alt)
+#: ../kiosk/locale/en/help/find_cc_files.html:12(a:title)
+#: ../kiosk/locale/en/help/find_cc_files.html:13(img:alt)
+#: ../kiosk/locale/en/help/find_cc_files.html:17(img:alt)
+#: ../kiosk/locale/en/index0.html:21(img:alt)
+#: ../kiosk/locale/en/index1.html:17(img:alt)
+#: ../kiosk/locale/en/index1.html:23(img:alt)
+#: ../kiosk/locale/en/index1.html:27(img:alt)
+#: ../kiosk/locale/en/index2.html:19(img:alt)
+#: ../kiosk/locale/en/index2.html:25(img:alt)
+#: ../kiosk/locale/en/index2.html:29(img:alt)
+#: ../kiosk/locale/en/index3.html:19(img:alt)
+#: ../kiosk/locale/en/index3.html:25(img:alt)
+#: ../kiosk/locale/en/index3.html:29(img:alt)
+#: ../kiosk/locale/en/index4.html:19(img:alt)
+#: ../kiosk/locale/en/index4.html:25(img:alt)
+#: ../kiosk/locale/en/index4.html:29(img:alt)
+#: ../kiosk/locale/en/index5.html:19(img:alt)
+#: ../kiosk/locale/en/index6.html:19(img:alt)
+#: ../kiosk/locale/en/index7.html:19(img:alt)
+#: ../kiosk/locale/en/index99.html:19(img:alt)
+#: ../kiosk/locale/en/index99.html:24(img:alt)
+#: ../kiosk/locale/en/help/show_queue.html:12(a:title)
+#: ../kiosk/locale/en/help/show_queue.html:13(img:alt)
+#: ../kiosk/locale/en/help/show_queue.html:17(img:alt)
+msgid "Home"
+msgstr ""
+
+#: ../kiosk/locale/en/help/advanced_burning_options.html:16(a:title)
+#: ../kiosk/locale/en/help/advanced_queue_options.html:16(a:title)
+#: ../kiosk/locale/en/cc_cartoon1.html:17(a:title)
+#: ../kiosk/locale/en/cc_cartoon2.html:17(a:title)
+#: ../kiosk/locale/en/help/cc_licenses.html:16(a:title)
+#: ../kiosk/locale/en/help/distro_burning.html:16(a:title)
+#: ../kiosk/locale/en/help/find_cc_files.html:16(a:title)
+#: ../kiosk/locale/en/index1.html:26(a:title)
+#: ../kiosk/locale/en/index2.html:28(a:title)
+#: ../kiosk/locale/en/index3.html:28(a:title)
+#: ../kiosk/locale/en/index4.html:28(a:title)
+#: ../kiosk/locale/en/index5.html:28(a:title)
+#: ../kiosk/locale/en/index6.html:28(a:title)
+#: ../kiosk/locale/en/index7.html:28(a:title)
+#: ../kiosk/locale/en/index99.html:23(a:title)
+#: ../kiosk/locale/en/help/show_queue.html:16(a:title)
+msgid "Go to the previous page"
+msgstr ""
+
+#: ../kiosk/locale/en/help/advanced_burning_options.html:21(h1)
+msgid "Choosing a Different Version Help"
+msgstr ""
+
+#: ../kiosk/locale/en/help/advanced_burning_options.html:22(p)
+msgid ""
+"Just highlight the version you want in the list of versions, then click the "
+"<b>'Add to Selection'</b> button"
+msgstr ""
+
+#: ../kiosk/locale/en/help/advanced_burning_options.html:23(p)
+msgid ""
+"<strong>Note:</strong> choosing a version using this mechanism will put you "
+"in <em>Advanced Mode</em>. This means that you have the option of burning "
+"multiple CD isos to a DVD, and that you will be presented with a more "
+"advanced toaster queue page in order to specify your needs."
+msgstr ""
+
+#: ../kiosk/locale/en/help/advanced_burning_options.html:24(h2)
+msgid "Available Versions"
+msgstr ""
+
+#: ../kiosk/locale/en/help/advanced_burning_options.html:25(p)
+msgid ""
+"If there is only one version in the list, then it means that that is the "
+"only version available on this Freedom Toaster"
+msgstr ""
+
+#: ../kiosk/locale/en/help/advanced_burning_options.html:26(h2)
+msgid "Some Versions are off the screen"
+msgstr ""
+
+#: ../kiosk/locale/en/help/advanced_burning_options.html:27(p)
+msgid ""
+"The list of versions can only show 10 at a time. If there are more versions, "
+"you will notice a <b>scrollbar</b> on the right of the list. Drag the bar up "
+"or down to show the other items in the list."
+msgstr ""
+
+#: ../kiosk/locale/en/help/advanced_burning_options.html:28(h2)
+msgid "Going Back to Where I was"
+msgstr ""
+
+#: ../kiosk/locale/en/help/advanced_burning_options.html:29(p)
+msgid "Just click the <b>'Back'</b> button <b>(&lt;)</b> on the bottom left"
+msgstr ""
+
+#: ../kiosk/locale/en/help/advanced_burning_options.html:30(h2)
+msgid "Going Home"
+msgstr ""
+
+#: ../kiosk/locale/en/help/advanced_burning_options.html:31(p)
+msgid "Just click the <b>'Home'</b> button on the top left of the screen"
+msgstr ""
+
+#: ../kiosk/locale/en/help/advanced_queue_options.html:4(title)
+#: ../kiosk/locale/en/help/show_queue.html:4(title)
+msgid "Toast Queue Help"
+msgstr ""
+
+#: ../kiosk/locale/en/help/advanced_queue_options.html:21(h1)
+msgid "Advanced Queue Options Help"
+msgstr ""
+
+#: ../kiosk/locale/en/help/advanced_queue_options.html:22(p)
+msgid ""
+"This page allows you to choose some CD isos to combine onto DVD before "
+"sending them to the <b>Toaster Queue</b> below. You do this by selecting the "
+"iso in the <b>CD ISOs Selected List</b> on the left and clicking the <b>'Add "
+"to DVD'</b> button between the CD List and the <b>CDs to Combine on DVD "
+"List</b> on the right."
+msgstr ""
+
+#: ../kiosk/locale/en/help/advanced_queue_options.html:23(h2)
+msgid "The Combine to DVD List"
+msgstr ""
+
+#: ../kiosk/locale/en/help/advanced_queue_options.html:24(p)
+msgid ""
+"This list shows all the CDs that will be combined onto DVD. Below the list "
+"is a calculation of how many DVDs are needed. This calculation uses the size "
+"of the CDs, but doesn't care what order you choose them in - it will always "
+"give the most efficient result."
+msgstr ""
+
+#: ../kiosk/locale/en/help/advanced_queue_options.html:25(h2)
+msgid "Removing Items from the Combine to DVD List"
+msgstr ""
+
+#: ../kiosk/locale/en/help/advanced_queue_options.html:26(p)
+msgid ""
+"You can remove items from this list and put them back into the CD list by "
+"selecting them and clicking the <b>'Put Back'</b> button. You can also click "
+"the <b>'Clear List'</b> button to remove all the items without putting them "
+"back"
+msgstr ""
+
+#: ../kiosk/locale/en/help/advanced_queue_options.html:27(h2)
+msgid "Sending Items to the Toasters"
+msgstr ""
+
+#: ../kiosk/locale/en/help/advanced_queue_options.html:28(p)
+msgid ""
+"Click on <b>'Toast Now'</b> to send all the items in the <b>CD ISOs "
+"Selected</b>, <em>and the</em><b>CDs to Combine on DVD</b> lists to the "
+"Toaster Queues."
+msgstr ""
+
+#: ../kiosk/locale/en/cc_cartoon1.html:4(title)
+#: ../kiosk/locale/en/cc_cartoon2.html:4(title)
+#: ../kiosk/locale/en/help/cc_licenses.html:4(title)
+#: ../kiosk/locale/en/help/find_cc_files.html:4(title)
+#: ../kiosk/locale/en/help/find_cc_files.html:21(h1)
+msgid "Creative Commons Help"
+msgstr ""
+
+#: ../kiosk/locale/en/cc_cartoon1.html:22(h1)
+msgid "A Spectrum of Rights"
+msgstr ""
+
+#: ../kiosk/locale/en/cc_cartoon1.html:30(p)
+msgid "Read the other comic <a href=\"cc_cartoon2.html\">How it Works</a>."
+msgstr ""
+
+#: ../kiosk/locale/en/cc_cartoon1.html:31(p)
+#: ../kiosk/locale/en/cc_cartoon2.html:31(p)
+msgid ""
+"Find out more about <a href=\"help/cc_licenses.html\">Creative Commons "
+"licenses</a>."
+msgstr ""
+
+#: ../kiosk/locale/en/cc_cartoon2.html:22(h1)
+msgid "How it works"
+msgstr ""
+
+#: ../kiosk/locale/en/cc_cartoon2.html:30(p)
+msgid ""
+"Read the other comic <a href=\"cc_cartoon1.html\">A Spectrum of Rights</a>."
+msgstr ""
+
+#: ../kiosk/locale/en/help/cc_licenses.html:21(h1)
+msgid "Creative Commons Licenses"
+msgstr ""
+
+#: ../kiosk/locale/en/help/cc_licenses.html:23(p)
+msgid ""
+"Offering your work under a Creative Commons license does not mean giving up "
+"your copyright. It means offering some of your rights to any member of the "
+"public but only on certain conditions."
+msgstr ""
+
+#: ../kiosk/locale/en/help/cc_licenses.html:25(img:alt)
+msgid "Attribution"
+msgstr ""
+
+#: ../kiosk/locale/en/help/cc_licenses.html:25(p)
+msgid ""
+"<strong>Attribution</strong>. You let others copy, distribute, display, and "
+"perform your copyrighted work — and derivative works based upon it — but "
+"only if they give credit the way you request."
+msgstr ""
+
+#: ../kiosk/locale/en/help/cc_licenses.html:27(img:alt)
+msgid "Noncommercial"
+msgstr ""
+
+#: ../kiosk/locale/en/help/cc_licenses.html:27(p)
+msgid ""
+"<strong>Noncommercial</strong>. You let others copy, distribute, display, "
+"and perform your work — and derivative works based upon it — but for "
+"noncommercial purposes only"
+msgstr ""
+
+#: ../kiosk/locale/en/help/cc_licenses.html:29(img:alt)
+msgid "No Derivative Works"
+msgstr ""
+
+#: ../kiosk/locale/en/help/cc_licenses.html:29(p)
+msgid ""
+"<strong>No Derivative Works</strong>. You let others copy, distribute, "
+"display, and perform only verbatim copies of your work, not derivative works "
+"based upon it."
+msgstr ""
+
+#: ../kiosk/locale/en/help/cc_licenses.html:31(img:alt)
+msgid "Share Alike"
+msgstr ""
+
+#: ../kiosk/locale/en/help/cc_licenses.html:31(p)
+msgid ""
+"<strong>Share Alike</strong>. You allow others to distribute derivative "
+"works only under a license identical to the license that governs your work."
+msgstr ""
+
+#: ../kiosk/locale/en/help/cc_licenses.html:33(p)
+msgid ""
+"<em>Note</em>: A license cannot feature both the Share Alike and No "
+"Derivative Works options. The Share Alike requirement applies only to "
+"derivative works."
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/did_u_know.xml:4(title)
+msgid "Linus likes penguins"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/did_u_know.xml:5(content)
+msgid "Despite having been bitten by a penguin, Linus loves penguins"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/did_u_know.xml:8(title)
+msgid "Linus was a student"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/did_u_know.xml:9(content)
+msgid ""
+"When Linus wrote the kernel, he was an MSc student studying in Helsinki, "
+"Finland"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/did_u_know.xml:12(title)
+msgid "Kernel numbering"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/did_u_know.xml:13(content)
+msgid ""
+"Even-numbered kernels are stable ones, while odd-numbered ones are testing"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/did_u_know.xml:16(title)
+msgid "Embedded Linux"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/did_u_know.xml:17(content)
+msgid ""
+"Linux has taken the embedded world by storm. Soon your fridge, microwave and "
+"toaster will all run Linux"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/did_u_know.xml:20(title)
+msgid "Linux is the Kernel"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/did_u_know.xml:21(content)
+msgid ""
+"Linux is not the whole operating system. It is just the kernel. Many of the "
+"standard features (gcc, cp, mv, etc.) were developed by the FSF"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/did_u_know.xml:24(title)
+msgid "Larry Wall"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/did_u_know.xml:25(content)
+msgid ""
+"The developer of <b>Perl</b><br/><b>Perl</b> - Pathetic Ecclectic Rubbish "
+"Lister, or Pratical Extraction and Reporting Language. Your call!"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/did_u_know.xml:28(title)
+msgid "Eric Raymond"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/did_u_know.xml:29(content)
+msgid ""
+"The person to coin the term <i>Open Source</i> has written a book on Open "
+"Source called the <b>The cathedral and the Bazaar</b>"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/did_u_know.xml:32(title)
+msgid "GNU"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/did_u_know.xml:33(content)
+msgid ""
+"<b>GNU</b> means GNU is not UNIX - a truly recursive name. While much of "
+"Linux has had UNIX as a distant relative , Linux is not UNIX"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/did_u_know.xml:36(title)
+msgid "Copying"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/did_u_know.xml:37(content)
+msgid ""
+"Copying Linux, and loading it on as many computers as you can is encouraged"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/did_u_know.xml:40(title)
+msgid "Dual-boot"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/did_u_know.xml:41(content)
+msgid ""
+"If you are a little anxious about deleting all your proprietary software, "
+"you can dual-boot Linux. This means having two Operating Systems on a single "
+"computer"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/did_u_know.xml:44(title)
+msgid "Free-play"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/did_u_know.xml:45(content)
+msgid ""
+"- The South African wind-up torch company<br/>There is a geek who has got "
+"Linux to boot on a PC-board powered by a free-play torch - enough to make "
+"Ripley's ears perk up!"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/did_u_know.xml:48(title)
+msgid "This Kiosk system"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/did_u_know.xml:49(content)
+msgid ""
+"Was designed by Eugene of <b>Pumphaus Designs</b> and developed by Hamish of "
+"<b>QED Technologies</b> - get our details when we scroll the credits after "
+"cutting your CDs"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/did_u_know.xml:52(title)
+msgid "Tux the Penguin"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/did_u_know.xml:53(content)
+msgid ""
+"Tux was designed in an <i><b>Open Source</b></i> graphics package called "
+"<b>The Gimp</b>"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/did_u_know.xml:56(title)
+msgid "Guido van Rossum"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/did_u_know.xml:57(content)
+msgid ""
+"The developer of <i>the other</i> useful language <b>Python</b>. Python can "
+"be found at<br/>www.python.org"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/did_u_know.xml:60(title)
+msgid "Who created Tux"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/did_u_know.xml:61(content)
+msgid ""
+"Tux was created as part of a competion. Larry Ewing won with his creation of "
+"Tux"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/did_u_know.xml:64(title)
+msgid "Many Tux's, one OS"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/did_u_know.xml:65(content)
+msgid ""
+"A bit like <i>Many Cultures, One City</i>, the Tux has many different "
+"renditions. See <b>http://lwn.net/Gallery</b>"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/did_u_know.xml:68(title)
+msgid "The African Penguin"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/did_u_know.xml:69(content)
+msgid ""
+"Previously called the Jackass Penguin is <b>our</b> very own mascott. See "
+"them in action at the Two Oceans Aquarium, Bolders beach or in Betties Bay"
+msgstr ""
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
+#: ../kiosk/locale/en/sayings/did_u_know.xml:0(None)
+#: ../kiosk/locale/en/sayings/knowMore.xml:0(None)
+#: ../isos/clusterknoppix/clusterknoppix.xml:0(None)
+#: ../isos/debian/debian.xml:0(None) ../isos/edubuntu/edubuntu.xml:0(None)
+#: ../isos/fedora/fedora.xml:0(None) ../isos/firemonger/firemonger.xml:0(None)
+#: ../isos/freebsd/freebsd.xml:0(None) ../isos/gentoo/gentoo.xml:0(None)
+#: ../isos/go-open/go-open.xml:0(None) ../isos/gutenberg/gutenberg.xml:0(None)
+#: ../isos/impi/impi.xml:0(None) ../isos/k12ltsp/k12ltsp.xml:0(None)
+#: ../isos/knoppix/knoppix.xml:0(None) ../isos/kubuntu/kubuntu.xml:0(None)
+#: ../isos/mandriva/mandriva.xml:0(None) ../isos/ooffice/ooffice.xml:0(None)
+#: ../isos/opencd/opencd.xml:0(None) ../isos/openlab/openlab.xml:0(None)
+#: ../isos/slackware/slackware.xml:0(None) ../isos/suse/suse.xml:0(None)
+#: ../isos/toaster/toaster.xml:0(None) ../isos/ubuntu/ubuntu.xml:0(None)
+#: ../isos/whitebox/whitebox.xml:0(None) ../image-factory/addtags.svg:0(None)
+#: ../image-factory/add_to_dvd_disabled.svg:0(None)
+#: ../image-factory/add_to_dvd.svg:0(None)
+#: ../image-factory/add_to_selection.svg:0(None)
+#: ../image-factory/advanced.svg:0(None) ../image-factory/back.svg:0(None)
+#: ../image-factory/blank.svg:0(None) ../image-factory/burncd.svg:0(None)
+#: ../image-factory/burndvd.svg:0(None) ../image-factory/ccht10.svg:0(None)
+#: ../image-factory/ccht11.svg:0(None) ../image-factory/ccht12.svg:0(None)
+#: ../image-factory/ccht13.svg:0(None) ../image-factory/ccht14.svg:0(None)
+#: ../image-factory/ccht15.svg:0(None) ../image-factory/ccht16.svg:0(None)
+#: ../image-factory/ccht1.svg:0(None) ../image-factory/ccht2.svg:0(None)
+#: ../image-factory/ccht3.svg:0(None) ../image-factory/ccht4.svg:0(None)
+#: ../image-factory/ccht5.svg:0(None) ../image-factory/ccht6.svg:0(None)
+#: ../image-factory/ccht7.svg:0(None) ../image-factory/ccht8.svg:0(None)
+#: ../image-factory/ccht9.svg:0(None) ../image-factory/ccp10.svg:0(None)
+#: ../image-factory/ccp11.svg:0(None) ../image-factory/ccp12.svg:0(None)
+#: ../image-factory/ccp13.svg:0(None) ../image-factory/ccp14.svg:0(None)
+#: ../image-factory/ccp1.svg:0(None) ../image-factory/ccp2.svg:0(None)
+#: ../image-factory/ccp3.svg:0(None) ../image-factory/ccp4.svg:0(None)
+#: ../image-factory/ccp5.svg:0(None) ../image-factory/ccp6.svg:0(None)
+#: ../image-factory/ccp7.svg:0(None) ../image-factory/ccp8.svg:0(None)
+#: ../image-factory/ccp9.svg:0(None) ../image-factory/clear_all.svg:0(None)
+#: ../image-factory/clear_list.svg:0(None)
+#: ../image-factory/did_you_know_open2.svg:0(None)
+#: ../image-factory/did_you_know.svg:0(None)
+#: ../image-factory/do_it_now.svg:0(None) ../image-factory/done.svg:0(None)
+#: ../image-factory/findmore.svg:0(None)
+#: ../image-factory/hide_advanced.svg:0(None)
+#: ../image-factory/logoHome.svg:0(None) ../image-factory/next.svg:0(None)
+#: ../image-factory/other_versions.svg:0(None)
+#: ../image-factory/put_back_disabled.svg:0(None)
+#: ../image-factory/put_back.svg:0(None) ../image-factory/retry.svg:0(None)
+#: ../image-factory/show_toast_list.svg:0(None)
+#: ../image-factory/skip.svg:0(None)
+#: ../image-factory/toast_selection.svg:0(None)
+#: ../image-factory/toast.svg:0(None)
+msgid "translator-credits"
+msgstr ""
+
+#: ../kiosk/locale/en/help/distro_burning.html:21(h1)
+msgid "Distro Information Help"
+msgstr ""
+
+#: ../kiosk/locale/en/help/distro_burning.html:22(p)
+msgid ""
+"This screen shows pros and cons about any given linux distribution or open "
+"software or content"
+msgstr ""
+
+#: ../kiosk/locale/en/help/distro_burning.html:23(h2)
+msgid "Toasting the latest Version"
+msgstr ""
+
+#: ../kiosk/locale/en/help/distro_burning.html:25(li)
+msgid ""
+"The system defaults to the most recent or popular version. Click on the "
+"<b>'Add to Selection'</b> button to use this version (recommended for most "
+"users)."
+msgstr ""
+
+#: ../kiosk/locale/en/help/distro_burning.html:27(h2)
+msgid "Choosing other Versions"
+msgstr ""
+
+#: ../kiosk/locale/en/help/distro_burning.html:29(li)
+msgid ""
+"Sometimes older versions are available, or versions for other hardware such "
+"as Apple Mac or other non-Intel architectures"
+msgstr ""
+
+#: ../kiosk/locale/en/help/distro_burning.html:30(li)
+msgid ""
+"Click on <b>'Other Versions'</b> to get a list of other versions that might "
+"be available for this item."
+msgstr ""
+
+#: ../kiosk/locale/en/help/distro_burning.html:31(li)
+msgid ""
+"Choose the alternative version from the list, then click <b>'Add to "
+"Selection'</b> to put it on your list"
+msgstr ""
+
+#: ../kiosk/locale/en/help/distro_burning.html:33(h2)
+msgid "Canceling the Selection"
+msgstr ""
+
+#: ../kiosk/locale/en/help/distro_burning.html:34(p)
+msgid ""
+"If you do not want to add a given item to your list to toast, either click "
+"the <b>'Home'</b> button (top left of the screen) to go to the home page, or "
+"the <b>'Back' (&lt;)</b> button (bottom left) to go to the previous page."
+msgstr ""
+
+#: ../kiosk/locale/en/help/distro_burning.html:35(p)
+msgid ""
+"Feel free to add anything to your list if you think you might be interested "
+"in it - you will get a chance to clear the items you don't want before "
+"sending them to the toasters."
+msgstr ""
+
+#: ../kiosk/locale/en/help/find_cc_files.html:22(h2)
+msgid ""
+"Creative Commons is a non-profit organization that offers flexible copyright "
+"licenses for creative works."
+msgstr ""
+
+#: ../kiosk/locale/en/help/find_cc_files.html:23(p)
+msgid ""
+"As a result of these licenses, you are able to select, toast and use content "
+"on this Freedom Toaster that has been uploaded by others."
+msgstr ""
+
+#: ../kiosk/locale/en/help/find_cc_files.html:25(h2)
+msgid "An Example"
+msgstr ""
+
+#: ../kiosk/locale/en/help/find_cc_files.html:27(p)
+msgid ""
+"<strong>http://ccMixter.org</strong> is a community music site featuring "
+"remixes licensed under Creative Commons, where you can listen to, sample, "
+"mash-up, or interact with music in whatever way you want. Similar facilities "
+"are available on this Freedom Toaster."
+msgstr ""
+
+#: ../kiosk/locale/en/help/find_cc_files.html:29(h2)
+msgid "Another Example"
+msgstr ""
+
+#: ../kiosk/locale/en/help/find_cc_files.html:30(p)
+msgid ""
+"Gus's online photo is licensed under the Noncommercial and Share Alike "
+"terms. Camille is an amateur collage artist, and she takes Gus's photo and "
+"puts it into one of her collages. This Share Alike language requires Camille "
+"to make her collage available on a Noncommercial plus Share Alike license. "
+"It makes her offer her work back to the world on the same terms Gus gave her."
+msgstr ""
+
+#: ../kiosk/locale/en/help/find_cc_files.html:32(li)
+msgid ""
+"<a href=\"../cc_cartoon1.html\">A Cartoon Story of Creative Commons rights</"
+"a>."
+msgstr ""
+
+#: ../kiosk/locale/en/help/find_cc_files.html:33(li)
+msgid "<a href=\"../cc_cartoon2.html\">How Creative Commons works</a>."
+msgstr ""
+
+#: ../kiosk/locale/en/help/find_cc_files.html:34(li)
+msgid ""
+"Find out more about <a href=\"../help/cc_licenses.html\">Creative Commons "
+"licenses</a>."
+msgstr ""
+
+#: ../kiosk/locale/en/index0.html:5(title)
+#: ../kiosk/locale/en/index99.html:4(title)
+msgid "Freedom Toaster Home"
+msgstr ""
+
+#: ../kiosk/locale/en/index0.html:13(a:title)
+#: ../kiosk/locale/en/index99.html:48(a:title)
+msgid "Administer the Toaster"
+msgstr ""
+
+#: ../kiosk/locale/en/index0.html:17(a:title)
+#: ../kiosk/locale/en/index1.html:12(a:title)
+#: ../kiosk/locale/en/index2.html:12(a:title)
+#: ../kiosk/locale/en/index3.html:12(a:title)
+#: ../kiosk/locale/en/index4.html:12(a:title)
+#: ../kiosk/locale/en/index5.html:12(a:title)
+#: ../kiosk/locale/en/index6.html:12(a:title)
+#: ../kiosk/locale/en/index7.html:12(a:title)
+#: ../kiosk/locale/en/index99.html:12(a:title)
+msgid "About this Toaster"
+msgstr ""
+
+#: ../kiosk/locale/en/index0.html:17(img:alt)
+#: ../kiosk/locale/en/index1.html:13(img:alt)
+#: ../kiosk/locale/en/index2.html:13(img:alt)
+#: ../kiosk/locale/en/index3.html:13(img:alt)
+#: ../kiosk/locale/en/index4.html:13(img:alt)
+#: ../kiosk/locale/en/index5.html:13(img:alt)
+#: ../kiosk/locale/en/index6.html:13(img:alt)
+#: ../kiosk/locale/en/index7.html:13(img:alt)
+#: ../kiosk/locale/en/index99.html:13(img:alt)
+msgid "?"
+msgstr ""
+
+#: ../kiosk/locale/en/index0.html:20(a:title)
+#: ../kiosk/locale/en/index1.html:22(a:title)
+#: ../kiosk/locale/en/index2.html:24(a:title)
+#: ../kiosk/locale/en/index3.html:24(a:title)
+#: ../kiosk/locale/en/index4.html:24(a:title)
+#: ../kiosk/locale/en/index5.html:24(a:title)
+#: ../kiosk/locale/en/index6.html:24(a:title)
+#: ../kiosk/locale/en/index7.html:24(a:title)
+msgid "Go to the next page"
+msgstr ""
+
+#: ../kiosk/locale/en/index0.html:24(img:alt)
+#: ../kiosk/locale/en/index1.html:30(img:alt)
+#: ../kiosk/locale/en/index2.html:32(img:alt)
+#: ../kiosk/locale/en/index3.html:32(img:alt)
+#: ../kiosk/locale/en/index4.html:32(img:alt)
+#: ../kiosk/locale/en/index5.html:32(img:alt)
+#: ../kiosk/locale/en/index6.html:32(img:alt)
+#: ../kiosk/locale/en/index7.html:32(img:alt)
+#: ../kiosk/locale/en/index99.html:27(img:alt)
+msgid "background"
+msgstr ""
+
+#: ../kiosk/locale/en/index0.html:27(select:title)
+#: ../kiosk/locale/en/index1.html:33(select:title)
+#: ../kiosk/locale/en/index2.html:35(select:title)
+#: ../kiosk/locale/en/index3.html:35(select:title)
+#: ../kiosk/locale/en/index4.html:35(select:title)
+#: ../kiosk/locale/en/index5.html:35(select:title)
+#: ../kiosk/locale/en/index6.html:35(select:title)
+#: ../kiosk/locale/en/index7.html:35(select:title)
+#: ../kiosk/locale/en/index99.html:30(select:title)
+msgid "Language choice"
+msgstr ""
+
+#: ../kiosk/locale/en/index0.html:33(li)
+msgid ""
+"This machine is loaded with free Open Source Windows&trade; and Linux "
+"software and content for you to copy onto blank CDs or DVDs."
+msgstr ""
+
+#: ../kiosk/locale/en/index0.html:34(li)
+msgid ""
+"Bring your blank CDs and copy this free software for your school, home or "
+"business here. No charge."
+msgstr ""
+
+#: ../kiosk/locale/en/index0.html:35(li)
+msgid ""
+"You can also toast music, pictures and documents that have been licensed "
+"under <strong>Creative Commons</strong> licenses."
+msgstr ""
+
+#: ../kiosk/locale/en/index0.html:36(strong)
+msgid ""
+"Click on the buttons and pictures on the screen with your finger to get more "
+"information and to toast yourself some free software"
+msgstr ""
+
+#: ../kiosk/locale/en/index0.html:39(h2)
+msgid "Choose what you want to copy"
+msgstr ""
+
+#: ../kiosk/locale/en/index0.html:44(a:title)
+#: ../kiosk/locale/en/index1.html:52(a:title)
+msgid "Firefox and Thunderbird - Web Browser and Email Program"
+msgstr ""
+
+#: ../kiosk/locale/en/index0.html:49(a:title)
+msgid "Find Music, photos and more..."
+msgstr ""
+
+#: ../kiosk/locale/en/index0.html:55(a:title)
+#: ../kiosk/locale/en/index2.html:53(a:title)
+msgid "Gutenberg Literature CD"
+msgstr ""
+
+#: ../kiosk/locale/en/index0.html:62(a:title)
+#: ../kiosk/locale/en/index1.html:57(a:title)
+#: ../isos/opencd/opencd.xml:3(name)
+msgid "The Open CD"
+msgstr ""
+
+#: ../kiosk/locale/en/index0.html:67(a:title)
+#: ../kiosk/locale/en/index1.html:62(a:title)
+#: ../kiosk/locale/en/index4.html:53(a:title)
+#: ../kiosk/locale/en/index4.html:58(a:title)
+msgid "The MSOffice-compatible, free Office Suite"
+msgstr ""
+
+#: ../kiosk/locale/en/index0.html:72(a:title)
+msgid "The Linux Distributions"
+msgstr ""
+
+#: ../kiosk/locale/en/index0.html:79(a:title)
+msgid "Go Open Source"
+msgstr ""
+
+#: ../kiosk/locale/en/index0.html:86(a:title)
+msgid "Create a Freedom Toaster"
+msgstr ""
+
+#: ../kiosk/locale/en/index1.html:4(title)
+msgid "Open Source Windows Software"
+msgstr ""
+
+#: ../kiosk/locale/en/index1.html:16(a:title)
+#: ../kiosk/locale/en/index2.html:18(a:title)
+#: ../kiosk/locale/en/index3.html:18(a:title)
+#: ../kiosk/locale/en/index4.html:18(a:title)
+#: ../kiosk/locale/en/index5.html:18(a:title)
+#: ../kiosk/locale/en/index6.html:18(a:title)
+#: ../kiosk/locale/en/index7.html:18(a:title)
+#: ../kiosk/locale/en/index99.html:18(a:title)
+msgid "Go to the beginning page"
+msgstr ""
+
+#: ../kiosk/locale/en/index1.html:38(h1)
+msgid "Enhance and Secure your Windows&trade; PC"
+msgstr ""
+
+#: ../kiosk/locale/en/index1.html:39(p)
+msgid ""
+"The free software available on this <strong>Freedom Toaster</strong> "
+"includes Windows&trade; software that will enhance your PC quickly and "
+"easily."
+msgstr ""
+
+#: ../kiosk/locale/en/index1.html:41(li)
+msgid ""
+"Most of the virus and spyware issues on Windows are a result of design flaws "
+"in Internet Explorer&trade; and Outlook&trade;. You can immediately improve "
+"the security of your PC by using FireFox and Thunderbird, available on the "
+"<em>Firemonger</em> and <em>OpenCD</em> CDs below."
+msgstr ""
+
+#: ../kiosk/locale/en/index1.html:42(li)
+msgid ""
+"<strong>Office Tools</strong> like <em>OpenOffice</em> and <em>PDFCreator</"
+"em>"
+msgstr ""
+
+#: ../kiosk/locale/en/index1.html:43(li)
+msgid ""
+"<strong>Graphics programs</strong> for painting, digit photo processing, 3D "
+"Image rendering and vector graphics"
+msgstr ""
+
+#: ../kiosk/locale/en/index1.html:44(li)
+msgid ""
+"<strong>Multimedia tools</strong> for audio editing (<em>Audacity</em>) and "
+"more"
+msgstr ""
+
+#: ../kiosk/locale/en/index1.html:45(li)
+msgid ""
+"<strong>Games</strong> like <em>Sokoban</em>, <em>Battle for Wesnoth</em> "
+"and more"
+msgstr ""
+
+#: ../kiosk/locale/en/index1.html:46(li)
+msgid ""
+"<strong>Internet Programs and Utilities</strong> like <em>Firefox and "
+"Thunderbird</em>, <em>7-zip</em>, <em>Filezilla</em> and more"
+msgstr ""
+
+#: ../kiosk/locale/en/index2.html:4(title)
+msgid "Gutenberg Literature Library"
+msgstr ""
+
+#: ../kiosk/locale/en/index2.html:40(h1)
+msgid "Burn a CD of great Literature"
+msgstr ""
+
+#: ../kiosk/locale/en/index2.html:41(h2)
+#: ../isos/gutenberg/gutenberg.xml:3(name)
+msgid "Project Gutenberg"
+msgstr ""
+
+#: ../kiosk/locale/en/index2.html:42(p)
+msgid ""
+"When the <em>Gutenberg Printing Press</em> was invented, it made information "
+"available to the masses and ultimately led to the creation of democracy."
+msgstr ""
+
+#: ../kiosk/locale/en/index2.html:43(p)
+msgid ""
+"Computers are much better at storing and distributing information than a "
+"printing press. When Michael Hart was given an operator's account with "
+"$100,000,000 of computer time in it, he decided that the best way to use it "
+"would be to type in all the greatest literature works. For posterity. For "
+"you. For free."
+msgstr ""
+
+#: ../kiosk/locale/en/index2.html:45(li)
+msgid "Great for school projects, assignments and homework"
+msgstr ""
+
+#: ../kiosk/locale/en/index2.html:46(li)
+msgid ""
+"Contains childrens classics as well as heavy literature and reference works"
+msgstr ""
+
+#: ../kiosk/locale/en/index2.html:47(li)
+msgid "Easy to search for quotes because it is electronic"
+msgstr ""
+
+#: ../kiosk/locale/en/index3.html:4(title)
+msgid "Linux"
+msgstr ""
+
+#: ../kiosk/locale/en/index3.html:40(h1)
+msgid "Getting Started with Linux"
+msgstr ""
+
+#: ../kiosk/locale/en/index3.html:41(p)
+msgid ""
+"Linux is the name of a powerful operating system that you can run on your "
+"home or business PC."
+msgstr ""
+
+#: ../kiosk/locale/en/index3.html:42(p)
+msgid ""
+"It is the system used and developed by scientists, researchers, IT "
+"professionals and hobbyists. It is industrial strength computing for the "
+"ordinary user."
+msgstr ""
+
+#: ../kiosk/locale/en/index3.html:43(p)
+msgid ""
+"Linux is the system that someone gave to Mark Shuttleworth, which enabled "
+"him to build a multi-million Rand business from scratch. That is why the "
+"Shuttleworth Foundation is making Linux accessible to all through this "
+"<strong>Freedom Toaster</strong>."
+msgstr ""
+
+#: ../kiosk/locale/en/index3.html:44(p)
+msgid ""
+"Linux comes bundled with programs and utilities and themes. These bundles "
+"are called <em>distributions</em> (or <strong>distro</strong>s for short). "
+"Like when you buy a Windows PC, you still need to buy MS Office and anti-"
+"virus utilities and things. Those things all come included with a linux "
+"distro."
+msgstr ""
+
+#: ../kiosk/locale/en/index3.html:45(p)
+msgid ""
+"This kiosk can burn any of a number of linux distros, from those that come "
+"on 1 CD to those that come on 13 CDs (<em>that</em> is a lot of software!). "
+"The next few screens will help you decide which distro you might like to try."
+msgstr ""
+
+#: ../kiosk/locale/en/index4.html:4(title)
+#: ../kiosk/locale/en/index4.html:40(h1)
+#: ../kiosk/locale/en/index5.html:4(title)
+msgid "Linux for Beginners"
+msgstr ""
+
+#: ../kiosk/locale/en/index4.html:41(p)
+msgid ""
+"The distributions shown below are ones designed to be easy-to-use for "
+"novices. These distros are also popular with professionals who demand a lot "
+"of their systems, because they are comprehensive, robust and secure."
+msgstr ""
+
+#: ../kiosk/locale/en/index4.html:42(p)
+msgid ""
+"Do not think that a distro like <em>Ubuntu</em> that comes on one CD is "
+"short of anything. The larger distros overwhelm you with choice (there are "
+"often more than 5 different programs to do the same thing). The guys who did "
+"Ubuntu deliberately chose the best of each for you so that you don't need to "
+"fiddle. This kiosk is running Ubuntu!"
+msgstr ""
+
+#: ../kiosk/locale/en/index4.html:43(p)
+msgid ""
+"Generally, if you have a slow or non-existent internet connection, choose a "
+"distro with more CDs, to increase the chances of having the software you "
+"might like to install on the disk. My recommendation is for Suse if you have "
+"only dial-up internet, and Ubuntu if you have ADSL."
+msgstr ""
+
+#: ../kiosk/locale/en/index4.html:48(a:title)
+msgid "Ubuntu - Mark Shuttleworth's Pet Project"
+msgstr ""
+
+#: ../kiosk/locale/en/index5.html:25(img:alt)
+#: ../kiosk/locale/en/index6.html:25(img:alt)
+#: ../kiosk/locale/en/index7.html:25(img:alt)
+msgid "Next"
+msgstr ""
+
+#: ../kiosk/locale/en/index5.html:29(img:alt)
+#: ../kiosk/locale/en/index6.html:29(img:alt)
+#: ../kiosk/locale/en/index7.html:29(img:alt)
+msgid "Previous"
+msgstr ""
+
+#: ../kiosk/locale/en/index5.html:40(h1)
+msgid "Linux for Intermediate Users"
+msgstr ""
+
+#: ../kiosk/locale/en/index5.html:41(p)
+msgid ""
+"These distros are slightly more difficult to use, or are used for specific "
+"purposes."
+msgstr ""
+
+#: ../kiosk/locale/en/index5.html:46(a:title)
+msgid "Fedora - ex Redhat, is still popular, but we recommend whitebox or Suse"
+msgstr ""
+
+#: ../kiosk/locale/en/index5.html:51(a:title)
+msgid ""
+"Impi - a small-business system with the Cubit accounting system included"
+msgstr ""
+
+#: ../kiosk/locale/en/index5.html:56(a:title)
+msgid ""
+"A whitebox version of Redhat that circumvents some of RedHat's licensing "
+"issues"
+msgstr ""
+
+#: ../kiosk/locale/en/index5.html:61(h2)
+msgid "Live CDs"
+msgstr ""
+
+#: ../kiosk/locale/en/index5.html:62(p)
+msgid ""
+"Live CDs will allow you to boot your PC into Linux <strong>without making "
+"any permanent changes</strong>. As soon as you take the CD out of the CDROM "
+"your PC returns to its Windows mundaneness. A system booted from CD will "
+"contain a full office suite and many other tools. I always carry a Knoppix "
+"CD with me in case I need to diagnose a foreign system."
+msgstr ""
+
+#: ../kiosk/locale/en/index5.html:67(a:title)
+msgid "Knoppix - the benchmark live CD"
+msgstr ""
+
+#: ../kiosk/locale/en/index5.html:72(a:title)
+msgid ""
+"ClusterKnoppix - boot up the PCs in your computer lab to be a super-computer"
+msgstr ""
+
+#: ../kiosk/locale/en/index6.html:4(title)
+#: ../kiosk/locale/en/index6.html:40(h1)
+msgid "Linux for Advanced Users"
+msgstr ""
+
+#: ../kiosk/locale/en/index6.html:41(p)
+msgid ""
+"These distros are more difficult to set up and are often run by experts who "
+"enjoy the challenge. That said, they are not particularly difficult, and the "
+"communities that support the distros are always eager to help. Gentoo - "
+"renowned as one of the most hardcore linux systems, also has the very best "
+"documentation."
+msgstr ""
+
+#: ../kiosk/locale/en/index6.html:46(a:title)
+msgid "Debian - the benchmark Open Source distro"
+msgstr ""
+
+#: ../kiosk/locale/en/index6.html:51(a:title)
+msgid "Slackware - the oldest distro: once you Slack you'll never go back"
+msgstr ""
+
+#: ../kiosk/locale/en/index6.html:56(a:title)
+msgid "Gentoo - the very fastest anything will ever run on your PC"
+msgstr ""
+
+#: ../kiosk/locale/en/index6.html:61(h2)
+msgid "A Network or Web server"
+msgstr ""
+
+#: ../kiosk/locale/en/index6.html:62(p)
+msgid ""
+"Actually, FreeBSD is not linux - but it is in the same mold. This is the "
+"system used by big hosting services providers because it is designed to be "
+"secure in a networked environment. It isn't suitable for everyday desktop "
+"use."
+msgstr ""
+
+#: ../kiosk/locale/en/index6.html:67(a:title)
+#: ../kiosk/locale/en/index7.html:58(a:title)
+msgid ""
+"K12-ltsp - the K12 educational programs and the linux terminal server "
+"project, with modifications made by Shuttleworth's tuXlabs project"
+msgstr ""
+
+#: ../kiosk/locale/en/index7.html:4(title)
+msgid "Linux for Schools"
+msgstr ""
+
+#: ../kiosk/locale/en/index7.html:40(h1)
+msgid "A Free School Computer Lab"
+msgstr ""
+
+#: ../kiosk/locale/en/index7.html:41(p)
+msgid ""
+"The distro below is what The Shuttleworth Foundation puts into schools for "
+"free - it will work with PCs that companies are throwing away (P1 with 48Mb "
+"RAM)."
+msgstr ""
+
+#: ../kiosk/locale/en/index7.html:42(p)
+msgid ""
+"Using the CDs below, a school can install a 20 workstation computer lab for "
+"around R22 000. This is in stark contrast to figures 10 times that amount "
+"quoted by some projects that are using other software."
+msgstr ""
+
+#: ../kiosk/locale/en/index7.html:43(p)
+msgid ""
+"This is the package used by the <strong>Schools Linux User Group</strong> "
+"(www.slug.org.za) volunteers. It is possible for a poor school to have a "
+"computer lab installed, with the help of volunteers, in a matter of 3 weeks, "
+"at a cost that can be funded with tuckshop money."
+msgstr ""
+
+#: ../kiosk/locale/en/index7.html:48(a:title)
+msgid ""
+"Edubuntu - ubuntu, K12 and South African education programs, school "
+"administration and the linux terminal server project, made by Shuttleworth's "
+"tuXlabs project"
+msgstr ""
+
+#: ../kiosk/locale/en/index7.html:53(a:title)
+msgid ""
+"OpenLab 4 - the Southern African school lab system used by Namibia's "
+"Schoolnet and optimised for low-spec hardware"
+msgstr ""
+
+#: ../kiosk/locale/en/index99.html:35(h1)
+msgid "What do I need for this?"
+msgstr ""
+
+#: ../kiosk/locale/en/index99.html:37(li)
+msgid "Blank CD-ROM disks to copy the software onto"
+msgstr ""
+
+#: ../kiosk/locale/en/index99.html:38(li)
+msgid "Presumably you have a PC that the software is intended for"
+msgstr ""
+
+#: ../kiosk/locale/en/index99.html:39(li)
+msgid "That is all!"
+msgstr ""
+
+#: ../kiosk/locale/en/index99.html:41(h2)
+msgid "Why are you giving this software away for free?"
+msgstr ""
+
+#: ../kiosk/locale/en/index99.html:43(li)
+msgid ""
+"The Shuttleworth Foundation is trying to help South Africans develop the "
+"country by making software available to schools, homes and small businesses."
+msgstr ""
+
+#: ../kiosk/locale/en/index99.html:44(li)
+msgid ""
+"Due to high telephone and internet costs, most South Africans cannot "
+"download large programs from the internet - and <a href=\"../../cgi-bin/"
+"distro.pl?distro=toaster\">this machine</a> is part of the solution: you can "
+"copy the software onto CD-ROM from here for free."
+msgstr ""
+
+#: ../kiosk/locale/en/index99.html:45(li)
+msgid ""
+"This software was developed by many programmers around the world, using the "
+"internet, for the love of programming. These programmers believe that "
+"software should be free to all, and have licensed the software to be free of "
+"charge, and free of restriction."
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/knowMore.xml:4(title)
+msgid "Why switch to Open Source Software"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/knowMore.xml:5(subtitle1)
+msgid "It's free of licensing fees"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/knowMore.xml:6(content1)
+msgid ""
+"Open Source software is free of licensing fees, but that does not mean it is "
+"'unlicensed'. It is fully licensed and legal."
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/knowMore.xml:7(subtitle2)
+msgid "It's free"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/knowMore.xml:8(content2)
+msgid ""
+"Not free as in <em>free beer</em>, but free as in <em>freedom of speech</"
+"em>. The license explicitly gives you the right to use the software in "
+"whatever way you like. Not only that, you are allowed (and indeed "
+"encouraged) to change it to suit your needs. Whether you change it or not, "
+"you are allowed to make as many copies as you like, and give them away or "
+"sell them. The only restriction is that you do not restrict the rights of "
+"those you give or sell the software to to do the same."
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/knowMore.xml:11(title)
+msgid "Are my favourite software products Open Source?"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/knowMore.xml:12(subtitle1)
+msgid "Popular packages"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/knowMore.xml:13(content1)
+msgid ""
+"There are Open Source equivalents of most office products, including word "
+"processors, spreadsheets and presentation packages"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/knowMore.xml:14(subtitle2)
+msgid "Sourceforge.net has over 50,000 projects registered"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/knowMore.xml:15(content2)
+msgid ""
+"<span class=\"emph\">Sourceforge.net</span> is a major software repository. "
+"This is where most Open Source developers register their projects. If you "
+"are looking for a particular piece of software, this is always a good place "
+"to start"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/knowMore.xml:18(title)
+msgid "What computer hardware does Linux run on?"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/knowMore.xml:19(subtitle1)
+msgid "Wide support"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/knowMore.xml:20(content1)
+msgid ""
+"Linux has, probably, the widest support for hardware of any operating system "
+"currently available. From Intel and AMD x86 hardware (PC's) to IBM system "
+"390 mainframes. From PDA's to wearable Linux in the form of a watch"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/knowMore.xml:21(subtitle2)
+msgid "Yes you can!"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/knowMore.xml:22(content2)
+msgid ""
+"You can load Linux onto you PC at home, in the office or your laptop "
+"computer."
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/knowMore.xml:25(title)
+msgid "Will I be able to do everything I did before?"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/knowMore.xml:26(subtitle1)
+msgid "Versatile"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/knowMore.xml:27(content1)
+msgid ""
+"Linux and Open Source software is so versatile that you will be able to do "
+"MORE than you did before."
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/knowMore.xml:28(subtitle2)
+msgid "Virtual Desktops"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/knowMore.xml:29(content2)
+msgid ""
+"Unlike other Operating Systems, Linux runs a graphical user interface that "
+"allows you to have a variety of applications open simultaneously, in "
+"different windows, without one interfering with the others"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/knowMore.xml:32(title)
+msgid "Is Linux difficult to learn?"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/knowMore.xml:33(subtitle1)
+msgid "No and yes"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/knowMore.xml:34(content1)
+msgid ""
+"No, Linux is not difficult to learn. However, it is a little like Pandora's "
+"box. The more you learn, the more fascinating it becomes. So, in this sense, "
+"YES, it is difficult to learn because you will never reach the end of what "
+"you can learn"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/knowMore.xml:35(subtitle2)
+msgid "Help!"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/knowMore.xml:36(content2)
+msgid ""
+"Is around the corner. In Cape Town there are two Linux User Groups. The Cape "
+"Linux User Group (www.clug.org.za) meets once a month to discuss all matters "
+"Linux related - and their email list provides top-notch technical support "
+"faster than most commercial IT support companies. The Schools Linux User "
+"Group (www.slug.org.za) are on a mission to install Linux labs in over 100 "
+"schools across the Peninsula"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/knowMore.xml:39(title)
+msgid "Where can I get Linux?"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/knowMore.xml:40(subtitle1)
+msgid "Right here!"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/knowMore.xml:41(content1)
+msgid ""
+"This <em>Freedom Toaster</em> has been built so that you can make copy of "
+"some of the best Open Source software and Creative Commons publications "
+"right here right now."
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/knowMore.xml:42(subtitle2)
+msgid "You mean NOW?"
+msgstr ""
+
+#: ../kiosk/locale/en/sayings/knowMore.xml:43(content2)
+msgid ""
+"In order to burn your stuff to CD, bring some blank CD-ROMs or CD-RWs (you "
+"should be able to buy some near this machine) and begin TOASTING"
+msgstr ""
+
+#: ../kiosk/locale/en/help/show_queue.html:21(h1)
+msgid "Toasting Queue"
+msgstr ""
+
+#: ../kiosk/locale/en/help/show_queue.html:22(p)
+msgid ""
+"This page shows the queues or lists of items that have been chosen to be "
+"toasted. The toaster queues at the bottome contain items that are waiting "
+"for a toaster to come free so that they can be toasted."
+msgstr ""
+
+#: ../kiosk/locale/en/help/show_queue.html:23(h2)
+msgid "Clearing the Queues"
+msgstr ""
+
+#: ../kiosk/locale/en/help/show_queue.html:24(p)
+msgid ""
+"Under each queue there is a button called <b>'Clear List'</b>. Clicking this "
+"will clear the list above it. Use this if you want to start over with a "
+"list, or if you have arrived at the Freedom Toaster and somebody else has "
+"selected stuff you don't want. You can also clear the queues by clicking the "
+"<strong>Skip</strong> buttons on the toasters on the left until they stop "
+"prompting you to put in blank disks."
+msgstr ""
+
+#: ../kiosk/locale/en/help/show_queue.html:25(h2)
+msgid "Selecting more Items"
+msgstr ""
+
+#: ../kiosk/locale/en/help/show_queue.html:26(p)
+msgid ""
+"To add more items to your list, or to shop around while the system is busy "
+"toasting something, just click on the <b>Home</b> button at the top left of "
+"this screen then find what you want and add it to the queue."
+msgstr ""
+
+#: ../isos/clusterknoppix/clusterknoppix.xml:3(name)
+msgid "Cluster Knoppix"
+msgstr ""
+
+#: ../isos/clusterknoppix/clusterknoppix.xml:4(description)
+msgid "A Live CD for running a grid of PCs as a supercomputer"
+msgstr ""
+
+#: ../isos/clusterknoppix/clusterknoppix.xml:6(advantage)
+#: ../isos/knoppix/knoppix.xml:6(advantage)
+msgid "It is Linux \"ready to run\" - just add hardware (;"
+msgstr ""
+
+#: ../isos/clusterknoppix/clusterknoppix.xml:7(advantage)
+#: ../isos/knoppix/knoppix.xml:8(advantage)
+msgid "It requires NO installation - it runs from the CD"
+msgstr ""
+
+#: ../isos/clusterknoppix/clusterknoppix.xml:8(advantage)
+#: ../isos/knoppix/knoppix.xml:9(advantage)
+msgid "It is small - it only uses a single CD"
+msgstr ""
+
+#: ../isos/clusterknoppix/clusterknoppix.xml:9(advantage)
+#: ../isos/knoppix/knoppix.xml:10(advantage)
+msgid ""
+"It is the ideal distro if you want to get a feeling of what Linux is all "
+"about, but aren't ready to repartition you hard disk"
+msgstr ""
+
+#: ../isos/clusterknoppix/clusterknoppix.xml:10(advantage)
+msgid ""
+"The kernel has OpenMosix compiled into it, which means making a cluster is "
+"relatively straightforward"
+msgstr ""
+
+#: ../isos/clusterknoppix/clusterknoppix.xml:13(disadvantage)
+msgid ""
+"It may not have all the standard packages you would be looking for - "
+"OpenOffice, Gimp, Mozilla, Evolution ..."
+msgstr ""
+
+#: ../isos/clusterknoppix/clusterknoppix.xml:14(disadvantage)
+#: ../isos/knoppix/knoppix.xml:13(disadvantage)
+msgid "In this \"ready to run\" format, it is not installed on any hardware"
+msgstr ""
+
+#: ../isos/clusterknoppix/clusterknoppix.xml:15(disadvantage)
+#: ../isos/knoppix/knoppix.xml:14(disadvantage)
+msgid "It can be slow since it boots from CD every time"
+msgstr ""
+
+#: ../isos/clusterknoppix/clusterknoppix.xml:16(disadvantage)
+#: ../isos/knoppix/knoppix.xml:15(disadvantage)
+msgid "You cannot upgrade packages or make changes to the distro on the CD"
+msgstr ""
+
+#: ../isos/clusterknoppix/clusterknoppix.xml:19(defaultVersion)
+msgid "clusterknoppix|3.6|CD|1"
+msgstr ""
+
+#: ../isos/debian/debian.xml:3(name)
+msgid "Debian"
+msgstr ""
+
+#: ../isos/debian/debian.xml:4(description)
+msgid "One of our personal favourites!"
+msgstr ""
+
+#: ../isos/debian/debian.xml:6(advantage)
+msgid "Debian has one of the largest repositories of open source software"
+msgstr ""
+
+#: ../isos/debian/debian.xml:7(advantage)
+msgid "It has a wide following"
+msgstr ""
+
+#: ../isos/debian/debian.xml:8(advantage)
+msgid ""
+"One of its most well-loved features is its system for installing and "
+"updating packages"
+msgstr ""
+
+#: ../isos/debian/debian.xml:9(advantage)
+msgid ""
+"It chooses stability over state-of-the-art. As a result, all packages (in "
+"the stable version) are stable and robust"
+msgstr ""
+
+#: ../isos/debian/debian.xml:12(disadvantage)
+msgid "Some people new to Linux find it hard to install and configure"
+msgstr ""
+
+#: ../isos/debian/debian.xml:13(disadvantage)
+msgid ""
+"It chooses stability over state-of-the-art. As a result, the packages are "
+"sometimes quite old"
+msgstr ""
+
+#: ../isos/debian/debian.xml:14(disadvantage)
+msgid "You will need lots of CDs to cut the entire thing!"
+msgstr ""
+
+#: ../isos/debian/debian.xml:17(defaultVersion)
+msgid "debian|sarge|CD|14"
+msgstr ""
+
+#: ../isos/edubuntu/edubuntu.xml:3(name)
+msgid "EdUbuntu"
+msgstr ""
+
+#: ../isos/edubuntu/edubuntu.xml:4(description)
+msgid "Mark Shuttleworth's New Venture"
+msgstr ""
+
+#: ../isos/edubuntu/edubuntu.xml:6(advantage)
+msgid "Based upon the world-famous Ubuntu distribution"
+msgstr ""
+
+#: ../isos/edubuntu/edubuntu.xml:7(advantage)
+#: ../isos/mandriva/mandriva.xml:7(advantage)
+msgid "It is \"desktop ready\""
+msgstr ""
+
+#: ../isos/edubuntu/edubuntu.xml:8(advantage)
+#: ../isos/kubuntu/kubuntu.xml:8(advantage)
+msgid "It is a single disc"
+msgstr ""
+
+#: ../isos/edubuntu/edubuntu.xml:9(advantage)
+#: ../isos/kubuntu/kubuntu.xml:9(advantage)
+msgid ""
+"It is easy to install and has some features that are \"Proudly South African"
+"\""
+msgstr ""
+
+#: ../isos/edubuntu/edubuntu.xml:10(advantage)
+#: ../isos/mandriva/mandriva.xml:8(advantage)
+msgid "It is simple to install and certainly recommended for the novice"
+msgstr ""
+
+#: ../isos/edubuntu/edubuntu.xml:11(advantage)
+msgid "The most recent version sets the standard in many areas"
+msgstr ""
+
+#: ../isos/edubuntu/edubuntu.xml:15(disadvantage)
+msgid ""
+"Can you think of any disadvantages to equipping schools with free computer "
+"software?"
+msgstr ""
+
+#: ../isos/edubuntu/edubuntu.xml:18(defaultVersion)
+msgid "edubuntu|5.10-Install-Breezy|CD|1"
+msgstr ""
+
+#: ../isos/fedora/fedora.xml:3(name)
+msgid "Fedora"
+msgstr ""
+
+#: ../isos/fedora/fedora.xml:4(description)
+msgid "Community version of RedHat Linux"
+msgstr ""
+
+#: ../isos/fedora/fedora.xml:6(advantage)
+msgid ""
+"It is based upon a very well-known and stable version of Linux, RedHat 9"
+msgstr ""
+
+#: ../isos/fedora/fedora.xml:7(advantage)
+msgid "It is a community supported project"
+msgstr ""
+
+#: ../isos/fedora/fedora.xml:8(advantage)
+msgid "It has the backing of the largest Linux vendor worldwide"
+msgstr ""
+
+#: ../isos/fedora/fedora.xml:11(disadvantage)
+msgid "It is not as easy to work with initially as Ubuntu, SUSE or Mandrake"
+msgstr ""
+
+#: ../isos/fedora/fedora.xml:12(disadvantage)
+msgid "It is only in it's second release as a distro"
+msgstr ""
+
+#: ../isos/fedora/fedora.xml:13(disadvantage)
+msgid "It is not as desktop ready as some other distributions are"
+msgstr ""
+
+#: ../isos/fedora/fedora.xml:16(defaultVersion)
+msgid "fedora|FC5|CD|5"
+msgstr ""
+
+#: ../isos/firemonger/firemonger.xml:3(name)
+msgid "Firemonger"
+msgstr ""
+
+#: ../isos/firemonger/firemonger.xml:4(description)
+msgid "The latest versions of Firefox and Thunderbird"
+msgstr ""
+
+#: ../isos/firemonger/firemonger.xml:6(advantage)
+msgid ""
+"An easy to use CD with the completely free web browser and email program "
+"created by the non-profit Mozilla Foundation."
+msgstr ""
+
+#: ../isos/firemonger/firemonger.xml:7(advantage)
+msgid ""
+"Works on Windows and Linux, and will significantly improve security on a "
+"Windows PC"
+msgstr ""
+
+#: ../isos/firemonger/firemonger.xml:8(advantage)
+msgid ""
+"Thunderbird is an email program that incorporates advanced spam-blocking "
+"techniques and virus-stopping technology."
+msgstr ""
+
+#: ../isos/firemonger/firemonger.xml:9(advantage)
+msgid ""
+"This CD contains everything you need to start up with and get the most out "
+"of Firefox and Thunderbird, including an excellent selection of plugins, "
+"extensions and themes and a comprehensive beginner's guide."
+msgstr ""
+
+#: ../isos/firemonger/firemonger.xml:10(advantage)
+msgid "Firefox 1.0 has now been downloaded over 62 million times."
+msgstr ""
+
+#: ../isos/firemonger/firemonger.xml:13(disadvantage)
+msgid ""
+"You will not be able to go back to Internet Explorer after experiencing "
+"tabbed browsing, background page downloads and middle-clicks on links"
+msgstr ""
+
+#: ../isos/firemonger/firemonger.xml:16(defaultVersion)
+msgid "firemonger|1.0|CD|1"
+msgstr ""
+
+#: ../isos/freebsd/freebsd.xml:3(name)
+msgid "FreeBSD"
+msgstr ""
+
+#: ../isos/freebsd/freebsd.xml:4(description)
+msgid "Well, not quite linux, but what the hell"
+msgstr ""
+
+#: ../isos/freebsd/freebsd.xml:6(advantage)
+#: ../isos/freebsd/freebsd.xml:13(disadvantage)
+msgid "It is NOT Linux"
+msgstr ""
+
+#: ../isos/freebsd/freebsd.xml:7(advantage)
+msgid "It is based upon the BSD version of Unix"
+msgstr ""
+
+#: ../isos/freebsd/freebsd.xml:8(advantage)
+msgid "It is stable, robust and very secure"
+msgstr ""
+
+#: ../isos/freebsd/freebsd.xml:9(advantage)
+msgid "It is used in many real-world situations where networking is a priority"
+msgstr ""
+
+#: ../isos/freebsd/freebsd.xml:10(advantage)
+msgid "It is a VERY loyal following"
+msgstr ""
+
+#: ../isos/freebsd/freebsd.xml:14(disadvantage)
+msgid "It's advocates (usually) don't get on with Linux people :("
+msgstr ""
+
+#: ../isos/freebsd/freebsd.xml:15(disadvantage)
+msgid ""
+"It is certainly NOT ready for the desktop (although this is not what is was "
+"designed for)"
+msgstr ""
+
+#: ../isos/freebsd/freebsd.xml:16(disadvantage)
+msgid "It is NOT as intuitive as Ubuntu, SUSE or Mandrake"
+msgstr ""
+
+#: ../isos/freebsd/freebsd.xml:17(disadvantage)
+msgid "You're on your own :)"
+msgstr ""
+
+#: ../isos/freebsd/freebsd.xml:20(defaultVersion)
+msgid "freebsd|6.0|CD|2"
+msgstr ""
+
+#: ../isos/gentoo/gentoo.xml:3(name)
+msgid "Gentoo"
+msgstr ""
+
+#: ../isos/gentoo/gentoo.xml:4(description)
+msgid "Our very definite personal favourite"
+msgstr ""
+
+#: ../isos/gentoo/gentoo.xml:6(advantage)
+msgid ""
+"Gentoo uses a system of \"emerge\" to install and upgrade packages. This "
+"means your system is always bleeding edge"
+msgstr ""
+
+#: ../isos/gentoo/gentoo.xml:7(advantage)
+msgid "As a result, Gentoo is VERY on your hardware - it's compiled for it!"
+msgstr ""
+
+#: ../isos/gentoo/gentoo.xml:8(advantage)
+msgid "It is gaining a loyal following"
+msgstr ""
+
+#: ../isos/gentoo/gentoo.xml:11(disadvantage)
+msgid ""
+"To really get the most out of Gentoo, you should be connected to the Internet"
+msgstr ""
+
+#: ../isos/gentoo/gentoo.xml:12(disadvantage)
+msgid "Some people new to Linux find it hard to install and configure Gentoo"
+msgstr ""
+
+#: ../isos/gentoo/gentoo.xml:13(disadvantage)
+msgid "It chooses state-of-the-art over stability."
+msgstr ""
+
+#: ../isos/gentoo/gentoo.xml:16(defaultVersion)
+msgid "gentoo|2005.0|CD|2"
+msgstr ""
+
+#: ../isos/go-open/go-open.xml:3(name)
+msgid "The Go Open TV show"
+msgstr ""
+
+#: ../isos/go-open/go-open.xml:4(description)
+msgid "A series of TV shows highlighting Open Source software"
+msgstr ""
+
+#: ../isos/go-open/go-open.xml:6(advantage)
+msgid ""
+"Find out more about Open Source software in an entertaining South African TV "
+"show"
+msgstr ""
+
+#: ../isos/go-open/go-open.xml:7(advantage)
+msgid ""
+"Meet some of the faces behind Open Source software and learn what makes them "
+"tick. Some parts of the show feature Mark Shuttleworth explaining how to use "
+"open source office software."
+msgstr ""
+
+#: ../isos/go-open/go-open.xml:8(advantage)
+msgid "Laugh at the zany antics of the show's host, John Vlismus"
+msgstr ""
+
+#: ../isos/go-open/go-open.xml:11(disadvantage)
+msgid ""
+"You need to be able to play *.ogm media files on your PC (on Ubuntu use "
+"totem or xfmedia)"
+msgstr ""
+
+#: ../isos/go-open/go-open.xml:12(disadvantage)
+msgid "The show is in English, if you are not english-speaking"
+msgstr ""
+
+#: ../isos/go-open/go-open.xml:15(defaultVersion)
+msgid "go-open|series1|DVD|1"
+msgstr ""
+
+#: ../isos/gutenberg/gutenberg.xml:4(description)
+msgid "Your Free Personal Library"
+msgstr ""
+
+#: ../isos/gutenberg/gutenberg.xml:6(advantage)
+msgid "Great books are made available to anybody with access to a computer"
+msgstr ""
+
+#: ../isos/gutenberg/gutenberg.xml:7(advantage)
+msgid ""
+"Contains Light Literature such as Alice in Wonderland, Through the Looking-"
+"Glass, Peter Pan, Aesop's Fables, etc."
+msgstr ""
+
+#: ../isos/gutenberg/gutenberg.xml:8(advantage)
+msgid ""
+"Contains Heavy Literature such as the Bible or other religious documents, "
+"Shakespeare, Moby Dick, Paradise Lost, etc."
+msgstr ""
+
+#: ../isos/gutenberg/gutenberg.xml:9(advantage)
+msgid ""
+"Contains References such as Roget's Thesaurus, almanacs, and a set of "
+"encyclopedia, dictionaries, etc."
+msgstr ""
+
+#: ../isos/gutenberg/gutenberg.xml:10(advantage)
+msgid "Texts can be searched electronically for quotes and references"
+msgstr ""
+
+#: ../isos/gutenberg/gutenberg.xml:11(advantage)
+msgid "Great for help with homework, projects and assignments!"
+msgstr ""
+
+#: ../isos/gutenberg/gutenberg.xml:12(advantage)
+msgid ""
+"You are free to make copies to give to your school, local library and your "
+"friends &amp; family"
+msgstr ""
+
+#: ../isos/gutenberg/gutenberg.xml:15(disadvantage)
+msgid "You need a computer to read or access this literature"
+msgstr ""
+
+#: ../isos/gutenberg/gutenberg.xml:18(defaultVersion)
+msgid "gutenberg|1.0|CD|1"
+msgstr ""
+
+#: ../isos/impi/impi.xml:3(name)
+msgid "Impi Linux"
+msgstr ""
+
+#: ../isos/impi/impi.xml:4(description)
+msgid ""
+"ImpiLinux is a complete desktop operating system based on the Ubuntu "
+"operating system."
+msgstr ""
+
+#: ../isos/impi/impi.xml:7(advantage)
+msgid "Impi is truly South African variant of the popular Ubuntu platform."
+msgstr ""
+
+#: ../isos/impi/impi.xml:8(advantage)
+msgid "Impi is initially available in English, Xhosa and Afrikaans."
+msgstr ""
+
+#: ../isos/impi/impi.xml:9(advantage)
+msgid ""
+"ImpiLinux is fully compatible with Ubuntu, meaning that any one of the 14000 "
+"software packages available in the Ubuntu \"Universe\" repository can be "
+"loaded onto any ImpiLinux distribution at any time without the hassles of "
+"software dependencies and incompatibilities."
+msgstr ""
+
+#: ../isos/impi/impi.xml:15(disadvantage)
+msgid "In comparison with Ubuntu, Impi has a small user support community."
+msgstr ""
+
+#: ../isos/impi/impi.xml:18(defaultVersion)
+msgid "impi|2.0|CD|2"
+msgstr ""
+
+#: ../isos/k12ltsp/k12ltsp.xml:3(name)
+msgid "K12LTSP"
+msgstr ""
+
+#: ../isos/k12ltsp/k12ltsp.xml:4(description)
+msgid "What SLUG install in tuXlab schools"
+msgstr ""
+
+#: ../isos/k12ltsp/k12ltsp.xml:6(advantage)
+msgid "It is based upon the Fedora distribution"
+msgstr ""
+
+#: ../isos/k12ltsp/k12ltsp.xml:7(advantage)
+msgid "It therefore has wide support and the backing of a company like RedHat"
+msgstr ""
+
+#: ../isos/k12ltsp/k12ltsp.xml:8(advantage)
+msgid ""
+"It has been successfully deployed througout schools across the peninsula"
+msgstr ""
+
+#: ../isos/k12ltsp/k12ltsp.xml:9(advantage)
+msgid "It has all the education applications built in"
+msgstr ""
+
+#: ../isos/k12ltsp/k12ltsp.xml:10(advantage)
+msgid ""
+"It is build specifically for using Linux in a thin client (terminal server) "
+"environment"
+msgstr ""
+
+#: ../isos/k12ltsp/k12ltsp.xml:13(disadvantage)
+msgid "It is built on Fedora Core"
+msgstr ""
+
+#: ../isos/k12ltsp/k12ltsp.xml:16(defaultVersion)
+msgid "k12ltsp|4.2.1|CD|5"
+msgstr ""
+
+#: ../isos/knoppix/knoppix.xml:3(name)
+msgid "Knoppix"
+msgstr ""
+
+#: ../isos/knoppix/knoppix.xml:4(description)
+msgid "A powerful bootable Live CD"
+msgstr ""
+
+#: ../isos/knoppix/knoppix.xml:7(advantage)
+msgid ""
+"It has all the standard packages you will be looking for - OpenOffice, Gimp, "
+"Mozilla, Evolution and more..."
+msgstr ""
+
+#: ../isos/knoppix/knoppix.xml:18(defaultVersion)
+msgid "knoppix|4.0|CD|1"
+msgstr ""
+
+#: ../isos/kubuntu/kubuntu.xml:3(name)
+msgid "Kubuntu"
+msgstr ""
+
+#: ../isos/kubuntu/kubuntu.xml:4(description)
+msgid "Ubuntu with the K-desktop environment"
+msgstr ""
+
+#: ../isos/kubuntu/kubuntu.xml:6(advantage)
+msgid "Based on Ubuntu, which is based on the Debian distribution of Linux"
+msgstr ""
+
+#: ../isos/kubuntu/kubuntu.xml:7(advantage)
+msgid ""
+"It is \"desktop ready\" and the K desktop environment is well known for its "
+"ease of use and many features"
+msgstr ""
+
+#: ../isos/kubuntu/kubuntu.xml:10(advantage)
+msgid ""
+"It is simple to install and use and is certainly recommended for the novice"
+msgstr ""
+
+#: ../isos/kubuntu/kubuntu.xml:11(advantage)
+msgid ""
+"If you have ADSL you can install both the Ubuntu desktop and the Kubuntu "
+"desktop on the same machine and choose which one to work on when you log on "
+"to your computer"
+msgstr ""
+
+#: ../isos/kubuntu/kubuntu.xml:14(disadvantage)
+msgid ""
+"It is not as widely accepted as RedHat and Mandrake - but that is changing "
+"so fast that this sentence is already out of date"
+msgstr ""
+
+#: ../isos/kubuntu/kubuntu.xml:17(defaultVersion)
+msgid "kubuntu|5.10-Install-Kubuntu|CD|1"
+msgstr ""
+
+#: ../isos/mandriva/mandriva.xml:3(name)
+msgid "Mandriva - previously Mandrake"
+msgstr ""
+
+#: ../isos/mandriva/mandriva.xml:4(description)
+msgid "A nice starting point for many"
+msgstr ""
+
+#: ../isos/mandriva/mandriva.xml:6(advantage)
+msgid "It is loosely based upon the RedHat distribution of Linux"
+msgstr ""
+
+#: ../isos/mandriva/mandriva.xml:9(advantage)
+msgid ""
+"It has a loyal following, and is renowned for its support of the latest "
+"drivers, and its slick graphics and display"
+msgstr ""
+
+#: ../isos/mandriva/mandriva.xml:12(disadvantage)
+msgid "It is has a very quick release cycle (every 6 months)"
+msgstr ""
+
+#: ../isos/mandriva/mandriva.xml:15(defaultVersion)
+msgid "mandriva|free-2006|CD|3"
+msgstr ""
+
+#: ../isos/ooffice/ooffice.xml:3(name)
+msgid "OpenOffice.org"
+msgstr ""
+
+#: ../isos/ooffice/ooffice.xml:4(description)
+msgid "The Open Source, MS Office-compatible Productivity Suite"
+msgstr ""
+
+#: ../isos/ooffice/ooffice.xml:6(advantage)
+msgid "Runs on Windows and on Linux"
+msgstr ""
+
+#: ../isos/ooffice/ooffice.xml:7(advantage)
+msgid "Compatible with MS Office, but at a better price"
+msgstr ""
+
+#: ../isos/ooffice/ooffice.xml:8(advantage)
+msgid ""
+"While some users confuse OpenOffice programs with their MS Office "
+"counterparts (because they are close), experienced users say they prefer the "
+"no-nonsence interface of OpenOffice"
+msgstr ""
+
+#: ../isos/ooffice/ooffice.xml:9(advantage)
+msgid ""
+"You can equip a large office or small business with legal software without "
+"taking out a second bond on your home."
+msgstr ""
+
+#: ../isos/ooffice/ooffice.xml:10(advantage)
+msgid "Great for school projects and assignments"
+msgstr ""
+
+#: ../isos/ooffice/ooffice.xml:13(disadvantage)
+msgid ""
+"There is no compatible equivalent of MS Access (which only occurs in the MS "
+"Office Pro package at a premium price anyway). Those in the know say it is a "
+"good thing too..."
+msgstr ""
+
+#: ../isos/ooffice/ooffice.xml:14(disadvantage)
+msgid ""
+"Some complicated document layouts in MS Word do not display properly in "
+"OpenOffice - but that is as much a fault of the document designer as "
+"anything."
+msgstr ""
+
+#: ../isos/ooffice/ooffice.xml:17(defaultVersion)
+msgid "ooffice|2.0|CD|1"
+msgstr ""
+
+#: ../isos/opencd/opencd.xml:4(description)
+msgid "Another of Mark Shuttleworth's pet projects"
+msgstr ""
+
+#: ../isos/opencd/opencd.xml:6(advantage)
+msgid "Free Software for Windows Users on an easy-to-install CD"
+msgstr ""
+
+#: ../isos/opencd/opencd.xml:7(advantage)
+msgid "Contains OpenOffice - a free MS Office-compatible Office Suite"
+msgstr ""
+
+#: ../isos/opencd/opencd.xml:8(advantage)
+msgid "Firefox - a secure internet browser upgrade to IE"
+msgstr ""
+
+#: ../isos/opencd/opencd.xml:9(advantage)
+msgid "Thunderbird - an advanced email program that fights spam and viruses"
+msgstr ""
+
+#: ../isos/opencd/opencd.xml:10(advantage)
+msgid ""
+"The Gimp - do sophisticated graphics and photo retouching like a Photoshop "
+"pro"
+msgstr ""
+
+#: ../isos/opencd/opencd.xml:11(advantage)
+msgid "Includes games and screensavers"
+msgstr ""
+
+#: ../isos/opencd/opencd.xml:12(advantage)
+msgid "Ideal if you have a Windows PC and need good Office or Home software"
+msgstr ""
+
+#: ../isos/opencd/opencd.xml:13(advantage)
+msgid "A great way to try out Open Source software"
+msgstr ""
+
+#: ../isos/opencd/opencd.xml:16(disadvantage)
+msgid ""
+"While the open source software is often superior to more expensive "
+"commercial equivalents, it will still be limited by the problems inherent in "
+"MS Windows"
+msgstr ""
+
+#: ../isos/opencd/opencd.xml:19(defaultVersion)
+msgid "opencd|3.0|CD|1"
+msgstr ""
+
+#: ../isos/openlab/openlab.xml:3(name)
+msgid "OpenLab 4"
+msgstr ""
+
+#: ../isos/openlab/openlab.xml:4(description)
+msgid "Another South African project to improve education."
+msgstr ""
+
+#: ../isos/openlab/openlab.xml:6(advantage)
+msgid "Based on one of the fastest and most stable versions of Linux."
+msgstr ""
+
+#: ../isos/openlab/openlab.xml:7(advantage)
+msgid ""
+"This CD is both a Live CD, and the install CD - so you can try it out before "
+"making a permanent install on your system."
+msgstr ""
+
+#: ../isos/openlab/openlab.xml:9(advantage)
+msgid ""
+"It is a single disc that contains all the programs you need - Office "
+"software, internet, educational software and games, and more."
+msgstr ""
+
+#: ../isos/openlab/openlab.xml:11(advantage)
+msgid ""
+"It is easy to install and has some features that are \"Proudly South African"
+"\". A typical install will take 20 minutes."
+msgstr ""
+
+#: ../isos/openlab/openlab.xml:13(advantage)
+msgid ""
+"For older hardware, this version will give you the best performance - it "
+"breathes new life into those obsolete PCs."
+msgstr ""
+
+#: ../isos/openlab/openlab.xml:17(disadvantage)
+msgid ""
+"The underlying system is Slackware, which is not designed for the novice - "
+"however, the way this distribution is put together you need never know nor "
+"care."
+msgstr ""
+
+#: ../isos/openlab/openlab.xml:21(defaultVersion)
+msgid "openlab|4.0|CD|1"
+msgstr ""
+
+#: ../isos/slackware/slackware.xml:3(name)
+msgid "Slackware"
+msgstr ""
+
+#: ../isos/slackware/slackware.xml:4(description)
+msgid "Once you Slack you'll never go back"
+msgstr ""
+
+#: ../isos/slackware/slackware.xml:6(advantage)
+msgid "This is one of the first distributions of Linux to be released"
+msgstr ""
+
+#: ../isos/slackware/slackware.xml:7(advantage)
+msgid "It is stable and well-known"
+msgstr ""
+
+#: ../isos/slackware/slackware.xml:8(advantage)
+msgid ""
+"It is one of the fastest-running systems you can get (barring Gentoo of "
+"course)"
+msgstr ""
+
+#: ../isos/slackware/slackware.xml:9(advantage)
+msgid "It has a very loyal following"
+msgstr ""
+
+#: ../isos/slackware/slackware.xml:12(disadvantage)
+msgid ""
+"Due to the simplicity of the distro, it requires you to know how to set up a "
+"linux machine - nothing is automated"
+msgstr ""
+
+#: ../isos/slackware/slackware.xml:13(disadvantage)
+msgid ""
+"It is harder to keep up-to-date than systems like Gentoo or Debian or even "
+"Redhat"
+msgstr ""
+
+#: ../isos/slackware/slackware.xml:16(defaultVersion)
+msgid "slackware|10.2|CD|4"
+msgstr ""
+
+#: ../isos/suse/suse.xml:3(name)
+msgid "Suse"
+msgstr ""
+
+#: ../isos/suse/suse.xml:4(description)
+msgid ""
+"Fresh from Novell, SUSE LINUX is a popular distribution based out of Germany."
+msgstr ""
+
+#: ../isos/suse/suse.xml:6(advantage)
+msgid "Great as a desktop or server computer."
+msgstr ""
+
+#: ../isos/suse/suse.xml:7(advantage)
+msgid "Installation gives a choice of KDE or GNOME Desktops."
+msgstr ""
+
+#: ../isos/suse/suse.xml:8(advantage)
+msgid "Great plug-n-play support for peripheral devices."
+msgstr ""
+
+#: ../isos/suse/suse.xml:9(advantage)
+msgid "Has many of the modules compiled for accessing your Windows partitions."
+msgstr ""
+
+#: ../isos/suse/suse.xml:10(advantage)
+msgid ""
+"Great balance between ease of use for new users and access to advanced "
+"features for gurus."
+msgstr ""
+
+#: ../isos/suse/suse.xml:12(advantage)
+msgid "Is easy to configure using the YaST (Yet Another Setup Tool) tool."
+msgstr ""
+
+#: ../isos/suse/suse.xml:13(advantage)
+msgid ""
+"It is 5 CDs, which is useful if you don't have a fast internet connection."
+msgstr ""
+
+#: ../isos/suse/suse.xml:17(disadvantage)
+msgid "It is 5 CDs."
+msgstr ""
+
+#: ../isos/suse/suse.xml:20(defaultVersion)
+msgid "suse|10.1|CD|5"
+msgstr ""
+
+#: ../isos/toaster/toaster.xml:3(name)
+msgid "Freedom Toaster Source Code"
+msgstr ""
+
+#: ../isos/toaster/toaster.xml:4(description)
+msgid "The stuff that makes this thing work."
+msgstr ""
+
+#: ../isos/toaster/toaster.xml:6(advantage)
+msgid ""
+"This install CD can be used to create a Freedom Toaster from almost any PC"
+msgstr ""
+
+#: ../isos/toaster/toaster.xml:7(advantage)
+msgid ""
+"If you have some suggestions or improvements please have a look at the code "
+"and contribute."
+msgstr ""
+
+#: ../isos/toaster/toaster.xml:9(advantage)
+msgid ""
+"Anybody can make a themselves a toaster or use this code to see how it is "
+"done."
+msgstr ""
+
+#: ../isos/toaster/toaster.xml:10(advantage)
+msgid "There is even documentation to help you."
+msgstr ""
+
+#: ../isos/toaster/toaster.xml:11(advantage)
+msgid "This is also a backup of the system for the administrator."
+msgstr ""
+
+#: ../isos/toaster/toaster.xml:14(disadvantage)
+msgid ""
+"This code is done in Perl, and some of it is an ugly hack. We would love it "
+"if you helped us make the Freedom Toaster even more useful."
+msgstr ""
+
+#: ../isos/toaster/toaster.xml:16(disadvantage)
+msgid ""
+"The current version of the Freedom Toaster install requires a 'server' "
+"install of Ubuntu Breezy. So be sure to burn yourself an Ubuntu Breezy CD in "
+"addition to this install CD so that you are good to go."
+msgstr ""
+
+#: ../isos/toaster/toaster.xml:21(defaultVersion)
+msgid "toaster|V3Install|CD|1"
+msgstr ""
+
+#: ../isos/ubuntu/ubuntu.xml:3(name)
+msgid "Ubuntu"
+msgstr ""
+
+#: ../isos/ubuntu/ubuntu.xml:4(description)
+msgid ""
+"Ubuntu is a complete Linux-based operating system, freely available with "
+"both community and professional support."
+msgstr ""
+
+#: ../isos/ubuntu/ubuntu.xml:7(advantage)
+msgid ""
+"It is \"desktop ready\" but also good as a server - especially now that long "
+"term support has been added.."
+msgstr ""
+
+#: ../isos/ubuntu/ubuntu.xml:8(advantage)
+msgid "It is a single disc that is also used as a Live CD."
+msgstr ""
+
+#: ../isos/ubuntu/ubuntu.xml:9(advantage)
+msgid ""
+"It is easy to install - it boots as a full linux Live CD, which allows you "
+"to confirm that it will work on your hard, then allows you to run a simple, "
+"six-step graphical install."
+msgstr ""
+
+#: ../isos/ubuntu/ubuntu.xml:10(advantage)
+msgid ""
+"It is recommended for the novice, but meets corporate and server-room needs "
+"with its long term support and paid for professional support options."
+msgstr ""
+
+#: ../isos/ubuntu/ubuntu.xml:13(disadvantage)
+msgid ""
+"It is not as widely accepted as RedHat and Suse - but that is changing "
+"because it is better in many respects, and it was recently voted the best "
+"linux distribution of 2005"
+msgstr ""
+
+#: ../isos/ubuntu/ubuntu.xml:18(defaultVersion)
+msgid "ubuntu|6.06-Dapper-Desktop|CD|1"
+msgstr ""
+
+#: ../isos/whitebox/whitebox.xml:3(name)
+msgid "Whitebox"
+msgstr ""
+
+#: ../isos/whitebox/whitebox.xml:4(description)
+msgid "Enterprise"
+msgstr ""
+
+#: ../isos/whitebox/whitebox.xml:6(advantage)
+msgid "It is built upon the RedHat Enterprise Linux (RHEL) distribution"
+msgstr ""
+
+#: ../isos/whitebox/whitebox.xml:7(advantage)
+msgid "You aren't tied in to RedHat's licensing or support contracts"
+msgstr ""
+
+#: ../isos/whitebox/whitebox.xml:10(disadvantage)
+msgid ""
+"Without RedHat support, you rely on porting to Whitebox from the next "
+"release of RedHat. However, the community provides good free support."
+msgstr ""
+
+#: ../isos/whitebox/whitebox.xml:13(defaultVersion)
+msgid "whitebox|manifestdestiny|CD|4"
+msgstr ""
+
+#: ../kiosk/cgi-bin/admin.pl:84
+msgid "Administrator Menu"
+msgstr ""
+
+#: ../kiosk/cgi-bin/admin.pl:101
+#, perl-format
+msgid "Freedom Toaster Version %s : Admin"
+msgstr ""
+
+#: ../kiosk/cgi-bin/admin.pl:128
+msgid "Queued = '"
+msgstr ""
+
+#: ../kiosk/cgi-bin/admin.pl:142
+msgid "Calibrate CDs"
+msgstr ""
+
+#: ../kiosk/cgi-bin/admin.pl:143
+msgid "Eject Drives"
+msgstr ""
+
+#: ../kiosk/cgi-bin/admin.pl:146
+msgid "Upload CC Content File"
+msgstr ""
+
+#: ../kiosk/cgi-bin/admin.pl:149
+msgid "Upload ISOs"
+msgstr ""
+
+#: ../kiosk/cgi-bin/admin.pl:150
+msgid "Software Upgrade"
+msgstr ""
+
+#: ../kiosk/cgi-bin/admin.pl:153
+msgid "Un-Kiosk"
+msgstr ""
+
+#: ../kiosk/cgi-bin/admin.pl:154
+msgid "Kiosk"
+msgstr ""
+
+#: ../kiosk/cgi-bin/admin.pl:155
+msgid "Clear Caches"
+msgstr ""
+
+#: ../kiosk/cgi-bin/admin.pl:156
+msgid "Log Out"
+msgstr ""
+
+#: ../kiosk/cgi-bin/burnCCFiles.pl:121
+msgid "Download Creative Commons files"
+msgstr ""
+
+#: ../kiosk/cgi-bin/burnCCFiles.pl:141
+msgid "Burn Creative Commons Content"
+msgstr ""
+
+#: ../kiosk/cgi-bin/burnCCFiles.pl:169
+msgid ""
+"Creative Commons licensing allows people to make their images, music or "
+"documents \n"
+"                        available to you to modify and/or use in various "
+"ways.  This set of screens will \n"
+"                        help you find such content and burn it to CD."
+msgstr ""
+
+#: ../kiosk/cgi-bin/burnCCFiles.pl:175
+msgid "Choose the Type of content you want"
+msgstr ""
+
+#: ../kiosk/cgi-bin/burnCCFiles.pl:176 ../kiosk/cgi-bin/uploadCCFile.pl:269
+msgid "Music"
+msgstr ""
+
+#: ../kiosk/cgi-bin/burnCCFiles.pl:177 ../kiosk/cgi-bin/uploadCCFile.pl:269
+msgid "Image"
+msgstr ""
+
+#: ../kiosk/cgi-bin/burnCCFiles.pl:178 ../kiosk/cgi-bin/uploadCCFile.pl:269
+msgid "Video"
+msgstr ""
+
+#: ../kiosk/cgi-bin/burnCCFiles.pl:179 ../kiosk/cgi-bin/uploadCCFile.pl:269
+msgid "Document"
+msgstr ""
+
+#: ../kiosk/cgi-bin/burnCCFiles.pl:185
+msgid "Find any type of content"
+msgstr ""
+
+#: ../kiosk/cgi-bin/burnCCFiles.pl:201
+msgid "Choose which authors' work you are interested in"
+msgstr ""
+
+#: ../kiosk/cgi-bin/burnCCFiles.pl:207
+msgid "From any Author"
+msgstr ""
+
+#: ../kiosk/cgi-bin/burnCCFiles.pl:224
+msgid "Choose which licenses would be acceptible to you"
+msgstr ""
+
+#: ../kiosk/cgi-bin/burnCCFiles.pl:230
+msgid "Under any License"
+msgstr ""
+
+#: ../kiosk/cgi-bin/burnCCFiles.pl:247
+msgid "Choose the tags to search for"
+msgstr ""
+
+#: ../kiosk/cgi-bin/burnCCFiles.pl:253
+msgid "Search for all tags"
+msgstr ""
+
+#: ../kiosk/cgi-bin/burnCCFiles.pl:348
+msgid "Choose the files you want to burn"
+msgstr ""
+
+#: ../kiosk/cgi-bin/burnCCFiles.pl:365
+#, perl-format
+msgid "You have selected %d file"
+msgid_plural "You have selected %d files"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../kiosk/cgi-bin/burnCCFiles.pl:393
+#, perl-format
+msgid "Preparing your %s iso for toasting"
+msgstr ""
+
+#: ../kiosk/cgi-bin/burners.pl:182
+msgid "Show the queues of selected CDs and DVDs waiting to toast"
+msgstr ""
+
+#: ../kiosk/cgi-bin/burners.pl:199
+msgid "Ready"
+msgstr ""
+
+#: ../kiosk/cgi-bin/burners.pl:269
+msgid "Empty"
+msgstr ""
+
+#: ../kiosk/cgi-bin/burners.pl:276
+msgid "Finishing"
+msgstr ""
+
+#: ../kiosk/cgi-bin/burners.pl:278
+msgid "Blanking"
+msgstr ""
+
+#: ../kiosk/cgi-bin/burners.pl:280
+msgid "Toasting"
+msgstr ""
+
+#: ../kiosk/cgi-bin/burners.pl:292 ../kiosk/cgi-bin/burners.pl:298
+#, perl-format
+msgid "Speed: %s<br />"
+msgstr ""
+
+#: ../kiosk/cgi-bin/burners.pl:307 ../kiosk/cgi-bin/burners.pl:339
+msgid "Status: "
+msgstr ""
+
+#: ../kiosk/cgi-bin/burners.pl:313
+msgid "Load "
+msgstr ""
+
+#: ../kiosk/cgi-bin/burners.pl:313
+msgid "<br />volume "
+msgstr ""
+
+#: ../kiosk/cgi-bin/burners.pl:330
+msgid "Don't toast this, cancel it"
+msgstr ""
+
+#: ../kiosk/cgi-bin/burners.pl:331
+msgid "Burn to Disk"
+msgstr ""
+
+#: ../kiosk/cgi-bin/burners.pl:339
+msgid " volume "
+msgstr ""
+
+#: ../kiosk/cgi-bin/burners.pl:343
+msgid "Try Again"
+msgstr ""
+
+#: ../kiosk/cgi-bin/burners.pl:346
+msgid "Blank this disk"
+msgstr ""
+
+#: ../kiosk/cgi-bin/burners.pl:348
+msgid "Finished - disk removed"
+msgstr ""
+
+#: ../kiosk/cgi-bin/burn.pl:39
+msgid "Burn Update"
+msgstr ""
+
+#: ../kiosk/cgi-bin/burn.pl:54
+msgid "Burn some Updates"
+msgstr ""
+
+#: ../kiosk/cgi-bin/burn.pl:60
+#, perl-format
+msgid "Bundling to %s."
+msgstr ""
+
+#: ../kiosk/cgi-bin/burn.pl:80
+#, perl-format
+msgid "Doing %s"
+msgstr ""
+
+#: ../kiosk/cgi-bin/burn.pl:142
+msgid "Choose what you want to burn onto:"
+msgstr ""
+
+#: ../kiosk/cgi-bin/burn.pl:145
+msgid "Volume base name (4 characters):"
+msgstr ""
+
+#: ../kiosk/cgi-bin/burn.pl:146
+msgid "Go"
+msgstr ""
+
+#: ../kiosk/cgi-bin/burn.pl:163
+#, perl-format
+msgid "Insert the DVD Labeled '%s' and press ENTER"
+msgstr ""
+
+#: ../kiosk/cgi-bin/burn.pl:203
+#, perl-format
+msgid "Insert the CD Labeled '%s' and press ENTER"
+msgstr ""
+
+#: ../kiosk/cgi-bin/calibrate.pl:24
+msgid "Calibrate Burners"
+msgstr ""
+
+#: ../kiosk/cgi-bin/calibrate.pl:66
+msgid "Calibrate the Burners"
+msgstr ""
+
+#: ../kiosk/cgi-bin/calibrate.pl:69
+msgid "Please choose the right values for the burner that is being opened now"
+msgstr ""
+
+#: ../kiosk/cgi-bin/calibrate.pl:74
+msgid "Device seems to be a "
+msgstr ""
+
+#: ../kiosk/cgi-bin/calibrate.pl:74
+msgid " writer"
+msgstr ""
+
+#: ../kiosk/cgi-bin/calibrate.pl:76
+msgid "In position: "
+msgstr ""
+
+#: ../kiosk/cgi-bin/calibrate.pl:78
+msgid "Next >"
+msgstr ""
+
+#: ../kiosk/cgi-bin/calibrate.pl:88
+msgid "Calibration Results"
+msgstr ""
+
+#: ../kiosk/cgi-bin/calibrate.pl:97
+msgid " is labeled "
+msgstr ""
+
+#: ../kiosk/cgi-bin/calibrate.pl:97
+msgid " and is a "
+msgstr ""
+
+#: ../kiosk/cgi-bin/calibrate.pl:102
+#, perl-format
+msgid "Swapping devices around in %s..."
+msgstr ""
+
+#: ../kiosk/cgi-bin/calibrate.pl:127
+msgid "New config is: "
+msgstr ""
+
+#. #-#-#-#-#  ydone.svg.pot (PACKAGE VERSION)  #-#-#-#-#
+#. Translators: This text is for a button, no more than 6 chars
+#: ../kiosk/cgi-bin/calibrate.pl:129 ../image-factory/done.svg:104(flowPara)
+#, no-wrap
+msgid "Done"
+msgstr ""
+
+#: ../kiosk/cgi-bin/checkconfig.pl:41
+msgid "Check Toaster Configuration"
+msgstr ""
+
+#: ../kiosk/cgi-bin/checkconfig.pl:42
+msgid "CDRW hdparm"
+msgstr ""
+
+#: ../kiosk/cgi-bin/checkconfig.pl:45
+#, perl-format
+msgid "Settings for %s"
+msgstr ""
+
+#: ../kiosk/cgi-bin/checkconfig.pl:47
+#, perl-format
+msgid "Device %s"
+msgstr ""
+
+#: ../kiosk/cgi-bin/chooseItem.pl:19
+msgid "Choose Something to Toast"
+msgstr ""
+
+#: ../kiosk/cgi-bin/chooseItem.pl:36
+msgid "Click the pictures:"
+msgstr ""
+
+#: ../kiosk/cgi-bin/common.pl:108
+msgid "Failed"
+msgstr ""
+
+#: ../kiosk/cgi-bin/common.pl:166
+msgid "Disk Blanked"
+msgstr ""
+
+#: ../kiosk/cgi-bin/common.pl:168
+msgid "Blanking failed"
+msgstr ""
+
+#: ../kiosk/cgi-bin/common.pl:276 ../kiosk/cgi-bin/common.pl:325
+#: ../kiosk/cgi-bin/common.pl:394
+#, perl-format
+msgid "(%d %s)"
+msgid_plural "(%d %ss)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../kiosk/cgi-bin/common.pl:335
+#, perl-format
+msgid "Choose %s Version"
+msgstr ""
+
+#: ../kiosk/cgi-bin/common.pl:387 ../kiosk/cgi-bin/show.pl:43
+msgid "Shopping Cart"
+msgstr ""
+
+#: ../kiosk/cgi-bin/common.pl:387 ../kiosk/cgi-bin/show.pl:43
+#: ../kiosk/cgi-bin/show.pl:58 ../kiosk/cgi-bin/show.pl:84
+#, perl-format
+msgid " (%d item)"
+msgid_plural " (%d items)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../kiosk/cgi-bin/common.pl:490
+#, perl-format
+msgid "%d CD ISO Selected"
+msgid_plural "%d CD ISOs Selected"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../kiosk/cgi-bin/common.pl:501 ../kiosk/cgi-bin/common.pl:545
+#: ../kiosk/cgi-bin/common.pl:790 ../kiosk/cgi-bin/common.pl:830
+#: ../kiosk/cgi-bin/show.pl:72 ../kiosk/cgi-bin/show.pl:80
+#: ../kiosk/cgi-bin/show.pl:94
+msgid " of "
+msgstr ""
+
+#: ../kiosk/cgi-bin/common.pl:504 ../kiosk/cgi-bin/common.pl:548
+#: ../kiosk/cgi-bin/common.pl:793 ../kiosk/cgi-bin/show.pl:98
+msgid "Iso Path: "
+msgstr ""
+
+#: ../kiosk/cgi-bin/common.pl:513
+msgid ""
+"Select CD isos to put onto DVD then click 'Add to DVD'. Click 'Toast "
+"Selection' below when done:  the remaining CDs and any DVD collections will "
+"be sent to the queue for toasting."
+msgstr ""
+
+#: ../kiosk/cgi-bin/common.pl:514
+msgid "Clear All Items in CD List"
+msgstr ""
+
+#: ../kiosk/cgi-bin/common.pl:522
+msgid "Move to DVD"
+msgstr ""
+
+#: ../kiosk/cgi-bin/common.pl:525
+msgid "Remove from DVD"
+msgstr ""
+
+#: ../kiosk/cgi-bin/common.pl:534
+#, perl-format
+msgid "%d CD to combine on DVD"
+msgid_plural "%d CDs to combine on DVD"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../kiosk/cgi-bin/common.pl:558
+#, perl-format
+msgid "Requires %d DVD"
+msgid_plural "Requires %d DVDs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../kiosk/cgi-bin/common.pl:559
+msgid ""
+"The DVDs are not bootable and special steps are needed to install a system "
+"with them.  If you are in doubt then this is not for you."
+msgstr ""
+
+#: ../kiosk/cgi-bin/common.pl:560
+msgid "Clear All Items in this list"
+msgstr ""
+
+#: ../kiosk/cgi-bin/common.pl:778
+#, perl-format
+msgid "%d CD waiting to toast"
+msgid_plural "%d CDs waiting to toast"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../kiosk/cgi-bin/common.pl:802 ../kiosk/cgi-bin/common.pl:840
+msgid "Clear All Items in this queue"
+msgstr ""
+
+#: ../kiosk/cgi-bin/common.pl:805
+#, perl-format
+msgid "%d DVD waiting to toast"
+msgid_plural "%d DVDs waiting to toast"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../kiosk/cgi-bin/distro.pl:18
+msgid "Selection of a Distro"
+msgstr ""
+
+#: ../kiosk/cgi-bin/distro.pl:41
+msgid "Latest Version"
+msgstr ""
+
+#: ../kiosk/cgi-bin/distro.pl:44
+msgid "Sorry, no version found on this kiosk"
+msgstr ""
+
+#: ../kiosk/cgi-bin/distro.pl:62
+msgid "You are about to toast "
+msgstr ""
+
+#: ../kiosk/cgi-bin/distro.pl:63
+msgid "Advantages"
+msgstr ""
+
+#: ../kiosk/cgi-bin/distro.pl:66
+msgid "Disadvantages"
+msgstr ""
+
+#: ../kiosk/cgi-bin/knowMore.pl:45
+msgid "The End of More Info"
+msgstr ""
+
+#: ../kiosk/cgi-bin/knowMore.pl:65
+msgid "Credits"
+msgstr ""
+
+#: ../kiosk/cgi-bin/knowMore.pl:66
+msgid ""
+"We hope this has encouraged you to try some of our Open Source and Creative "
+"Commons Items"
+msgstr ""
+
+#: ../kiosk/cgi-bin/knowMore.pl:67
+msgid ""
+"The Shuttleworth Foundation initiated, sponsored and manages these Freedom "
+"Toasters"
+msgstr ""
+
+#: ../kiosk/cgi-bin/knowMore.pl:68
+msgid "Concept:"
+msgstr ""
+
+#: ../kiosk/cgi-bin/knowMore.pl:69
+msgid ""
+"These guys had the idea of this kiosk and spent money on finding the right "
+"PC to do the job, and developing the right software.  This is an example of "
+"what they call \"creating a global phenomenon\""
+msgstr ""
+
+#: ../kiosk/cgi-bin/knowMore.pl:70
+msgid ""
+"Now this Freedom Toaster is in demand in developing nations on several "
+"continents, and the know-how and software is available to anybody who wants "
+"to do something similar."
+msgstr ""
+
+#: ../kiosk/cgi-bin/knowMore.pl:72
+msgid "Development:"
+msgstr ""
+
+#: ../kiosk/cgi-bin/knowMore.pl:73
+msgid ""
+"The chap involved here is a physicist who loves to experiment and invent.  "
+"He also builds websites and is an experienced programmer.  We knew him as a "
+"volunteer helping install computer labs in schools."
+msgstr ""
+
+#: ../kiosk/cgi-bin/knowMore.pl:130
+msgid "Find out more"
+msgstr ""
+
+#: ../kiosk/cgi-bin/login.pl:59
+msgid "Enter the administrator password using the keyboard below:"
+msgstr ""
+
+#: ../kiosk/cgi-bin/ok.pl:36
+msgid "Advanced Burning Options"
+msgstr ""
+
+#: ../kiosk/cgi-bin/show.pl:27
+msgid "Show Queues"
+msgstr ""
+
+#: ../kiosk/cgi-bin/show.pl:39
+msgid "Show Queue Status"
+msgstr ""
+
+#: ../kiosk/cgi-bin/show.pl:58
+#, perl-format
+msgid "DVD Queue"
+msgstr ""
+
+#: ../kiosk/cgi-bin/show.pl:63 ../kiosk/cgi-bin/show.pl:87
+#, perl-format
+msgid "Volume %s:"
+msgstr ""
+
+#: ../kiosk/cgi-bin/show.pl:84
+#, perl-format
+msgid "CD Queue"
+msgstr ""
+
+#: ../kiosk/cgi-bin/showQueue.pl:89
+msgid "Toast your Selection"
+msgstr ""
+
+#: ../kiosk/cgi-bin/showQueue.pl:98
+msgid ""
+"The burners are shown on the left - when one is ready to toast your CD it "
+"will open the disk caddy and show buttons for you to choose an action.  The "
+"buttons you are likely to see are:"
+msgstr ""
+
+#: ../kiosk/cgi-bin/showQueue.pl:99
+msgid "Toast:"
+msgstr ""
+
+#: ../kiosk/cgi-bin/showQueue.pl:99
+msgid ""
+"click this when you have inserted your blank disk into the caddy to tell the "
+"toaster that it can start toasting that disk"
+msgstr ""
+
+#: ../kiosk/cgi-bin/showQueue.pl:100
+msgid "Skip:"
+msgstr ""
+
+#: ../kiosk/cgi-bin/showQueue.pl:100
+msgid "click this if you no longer want to burn that item"
+msgstr ""
+
+#: ../kiosk/cgi-bin/showQueue.pl:101
+msgid "Retry:"
+msgstr ""
+
+#: ../kiosk/cgi-bin/showQueue.pl:101
+msgid "if there is a failure, you can choose to retry the burn"
+msgstr ""
+
+#: ../kiosk/cgi-bin/showQueue.pl:102
+msgid "Done:"
+msgstr ""
+
+#: ../kiosk/cgi-bin/showQueue.pl:102
+msgid ""
+"choose this if you have taken out your toasted disk and have noted what was "
+"burned onto it"
+msgstr ""
+
+#: ../kiosk/cgi-bin/showQueue.pl:103
+msgid "Blank:"
+msgstr ""
+
+#: ../kiosk/cgi-bin/showQueue.pl:103
+msgid ""
+"on some rewritable media, if the initial burn fails because the disk was not "
+"empty, you get the option to blank the disk and to retry"
+msgstr ""
+
+#: ../kiosk/cgi-bin/showQueue.pl:105
+msgid ""
+"The queues below show items waiting for a CD burner to become available.  As "
+"burners become available, queued items are automatically sent to them.  "
+"'Clear List' deletes the items on the queue."
+msgstr ""
+
+#: ../kiosk/cgi-bin/showQueue.pl:135
+msgid "Send all the selected CDs, DVDs and "
+msgstr ""
+
+#: ../kiosk/cgi-bin/showQueue.pl:137
+msgid "Show Advanced Options"
+msgstr ""
+
+#: ../kiosk/cgi-bin/showQueue.pl:139
+#, perl-format
+msgid ""
+"There are no items selected for toasting.  Use the %s button on the top left "
+"of this screen to view the home page, where you will be able to choose which "
+"software you want to toast to disk."
+msgstr ""
+
+#: ../kiosk/cgi-bin/showQueue.pl:139
+msgid "home"
+msgstr ""
+
+#: ../kiosk/cgi-bin/showQueue.pl:143
+msgid "Hide Advanced Options"
+msgstr ""
+
+#: ../kiosk/cgi-bin/upgrade.pl:26
+msgid "Install Upgrade"
+msgstr ""
+
+#: ../kiosk/cgi-bin/upgrade.pl:45
+msgid "Upgrade Kiosk Software"
+msgstr ""
+
+#: ../kiosk/cgi-bin/upgrade.pl:46
+msgid ""
+"To do this you need a CD with the upgrade on it.  You will be prompted to "
+"put it into a CDROM drive, and will need to confirm whether you want to "
+"upgrade to the version on the CD."
+msgstr ""
+
+#: ../kiosk/cgi-bin/upgrade.pl:47 ../kiosk/cgi-bin/upgrade.pl:48
+msgid "Note:"
+msgstr ""
+
+#: ../kiosk/cgi-bin/upgrade.pl:47
+#, perl-format
+msgid ""
+"the system will only upgrade if the file on the CD has a name of 'toaster-n."
+"m.tar.gz' where n.m is the version number and it is bigger than the setting "
+"of %s in %s/config.pl"
+msgstr ""
+
+#: ../kiosk/cgi-bin/upgrade.pl:48
+msgid ""
+"the system <b>does a backup</b> by tarballing the current system to /home/"
+"kiosk.  Make sure that this succeeds - your most likely source of trouble "
+"will be permissions to that folder (run <em>#sudo chmod -R a+w /home/kiosk</"
+"em> in a terminal)."
+msgstr ""
+
+#: ../kiosk/cgi-bin/upgrade.pl:52
+msgid "Backup Existing Code"
+msgstr ""
+
+#: ../kiosk/cgi-bin/upgrade.pl:60
+msgid "Backup successfully completed to "
+msgstr ""
+
+#: ../kiosk/cgi-bin/upgrade.pl:62
+msgid ""
+"Backup Failed. Aborting. You must fix this problem before you can upgrade "
+"your software"
+msgstr ""
+
+#: ../kiosk/cgi-bin/upgrade.pl:68
+msgid "No unmounted CD drives found. Aborting until you fix it."
+msgstr ""
+
+#: ../kiosk/cgi-bin/upgrade.pl:71
+msgid "Insert the upgrade CD in the open CDROM drive (you have 20 seconds)"
+msgstr ""
+
+#: ../kiosk/cgi-bin/upgrade.pl:75 ../kiosk/cgi-bin/uploadCCFile.pl:222
+#: ../kiosk/cgi-bin/uploadCDsonDVD.pl:118
+#, perl-format
+msgid "Unable to mount %s. Aborting"
+msgstr ""
+
+#: ../kiosk/cgi-bin/upgrade.pl:89
+#, perl-format
+msgid "Found : %s with version %d.%d"
+msgstr ""
+
+#: ../kiosk/cgi-bin/upgrade.pl:91
+#, perl-format
+msgid "This is newer than our current version of %s"
+msgstr ""
+
+#: ../kiosk/cgi-bin/upgrade.pl:91
+msgid " Installing it..."
+msgstr ""
+
+#: ../kiosk/cgi-bin/upgrade.pl:101
+msgid "Upgrade installed: "
+msgstr ""
+
+#: ../kiosk/cgi-bin/upgrade.pl:104
+#, perl-format
+msgid "Unable to set new version to %s in %s/config.pl"
+msgstr ""
+
+#: ../kiosk/cgi-bin/upgrade.pl:108
+msgid "No suitable files found on the CD. Aborting."
+msgstr ""
+
+#: ../kiosk/cgi-bin/uploadCCFile.pl:141
+msgid "Upload CC Content"
+msgstr ""
+
+#: ../kiosk/cgi-bin/uploadCCFile.pl:158
+msgid "Upload Creative Commons Content"
+msgstr ""
+
+#: ../kiosk/cgi-bin/uploadCCFile.pl:198 ../kiosk/cgi-bin/uploadCDsonDVD.pl:96
+msgid ""
+"No unmounted CD drives found. Wait for burning to finish or remove CDs "
+"currently\n"
+"                  busy in the drives. Aborting until you fix it."
+msgstr ""
+
+#: ../kiosk/cgi-bin/uploadCCFile.pl:205 ../kiosk/cgi-bin/uploadCDsonDVD.pl:103
+msgid "Insert your CD/DVD in the open CDROM drive then click 'Next'"
+msgstr ""
+
+#: ../kiosk/cgi-bin/uploadCCFile.pl:215
+msgid "Selecting Files from the CD"
+msgstr ""
+
+#: ../kiosk/cgi-bin/uploadCCFile.pl:264
+msgid "Choose the right values for your file"
+msgstr ""
+
+#: ../kiosk/cgi-bin/uploadCCFile.pl:265
+#, perl-format
+msgid "Info about %s"
+msgstr ""
+
+#: ../kiosk/cgi-bin/uploadCCFile.pl:268
+msgid "Type of data in the file"
+msgstr ""
+
+#: ../kiosk/cgi-bin/uploadCCFile.pl:280
+msgid "Author Name"
+msgstr ""
+
+#: ../kiosk/cgi-bin/uploadCCFile.pl:281
+msgid "Enter your Name then press Next >"
+msgstr ""
+
+#: ../kiosk/cgi-bin/uploadCCFile.pl:294
+msgid "Confirm Ownership of this File"
+msgstr ""
+
+#: ../kiosk/cgi-bin/uploadCCFile.pl:295
+msgid "You may only upload works to which you own the copyright"
+msgstr ""
+
+#: ../kiosk/cgi-bin/uploadCCFile.pl:298
+msgid "Does this file contain your own original work?"
+msgstr ""
+
+#: ../kiosk/cgi-bin/uploadCCFile.pl:299 ../kiosk/cgi-bin/uploadCCFile.pl:317
+#: ../kiosk/cgi-bin/uploadCCFile.pl:319
+msgid "Yes"
+msgstr ""
+
+#: ../kiosk/cgi-bin/uploadCCFile.pl:299 ../kiosk/cgi-bin/uploadCCFile.pl:317
+#: ../kiosk/cgi-bin/uploadCCFile.pl:319
+msgid "No"
+msgstr ""
+
+#: ../kiosk/cgi-bin/uploadCCFile.pl:311
+msgid "Creative Commons License Type"
+msgstr ""
+
+#: ../kiosk/cgi-bin/uploadCCFile.pl:312
+msgid ""
+"Choose the license most suitable to your desired use of this file, then "
+"press Next >"
+msgstr ""
+
+#: ../kiosk/cgi-bin/uploadCCFile.pl:316
+msgid "Allow commercial uses of your work?"
+msgstr ""
+
+#: ../kiosk/cgi-bin/uploadCCFile.pl:318
+msgid "Allow modification of your work?"
+msgstr ""
+
+#: ../kiosk/cgi-bin/uploadCCFile.pl:319
+msgid "provided the license stays the same as this one (share alike)"
+msgstr ""
+
+#: ../kiosk/cgi-bin/uploadCCFile.pl:354
+msgid "Tag Your File"
+msgstr ""
+
+#: ../kiosk/cgi-bin/uploadCCFile.pl:355
+msgid "Choose the tags that describe your file, then press Next >"
+msgstr ""
+
+#: ../kiosk/cgi-bin/uploadCCFile.pl:356
+msgid "If you need to add a different tag to the list, press '+ add new tag'."
+msgstr ""
+
+#: ../kiosk/cgi-bin/uploadCCFile.pl:434
+msgid "Add New Tags"
+msgstr ""
+
+#: ../kiosk/cgi-bin/uploadCCFile.pl:435
+msgid "Enter the tag you want to create, then press Next >"
+msgstr ""
+
+#: ../kiosk/cgi-bin/uploadCCFile.pl:455
+msgid "Confirmation"
+msgstr ""
+
+#: ../kiosk/cgi-bin/uploadCCFile.pl:456
+msgid "If you are happy with the settings shown below, press Next >"
+msgstr ""
+
+#: ../kiosk/cgi-bin/uploadCCFile.pl:465
+msgid "Confirm Values to be saved"
+msgstr ""
+
+#: ../kiosk/cgi-bin/uploadCCFile.pl:467
+msgid "Setting"
+msgstr ""
+
+#: ../kiosk/cgi-bin/uploadCCFile.pl:467
+msgid "Value"
+msgstr ""
+
+#: ../kiosk/cgi-bin/uploadCCFile.pl:468
+msgid "File Name:"
+msgstr ""
+
+#: ../kiosk/cgi-bin/uploadCCFile.pl:469
+msgid "File Type:"
+msgstr ""
+
+#: ../kiosk/cgi-bin/uploadCCFile.pl:470
+msgid "Author Name:"
+msgstr ""
+
+#: ../kiosk/cgi-bin/uploadCCFile.pl:471
+msgid "License:"
+msgstr ""
+
+#: ../kiosk/cgi-bin/uploadCCFile.pl:472
+msgid "Tags:"
+msgstr ""
+
+#: ../kiosk/cgi-bin/uploadCCFile.pl:493
+msgid "Saving File onto the Freedom Toaster"
+msgstr ""
+
+#: ../kiosk/cgi-bin/uploadCCFile.pl:530
+msgid "Your file was successfully saved"
+msgstr ""
+
+#: ../kiosk/cgi-bin/uploadCDsonDVD.pl:63
+msgid "Upload Content"
+msgstr ""
+
+#: ../kiosk/cgi-bin/uploadCDsonDVD.pl:80
+msgid "Upload Freedom Toaster Content"
+msgstr ""
+
+#: ../kiosk/cgi-bin/uploadCDsonDVD.pl:113
+msgid "Uploading Files from the Disk"
+msgstr ""
+
+#: ../kiosk/cgi-bin/uploadCDsonDVD.pl:135
+#, perl-format
+msgid "Found %s with %d distros"
+msgstr ""
+
+#: ../kiosk/cgi-bin/uploadCDsonDVD.pl:137
+#, perl-format
+msgid "Copying %s to %s"
+msgstr ""
+
+#: ../image-factory/addtags.svg:24(format)
+#: ../image-factory/add_to_dvd_disabled.svg:24(format)
+#: ../image-factory/add_to_dvd.svg:24(format)
+#: ../image-factory/add_to_selection.svg:24(format)
+#: ../image-factory/advanced.svg:24(format)
+#: ../image-factory/back.svg:24(format) ../image-factory/blank.svg:24(format)
+#: ../image-factory/burncd.svg:24(format)
+#: ../image-factory/burndvd.svg:24(format)
+#: ../image-factory/ccht10.svg:24(format)
+#: ../image-factory/ccht11.svg:24(format)
+#: ../image-factory/ccht12.svg:24(format)
+#: ../image-factory/ccht13.svg:24(format)
+#: ../image-factory/ccht14.svg:24(format)
+#: ../image-factory/ccht15.svg:24(format)
+#: ../image-factory/ccht16.svg:24(format)
+#: ../image-factory/ccht1.svg:24(format) ../image-factory/ccht2.svg:24(format)
+#: ../image-factory/ccht3.svg:24(format) ../image-factory/ccht4.svg:24(format)
+#: ../image-factory/ccht5.svg:24(format) ../image-factory/ccht6.svg:24(format)
+#: ../image-factory/ccht7.svg:24(format) ../image-factory/ccht8.svg:24(format)
+#: ../image-factory/ccht9.svg:24(format) ../image-factory/ccp10.svg:24(format)
+#: ../image-factory/ccp11.svg:24(format) ../image-factory/ccp12.svg:24(format)
+#: ../image-factory/ccp13.svg:24(format) ../image-factory/ccp14.svg:24(format)
+#: ../image-factory/ccp1.svg:24(format) ../image-factory/ccp2.svg:24(format)
+#: ../image-factory/ccp3.svg:24(format) ../image-factory/ccp4.svg:24(format)
+#: ../image-factory/ccp5.svg:24(format) ../image-factory/ccp6.svg:24(format)
+#: ../image-factory/ccp7.svg:24(format) ../image-factory/ccp8.svg:24(format)
+#: ../image-factory/ccp9.svg:24(format)
+#: ../image-factory/clear_all.svg:24(format)
+#: ../image-factory/clear_list.svg:24(format)
+#: ../image-factory/did_you_know_open2.svg:24(format)
+#: ../image-factory/did_you_know.svg:24(format)
+#: ../image-factory/do_it_now.svg:24(format)
+#: ../image-factory/done.svg:24(format)
+#: ../image-factory/findmore.svg:24(format)
+#: ../image-factory/hide_advanced.svg:24(format)
+#: ../image-factory/logoHome.svg:24(format)
+#: ../image-factory/next.svg:24(format)
+#: ../image-factory/other_versions.svg:24(format)
+#: ../image-factory/put_back_disabled.svg:24(format)
+#: ../image-factory/put_back.svg:24(format)
+#: ../image-factory/retry.svg:24(format)
+#: ../image-factory/show_toast_list.svg:24(format)
+#: ../image-factory/skip.svg:24(format)
+#: ../image-factory/toast_selection.svg:24(format)
+#: ../image-factory/toast.svg:24(format)
+msgid "image/svg+xml"
+msgstr ""
+
+#. Translators: This text is for a button, no more than 15 chars
+#: ../image-factory/addtags.svg:102(flowPara)
+#, no-wrap
+msgid "+ add new tag"
+msgstr ""
+
+#. Translators: This text is for a button, no more than 15 chars
+#: ../image-factory/add_to_dvd_disabled.svg:104(flowPara)
+#: ../image-factory/add_to_dvd.svg:104(flowPara)
+#, no-wrap
+msgid "Add to DVD &gt;"
+msgstr ""
+
+#. Translators: This text is for a button, no more than 15 chars
+#: ../image-factory/add_to_selection.svg:102(flowPara)
+#, no-wrap
+msgid "Add to Selection"
+msgstr ""
+
+#. Translators: This text is for a button, no more than 15 chars
+#: ../image-factory/advanced.svg:101(flowPara)
+#, no-wrap
+msgid "Advanced &gt;"
+msgstr ""
+
+#. Translators: This text is for a button, no more than 15 chars
+#: ../image-factory/back.svg:101(flowPara)
+#, no-wrap
+msgid "&lt; Back"
+msgstr ""
+
+#. Translators: This text is for a button, no more than 6 chars
+#: ../image-factory/blank.svg:104(flowPara)
+#, no-wrap
+msgid "Blank"
+msgstr ""
+
+#. Translators: This text is for a button, no more than 15 chars
+#: ../image-factory/burncd.svg:102(flowPara)
+#, no-wrap
+msgid "burn files to CD &gt;"
+msgstr ""
+
+#. Translators: This text is for a button, no more than 15 chars
+#: ../image-factory/burndvd.svg:102(flowPara)
+#, no-wrap
+msgid "burn to DVD &gt;"
+msgstr ""
+
+#: ../image-factory/ccht10.svg:65(flowPara)
+#, no-wrap
+msgid "THE THIRD OPTION IS TO DECLARE <flowSpan style=\"font-weight:bold;font-style:oblique\" id=\"flowSpan1829\">NO DERIVATIVE WORKS</flowSpan>. THIS LETS OTHERS COPY AND REDISTRIBUTE MY PHOTO -- BUT ONLY IF THEY DO SO WITHOUT ALTERING OR TRANSFORMING IT. I MIGHT CHOOSE THIS OPTION IF I WANT MY PHOTOS DISTRIBUTED ONLY IN THEIR WHOLE, ORIGINAL STATE."
+msgstr ""
+
+#: ../image-factory/ccht10.svg:79(flowPara)
+#: ../image-factory/ccht12.svg:83(flowPara)
+#: ../image-factory/ccht5.svg:79(flowPara)
+#: ../image-factory/ccht7.svg:79(flowPara)
+#, no-wrap
+msgid "ATTRIBUTION"
+msgstr ""
+
+#: ../image-factory/ccht10.svg:91(flowPara)
+#: ../image-factory/ccht12.svg:95(flowPara)
+#: ../image-factory/ccht7.svg:91(flowPara)
+#, no-wrap
+msgid "NON COMMERCIAL"
+msgstr ""
+
+#: ../image-factory/ccht10.svg:103(flowPara)
+#: ../image-factory/ccht12.svg:107(flowPara)
+#: ../image-factory/ccht5.svg:103(flowPara)
+#: ../image-factory/ccht7.svg:103(flowPara)
+#, no-wrap
+msgid "NO DERIVATIVE WORKS"
+msgstr ""
+
+#: ../image-factory/ccht10.svg:121(flowPara)
+#: ../image-factory/ccht12.svg:119(flowPara)
+#: ../image-factory/ccht5.svg:121(flowPara)
+#: ../image-factory/ccht7.svg:121(flowPara)
+#, no-wrap
+msgid "SHARE ALIKE"
+msgstr ""
+
+#: ../image-factory/ccht11.svg:65(flowPara)
+#, no-wrap
+msgid "IMAGINE THAT MAYA WANTS TO CROP MY PHOTO AND INCLUDE IT IN A COLLAGE SHE'S WORKING ON. SINCE MY WORK IS OFFERED WITH THE <flowSpan style=\"font-weight:bold;font-style:oblique\" id=\"flowSpan1899\">NO DERIVATIVE WORKS</flowSpan> CONDITION, MAYA HAS TO ASK MY PERMISSION BEFORE DOING SO. SHE COULD, HOWEVER, COPY AND DISTRIBUTE THE PHOTO IN ITS ORIGINAL FORM."
+msgstr ""
+
+#: ../image-factory/ccht12.svg:65(flowPara)
+#, no-wrap
+msgid "THE LAST OPTION IS SOMETHING WE CALL <flowSpan style=\"font-weight:bold;font-style:oblique\" id=\"flowSpan1988\">SHARE ALIKE. SHARE ALIKE</flowSpan> REQUIRES PEOPLE WHO TRANSFORM OR BUILD ON MY ORIGINAL PHOTOGRAPH TO MAKE THE RESULTING WORK AVAILABLE ON THE SAME TERMS I GAVE THEM. LET'S SAY I PICK A LICENSE THAT INCLUDES THE SHARE ALIKE OPTION AS WELL AS THE <flowSpan style=\"font-weight:bold;font-style:oblique\" id=\"flowSpan1990\">ATTRIBUTION</flowSpan> AND <flowSpan style=\"font-weight:bold;font-style:oblique\" id=\"flowSpan1992\">NONCOMMERCIAL</flowSpan> CONDITIONS."
+msgstr ""
+
+#: ../image-factory/ccht13.svg:65(flowPara)
+#, no-wrap
+msgid "UNDER THIS COMBINATION OF CONDITIONS, MAYA CAN MODIFY AND USE MY PHOTO IN HER COLLAGE AS LONG AS SHE RELEASES THE WHOLE COLLAGE ON THE SAME TERMS I OFFER HER: <flowSpan style=\"font-weight:bold;font-style:oblique\" id=\"flowSpan2062\">ATTRIBUTION, NONCOMMERCIAL</flowSpan>, AND <flowSpan style=\"font-weight:bold;font-style:oblique\" id=\"flowSpan2064\">SHARE ALIKE</flowSpan>. SHE ALSO HAS TO COMPLY WITH THE ORIGINAL LICENSE BY GIVING ME CREDIT AND ASKING MY PERMISSION BEFORE MAKING MONEY FROM HER COLLAGE."
+msgstr ""
+
+#: ../image-factory/ccht14.svg:65(flowPara)
+#, no-wrap
+msgid "SO, THAT IS HOW EACH OF THE FOUR OPTIONS WORK -- AND YOU CAN COMBINE THEM TO REFLECT YOUR PREFERENCES. THERE ARE ELEVEN COMBINATIONS IN ALL."
+msgstr ""
+
+#: ../image-factory/ccht15.svg:65(flowPara)
+#, no-wrap
+msgid "NOW, IF YOU'D RATHER RELEASE ALL CONTROL OF YOUR WORK TO THE PUBLIC, WITH NO CONDITIONS WHATSOEVER, YOU CAN USE THE CREATIVE COMMONS WEBSITE TO DEDICATE YOUR WORK TO THE PUBLIC DOMAIN. THE PUBLIC DOMAIN DEDICATION IS DIFFERENT FROM A LICENSE -- IT'S A WAY OF DECLARING, SIMPLY, \"NO RIGHTS RESERVED.\""
+msgstr ""
+
+#: ../image-factory/ccht16.svg:65(flowPara)
+#, no-wrap
+msgid "WE HOPE THAT ALL OF CREATIVE COMMONS TOOLS WILL HELP YOU AND OTHERS SHARE A WIDE RANGE OF CREATIVE WORKS, IN A VARIETY OF MEDIA, ON YOUR OWN TERMS."
+msgstr ""
+
+#. Translators: This text is included in an image, try to keep char number near to the English text
+#: ../image-factory/ccht1.svg:65(flowPara)
+#, no-wrap
+msgid "CREATIVE COMMONS WANTS TO HELP DEFINE THE SPECTRUM OF POSSIBILITIES BETWEEN FULL COPYRIGHT -- ALL RIGHTS RESERVED -- AND THE PUBLIC DOMAIN -- NO RIGHTS RESERVED. OUR LICENSES HELP YOU RETAIN YOUR COPYRIGHT WHILE ALLOWING CERTAIN USES OF YOUR WORK. THEY HELP YOU OFFER YOUR CREATIVE WORK WITH SOME RIGHTS RESERVED."
+msgstr ""
+
+#: ../image-factory/ccht2.svg:65(flowPara)
+#, no-wrap
+msgid "WHEN YOU CREATE A WORK, IT'S AUTOMATICALLY PROTECTED BY FULL COPYRIGHT -- WHETHER YOU FILE FOR PROTECTION OR NOT; WHETHER YOU DISPLAY THE COPYRIGHT SYMBOL (C) OR NOT. THIS IS FINE FOR PEOPLE WHO WANT CONTROL OVER EVERY LAST USE OF THEIR WORK, BUT WHAT ABOUT THOSE PEOPLE WHO WANT TO SHARE THEIR WORK ON CERTAIN TERMS?"
+msgstr ""
+
+#. Translators: This text is included in an image, try to keep char number near to the English text
+#: ../image-factory/ccht2.svg:77(flowPara)
+#, no-wrap
+msgid "The Law"
+msgstr ""
+
+#. Translators: This text is included in an image, try to keep char number near to the English text
+#: ../image-factory/ccht3.svg:65(flowPara)
+#, no-wrap
+msgid "OUR LICENSES ARE DESIGNED FOR THOSE FOLKS -- THOSE WHO UNDERSTAND THAT INNOVATION AND NEW IDEAS COME FROM BUILDING OFF EXISTING ONES."
+msgstr ""
+
+#. Translators: This text is included in an image, try to keep char number near to the English text
+#: ../image-factory/ccht4.svg:65(flowPara)
+#, no-wrap
+msgid "EVERY CREATIVE COMMONS LICENSE ALLOWS THE WORLD TO DISTRIBUTE, DISPLAY, COPY, AND WEBCAST YOUR WORK -- PROVIDED THEY ABIDE BY CERTAIN CONDITIONS OF YOUR CHOICE."
+msgstr ""
+
+#: ../image-factory/ccht5.svg:65(flowPara)
+#, no-wrap
+msgid "THERE ARE FOUR CONDITIONS YOU CAN APPLY WITH A CREATIVE COMMONS LICENSE. THE FIRST IS AN <flowSpan style=\"font-weight:bold;font-style:oblique\" id=\"flowSpan1595\">ATTRIBUTION REQUIREMENT</flowSpan>. LET'S SAY THAT I'M A BUDDING PHOTOGRAPHER AND WANT TO GET MY NAME AND WORK OUT ON THE WEB. THE ATTRIBUTION OPTION LETS PEOPLE FREELY REDISTRIBUTE MY PHOTOS AS LONG AS THEY GIVE ME CREDIT."
+msgstr ""
+
+#: ../image-factory/ccht5.svg:91(flowPara)
+#, no-wrap
+msgid "NONCOMMERCIAL"
+msgstr ""
+
+#: ../image-factory/ccht6.svg:65(flowPara)
+#, no-wrap
+msgid "SO WHEN IGNACIO COMES ACROSS MY SITE, HE KNOWS HE CAN USE MY PHOTO PROVIDED THAT HE GIVES ME CREDIT. THERE'S NO NEED FOR HIM TO CONTACT ME BEFORE REPUBLISHING IT, SO LONG AS HE CLEARLY LISTS MY NAME AND LINKS TO MY ATTRIBUTION LICENSE."
+msgstr ""
+
+#: ../image-factory/ccht7.svg:65(flowPara)
+#, no-wrap
+msgid "ANOTHER OPTION IS TO SPECIFY <flowSpan style=\"font-weight:bold\" id=\"flowSpan1339\">NO COMMERCIAL USE</flowSpan>. THIS LETS ME SHARE MY PHOTOGRAPH WITH THE WORLD BUT PROHIBITS OTHERS FROM MAKING MONEY OFF IT. IF SOMEONE WANTS TO USE MY PHOTO FOR COMMERCIAL PURPOSES, THEY HAVE TO GET MY PERMISSION FIRST. THAT'S WHEN I MIGHT ASK THEM FOR MONEY!"
+msgstr ""
+
+#: ../image-factory/ccht8.svg:65(flowPara)
+#, no-wrap
+msgid "SO IF EZRA, A SCHOOLTEACHER, WANTS TO PUT MY PHOTO ON HIS CLASS'S WEBSITE, HE CAN DO SO WITHOUT ASKING. BUT HE STILL HAS TO LINK TO MY LICENSE -- SO THAT OTHER PEOPLE KNOW HOW THEY CAN AND CAN'T REUSE IT."
+msgstr ""
+
+#: ../image-factory/ccht9.svg:65(flowPara)
+#, no-wrap
+msgid "ON THE OTHER HAND, LET'S SAY MIRANDA WANTS TO INCLUDE MY PHOTO IN A COFFEE TABLE BOOK SHE'S PRODUCING. SINCE SHE'S PLANNING TO SELL THE BOOK FOR PROFIT, SHE MUST GET MY PERMISSION BEFORE INCLUDING MY PHOTO."
+msgstr ""
+
+#: ../image-factory/ccp10.svg:65(flowPara)
+#, no-wrap
+msgid "WHEN IGNACIO CLICKS THROUGH, HE SEES THE COMMONS DEED, THE HUMAN-READABLE EXPRESSION OF THE LICENSE THAT INCLUDES INTUITIVE ICONS AND PLAIN LANGUAGE."
+msgstr ""
+
+#. Translators: This text is included in an image, try to keep char number near to the English text
+#: ../image-factory/ccp10.svg:77(flowPara)
+#, no-wrap
+msgid "This is easy to understand. I can use her song as long as I give her attribution, don't make money, and share any derivative works I make with the world."
+msgstr ""
+
+#. Translators: This text is included in an image, try to keep char number near to the English text
+#: ../image-factory/ccp11.svg:65(flowPara)
+#, no-wrap
+msgid "FROM THE COMMONS DEED, IGNACIO CLICKS THROUGH TO THE NITTY-GRITTY OF THE LEGAL CODE, THE ACTUAL LICENSE THAT DESCRIBES HOW IGNACIO CAN USE THE SONG."
+msgstr ""
+
+#. Translators: This text is included in an image, try to keep char number near to the English text
+#: ../image-factory/ccp12.svg:65(flowPara)
+#, no-wrap
+msgid "WITH ANITA'S LICENSING TERMS IN MIND, IGNACIO LAYS HER TRACK DOWN OVER A SCENE AND WRAPS UP HIS FILM."
+msgstr ""
+
+#. Translators: This text is included in an image, try to keep char number near to the English text
+#: ../image-factory/ccp13.svg:65(flowPara)
+#, no-wrap
+msgid "IGNACIO SHOWS THE NEW CUT OF HIS MOVIE TO HIS FILM CLASS AND MAKES SURE TO MENTION ANITA IN THE CREDITS."
+msgstr ""
+
+#. Translators: This text is included in an image, try to keep char number near to the English text
+#: ../image-factory/ccp14.svg:65(flowPara)
+#, no-wrap
+msgid "IGNACIO UPLOADS THE FINAL VERSION OF HIS FILM TO HIS OWN SITE. SINCE ANITA APPLIES THE SHARE ALIKE PROVISION TO HER SONG, IGNACIO LICENSES HIS OWN MOVIE UNDER THE SAME TERMS ANITA OFFERED HIM: ATTRIBUTION, NONCOMMERCIAL, AND SHARE ALIKE. HE GOES TO THE CREATIVE COMMONS SITE AND GETS THE SAME LICENSE AFTER PERSONALIZING HIS DIGITAL CODE TO DESCRIBE THE MOVIE."
+msgstr ""
+
+#. Translators: This text is included in an image, try to keep char number near to the English text
+#: ../image-factory/ccp14.svg:77(flowPara)
+#, no-wrap
+msgid "Creative Commons has helped me collaborate with someone I don't even know. Now others can use my film under the same terms!"
+msgstr ""
+
+#: ../image-factory/ccp1.svg:65(flowPara)
+#, no-wrap
+msgid "ANITA IS A MUSICIAN WHO LIVES IN NEW YORK. SHE RECENTLY COMPOSED AND RECORDED A SONG CALLED \"VOLCANO LOVE.\""
+msgstr ""
+
+#: ../image-factory/ccp1.svg:76(flowPara)
+#, no-wrap
+msgid "I love to jam!"
+msgstr ""
+
+#: ../image-factory/ccp2.svg:65(flowPara)
+#, no-wrap
+msgid "ANITA UPLOADED \"VOLCANO LOVE\" TO HER WEBSITE. SHE ALSO DECIDED TO GET A CREATIVE COMMONS LICENSE TO LET HER RETAIN HER COPYRIGHT WHILE ALLOWING CERTAIN USES OF HER SONG."
+msgstr ""
+
+#. Translators: This text is included in an image, try to keep char number near to the English text
+#: ../image-factory/ccp2.svg:77(flowPara)
+#, no-wrap
+msgid "I want people to sample and distribute my song, but I also want to be protected!"
+msgstr ""
+
+#. Translators: This text is included in an image, try to keep char number near to the English text
+#: ../image-factory/ccp3.svg:65(flowPara)
+#, no-wrap
+msgid "ANITA VISITED THE CREATIVE COMMONS WEBSITE TO CHOOSE A LICENSE."
+msgstr ""
+
+#. Translators: This text is included in an image, try to keep char number near to the English text
+#: ../image-factory/ccp3.svg:77(flowPara)
+#, no-wrap
+msgid "It's easy to pick a license. I'll go to the \"choose license\" tab."
+msgstr ""
+
+#: ../image-factory/ccp4.svg:65(flowPara)
+#, no-wrap
+msgid "Require attribution? Yeah, I want credit for my song. Allow commercial use? No, I don't want people making money without asking me first. Allow modifications? Sure, as long as they are required to share alike."
+msgstr ""
+
+#: ../image-factory/ccp4.svg:77(flowPara)
+#, no-wrap
+msgid "ANITA WENT THROUGH THE LICENSING APPLICATION AND ANSWERED THREE SIMPLE QUESTIONS ABOUT WHAT PERMISSIONS AND RESTRICTIONS SHE WANTED FOR HER SONG. THE WEBSITE POINTED HER TO THE LICENSE THAT REFLECTED HER PREFERENCES."
+msgstr ""
+
+#: ../image-factory/ccp5.svg:65(flowPara)
+#, no-wrap
+msgid "ANITA GOT A LICENSED EXPRESSED IN THREE WAYS: 1) COMMONS DEED, 2) LEGAL CODE, 3) DIGITAL CODE."
+msgstr ""
+
+#. Translators: This text is included in an image, try to keep char number near to the English text
+#: ../image-factory/ccp5.svg:77(flowPara)
+#, no-wrap
+msgid "Cool! I can understand the Commons Deed, lawyers can understand the legal code, and computers can identify my work by reading the digital code!"
+msgstr ""
+
+#: ../image-factory/ccp5.svg:88(flowPara)
+#, no-wrap
+msgid "Human-Readable Commons Deed"
+msgstr ""
+
+#: ../image-factory/ccp5.svg:100(flowPara)
+#, no-wrap
+msgid "Lawyer-Readable Legal Code"
+msgstr ""
+
+#: ../image-factory/ccp5.svg:112(flowPara)
+#, no-wrap
+msgid "Machine-Readable Digital Code"
+msgstr ""
+
+#: ../image-factory/ccp6.svg:65(flowPara)
+#, no-wrap
+msgid "ANITA PUT THE DIGITAL CODE INTO THE HTML OF HER SITE. THE DIGITAL CODE DISPLAYS THE \"SOME RIGHTS RESERVED\" BUTTON ON HER SITE AND LINKS TO HER LICENSE."
+msgstr ""
+
+#. Translators: This text is included in an image, try to keep char number near to the English text
+#: ../image-factory/ccp6.svg:77(flowPara)
+#, no-wrap
+msgid "Cool! Now it's really clear how I want people to use my song."
+msgstr ""
+
+#: ../image-factory/ccp7.svg:65(flowPara)
+#, no-wrap
+msgid "WITH THE DIGITAL CODE VERSION OF THE LICENSE EMBEDDED IN ANITA'S WEBSITE, SEARCH ENGINES AND OTHER APPLICATIONS WILL ONE DAY IDENTIFY HER WORK AND RECOGNIZE HOW IT'S LICENSED."
+msgstr ""
+
+#. Translators: This text is included in an image, try to keep char number near to the English text
+#: ../image-factory/ccp8.svg:65(flowPara)
+#, no-wrap
+msgid "IGNACIO IS A FILM STUDENT IN SAN FRANCISCO. HE'S LOOKING FOR A SONG TO PUT IN HIS CLASS FILM PROJECT, SO HE SEARCHES FOR \"NONCOMMERCIAL SONGS.\" THE SEARCH ENGINE FINDS THE DIGITAL CODE ON ANITA'S SITE AND TELLS IGNACIO ALL ABOUT HER WORK."
+msgstr ""
+
+#: ../image-factory/ccp8.svg:77(flowPara)
+#, no-wrap
+msgid "What's this?"
+msgstr ""
+
+#: ../image-factory/ccp9.svg:65(flowPara)
+#, no-wrap
+msgid "IGNACIO GOES TO ANITA'S SITE AND LISTENS TO \"VOLCANO LOVE.\" WHEN HE'S DONE HE CLICKS ON THE CREATIVE COMMONS \"SOME RIGHTS RESERVED\" LOGO."
+msgstr ""
+
+#. Translators: This text is included in an image, try to keep char number near to the English text
+#: ../image-factory/ccp9.svg:77(flowPara)
+#, no-wrap
+msgid "This song is great! It's perfect for my film! What's this about \"Some Rights Reserved\"?"
+msgstr ""
+
+#. Translators: This text is for a button, no more than 15 chars
+#: ../image-factory/clear_all.svg:101(flowPara)
+#, no-wrap
+msgid "Clear All"
+msgstr ""
+
+#. Translators: This text is for a button, no more than 15 chars
+#: ../image-factory/clear_list.svg:101(flowPara)
+#, no-wrap
+msgid "Clear List"
+msgstr ""
+
+#. #-#-#-#-#  ydid_you_know.svg.pot (PACKAGE VERSION)  #-#-#-#-#
+#. Translators: This text is for a button, no more than 15 chars
+#: ../image-factory/did_you_know_open2.svg:90(flowPara)
+#: ../image-factory/did_you_know.svg:102(flowPara)
+#, no-wrap
+msgid "Did you know?"
+msgstr ""
+
+#. Translators: This text is for a button, no more than 15 chars
+#: ../image-factory/do_it_now.svg:102(flowPara)
+#, no-wrap
+msgid "Do it now"
+msgstr ""
+
+#. Translators: This text is for a button, no more than 15 chars
+#: ../image-factory/findmore.svg:102(flowPara)
+#, no-wrap
+msgid "+ find more files"
+msgstr ""
+
+#. Translators: This text is for a button, no more than 15 chars
+#: ../image-factory/hide_advanced.svg:102(flowPara)
+#, no-wrap
+msgid "&lt; Hide Advanced"
+msgstr ""
+
+#. Translators: This text is for a logo, no more than 46 chars
+#: ../image-factory/logoHome.svg:66(flowPara)
+#, no-wrap
+msgid "Burn free, as free as the source flows..."
+msgstr ""
+
+#. Translators: This text is for a button, no more than 15 chars
+#: ../image-factory/next.svg:101(flowPara)
+#, no-wrap
+msgid "Next  &gt;"
+msgstr ""
+
+#. Translators: This text is for a button, no more than 15 chars
+#: ../image-factory/other_versions.svg:102(flowPara)
+#, no-wrap
+msgid "Other Versions"
+msgstr ""
+
+#. Translators: This text is for a button, no more than 15 chars
+#: ../image-factory/put_back_disabled.svg:104(flowPara)
+#: ../image-factory/put_back.svg:104(flowPara)
+#, no-wrap
+msgid "&lt; Put Back"
+msgstr ""
+
+#. Translators: This text is for a button, no more than 6 chars
+#: ../image-factory/retry.svg:104(flowPara)
+#, no-wrap
+msgid "Retry"
+msgstr ""
+
+#. Translators: This text is for a button, no more than 15 chars
+#: ../image-factory/show_toast_list.svg:101(flowPara)
+#, no-wrap
+msgid "Show Toast List"
+msgstr ""
+
+#. Translators: This text is for a button, no more than 6 chars
+#: ../image-factory/skip.svg:104(flowPara)
+#, no-wrap
+msgid "Skip"
+msgstr ""
+
+#. Translators: This text is for a button, no more than 15 chars
+#: ../image-factory/toast_selection.svg:101(flowPara)
+#, no-wrap
+msgid "Toast Selection"
+msgstr ""
+
+#. Translators: This text is for a button, no more than 6 chars
+#: ../image-factory/toast.svg:104(flowPara)
+#, no-wrap
+msgid "Toast"
+msgstr ""

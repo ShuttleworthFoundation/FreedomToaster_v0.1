@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+   <head>
+		<title>Freedom Toaster Home</title>
+		<link rel="stylesheet" type="text/css" href="../../css/kiosk.css" title="first" />
+		<meta http-equiv="content-type"  content="text/html; charset=utf-8" />
+      <meta http-equiv="refresh"  content="25; URL=../../cgi-bin/closeCD.pl" />
+      <script src="../../kiosk.js" language="javascript" type="text/javascript"></script>
+	</head>
+   <body background="../../css/images/selectorBG.png" bgcolor="#C0C0C0" onLoad="populateSelect();">
+      <div id="MoreInfo">
+         <a href="../../cgi-bin/knowMore.pl" title="About this Toaster">
+            <img src="../../css/images/K_button.gif" alt="?" width="113" height="120" border="0" /><br />
+
+         </a>
+      </div>
+      <div id="Home">
+         <a href="index0.html" title="Go to the beginning page">
+            <img src="../../css/images/H_button.gif" alt="Home" width="148" height="93" border="0" /><br />
+         </a>
+      </div>
+      <div id="back">
+         <a href="index2.html" title="Go to the previous page">
+            <img src="../../css/images/L_button.gif" alt="Home" width="148" height="93" border="0" /></a>
+      </div>
+      <div id="language-bg">
+      	<img src="../../css/images/language-bg.png" alt="background" width="220" height="77" border="0" />
+      </div>
+      <div id="language">
+         <select id="lang-sel" title="Language choice" onClick="magnifySelect(this);" onChange="changeLang(this);">
+         </select>   
+      </div>
+   <div id="content">
+      <img src="images/logoPage.png" width="400" height="131" style="margin-left:170px" /><br />
+      <h1>What do I need for this?</h1>
+      <ul>
+         <li>Blank CD-ROM disks to copy the software onto</li>
+         <li>Presumably you have a PC that the software is intended for</li>
+         <li>That is all!</li>
+      </ul>
+      <h2>Why are you giving this software away for free?</h2>
+      <ul>
+         <li>The Shuttleworth Foundation is trying to help South Africans develop the country by making software available to schools, homes and small businesses.</li>
+         <li>Due to high telephone and internet costs, most South Africans cannot download large programs from the internet - and <a href="../../cgi-bin/distro.pl?distro=toaster">this machine</a> is part of the solution:  you can copy the software onto CD-ROM from here for free.</li>
+         <li>This software was developed by many programmers around the world, using the internet, for the love of programming.  These programmers believe that software should be free to all, and have licensed the software to be free of charge, and free of restriction.</li>
+      </ul>
+
+         <div style="width:231px;height:71px;margin:0 auto"><a href="../../cgi-bin/admin.pl?task=login" title="Administer the Toaster"><img name="Blank" src="../../images/blank.png" width="231" height="71" /></a></div>
+
+   </div>
+	</body>
+</html>

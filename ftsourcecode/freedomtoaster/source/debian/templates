@@ -1,0 +1,5 @@
+Template: freedomtoaster/ft_password
+Type: password
+Description: Enter the new toaster administrator password (only 0-9 and a-z):
+ This password will be needed when you want to administer the toaster
+ interface in order to modify content or do some other administrative tasks.

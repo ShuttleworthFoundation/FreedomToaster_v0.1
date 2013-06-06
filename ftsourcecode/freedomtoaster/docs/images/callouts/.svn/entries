@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="99"
+   name=""
+   committed-date="2006-03-05T07:56:08.451837Z"
+   url="svn://edison.tsf.org.za/freedomtoaster/trunk/docs/images/callouts"
+   last-author="sean.wheller"
+   kind="dir"
+   uuid="d86654f9-5701-0410-bb18-eb70f6cf68f4"
+   repos="svn://edison.tsf.org.za/freedomtoaster"
+   revision="349"/>
+<entry
+   committed-rev="99"
+   name="10.png"
+   text-time="2006-05-25T12:15:24.000000Z"
+   committed-date="2006-03-05T07:56:08.451837Z"
+   checksum="29fd9e419eee2efa4ef6ce493ca51a9c"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:24.000000Z"/>
+<entry
+   committed-rev="99"
+   name="1.png"
+   text-time="2006-05-25T12:15:24.000000Z"
+   committed-date="2006-03-05T07:56:08.451837Z"
+   checksum="0f67842b8cc059137a88288e95115a18"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:24.000000Z"/>
+<entry
+   committed-rev="99"
+   name="2.png"
+   text-time="2006-05-25T12:15:24.000000Z"
+   committed-date="2006-03-05T07:56:08.451837Z"
+   checksum="782f998bab59d0221977c1c0eaa676c8"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:24.000000Z"/>
+<entry
+   committed-rev="99"
+   name="3.png"
+   text-time="2006-05-25T12:15:24.000000Z"
+   committed-date="2006-03-05T07:56:08.451837Z"
+   checksum="35dcf1dd29a802080c984e52d76e5b1f"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:24.000000Z"/>
+<entry
+   committed-rev="99"
+   name="4.png"
+   text-time="2006-05-25T12:15:24.000000Z"
+   committed-date="2006-03-05T07:56:08.451837Z"
+   checksum="3d412b47729eb73afc7aa430feeb7da0"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:24.000000Z"/>
+<entry
+   committed-rev="99"
+   name="5.png"
+   text-time="2006-05-25T12:15:24.000000Z"
+   committed-date="2006-03-05T07:56:08.451837Z"
+   checksum="489005941fbb522369466ca850189c59"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:24.000000Z"/>
+<entry
+   committed-rev="99"
+   name="6.png"
+   text-time="2006-05-25T12:15:24.000000Z"
+   committed-date="2006-03-05T07:56:08.451837Z"
+   checksum="f64cfcfac0c4219edebc96d6d043c84c"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:24.000000Z"/>
+<entry
+   committed-rev="99"
+   name="7.png"
+   text-time="2006-05-25T12:15:24.000000Z"
+   committed-date="2006-03-05T07:56:08.451837Z"
+   checksum="0def94f52c5e45256232320aaffeb1ce"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:24.000000Z"/>
+<entry
+   committed-rev="99"
+   name="8.png"
+   text-time="2006-05-25T12:15:24.000000Z"
+   committed-date="2006-03-05T07:56:08.451837Z"
+   checksum="2f899cf0909049b0472654d7357eaeb3"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:24.000000Z"/>
+<entry
+   committed-rev="99"
+   name="9.png"
+   text-time="2006-05-25T12:15:24.000000Z"
+   committed-date="2006-03-05T07:56:08.451837Z"
+   checksum="5ba16a0731d050493bd7e0b95244aafc"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:24.000000Z"/>
+</wc-entries>

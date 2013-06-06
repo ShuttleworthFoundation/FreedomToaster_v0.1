@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<distro>
+	<name>Code source du Freedom Toaster</name>
+	<description>Ce qui fait fonctionner cet appareil</description>
+	<advantages>
+		<advantage>Ce CD d'installation peut être utilisé pour créer un Freedom Toaster à partir de presque n'importe quel ordinateur.</advantage>
+		<advantage>Si vous avez des suggestions d'amélioration, n'hésitez pas à examiner le code et à contribuer.</advantage>
+		<advantage>N'importe qui peut réaliser lui-même une machine à graver ou utiliser ce code pour voir comment elle fonctionne.</advantage>
+		<advantage>Il y a même de la documentation pour vous aider.</advantage>
+		<advantage>Cela joue également le rôle de sauvegarde pour l'administrateur du système.</advantage>
+	</advantages>
+	<disadvantages>
+		<disadvantage>Ce code est réalisé en Perl, et il contient beaucoup d'astuces grossières. Nous apprécierions votre aide pour rendre le Freedom Toaster encore plus efficace.</disadvantage>
+                <disadvantage>La version actuelle du Freedom Toaster demande une installation serveur de Ubuntu Breezy. Assurez-vous donc de graver un CD Ubuntu Breezy en plus de ce CD d'installation afin d'être complètement équipé.</disadvantage>
+	</disadvantages>
+	<defaults>
+		<defaultVersion>toaster|V3Install|CD|1</defaultVersion>
+	</defaults>
+</distro>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
+"http://www.docbook.org/xml/4.3/docbookx.dtd">
+<article>
+  <title>Freedom Toaster Website Home Page Update</title>
+  <sect1>
+    <title>Home Page</title>
+    <para>
+      <emphasis role="bold">What is the Freedom Toaster?</emphasis>
+    </para>
+    <para>The Internet has been hailed as a <quote>great equaliser</quote> (Brynjolfsson and Smith
+      2000) of developing and developed nations. There are however, <quote>great disparities in
+        opportunity to access the Internet, the information and the educational/business
+        opportunities tied to this</quote> (wikipedia.org, 07.10.05).</para>
+    <para>Billions of people live with restrictive telecommunications environments that make it
+      difficult and costly to access digital products such as free software and educational content.
+      The Freedom Toaster project was started in 2004 by the Shuttleworth Foundation as a way to
+      overcome these problems.</para>
+    <para>Freedom Toasters are conveniently located, self-contained, computer-based, 'Bring 'n Burn'
+      facilities. Like vending machines, preloaded to dispense confectionery, Freedom Toasters are
+      preloaded to dispense free digital products (e.g. Linux Operating Systems and the
+      OpenOffice.org office suite)[Link to Toaster Software].</para>
+    <para>
+      <emphasis role="bold">But why do we need this?</emphasis>
+    </para>
+    <para>The Freedom Toaster project began as a means of overcoming the difficulty in obtaining
+      Linux and Open Source software due to the restrictive telecommunications environment in South
+      Africa, where the easy downloading of large pieces of software is just not possible.</para>
+    <para>Benefits...</para>
+    <itemizedlist>
+      <listitem>
+        <para>No need for Internet access.</para>
+      </listitem>
+      <listitem>
+        <para>Easy-to-deploy.</para>
+      </listitem>
+      <listitem>
+        <para>Easy-to-access.</para>
+      </listitem>
+      <listitem>
+        <para>Easy-to-use.</para>
+      </listitem>
+      <listitem>
+        <para>Screensaver cycles through content.</para>
+      </listitem>
+      <listitem>
+        <para>Touch screen operation.</para>
+      </listitem>
+      <listitem>
+        <para>Customisable interface options.</para>
+      </listitem>
+      <listitem>
+        <para>Localizable interface texts.</para>
+      </listitem>
+      <listitem>
+        <para>Capable of serving local and tailored content.</para>
+      </listitem>
+      <listitem>
+        <para>Four CD/DVD writer devices.</para>
+      </listitem>
+      <listitem>
+        <para>Freedom Toaster is a Free and Open Source project.</para>
+      </listitem>
+    </itemizedlist>
+    <para>
+      <emphasis role="bold">And the name? What's up with that?</emphasis>
+    </para>
+    <para>Initially the name came about directly as a result of the fact that Linux is a free
+      Operating System and that you &rdquor;toast&rdquo; a CD with Linux. However, it later
+      became apparent that, the name actually captured a meaning deeper than what was originally
+      intended. It encapsulates the philosophy of Open Source Software, that we have the freedom to
+      choose which software we use, that we have the freedom to change it if we like and that we
+      have the freedom to share it with anyone, for free. Listen closely....and you'll hear violins
+      playing in the background</para>
+    <para>
+      <emphasis role="bold">Free for all!</emphasis>
+    </para>
+    <para>In the past, most people have shied away from Open Source Software, more particularly
+      Operating Systems. Because, unless you were already an expert on various "scary" details that
+      accompanied them, it&rsquo;s been notoriously difficult to get your hands on reliable and
+      complete distributions that were easy to install and easy to upgrade. Not anymore, now
+      it&rsquo;s as easy as toast.</para>
+    <para>Freedom Toasters are suitable for use by any organisation in any venue, for any purpose.
+      Businesses, educational institutions, government departments, libraries and NGOs can all
+      accelerate their mandates. [Links to Educational Resources page (White papers, Case Studies,
+      Brochure, and User Cases)]</para>
+    <para>Creating a list describing the purposes for which Freedom Toasters can be put to use,
+      would stretch even the most fervent of imaginations, topical examples include the distribution
+      of:</para>
+    <itemizedlist>
+      <listitem>
+        <para>information for major awareness campaigns such as HIV/AIDS, polio, tuberculosis,
+          malaria and other diseases;</para>
+      </listitem>
+      <listitem>
+        <para>information to satisfy governmental obligations for human rights compliance such as
+          access to information;</para>
+      </listitem>
+      <listitem>
+        <para>skills-based, self-help, multimedia training programs on topics such as such as
+          improving maternal health, environmental sustainability and many more health and
+          agricultural related topics;</para>
+      </listitem>
+      <listitem>
+        <para>distribution of free software such as free computing environments, communications
+          software and business packages;</para>
+      </listitem>
+      <listitem>
+        <para>distribution of educational literature for personal growth such as information
+          pertaining to the promotion of gender equality and womans empowerment or computer training
+          courses that improve job prospects;</para>
+      </listitem>
+      <listitem>
+        <para>curriculum aligned content disseminated directly from Departments of Education for
+          teachers in rural schools.</para>
+      </listitem>
+    </itemizedlist>
+    <para>Freedom Toasters transcend the gaps that cause the <quote>digital divide</quote> by acting
+      as low-tech digital gateways between the <quote>haves</quote> and <quote>have nots</quote> of
+      the world.</para>
+    <para>
+      <emphasis role="bold">How do I use the Toaster?</emphasis>
+    </para>
+    <para>Obviously the first thing to do is find out where the closest Freedom Toaster is [Link to
+      Toaster Locations] , and then get yourself there. The way to obtain a product from the Toaster
+      is as simple as 1, 2, 3:</para>
+    <orderedlist>
+      <listitem>
+        <para>Bring writable CD or DVD media to the Freedom Toaster.</para>
+      </listitem>
+      <listitem>
+        <para>Insert into the Freedom Toasters' CD/DVD drive.</para>
+      </listitem>
+      <listitem>
+        <para>Select the product to duplicate.</para>
+      </listitem>
+    </orderedlist>
+    <para>On-screen information tells you more about the software you have selected, including how
+      many CDs you will need. The Freedom Toasters also contain a host of on-screen information to
+      teach people a little more about the world of Free and Open software. Touch the screen, browse
+      and explore!</para>
+    <para>Unlike the vending machine, where people pay to obtain perishable consumable products.
+      Freedom Toasters dispense new information, communication technologies, software and content
+      that act as a catalyst for increasing people&rsquo;s choice and are directly translatable
+      into knowledge, leading to greater freedom.</para>
+    <para>Whilst a chocolate bar is consumed by one person, Freedom Toaster wares carry no
+      restrictions. In fact, people are encouraged to make further copies and to distribute them,
+      enabling the whole community to benefit.</para>
+    <para>Click here for a more detailed view of using the Freedom Toaster  [Link to Touch and Go]</para>
+  </sect1>
+</article>

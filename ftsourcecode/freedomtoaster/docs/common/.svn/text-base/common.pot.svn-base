@@ -1,0 +1,188 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2006-05-08 20:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: application/x-xml2pot; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+
+#. Tag: term
+#: assembly-desc.xml:3
+#, no-c-format
+msgid "Assembly Manual"
+msgstr ""
+
+#. Tag: para
+#: assembly-desc.xml:5
+#, no-c-format
+msgid ""
+"This document defines the Shuttleworth Foundation specification for "
+"manufacture of a production Freedom Toaster system. It explains how to "
+"assemble the physical housing and computer equipment that comprise a Freedom "
+"Toaster, it also provides the specifications and instructions required in "
+"order to make those parts that are bespoke and cannot be bought from a "
+"supply-store."
+msgstr ""
+
+#. Tag: term
+#: customization-desc.xml:3
+#, no-c-format
+msgid "Customization Manual"
+msgstr ""
+
+#. Tag: para
+#: customization-desc.xml:5
+#, no-c-format
+msgid ""
+"Explains how the layout and design of the Freedom Toaster software Graphical "
+"User Interface and its functionality can be modified to meet new "
+"requirements."
+msgstr ""
+
+#. Tag: term
+#: installation-desc.xml:3
+#, no-c-format
+msgid "Installation Manual"
+msgstr ""
+
+#. Tag: para
+#: installation-desc.xml:5
+#, no-c-format
+msgid ""
+"Explains how to install and configure the software components of the Freedom "
+"Toaster from scratch."
+msgstr ""
+
+#. Tag: para
+#: licensenotice.xml:8
+#, no-c-format
+msgid ""
+"Unless otherwise expressly stated, all original material of whatever nature "
+"created by the contributors of the community, is licensed under the <ulink "
+"url=\"http://creativecommons.org/\">Creative Commons</ulink> license <ulink "
+"url=\"http://creativecommons.org/licenses/by-sa/2.5/\">Share-Alike</ulink>."
+msgstr ""
+
+#. Tag: para
+#: licensenotice.xml:12
+#, no-c-format
+msgid ""
+"What follows is a copy of the &quot;human-readable summary&quot; of this "
+"document. The Legal Code (full license) may be read <ulink url=\"http://"
+"creativecommons.org/licenses/by-sa/2.5/legalcode\">here</ulink>."
+msgstr ""
+
+#. Tag: emphasis
+#: licensenotice.xml:16
+#, no-c-format
+msgid "You are free:"
+msgstr ""
+
+#. Tag: para
+#: licensenotice.xml:20
+#, no-c-format
+msgid "to copy, distribute, display, and perform the work"
+msgstr ""
+
+#. Tag: para
+#: licensenotice.xml:23
+#, no-c-format
+msgid "to make derivative works"
+msgstr ""
+
+#. Tag: para
+#: licensenotice.xml:26
+#, no-c-format
+msgid "to make commercial use of the work"
+msgstr ""
+
+#. Tag: emphasis
+#: licensenotice.xml:30
+#, no-c-format
+msgid "Under the following conditions:"
+msgstr ""
+
+#. Tag: para
+#: licensenotice.xml:37
+#, no-c-format
+msgid ""
+"<emphasis role=\"bold\">Attribution.</emphasis> You must give the original "
+"author credit."
+msgstr ""
+
+#. Tag: para
+#: licensenotice.xml:45
+#, no-c-format
+msgid ""
+"<emphasis role=\"bold\">Share Alike.</emphasis> If you alter, transform, or "
+"build upon this work, you may distribute the resulting work only under a "
+"license identical to this one."
+msgstr ""
+
+#. Tag: para
+#: licensenotice.xml:51
+#, no-c-format
+msgid ""
+"For any reuse or distribution, you must make clear to others the license "
+"terms of this work."
+msgstr ""
+
+#. Tag: para
+#: licensenotice.xml:55
+#, no-c-format
+msgid ""
+"Any of these conditions can be waived if you get permission from the "
+"copyright holder."
+msgstr ""
+
+#. Tag: emphasis
+#: licensenotice.xml:60
+#, no-c-format
+msgid "Your fair use and other rights are in no way affected by the above."
+msgstr ""
+
+#. Tag: para
+#: licensenotice.xml:63
+#, no-c-format
+msgid ""
+"This is a human-readable summary of the <ulink url=\"http://creativecommons."
+"org/licenses/by-sa/2.5/legalcode\">Legal Code (the full license)</ulink>."
+msgstr ""
+
+#. Tag: term
+#: maintenance-desc.xml:3
+#, no-c-format
+msgid "Maintenance Manual"
+msgstr ""
+
+#. Tag: para
+#: maintenance-desc.xml:5
+#, no-c-format
+msgid ""
+"Explains how to perform routine maintenance tasks such as checking and "
+"gathering statistics, upgrading Freedom Toaster software, and loading new "
+"Freedom Toaster content."
+msgstr ""
+
+#. Tag: term
+#: user-desc.xml:3
+#, no-c-format
+msgid "User Manual"
+msgstr ""
+
+#. Tag: para
+#: user-desc.xml:5
+#, no-c-format
+msgid ""
+"Explains how navigate the Freedom Toaster Graphical User Interface and how "
+"to complete the task of selecting and burning digital content or software to "
+"CD or DVD media."
+msgstr ""

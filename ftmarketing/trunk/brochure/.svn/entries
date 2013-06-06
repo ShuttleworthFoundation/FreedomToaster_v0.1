@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="106"
+   name=""
+   committed-date="2006-02-10T09:20:54.510444Z"
+   url="https://svn1.cvsdude.com/techdocs/freedomtoaster/trunk/brochure"
+   last-author="ggoode"
+   kind="dir"
+   uuid="8478f940-d901-0410-ad40-e0ac9cb6760e"
+   repos="https://svn1.cvsdude.com/techdocs/freedomtoaster"
+   revision="122"/>
+<entry
+   committed-rev="106"
+   name="brochure.xml"
+   text-time="2006-05-04T08:19:16.000000Z"
+   committed-date="2006-02-10T09:20:54.510444Z"
+   checksum="3336d709f3551b375ee1a40f803b4400"
+   last-author="ggoode"
+   kind="file"
+   prop-time="2006-05-04T08:19:16.000000Z"/>
+</wc-entries>

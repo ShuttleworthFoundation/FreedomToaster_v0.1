@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<distro>
+   <name>Kubuntu</name>
+   <description>Ubuntu doté de l'environnement KDE</description>
+   <advantages>
+      <advantage>Basé sur ubuntu, basé lui-même sur la distribution Debian</advantage>
+      <advantage>Prêt à l'usage bureautique avec l'environnement de bureau KDE bien connu pour sa simplicité d'utilisation et de nombreuses fonctionnalités</advantage>
+      <advantage>Il tient sur un seul disque</advantage>
+      <advantage>Il est simple à installer</advantage>
+      <advantage>Simple à installer et à utiliser, recommandé pour les débutants</advantage>
+      <advantage>Avec l'ADSL, vous pouvez installer à la fois les bureaux Ubuntu et Kubuntu sur le même ordinateur et choisir celui que vous souhaitez utiliser au démarrage</advantage>
+   </advantages>
+   <disadvantages>
+      <disadvantage>Il n'est pas aussi courant que RedHat ou Mandrake, mais cela change si rapidement que cette phrase est probablement déjà dépassée</disadvantage>
+   </disadvantages>
+   <defaults>
+     <defaultVersion>kubuntu|5.10-Install-Kubuntu|CD|1</defaultVersion>
+   </defaults>
+</distro>

@@ -1,0 +1,964 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
+"http://www.docbook.org/xml/4.3/docbookx.dtd" [
+
+]>
+<article>
+  <title>Freedom Toaster</title>
+
+  <subtitle>Conceptual Experiences - Host Case Study</subtitle>
+
+  <sect1>
+    <title>Introduction</title>
+
+    <para>Whenever a new concept is created and is introduced to a wider
+    audience there is great potential for misunderstanding. Many people do not
+    have the time to sit down and explore a new issue for themselves. Instead
+    they rely on other people to inform them about the basics, and then they
+    'make up their minds' about the concept.</para>
+
+    <para>The Freedom Toaster and the concepts behind it are foreign to many
+    people, both in South Africa and around the world. In order to better
+    understand what the Freedom Toaster is and what benefits hosting
+    organisations can gain from being a host to a Freedom Toaster we will
+    present ten different potential hosting experiences. Some of these will be
+    stories about people, some will be interviews with a Freedom Toaster host,
+    and some will be mental explorations of the potentials within a specific
+    environment. As the Freedom Toaster project is still in it's infancy and
+    only available in South Africa at present, most of these hosting
+    experiences will be projections and extrapolations rather than hard
+    factual experiences.</para>
+  </sect1>
+
+  <sect1>
+    <title>East London - RSA</title>
+
+    <para>Let's take a quick trip to East London and imagine a Freedom Toaster
+    being used there. Who would host it? Who would use it? What benefits would
+    they receive? Come, join me in this experience....</para>
+
+    <sect2>
+      <title>The Place</title>
+
+      <para>East London is a fascinating place. It is a busy ocean port (with
+      the Daimler Chrsyler manufacturing plants located there), as well as a
+      multicultural business and education hub. All sorts of people live in
+      East London, those who want to surf the ocean waves... those who want to
+      study further... business people involved in importing and exporting...
+      business people involved in small local businesses... people in the
+      entertainment industry... people who play golf, or fish, or drive fast
+      cars. There are also people of community vision, like Elias - an owner
+      of an Internet Café in the city centre.</para>
+    </sect2>
+
+    <sect2>
+      <title>The Host</title>
+
+      <para>Elias is a proud Freedom Toaster Host. He keeps the Freedom
+      Toaster machine in the window of his shop, and is willing to speak about
+      it with anyone who asks. His Internet Café runs on Free and Open Source
+      (FOSS) software (Red Hat Fedora Core 4 to be precise), and he himself
+      has programmed some of the programs to suit his business needs. He has
+      two main servers that are connected via ADSL to the Internet, and has
+      networked the 10 other workstations to connect through those two
+      servers. Elias's two assistants, Jason and Xolani, did not know about
+      Linux when they were hired, but very quickly adapted to it, and now are
+      learning to install and configure so of the other distributions as
+      well.</para>
+
+      <para>Elias studied accounting and business at a local technicon, and
+      had a friend, Zane, in his class who used Linux (Red Hat) on his home
+      computer. When Elias was planning to open his Internet Café he phoned
+      Zane and asked about the licensing fees and the installation costs of
+      various operating systems. They both decided that it was worth
+      investigating Linux distributions and comparing them with the other
+      operating systems on the market.</para>
+
+      <para>For Elias, installing the Red Hat Fedora Core 4 operating system
+      made good business sense. The software itself was operated on a free
+      license, and there was a company in town who supported Red Hat, so if he
+      ran into a problem he could call them in to fix it. Elias started his
+      Internet Café with four computers and one printer. His first clients
+      just wanted to check email, type documents, and print them. They were
+      not even aware that they were using a free license word processor
+      (OpenOffice.org) and e-mail program (Thunderbird).</para>
+
+      <para>When Elias heard about the Shuttleworth Foundation's Freedom
+      Toaster he was very exited! "This is a dream come true for my
+      community!" he told his staff the next day. "Now anyone who come to my
+      Café can share in my success!". Elias and Zane got together and invested
+      their own money into the production of their Freedom Toaster, following
+      the instructions of the 'CookBook' produced by people involved in the
+      project. It was a happy day when they were able to switch it on and
+      toast their first OpenOffice.org CD for a customer.</para>
+    </sect2>
+
+    <sect2>
+      <title>The Benefits to the Internet Café</title>
+
+      <para>The Freedom Toaster's orange and black profile stands out as you
+      approach Elias' shop. You can see the 'Internet Café' sign painted on
+      the window, but your eye catches the Toaster. Elias has often had people
+      come in and ask what it is... and then use one of his computers to type
+      on so that they can see how the OpenOffice.org suite works, or what the
+      Thunderbird e-mail program looks like. Most don't have their own
+      computers, but are exited that they are using a computer that runs
+      something the Shuttleworth Foundation is supporting. Some business men
+      and women who have used the Internet Café for their e-mail have asked
+      Elias if they can install this software on their business computers so
+      that they can use it for their companies.</para>
+
+      <para>The students from the High School up the road often come to Elias
+      Internet Café. Since he put the Freedom Toaster up they have been
+      bringing more and more of their friends, and even their mothers and
+      fathers. Elias' business has grown because so many people are talking
+      about the Freedom Toaster and Elias.</para>
+
+      <para>Elias plans to open a Linux support company sometime soon, so he
+      is encouraging Jason and Xolani to learn as much as they can. He hopes
+      to get his wife will also be involved, maybe even in teaching people how
+      to use computers. He is a man of community vision.</para>
+    </sect2>
+
+    <sect2>
+      <title>Benefits to Customers</title>
+
+      <para>Some of Elias' customers don't care what they use, as long as it
+      works. Others want to know more. When they explore all the software
+      available on the Freedom Toaster they wonder that it is all there for
+      free. Many students have toasted the Project Gutenberg DVD to use at
+      their school computer labs. Many business people have toasted the
+      OpenOffice.org CD and are using it at work, no longer worried about the
+      cost of a proprietary office suite.</para>
+
+      <para>According to Elias, however, the most important benefit to his
+      customer is that they can see something happening in their community
+      that they can benefit from. They are being empowered to learn for
+      themselves.</para>
+
+      <para>(The characters and businesses in this section are not real, they
+      are presented in this manner so that you can experience the potentials
+      encapsulated in the Freedom Toaster project)</para>
+    </sect2>
+  </sect1>
+
+  <sect1>
+    <title>Rio - Brazil</title>
+
+    <para>[The places and characters in this article are fictional - the
+    opinions and ideas are representative of comments and responses of real
+    people]</para>
+
+    <para>It's pasted on posters all over the mall, 'Rio Computers' Freedom
+    Toaster is HERE!'. Juan Marco, the shop owner, has been waiting for the
+    construction of his Freedom Toaster to be completed for just over a week
+    now, and finally it's done. They delivered the last plastic coverings this
+    morning and the shop sales team were able to assemble the Toaster before
+    they opened their doors to the public. It's standing right by the door,
+    next to the payment tills, a bright orange beacon.</para>
+
+    <para>Now, you might be asking yourself, "what is this Freedom Toaster?"
+    Well, to put it quite simply, it is a digital bandwidth substitute, a
+    vending machine that allows you to toast blank CDs with Free and Open
+    Source Software (FOSS) and other free license content. Instead of
+    downloading software or information from the Internet you can write it to
+    a CD-ROM and use it on your own computer.</para>
+
+    <para>There has been a lot of talk among the staff about the impact the
+    Freedom Toaster will have on their business. Some see it as just a
+    marketing gimmick, there for the next six months and then gone. Others see
+    greater potential in the Freedom Toaster, and they see Juan Marco as a
+    pioneer FOSS and the other free license content to the people of
+    Rio.</para>
+
+    <para>Petros Alvierese, one of the store's salespeople, has noticed that
+    more people are looking into the window of the shop, to see the bright
+    orange Freedom Toaster, and then coming in and asking questions. Some have
+    bought CDs and toasted a LiveCD Linux distribution (a bootable CD with a
+    Linux operating system that runs from the CD) to try on their office and
+    home computers. Others have toasted the OpenOffice.org CD and used it on
+    their machines. They couldn't afford to upgrade their office suit (and
+    OpenOffice.org's suite has Spanish immediately available, not as an extra
+    addon feature). Petros has been speaking to customers who are wanting to
+    buy compete computer systems, but are not able to afford the computer
+    hardware and pay for all the software licenses for the operating system
+    and office suits available. Now that the Freedom Toaster is available some
+    of the customers have been asking about installing one of the operating
+    systems available from the Toaster. Using free license software these
+    customers can afford to get a complete entry level computer. Without the
+    free license software they couldn't.</para>
+
+    <para>Susanna Falonso, a sales clerk, thinks that the Freedom Toaster has
+    brought in more people today. She has seen quite a few people using the
+    touch screen menu and then asking one of the salespeople some questions.
+    Many have bought some CDs and come to her till and paid for them before
+    toasting something for them to take home for themselves. Susanna thinks
+    that Juan Marco is a very clever man, and that this Freedom Toaster idea
+    is very good for the shop, and very good for her community. She is already
+    using the OpenOffice.org suite on her work computer, and has decided to
+    toast a copy of the suite to give to her husband for his computer at work
+    (she knows that he has wanted to upgrade the office suite they use, but
+    can't afford all the license fees for the 20 computers in the company he
+    works for). She is very happy with having the Freedom Toaster right next
+    to the sales counter, as she likes smiling to people and having them smile
+    back.</para>
+
+    <para>Juan Marco is planning on getting a few more staff members in his
+    technical support section. The new staff will be Linux specialists who can
+    support the customers who have installed Linux operating systems, like
+    Redhat, Mandriva, or Suse. Rio Computers has recently been granted the
+    tender for installing 50 computers in the local government school two
+    blocks up the road from the mall. The teachers and students will be using
+    the computers for typing, printing, email, Internet, and some database and
+    spreadsheet functions. Juan has told them about the Freedom Toaster, and
+    they are thinking of installing one on their premises as well. They will
+    be using the K12 distributed Linux operating system, specifically
+    developed by the open source community for schools, and will be using
+    material from the Project Gutenberg (a CD or DVD distribution of pubic
+    domain books and texts - from literature to scientific treaties) in their
+    classes.</para>
+
+    <para>The Freedom Toaster is HERE! For Juan Marco the posters all around
+    the Mall are the realisation of a dream come true. For the staff of Rio
+    Computers it is the beginning of a new area of their business. The Freedom
+    Toaster is HERE!</para>
+  </sect1>
+
+  <sect1>
+    <title>Nyamuna - Malawi</title>
+
+    <para>[This article contains fictional characters and places, but the
+    projected opinions are from real people]</para>
+
+    <para>There is a place that people can go to in Nyamuna, Malawi where
+    community really matters. The people who work there are proud of their
+    community, happy to help, glad to be involved. It's not only the staff who
+    are proud of their community, the community leaders, the mayor, the
+    council men and women, even the patrol officers are proud of this
+    community. At the community centre in Nyamuna people's lives
+    change.</para>
+
+    <para>There are many projects being run at the community centre, and many
+    people who come in and out of its doors everyday. One of these projects
+    involves the Freedom Toaster, a concept started in South Africa,
+    championed by the Shuttleworth Foundation (started by Mark Shuttleworth -
+    first African in Space!). At first it was hard to understand just how
+    important the Freedom Toaster was. No one knew what it was or what it did.
+    Let me tell you of how we heard about it and what we did to get one of our
+    own.</para>
+
+    <para>Project Director Punjabi was in Cape Town, South Africa at a
+    conference and on the Thursday afternoon when they had a two hour break he
+    went down to the waterfront shopping area. There he found the MTN Science
+    centre and went inside to look. There he saw his first Freedom Toaster.. a
+    'bring and burn' your own CDs type of vending machine. He went up to it
+    and read the different screens that the machine scrolled through, and
+    found out that this Freedom Toaster had 13 different versions of Linux
+    that he could copy to his own discs for free... and the Project Gutenberg,
+    the OpenOffice.org CD, and other Free and Open Source (FOSS) CDs. He was
+    amazed that afternoon in Cape Town, amazed that all this information was
+    freely available for anyone who had access to a computer to use for free.
+    He knew that the Community Centre in Nyamuna would really benefit from one
+    of these. They had ten computers in the centre, and a project to train
+    people on how to use a mouse and how to type, but with access to a Freedom
+    Toaster they could take that even further! Mr Punjabi knew that if people
+    were able to own their own software disks they would feel more involved,
+    more able to share what they knew and what they had. He also knew that
+    there would be another project later in the year that would bring in
+    second hand computers to the Centre... that would be a greater opportunity
+    for the community if they had a Freedom Toaster.</para>
+
+    <para>Not many people in Nyamuna have access to the Internet. Quite a few
+    have computers, especially those with their own businesses. There was no
+    way that they would be able to download the software and information that
+    was part of the Freedom Toaster's system.</para>
+
+    <para>Project Director Punjabi came back from Cape Town as a very excited
+    man. He had spoken with Nyamuna from the Science Centre and had been given
+    the 'Cookbook', the instruction manual for building a Freedom Toaster. Mr
+    Punjabi had also been in contact with one of the Community Centre
+    supporters, Mr Kaliman, and had already got clearance for the materials
+    needed to build the Toaster. His excitement was contagious! Soon everyone
+    at the Community Centre knew that a Freedom Toaster was being built, and
+    they wondered what it would do. A week after Mr Punjabi returned from Cape
+    Town he announced an opening ceremony for the Freedom Toaster. He invited
+    the Mayor, the police chief, the Headmaster, the Doctor,and all the
+    teachers and students and anyone who would be able to come on a Saturday
+    afternoon. The Community Centre was packed with people. Mr Punjabi spoke
+    about his dream that someday everyone in this community would be able to
+    use a computer, either one of their own, or one in the community centre's
+    computer lab. He told them about free license software, and about the open
+    source concept of producing software. One of the teachers from the school
+    raised his hand and asked whether his computer science students would be
+    able to see the code for an email system (the school had been donated 20
+    new and up-to-date computers for their computer lab). Mr Punjabi said that
+    they now had source code not just for an email system, but for whole
+    operating systems, mp3 players, word processors, and more! Those who were
+    advanced enough in their studies would be able to create their own
+    versions with their own customisation and code. Mrs Selune asked about
+    software to type documents. Mr Punjabi told them about the OpenOffice.org
+    project. He told the teachers and the students about the Project
+    Gutenberg, how they now had access to the great literature of the world,
+    just for the price of a blank CD or DVD (about 20 Rupees).</para>
+
+    <para>We learnt a lot that day. We saw one man's passion bring a concept
+    from another country and make it ours. We now have high school students
+    who have contributed to the security code of Evolution, an email system.
+    They did it as a class project last term. We have students in the
+    community centre every afternoon, bringing their disks to read 'Hamlet' by
+    Shakespeare as part of their literature class. Business people in town
+    have come and toasted their own copies of SuSE and Mandrake, and other
+    Linux operating systems. We now also have an Internet connection at the
+    Community centre, and soon we hope to open an Internet café in
+    town.</para>
+  </sect1>
+
+  <sect1>
+    <title>New Delhi - India</title>
+
+    <para>[The characters in this article are fictional, the sentiments and
+    opinions are based are on comments by real people]</para>
+
+    <para>A library is not only a place where you can borrow books. It is also
+    a place to learn more about yourself, more about your community, and more
+    about life. The library is a place of expanding yourself. Mrs Gandhi knows
+    this, and acts on it everyday. She is the Head Librarian at Dr Zakir
+    Hussain Memorial in New Delhi, India. She has been the Head Librarian for
+    fifteen years, and has seen so a lot of change over the years that she has
+    worked there.</para>
+
+    <para>We asked Mrs Gandhi what she thought of the Freedom Toaster, and
+    what benefits the Library had gained by hosting one. She very candidly
+    told us that at first she couldn't really understand what the Freedom
+    Toaster was all about. One of the Library Trustees had come to her with an
+    article from the Shuttleworth Foundation describing the Freedom Toaster
+    concept and the difference that Freedom Toasters were making in parts of
+    South Africa. The Trustee had been very excited about the possibility of
+    creating a Freedom Toaster for .... Library. The Board of Trustees voted
+    to become a Freedom Toaster host, and approached the Local Development
+    Fund director for additional funding. Once the Freedom Toaster had been
+    installed, however, Mrs Gandhi told us that she became an avid supporter
+    very quickly.</para>
+
+    <para>"The greatest benefit to this library that I have seen since we put
+    the Toaster in the foyer out there is the increase in people coming to our
+    library" Mrs Gandhi tells us. "When we first installed the Freedom Toaster
+    we put posters up in all the windows of the Library. All the teachers came
+    and asked us what it was about. Then the children came and wanted to know
+    how to use the Freedom Toaster. They toasted themselves copies of the
+    Project Gutenberg... then they brought their parents to see the machine! I
+    remember one of the parents came and asked why it was all for free. He
+    'didn't want his children copying pirated software' he said. My, my, we
+    had some fun explaining the concept of free license software and open
+    source software that day. When he understood this he brought in his boss
+    from work and together they toasted about five of the Linux distributions
+    to try on their new computer at work. Eh, he was happy! People keep
+    bringing other people to see it and use it, then they come back and ask us
+    about joining the library. It seems that so many people have forgotten
+    that we were here."</para>
+
+    <para>During our conversation with Mrs Gandhi we also learnt that the
+    Freedom Toaster had been used by one of the local schools as part of their
+    technology project. The students had each been given an assignment about
+    one or more aspect of the Freedom Toaster, from the physical hardware that
+    made up the vending machine, to the software that ran the Toaster, and
+    even the software and information that could be 'toasted' by the Freedom
+    Toaster. Some of the other Librarians helped the students gather
+    information, and got to know them very well during the course of the
+    project. One of the girls in the class had always wanted to write poetry,
+    and one of the librarians had shown her the collection of poetry in the
+    Library, and the section on writing prose and poems. That girl went on to
+    win a prize at the end of the year for one of her poems. The Freedom
+    Toaster brought her to the library and connected her to her dream.</para>
+
+    <para>The benefit of hosting the Freedom Toaster was also described in
+    terms of benefiting the community as a whole. "We're never really sure of
+    all the affects that we have as a Library within this community," Mrs
+    Gandhi continues, "but with the focus of the Freedom Toaster we have seen
+    some marvellous things happen. It stands there, straight and tall, as a
+    symbol of upliftment for all who walk in here." Mrs Gandhi knows that a
+    library is not just a place to find a book to read. She knows that her
+    library is a meeting point in her community, and a resource of knowledge
+    and challenge for all those who walk past or come inside. The Freedom
+    Toasters is one of the tools that her library uses. Yours could
+    too.</para>
+  </sect1>
+
+  <sect1>
+    <title>Johannesburg - RSA</title>
+
+    <para>[This article is mostly fictional, but there is a Freedom Toaster at
+    the Experience Centre of YFM at The Zone in Rosebank]</para>
+
+    <para>Have you ever wondered what people at a radio station do all day? Do
+    they just listen to music and make playlists for their shows? Do they sit
+    around drinking coffee and smoking cigarettes or eating doughnuts when
+    they are not speaking 'live'? Well, I got to see first hand what some DJs
+    and Radio Station managers and staff do, when I interviewed them about the
+    competition they were running, concerning the Freedom Toaster.</para>
+
+    <para>If you walk into 'The Zone' at Rosebank, and find the YFM studios
+    (one of the shops around the courtyard downstairs from the Sterkinekor
+    Movies) you will see what looks like a bright orange vending machine
+    behind the 5 or so computers in the Internet café portion of YFM's
+    interactive centre. If you look more closely you will see a touch screen,
+    and three CD/DVD writer drives, as well as the words "Freedom Toaster" on
+    the orange portion of the machine. Take a step even closer and start
+    reading the screen and you will find that you can bring your own CDs and
+    write all sorts of software and information to them, for free. I'll tell
+    you more about that software a little later...</para>
+
+    <para>I first went to the reception and spoke with the secretary there,
+    asking her who would best know why YFM was hosting a Freedom Toaster. She
+    spoke on the phone with a few people and then informed me that I needed to
+    go to the main offices (also at The Zone in Rosebank) and talk with
+    Janice. While I was talking with the receptionist I saw quite a few radio
+    personalities. Some were just getting some coffee, others were chatting
+    about something that had happened during the morning show, and were
+    laughing quite merrily about it. I then went to the main offices and spoke
+    with Janice, who was one of the accounting managers of the station. She
+    didn't know much about the Freedom Toaster, but she did know that the
+    station had run a competition and that the Freedom Toaster had something
+    to do with the competition. Janice also mentioned that although she had
+    not had much to do with the competition, she was impressed with the
+    response that the Station had from listeners during the competition. She
+    put me in touch with Andrew.</para>
+
+    <para>There is no doubt in my mind that Andrew was impressed with the
+    response of the listeners to the concept of the Freedom Toaster. The
+    competition ran for just over four weeks. Listeners had to phone in with
+    answers to specific open source software questions. Anyone could go to the
+    YFM experience centre at The Zone and find all the answers by using the
+    Freedom Toaster. To win prizes, listeners had to phone in with the answers
+    to the questions. There were quite a few days when up to 30 people phoned
+    in during a ten minute period (with only 10 phone lines dedicated to the
+    competition). In one sense, the competition was an educational campaign.
+    People had to interact with the Freedom Toaster and with the software and
+    other material on it. It was not enough to know computers in general. As
+    the Freedom Toaster contained 13 different operating systems that could be
+    toasted to blank CDs, the range of questions was large. Some questions
+    would be fairly simple, while others were complex and required an in depth
+    knowledge of a Linux system.</para>
+
+    <para>From Andrew's perspective, the Freedom Toaster had brought greater
+    listener participation. Many people had come to the YFM experience Centre
+    at The Zone, and had not only found out more about the Freedom Toaster but
+    had interacted with some of the presenters and DJs who were there. More
+    people knew about the YFM experience centre and the Internet café, coffee
+    bar, and games areas. Andrews knowledge of the Freedom Toaster was more
+    geared to the specific answers to th questions of the competition. He knew
+    that it had been pioneered by the Shuttleworth Foundation, that there were
+    Freedom Toasters throughout South Africa (and one in Namibia). He knew
+    about the concept of free license software and the open source philosophy
+    (publishing source code for others to read and improve on). He also knew
+    about Project Gutenberg, the electronic text library of pubic domain works
+    (Shakespeare, Milton, Dante, Einstein, Poe, and thousands of other works
+    of literature, fiction, poetry, science , maths, etc.).</para>
+
+    <para>I did not find out what people do at a radio station all day, but I
+    did find out that YFM has good interjection with it's listeners. They were
+    able to communicate on various levels and with various types of medium
+    (both radio and experience centre). The Freedom Toaster project benefited
+    from this exposure, as did YFM.</para>
+  </sect1>
+<?pagebreak?>
+  <sect1>
+    <title>ShenZen - China</title>
+
+    <para>[The characters of this article are fictional and situations are
+    projections of what could be]</para>
+
+    <para>ShenZen used to be just a small village before it's location on the
+    China / Hong Kong border made it a prime place for major economic growth.
+    Now it is a bustling city, with tens of thousands of people travelling in
+    and out of it every day. It is a very busy place.</para>
+
+    <para>ShenZen has a Freedom Toaster. A computer with CD and DVD burning
+    capabilities that is set up in the shape of a vending machine. The Freedom
+    Toaster is used to distribute Free and Open Source Software (FOSS) and
+    other free content. In ShenZen the Freedom Toaster is in the main lounge
+    of the Adult Education Centre. The Centre has three main goals. The first
+    is simply to increase literacy among the adult population of ShenZen. This
+    they do through free reading classes and local reading and writing
+    competitions. Their second goal is to raise awareness of what teaching is
+    available to adults, things like computer literacy, art classes, marshal
+    arts, and typing classes. This is the area in which the Freedom Toaster
+    has its primary effect. The last goal of the Adult Education Centre is to
+    be a safe place for people to come to, to share their problems, receive
+    counselling, and general community building and upliftment.</para>
+
+    <para>The Adult Education Centre has had the Freedom Toaster for six
+    months now, and they have adapted the main programme to suit there needs.
+    They still have all the FOSS software that other Freedom Toaster's have,
+    but they have added their own CD which contains all the reading and
+    writing tutorials that they use (in Chinese). They have also added a CD
+    image that contains tutorials for use when learning English as a second
+    language. Since the Freedom Toaster was installed, more and more people
+    have been asking to learn English, so the Centre has started giving
+    classes again (they did four years ago but after four classes had
+    graduated interest dwindled). One of the Centre's volunteers translated
+    the Freedom Toaster's interface system into Mandarin, and other adult
+    education centres are also now hosting Freedom Toasters of their
+    own.</para>
+
+    <para>The main use of the Freedom Toaster at the Adult Education Centre is
+    the teaching Cd's, but many more people are becoming interested in the
+    Linux distributions and in the OpenOffice.org suite, particularly as it
+    has Chinese fonts and dictionaries. Those who can read and write English
+    are also beginning to use the Project Gutenberg disks, particularly the
+    parents of High School children. Those who do not have computers at home
+    take the disks to work and print out a few chapters of a book each day to
+    read. Others use the Adult Education Centre's small computer facility (6
+    computers) when computer literacy classes are not in session. They are
+    having fun reading some of the children's stories. Soon they will be
+    reading some of the more advanced literature.</para>
+
+    <para>It is interesting to note that the concept of free license software
+    was difficult for some people at the Adult Education Centre to accept.
+    They were used to paying for all the software that they used, and not
+    being able to change any of the original code of the programs they were
+    using. This has been challenged by the presence of the Freedom Toaster,
+    for now they can go and toast their own copies of an operating system that
+    contains all the tools they need to write documents, email, network, store
+    data, and even play games. The manager for the Adult Education Centre had
+    to have three training sessions with the staff of the Centre before they
+    were fully comfortable with all that the Freedom Toaster had, and what
+    effect it could have on their community. Now they are all eager to help
+    when someone asks a question or asks for help with the Freedom Toaster.
+    They have learnt a lot of new things too.</para>
+
+    <para>One of the benefits of having the Freedom Toaster located in the
+    main lounge is that it has become a focus point for the computer literacy
+    classes. All the computers that are used to teach computer literacy are
+    running software that is available on the Toaster. Even for people who
+    don't have their own computers, it is still a major thrill to be able to
+    toast one of the LiveCDs and take it with them so that when they get back
+    to their job (or find one) they can illustrate their proficiency and their
+    knowledge of computers in general. Many people talk about the FOSS on the
+    Freedom Toaster. Some of the graduates of the computer literacy class have
+    formed a Linux Users Club, and they meet every month at the Centre to
+    discuss new developments and things that they have learnt.</para>
+  </sect1>
+
+  <sect1>
+    <title>Santiago - Chile</title>
+
+    <para>[This article is a projection of possibilities, the characters and
+    places are fictional]</para>
+
+    <para>There are many different ways to make money, but one of the most fun
+    is by helping people get what they want. When you see the joy and gladness
+    that they express when they finally have it, that is priceless. My name is
+    Amelio. I'm a 27 year old entrepreneur from Santiago in Chile. My bank
+    thinks that I'm in the Internet Service Provider (ISP) business, but I'm
+    really in the business of helping people have fun with their computers. I
+    earn my money from the Internet, but my passion is for people.</para>
+
+    <para>When I first started this business in 2001 there were only 7 other
+    ISPs. Roughly 1.75 million people (out of 15 million) were Internet users
+    in my country. That number is growing. Four years ago I hadn't heard of
+    Linux, nor had I heard of Free and Open Source Software (FOSS). In 2002 I
+    was surfing online while waiting for a take away order to arrive, and I
+    read an article on one of the news sites about an operating system that
+    you could download and run for free, called Linux. It caught my attention,
+    so I clicked on the link and read some more about open source software.
+    There were so many distributions (different flavours) of Linux, ranging
+    from small systems that could fit on my 128Meg USB memory stick, to
+    distributions 14 CDs or more is size, containing all sorts of business,
+    graphics, multimedia, office, and entertainment software. I decided to try
+    Linux out and did some research on which distribution to try first. I
+    chose a Knoppix LiveCD, mainly because I could boot into the operating
+    system straight from the CD without affecting the other software installed
+    on my computer. This way I could play around with Linux and learn things
+    about it and how to use it without having to format my harddrive and
+    install a completely new system.</para>
+
+    <para>It was a lot of fun to put the CD in, boot up and instantly see
+    Linux at work. My screen and sound card were automatically configured, my
+    network connections were setup, and I could save files onto the server in
+    my office. I worked on documents in OpenOffice.org. I played around with
+    XMMS (mp3 and multimedia player). Then tried the games that came bundled
+    with Knoppix. What fun!</para>
+
+    <para>When people came into my shop and into my office, asking about the
+    services that we provided and asking about what software to use, I began
+    to speak to a few of them about Linux. Most were very sceptical, but a few
+    decided that it was investigating. Mr .... was one such customer. Together
+    we installed some of the full desktop distributions, SuSE, Red Hat,
+    Mandrake, Slackware, and explored the differences and ease of use. The
+    basics that Mr ... needed were in every distribution, but he found
+    Mandrake easier to use and configure, so we did the full installation and
+    the online updates. In 2005 Mr ... was in Johannesburg, South Africa and
+    was at the LinuxWorld Expo. There he saw a Freedom Toaster (a Free and
+    Open Source 'bring and burn' vending machine). This was one that the
+    Shuttleworth Foundation had at their stand, and the queue of people
+    'toasting' was always quite long. Mr ... got more information from the
+    staff behind the table, and brought it back to me. It is a fascinating
+    idea. A machine that has Linux distributions and other free license
+    content that can be burned to CDs and DVDs by the touch of the onscreen
+    menu. The only cost is the blank CD or DVD used. The Shuttleworth
+    Foundation see the Freedom Toaster as a solution for access to FOSS where
+    there is low bandwidth or no Internet access.</para>
+
+    <para>You know that I sell Internet bandwidth as a living. I know how many
+    hours people spend on line, I know average download speeds. I have all
+    those statistics from my own business. I know the frustrations of using
+    dial in connections to try to download some of this software. I decided to
+    find out if we could get a Freedom Toaster or something similar here in
+    Chile. I went to the Freedom Toasters online site (www.freedomtoaster.org)
+    and read what other people were doing and even had access to the
+    'cookbook', the instruction manual on how to build one for yourself. What
+    a great concept.. a cookbook for a toaster! My staff and I built one, and
+    we installed it in our front office four months ago.</para>
+
+    <para>In the first month we saw a lot of general interest from customers.
+    They wanted to know what it was and what it did. I did a lot talking about
+    Firefox and Thunderbird (FOSS Internet browser and email programs). Some
+    of my core business customers came and made an appointment with me and
+    asked a lot of questions. One of the problems that we discussed was who
+    supported the software. One of the concepts of open source software is
+    that a community of programmers deal with the code and the bugs and
+    errors, so in a general sense there is a programming community supporting
+    the software. These customers wanted something more local, someone that
+    could call on the phone or email and get help from. That was when the idea
+    for expanding my business came to me. I knew enough about Linux to help
+    people install it and configure it. I also knew enough about the MS
+    Windows FOSS on the Freedom Toaster to support it as well.</para>
+
+    <para>Last month I opened my second business. I use the same office as my
+    ISP business, but now I have three other people working with me. Two run
+    the ISP side, and one helps me with local support for software available
+    on the Freedom Toaster. We stock blank CDs and DVDs, so people can either
+    bring their own blanks, or purchase the ones we stock. My business has
+    already grown to the point where I'm thinking of employing another
+    technician to work with us on the support side. Now I not only provide an
+    Internet Service, but I also provide access to free license software for
+    the computers that access the Internet, and support for that software. I'm
+    a happy man, and so are my customers.</para>
+  </sect1>
+
+  <sect1>
+    <title>Grahamstown - RSA</title>
+
+    <para>[While the characters, writer, and conversations of this article are
+    imaginary, the Science Festival and the Shuttleworth Foundation's presence
+    in Grahamstown are real]</para>
+
+    <para>One of the most exciting events for the school children and
+    residents of Grahamstown, South Africa, is the Science Festival held there
+    every year. Most of the exhibitions are hosted at the Monument (an 1820
+    settler's site that is now a huge auditorium with smaller theatres,
+    exhibition rooms, and lobby space - perfect for exhibitions). All the big
+    players are there; University science, geology, physics, chemistry,
+    robotics, and other scientific specialist departments; Industry giants
+    like SASOL, IBM, Hewlette Packard, Telkom, and Sony; local companies -
+    computer shops, photo labs, food vendors, etc.</para>
+
+    <para>This year the Science Festival also hosted the Freedom Toaster,
+    usually located in the Shuttleworth Foundation's centre in Grahamstown.
+    Students from Victoria Girls High School, Graeme College, and St Andrews
+    High School all crowded the location of the Freedom Toaster in the lower
+    lobby of the Monument Building. Although the schools have computer labs
+    and Internet access, the connections are not fast enough for the
+    downloading of full Linux operating systems or CD images of the OpenCD
+    (Windows based free license opensource software). The Rhodes University
+    computer science students and the information technology students also
+    were intrigued by the idea and by the range of software that was available
+    for 'toasting'.</para>
+
+    <para>For those of you who are not familiar with the Freedom Toaster
+    concept, let me briefly explain what it is and what is so important about
+    it. The Freedom Toaster is a computer set up to look like a vending
+    machine. It has a touch screen monitor and CD writer drives on the front.
+    The unit has an orange and black exterior. The machine part of the Freedom
+    Toaster is not the exciting part. What you are able to do with the Freedom
+    Toaster is... you are able to bring your own blank CDs and write all sorts
+    of free and open source software (FOSS) and other content to your discs.
+    The Freedom Toaster is really a bandwidth substitute, a way of accessing
+    free license content without needing access to the Internet. The Freedom
+    Toaster has been developed by the ShuttleWorth Foundation and the open
+    source community in South Africa. Currently it holds CD images of 13
+    different Linux distributions, the OpenOffice.org CD, the OpenCD (a
+    collection of Windows based opensouce applications), the Mozilla
+    Firefox/Thunder Bird collection (the most popular feature rich Internet
+    browser and email open source application), and the Project Gutenberg
+    (collection of electronic texts of all the pubic domain [out of copyright]
+    literature, fiction, science texts, general information books,..etc.) CD
+    and DVD images.</para>
+
+    <para>The computer science students from Rhodes University were already
+    familiar with Linux, and many had already used Linux based systems for
+    programming and testing purposes. What they were impressed with was the
+    range of distributions available, from the single CD 'live' distributions
+    (CD images that are bootable and run from he CD without having to write to
+    the harddrive or interfere with the operating system already installed on
+    the computer) through to the large 13 CDs of the Debian Sarge
+    distribution. They were also impressed that the Freedom Toaster offered
+    BSD, another opensource operating system, similar to Linux, but based on a
+    different kernel (core system). Many of them toasted the larger
+    distributions, as they had the largest variety of open source software
+    ready to be installed.</para>
+
+    <para>One of the drama students discovered that the Project Gutenburg DVD
+    had the complete works of Shakespeare on, as well as the translations of
+    many of the Greek plays. He told his Classics Professor, and soon the
+    whole class were queueing up with their blank DVD-Roms, waiting to toast
+    their own copies. While many of he students did own computers, those that
+    didn't had plenty of access to the computer labs, and so they were also
+    able to make full use of the information that was freely available from
+    the Freedom Toaster.</para>
+
+    <para>For some of the High School students it was just fun to toast some
+    CDs at the science festival so that they could take the disks back to the
+    dormitory and show their friends what they had done that day. Some of the
+    games that come bundled on the LiveCD distributions (like Knoppix) are
+    quite fun to play (even addictive to some...).</para>
+
+    <para>One of the most touching experiences of the Freedom Toaster's booth
+    at the science festival was the look on the children's faces when they
+    realised that this machine didn't take money.. just blank CDs. The schools
+    from across the Eastern Cape send bus loads of children to the festival,
+    and it was amazing to see how quickly the high school students from all
+    types of backgrounds and schools embraced the concept of the Freedom
+    Toaster. There is a hunger for knowledge in the children of our nation.
+    Many of them asked their teachers if it was possible to have a Freedom
+    Toaster machine closer to where they lived (they had read the posters and
+    pamphlets detailing the position of all the Freedom Toasters in South
+    Africa and Namibia). I certainly hope that there will be many more hosts
+    for Freedom Toasters across South Africa, and indeed around the
+    world.</para>
+
+    <para>On the last day of the Science Festival many of the local residence
+    of Grahamstown were asking about the Shuttleworth Foundation Centre, and
+    whether they would be able to access the Freedom Toaster at the Centre.
+    The staff were very please to answer 'Yes!"</para>
+
+    <para>If this year's Science Festival is anything to go by, the
+    Shuttleworth Foundation will have to bring 3 machines to next years event,
+    or find enough co-sponsors to put Freedom Toasters in all the main High
+    Schools, libraries, and shopping centres around our great country. It was
+    good to see that the open source community had something so positive to
+    present at the festival. We were all enriched by it.</para>
+
+    <para><emphasis>Report by Andrew Smythe - third year journalism student at
+    Rhodes University.</emphasis></para>
+  </sect1>
+
+  <sect1>
+    <title>Gabarone - Botswana</title>
+
+    <para>[This article is fictional, but the opinions expressed and the
+    possibilities explored are based on real people's opinions]</para>
+
+    <para>There is an old african tale that is known in some parts of southern
+    africa, which tells us of the great act of heroism that earned the leopard
+    his spots. It was one of those hot windy days in the bush, the type that
+    would make a bush fire very hot and fast. Most of the animals were nervous
+    that morning, their instinct telling them that something was about to
+    happen that would change their lives forever. The wise old monkey who all
+    the animals reviered and came to when they were sick was sleeping high in
+    his tree. The leopard was just a dull yellow colour before this day, and
+    he (as usual) was all alone, stalking a young wart hog. The leopard was
+    not liked by any of the other animals. He was very selfish and greedy, and
+    looked quite ugly (unless you were another leopard I guess). Most animals
+    walked the other way if they smelled his scent on the wind.</para>
+
+    <para>It was mid afternoon when the first scent of fire came, wisps of
+    smoke from over the hill, then came the sound of fire crackling through
+    the grass. The wind pushed it relentlessly up the hill and over the top
+    and down into the valley where the leopard lived. It came so fast that
+    most of the animals just dropped what they were doing and ran for the
+    safety of the river and the rocks next to the waterfall. The wise old
+    monkey was left sleeping, high up in his tree, as all the animals forgot
+    about him in their terror of the fire. Once they were at the river and
+    were calming down, however, they looked around them for the wise old
+    monkey, but he wasn't there. The leopard slinked out of the bush and sat
+    down on a rock next to the water (there were to many animals there,
+    protecting each other that he couldn't see a way to get a quick meal). He
+    heard them talking about the wise old monkey. The wise old monkey had
+    saved the leopards life when he was a kitten. He had a thorn in one of his
+    paw pads that had gotten infected, and the wise old monkey had taken it
+    out and put some leaves and honey on it until it was better. The leopard
+    knew that the wise old monkey would die from the smoke if he didn't leave
+    his tree, but the fire was already burning at the bottom of it. All the
+    other animals were too terrified to do anything.</para>
+
+    <para>The leopard made a decision then that changed his life, and the
+    lives of the other leopards who have lived since then. He decided to
+    rescue the wise old monkey. He ran along the branches of the trees, above
+    the flames on the ground all around him, but as he got to the tree that
+    the wise old monkey had been sleeping in he saw that the whole tree was
+    catching alight. This tree was in bloom, and the flowers were catching on
+    fire and falling off. There was only one thing to do if the wise old
+    monkey was to be saved. The leopard ran through the rain of burning
+    flowers and up into the higher branches where the wise old monkey was
+    lying, almost suffocated by the smoke. The leopard picked him up in his
+    powerful jaws and ran back through the burning flowers and flames. He got
+    the wise old monkey safely to the river bank, but when he looked at
+    himself he saw that his fur was burning. He leapt into the river, putting
+    the flames out, and splashing enough water on the wise old monkey that he
+    revived. As the leopard came out of the water all the other animals
+    gasped! He was no longer an ugly plain yellow colour, instead he had dark
+    brown and black imprints of the tree flowers all over his coat, making him
+    look totally different. The wise old monkey picked up the leopard's right
+    paw and raised it to the sky, saying "This day the leopard has gone
+    through the fire and rescued wisdom! As his reward he has been granted a
+    new coat, one that will forever protect him from the sight of the
+    hunters." The other animals were grateful to the leopard for saving the
+    wise old monkey, and they began to treat him with respect in the following
+    months. The leopard was still often alone, but he was no longer so selfish
+    and greedy. He wore his new coat with humbleness, for he knew that he was
+    not anyone special. He had just been the one who was able to do something
+    in that situation. Now if you see ever see a leopard, look closely at his
+    spots and you will see the burn marks of the flowers, medals of bravery
+    and courage for saving wisdom.</para>
+
+    <para>You will hear this story being told by Amai Ndodwa at the Sisonkwe
+    Community Arts Centre in Gabarone, Botswana. She is like the leopard in
+    many ways. She went to a very expensive school and university when she was
+    younger, and used what she learnt to make herself very rich, often at the
+    expense of others. But one day she met a wise old woman from the same
+    village that she had come from, and the wise old woman had sat her down
+    and told her about the flames that were eating her heart day by day, the
+    flames of greed and power. Through that conversation Amai Ndodwas life
+    began to change. She had felt the loneliness that her greed had caused in
+    her life. That was the year that she came to the community arts centre for
+    the first time. She saw the paintings of many artists who expressed beauty
+    and wisdom. She also saw herself in one of the paintings, a leopard, on
+    fire...</para>
+
+    <para>Her life changed that day, and she began to look for ways to bring
+    help to other people, and bring information and wisdom to those in her
+    community. She is part of the team that requested a Freedom Toaster for
+    Sisonke Community Arts Centre. She saw one in Namibia when she was
+    visiting there, and was able to see that access to the information that
+    the Freedom Toaster contained would help many people in her community.
+    That was the day she started the project that has now reached over 3000
+    people in this part of Gabarone. The Freedom Toaster is a digital
+    bandwidth substitute for free license and open source software. The idea
+    was created in South Africa, under the care of the Shuttleworth
+    foundation. It has CD images of many operating systems (Linux
+    distributions and BSD), office programs, graphics programs, Internet
+    applications, and the Project Gutenburg. Amai Ndodwa knew that access to
+    these free license computer programs could change the lives of many
+    people, including the artists their families at Sisonkwe.</para>
+
+    <para>Some of the artists now use the GIMP (Graphical Image Manipulation
+    Program), an open source graphics program, to do sketches and rough
+    diagrams of the work that they will do on canvas or in clay. Others are
+    using a whole operating system, like the Suse Linux distribution, to run
+    their computers (as they couldn't afford the upgrade prices of what they
+    were running). The Freedom Toaster Wisdom project in Gabarone has touched
+    the lives of over 3000 people already. Most of them are high school or
+    university students who have needed access to computer software so that
+    they can type projects, send emails, work on programming, or read
+    literature (like Shakespeare's plays).</para>
+
+    <para>Amai Ndodwa doesn't wear a leopard skin, but she does tell the story
+    of the how the leopard earned his spots, and then she tells her audience
+    of the many different ways that we can help save and share wisdom. The
+    Freedom Toaster is high on her list, as she tells her audiences of the
+    lives that have changed and the people who have also changed because they
+    access to that information.</para>
+
+    <para>The Sisonkwe Community Art Centre has seen many painting affect the
+    lives of people who come and view them. They are now seeing how the
+    Freedom Toaster project is doing the same.</para>
+  </sect1>
+
+  <sect1>
+    <title>Flagstaff, Arizona - USA</title>
+
+    <para>[This letter is a projection, Cecile Owen is a fictional
+    character]</para>
+
+    <para>Dear Editor,</para>
+
+    <para>My name is Cecile Owens, and I'm a science teacher at Kennedy High
+    in Flagstaff, Arizona. I have taught there for the last seven years, and
+    have seen some very bright students come and go, some made it in the big
+    world, others tried to take an easy road and found that it didn't get them
+    anywhere. At the end of last year I was down and weary of teaching.
+    Kennedy High has a lot of students from the poorer parts of town, as well
+    as some from the more affluent areas. We have school gangs. I have to wear
+    a 'panic' button on me when I come to school, just in case I need to call
+    security to deal with a situation (it also is part of my protection). The
+    usual drug sub-culture exists, but it's hard to tell who's dealing as they
+    seem to change weekly. Last year I had nine of my students end up in
+    juvenile court, six of them had community service judgements given. The
+    other three are in juvenile detention.</para>
+
+    <para>I'm happy to say that this year is looking much better. It is this
+    change for the better that I wanted to write you and your magazine about,
+    and about something called a 'Freedom Toaster'.</para>
+
+    <para>One of my students, Clara Falenzo, is a great example of this
+    positive change. She has been making A's and B's all through her school
+    career here at Kennedy High. She lives in one of the project houses a few
+    blocks from the school. Her Mom looks after her and her younger brother,
+    David, as a single working parent. I know that money is always tight, but
+    they have been able to save up enough to buy a second hand computer and
+    printer. They planned to use it for all the typing assignments that Clara
+    was getting, but very soon found all sorts of other uses for it, thanks to
+    the school's Freedom Toaster....</para>
+
+    <para>For those of your readers who don't know what a Freedom Toaster is,
+    let me tell them a little bit about it, so that they understand why I'm so
+    excited.</para>
+
+    <para>A Freedom Toaster is a computer that is set up like a vending
+    machine. It has three (sometimes four) CD/DVD writing drives, and a hard
+    drive that contains CD burnable images of free and open source software
+    (FOSS), like Linux operating systems, the OpenOffice.org office suite, web
+    browsers, email programs, graphics, programs, games, star position
+    programs, and programming tools. It also has other free license software
+    and information. The system is navigated through the use of a touch screen
+    menu and information system. It was first thought of and built in South
+    Africa (supported by the Shuttleworth Foundation). There it was originally
+    used as a 'bandwidth substitute', specific Internet content available
+    where the Internet was not. In Arizona the State Education Department has
+    included the curriculum for each year of school, along with free license
+    applications and texts that can be used to supplement the
+    curriculum.</para>
+
+    <para>When Carla's mother arrived home with the news that they could go
+    pick up the computer from the post office (mail order), Carla was
+    overjoyed. She told me about getting all the boxes onto the bus and
+    lugging them home, and then the fun of connecting everything together.
+    Carla isn't a stranger to computers, as she regularly uses the computer
+    lab here at school (5 computers, one with Internet and email). I didn't
+    think about the Freedom Toaster project when she told me this, but the
+    week after their delivery I started teaching one the courses that was on
+    the 'Teach Arizona!' CD images available on the Toaster. Each of the
+    students were given a blank CD and instructions to toast their own copies
+    to use when assigned homework and for personal research.</para>
+
+    <para>Carla cornered me the next day as I was coming out of my class, and
+    excitedly asked whether I knew what else was on the Freedom Toaster. I
+    didn't then, but now I do. Carla began to toast all sorts of things, like
+    the Linux Red Hat Fedora Core operating system or the OpenOffice.org suite
+    of office programs (word processor, spreadsheet, database, etc), She even
+    did some of the programming tutorials that came as part of the various
+    operating systems and started changing some of the original (source) code,
+    customising it to her particular needs. I suggested that she take Computer
+    Sciences as she seemed to be just gobbling all the computer information
+    up.</para>
+
+    <para>That was a year ago. Carla has now won a full scholarship to UCLA in
+    their computer programming department. She won it on the grounds of her
+    computer science project of last semester where she made her own operating
+    system, based on Linux. Two of her classmates have also won scholarships
+    to other Universities, also based on projects from the Freedom
+    Toaster.</para>
+
+    <para>There is a new feeling in our school this year. One which whispers
+    in the students' ears 'you could be next!!' They all make use of the
+    Freedom Toaster, and are constantly asking all the teachers when the next
+    updates will be available. No one has gone to juvenile detention this
+    year. I'm having fun again as a teacher.</para>
+
+    <para>Yours sincerely</para>
+
+    <para>Miss C Owens</para>
+  </sect1>
+</article>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="314"
+   name=""
+   committed-date="2006-05-17T07:43:43.658117Z"
+   url="svn://edison.tsf.org.za/freedomtoaster/trunk/source/contrib/getcontent-sh"
+   last-author="sean.wheller"
+   kind="dir"
+   uuid="d86654f9-5701-0410-bb18-eb70f6cf68f4"
+   repos="svn://edison.tsf.org.za/freedomtoaster"
+   revision="491"/>
+<entry
+   committed-rev="314"
+   name="getcontent.sh"
+   text-time="2006-05-25T12:15:13.000000Z"
+   committed-date="2006-05-17T07:43:43.658117Z"
+   checksum="e5efe732f8013791c3fa52a65527d3e1"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:13.000000Z"/>
+</wc-entries>

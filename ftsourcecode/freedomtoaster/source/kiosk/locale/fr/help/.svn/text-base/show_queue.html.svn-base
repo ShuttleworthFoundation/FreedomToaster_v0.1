@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+   <head>
+		<title>Aide de la file d'attente de gravure</title>
+		<link rel="stylesheet" type="text/css" href="../../../css/kiosk.css" title="premier" />
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+      <meta http-equiv="refresh" content="25; URL=javascript:history.go(-1)" />
+      <script src="../../../kiosk.js" language="javascript" type="text/javascript"></script>
+	</head>
+   <body background="../../../css/images/selectorBG.png" bgcolor="#C0C0C0">
+      <div id="Home">
+         <a href="../index0.html" title="Accueil">
+            <img src="../../../css/images/H_button.gif" alt="Accueil" width="148" height="93" border="0" /></a>
+      </div>
+      <div id="back">
+         <a href="javascript:history.go(-1)" title="Aller à la page précédente">
+            <img src="../../../css/images/L_button.gif" alt="Accueil" width="148" height="93" border="0" /></a>
+      </div>
+   <div id="help">
+      <img src="../images/logoHelp.png" width="305" height="100" align="right" style="margin:-10px -60px 0 0" />
+      <h1>File d'attente de gravure</h1>
+      <p>Cette page affiche les files d'attente des éléments que vous avez sélectionnés en vue de les graver. Les files d'attente de gravure contiennent les éléments qui attendent qu'un graveur soit libre pour être gravés à leur tour.</p>
+      <h2>Vider les files d'attente</h2>
+      <p>Sous chaque file se trouve un bouton nommé <b>"Vider liste"</b>. Un clic sur celui-ci videra la liste en dessus. Faites-le si vous souhaitez recommencer une nouvelle liste ou si vous êtes arrivés vers le Freedom Toaster et que quelqu'un avait sélectionné des éléments qui ne vous intéressent pas. Vous pouvez aussi vider les files en cliquant les boutons <strong>Sauter</strong> sur les graveurs à gauche jusqu'à ce qu'ils cessent de vous réclamer l'insertion de disques vierges.</p>
+      <h2>Sélectionner plus d'éléments</h2>
+      <p>Pour ajouter plus d'éléments dans une liste ou pour continuer de consulter le contenu pendant que les graveurs sont occupés, il suffit de cliquer sur le bouton <b>Accueil</b> en haut à gauche de cet écran pour ensuite chercher ce qui vous intéresse et le placer en file d'attente.</p>
+
+   </div>
+	</body>
+</html>

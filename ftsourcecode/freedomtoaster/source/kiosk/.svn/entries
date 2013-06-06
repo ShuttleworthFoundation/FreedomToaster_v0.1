@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="490"
+   name=""
+   committed-date="2006-07-12T04:47:05.521561Z"
+   url="svn://edison.tsf.org.za/freedomtoaster/trunk/source/kiosk"
+   last-author="charles.oertel"
+   kind="dir"
+   uuid="d86654f9-5701-0410-bb18-eb70f6cf68f4"
+   repos="svn://edison.tsf.org.za/freedomtoaster"
+   revision="491"/>
+<entry
+   name="locale"
+   kind="dir"/>
+<entry
+   committed-rev="101"
+   name="LICENSE"
+   text-time="2006-05-25T12:15:13.000000Z"
+   committed-date="2006-03-05T17:48:03.851332Z"
+   checksum="c54b9347fc0cfa188b8e3c1caae0e990"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:14:55.000000Z"/>
+<entry
+   committed-rev="481"
+   name="home.js"
+   text-time="2006-11-03T09:15:14.000000Z"
+   committed-date="2006-06-24T14:17:57.279167Z"
+   checksum="518bfeb420ea72ed3a296ca0e3499d53"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:13.000000Z"/>
+<entry
+   committed-rev="331"
+   name="languages.txt"
+   text-time="2006-05-25T12:15:13.000000Z"
+   committed-date="2006-05-19T10:02:22.822346Z"
+   checksum="ecdc47fae13822c9364f6abc44f18d45"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-05-25T12:14:55.000000Z"/>
+<entry
+   name="images"
+   kind="dir"/>
+<entry
+   committed-rev="471"
+   name="prevnext.js"
+   text-time="2006-11-03T09:15:14.000000Z"
+   committed-date="2006-06-14T18:32:31.165109Z"
+   checksum="a6c59b67f6f8150c96ca828f203dda27"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:13.000000Z"/>
+<entry
+   name="cgi-bin"
+   kind="dir"/>
+<entry
+   name="css"
+   kind="dir"/>
+<entry
+   committed-rev="481"
+   name="index.html"
+   text-time="2006-11-03T09:15:14.000000Z"
+   committed-date="2006-06-24T14:17:57.279167Z"
+   checksum="03986ed47871de49bafe5328ddf035d6"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:14.000000Z"/>
+<entry
+   committed-rev="331"
+   name="kiosk.js"
+   text-time="2006-05-25T12:15:13.000000Z"
+   committed-date="2006-05-19T10:02:22.822346Z"
+   checksum="63af160ab778c7fca41287ed6539539d"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-05-25T12:15:13.000000Z"/>
+<entry
+   committed-rev="101"
+   name="favicon.ico"
+   text-time="2006-05-25T12:15:13.000000Z"
+   committed-date="2006-03-05T17:48:03.851332Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:13.000000Z"/>
+</wc-entries>

@@ -1,0 +1,1193 @@
+# translation of fr.po to Français
+# translation of assemblymanual.po to Français
+# Copyright (C) 2006 Free Software Foundation, Inc.
+# Paroz Claude, 2006.
+# Paroz Claude, 2006.
+# Paroz Claude, 2006.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: fr\n"
+"POT-Creation-Date: 2006-04-14 23:08+0200\n"
+"PO-Revision-Date: 2006-04-13 22:44+0200\n"
+"Last-Translator: Paroz Claude\n"
+"Language-Team: Français <fr@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: application/x-xml2pot; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.10.2\n"
+
+#. Tag: title
+#: assemblymanual.xml:9
+#, no-c-format
+msgid "Assembly Manual"
+msgstr "Manuel d'assemblage"
+
+#. Tag: subtitle
+#: assemblymanual.xml:10
+#, no-c-format
+msgid "Building a Freedom Toaster"
+msgstr "Construction d'un Freedom Toaster"
+
+#. Tag: author
+#: assemblymanual.xml:11
+#, no-c-format
+msgid "<firstname>Sean</firstname> <surname>Wheller</surname>"
+msgstr "<firstname>Sean</firstname> <surname>Wheller</surname>"
+
+#. Tag: trans_comment
+#: assemblymanual.xml:15
+#, no-c-format
+msgid "ROLES_OF_TRANSLATORS"
+msgstr ""
+
+#. Tag: title
+#: assemblymanual.xml:19
+#, no-c-format
+msgid "Introduction"
+msgstr "Introduction"
+
+#. Tag: para
+#: assemblymanual.xml:20
+#, no-c-format
+msgid ""
+"A Freedom Toaster is physically comprise of the items listed in <xref "
+"linkend=\"bom\"/>. Majority of the parts listed are off-the-shelf consumer "
+"products. They can be sources from building, electrical or computer supply "
+"stores. A few of the parts are bespoke items. In order to assemble a Freedom "
+"Toaster raw materials will need to be fashioned to specification."
+msgstr ""
+"Un Freedom Toaster est composé physiquement des éléments listés dans <xref "
+"linkend=\"bom\"/>. La plupart des pièces mentionnées sont disponibles dans "
+"le commerce. Elles peuvent être obtenues dans des magasins de fourniture de "
+"bâtiment, d'électricité ou d'informatique. Certains éléments doivent être "
+"créés sur mesure. Pour la fabrication d'un Freedom Toaster, des matériaux "
+"génériques devront être façonnés selon des instructions données."
+
+#. Tag: title
+#: assemblymanual.xml:26
+#, no-c-format
+msgid "Scope"
+msgstr "Cadre général"
+
+#. Tag: para
+#: assemblymanual.xml:27
+#, no-c-format
+msgid ""
+"This document explains how to assemble the physical housing and computer "
+"equipment that comprise a Freedom Toaster, it also provides the "
+"specifications and instructions required in order to make those parts that "
+"are bespoke and cannot be bought from a supply-store."
+msgstr ""
+"Ce document explique comment fabriquer l'enveloppe métallique et le matériel "
+"informatique qui composent un Freedom Toaster. Il présente également les "
+"spécifications et les instructions pour fabriquer les éléments sur mesure "
+"qui ne peuvent être achetés tels quels en magasin."
+
+#. Tag: para
+#: assemblymanual.xml:31
+#, no-c-format
+msgid ""
+"Please note that this document does not include instructions on how to "
+"install, configure or maintain any of the software components of the Freedom "
+"Toaster. For information on these and other subjects that may be of interest "
+"to a Freedom Toaster guardian see <xref linkend=\"docs\"/>."
+msgstr ""
+"Veuillez prendre note que ce document ne comprend pas d'instructions sur la "
+"manière d'installer, de configurer ou de maintenir aucun des éléments "
+"logiciels du Freedom Toaster. Si vous cherchez des informations à ce sujet "
+"ou sur d'autres thèmes en rapport avec l'entretien d'un Freedom Toaster, "
+"consultez <xref linkend=\"docs\"/>."
+
+#. Tag: title
+#: assemblymanual.xml:37
+#, no-c-format
+msgid "Prerequisites"
+msgstr "Prérequis"
+
+#. Tag: para
+#: assemblymanual.xml:38
+#, no-c-format
+msgid ""
+"Building a Freedom Toaster requires basic workshop skills and the "
+"application of logic. No further skills are required."
+msgstr ""
+"La construction d'un Freedom Toaster exige des compétences manuelles de base "
+"et une dose de logique. Aucune autre compétence n'est nécessaire. "
+
+#. Tag: title
+#: assemblymanual.xml:42
+#, no-c-format
+msgid "Associated Documentation"
+msgstr "Documentation associée"
+
+#. Tag: para
+#: assemblymanual.xml:43
+#, no-c-format
+msgid "The following documents are associated with this document:"
+msgstr "Les documents suivants sont en rapport avec ce manuel:"
+
+#. Tag: variablelist
+#: assemblymanual.xml:44
+#, no-c-format
+msgid "&installation-desc; &maintenance-desc; &customization-desc; &user-desc;"
+msgstr ""
+"&installation-desc; &maintenance-desc; &customization-desc; &user-desc;"
+
+#. Tag: title
+#: assemblymanual.xml:49
+#, no-c-format
+msgid "Tools Required"
+msgstr "Outils nécessaires"
+
+#. Tag: para
+#: assemblymanual.xml:52
+#, no-c-format
+msgid "1 X Philips Screw Driver"
+msgstr "1 x Tournevis cruciforme (Philips)"
+
+#. Tag: para
+#: assemblymanual.xml:55
+#, no-c-format
+msgid "1 X Flat Head Screw Driver"
+msgstr "1 x Tournevis plat"
+
+#. Tag: para
+#: assemblymanual.xml:58
+#, no-c-format
+msgid "Hammer"
+msgstr "Marteau"
+
+#. Tag: para
+#: assemblymanual.xml:61
+#, no-c-format
+msgid "Contact Glue"
+msgstr "Colle de contact"
+
+#. Tag: para
+#: assemblymanual.xml:64
+#, no-c-format
+msgid "Allen Key 4-5/32\""
+msgstr "Clé inbus 4-5/32\""
+
+#. Tag: para
+#: assemblymanual.xml:67
+#, no-c-format
+msgid "Spot Welder"
+msgstr "Poste à souder par points"
+
+#. Tag: para
+#: assemblymanual.xml:70
+#, no-c-format
+msgid "Circular Saw"
+msgstr "Scie circulaire "
+
+#. Tag: para
+#: assemblymanual.xml:73
+#, no-c-format
+msgid "250ml Silver Metallic Paint"
+msgstr "250ml de peinture métallique Argent"
+
+#. Tag: para
+#: assemblymanual.xml:76
+#, no-c-format
+msgid "1 inch Paint Brush"
+msgstr "Pinceau (largeur 2.5cm)"
+
+#. Tag: para
+#: assemblymanual.xml:79
+#, no-c-format
+msgid "HB Pencil"
+msgstr "Crayon HB"
+
+#. Tag: para
+#: assemblymanual.xml:82
+#, no-c-format
+msgid "1 meter length of string"
+msgstr "1 mètre de corde"
+
+#. Tag: title
+#: assemblymanual.xml:88
+#, no-c-format
+msgid "Bill of Materials"
+msgstr "Liste de matériel"
+
+#. Tag: para
+#: assemblymanual.xml:89
+#, no-c-format
+msgid ""
+"Before proceeding please ensure that each of the items listed in the Bills "
+"of Materials below are accounted for and available."
+msgstr ""
+"Avant de commencer, assurez-vous de disposer de tous les éléments listés "
+"dans l'inventaire de matériel ci-dessous."
+
+#. Tag: title
+#: assemblymanual.xml:92
+#, no-c-format
+msgid "Computer Parts Bill of Materials"
+msgstr "Liste de matériel informatique"
+
+#. Tag: entry
+#: assemblymanual.xml:96 assemblymanual.xml:186 assemblymanual.xml:573
+#: assemblymanual.xml:575
+#, no-c-format
+msgid "Item"
+msgstr "Élément"
+
+#. Tag: entry
+#: assemblymanual.xml:97 assemblymanual.xml:187
+#, no-c-format
+msgid "Quantity"
+msgstr "Quantité"
+
+#. Tag: entry
+#: assemblymanual.xml:98 assemblymanual.xml:188
+#, no-c-format
+msgid "Notes"
+msgstr "Remarques"
+
+#. Tag: entry
+#: assemblymanual.xml:103
+#, no-c-format
+msgid "AOpen MIDI Tower Chassis with 300W PSU"
+msgstr "Chassis Tour AOpen avec alimentation 300W"
+
+#. Tag: entry
+#: assemblymanual.xml:104 assemblymanual.xml:109 assemblymanual.xml:114
+#: assemblymanual.xml:119 assemblymanual.xml:124 assemblymanual.xml:134
+#: assemblymanual.xml:144 assemblymanual.xml:204 assemblymanual.xml:209
+#: assemblymanual.xml:214 assemblymanual.xml:229 assemblymanual.xml:234
+#: assemblymanual.xml:239 assemblymanual.xml:249 assemblymanual.xml:254
+#: assemblymanual.xml:264 assemblymanual.xml:274 assemblymanual.xml:279
+#: assemblymanual.xml:284
+#, no-c-format
+msgid "<entry>1</entry>"
+msgstr "<entry>1</entry>"
+
+#. Tag: entry
+#: assemblymanual.xml:105 assemblymanual.xml:110 assemblymanual.xml:115
+#: assemblymanual.xml:120 assemblymanual.xml:125 assemblymanual.xml:130
+#, no-c-format
+msgid "or equivalent"
+msgstr "ou équivalent"
+
+#. Tag: entry
+#: assemblymanual.xml:108
+#, no-c-format
+msgid "Intel i865G Bayfield motherboard with LAN"
+msgstr "Carte mère Intel i865G Bayfield avec réseau (LAN)"
+
+#. Tag: entry
+#: assemblymanual.xml:113
+#, no-c-format
+msgid "Intel Pentium4 3.0GHz (1MB)"
+msgstr "Intel Pentium4 3.0GHz (1Mo)"
+
+#. Tag: entry
+#: assemblymanual.xml:118
+#, no-c-format
+msgid "Transcend 512MB400"
+msgstr "Transcend 512Mo400"
+
+#. Tag: entry
+#: assemblymanual.xml:123
+#, no-c-format
+msgid "Seagate 120GB Serial ATA Drive"
+msgstr "Disque dur Seagate 120Go Serial ATA"
+
+#. Tag: entry
+#: assemblymanual.xml:128
+#, no-c-format
+msgid "Gigabyte CD-Writer"
+msgstr "Graveur CD Gigabyte"
+
+#. Tag: entry
+#: assemblymanual.xml:129 assemblymanual.xml:139
+#, no-c-format
+msgid "<entry>3</entry>"
+msgstr "<entry>3</entry>"
+
+#. Tag: entry
+#: assemblymanual.xml:133
+#, no-c-format
+msgid "IDE Controller Card"
+msgstr "Carte contrôleur IDE"
+
+#. Tag: entry
+#: assemblymanual.xml:138
+#, no-c-format
+msgid "IDE and Power extensions"
+msgstr "Extensions IDE et alimentation"
+
+#. Tag: entry
+#: assemblymanual.xml:143
+#, no-c-format
+msgid "Proline LP-15M04 15” Touch Screen LCD"
+msgstr "Écran tactile Proline LP-15M04 15” LCD"
+
+#. Tag: para
+#: assemblymanual.xml:148
+#, no-c-format
+msgid "Viewing area 15” TFT"
+msgstr "Surface d'affichage 15'' TFT"
+
+#. Tag: para
+#: assemblymanual.xml:151
+#, no-c-format
+msgid "Resolution 800x600 SVGA"
+msgstr "Résolution 800x600 SVGA"
+
+#. Tag: para
+#: assemblymanual.xml:154
+#, no-c-format
+msgid "Colour 16.7M"
+msgstr "16.7Mio. couleurs"
+
+#. Tag: para
+#: assemblymanual.xml:157
+#, no-c-format
+msgid "Response time (tr/tf) 6/17ms"
+msgstr "Temps de réponse (tr/tf) 6/17ms"
+
+#. Tag: para
+#: assemblymanual.xml:160
+#, no-c-format
+msgid "Contrast ratio 350:1"
+msgstr "Taux de contraste 350:1"
+
+#. Tag: para
+#: assemblymanual.xml:163
+#, no-c-format
+msgid "Brightness 250 cd/m2"
+msgstr "Luminosité 250 cd/m2"
+
+#. Tag: para
+#: assemblymanual.xml:166
+#, no-c-format
+msgid "View angle 120° (H) / 100° (V)"
+msgstr "Angle de vue 120° (H) / 100° (V)"
+
+#. Tag: para
+#: assemblymanual.xml:169
+#, no-c-format
+msgid "VGA Signal analog VGA"
+msgstr "Signal analogique VGA"
+
+#. Tag: para
+#: assemblymanual.xml:178
+#, no-c-format
+msgid ""
+"This document does not discuss the software requirements of a Freedom "
+"Toaster. Please see <xref linkend=\"docs\"/> for more information."
+msgstr ""
+"Ce document n'aborde pas les exigences logicielles d'un Freedom Toaster. "
+"Veuillez consulter <xref linkend=\"docs\"/> pour obtenir davantage "
+"d'informations."
+
+#. Tag: title
+#: assemblymanual.xml:182
+#, no-c-format
+msgid "Housing Structure Bill of Materials"
+msgstr "Liste de matériel de l'enveloppe métallique"
+
+#. Tag: entry
+#: assemblymanual.xml:193
+#, no-c-format
+msgid "Baby H Alu Profile (3mm)"
+msgstr "Profil alu Baby H (3mm)"
+
+#. Tag: entry
+#: assemblymanual.xml:194 assemblymanual.xml:199 assemblymanual.xml:219
+#: assemblymanual.xml:224 assemblymanual.xml:244 assemblymanual.xml:269
+#, no-c-format
+msgid "<entry>2</entry>"
+msgstr "<entry>2</entry>"
+
+#. Tag: entry
+#: assemblymanual.xml:195 assemblymanual.xml:200
+#, no-c-format
+msgid "1.8m"
+msgstr "1.8m"
+
+#. Tag: entry
+#: assemblymanual.xml:198
+#, no-c-format
+msgid "Double H Profile (3mm)"
+msgstr "Profil double H (3mm)"
+
+#. Tag: entry
+#: assemblymanual.xml:203
+#, no-c-format
+msgid "Aluminium Treadplate"
+msgstr "Plaque d'aluminium"
+
+#. Tag: entry
+#: assemblymanual.xml:205 assemblymanual.xml:210
+#, no-c-format
+msgid "1.2m x 1m"
+msgstr "1.2m x 1m"
+
+#. Tag: entry
+#: assemblymanual.xml:208
+#, no-c-format
+msgid "12mm Supawood"
+msgstr "Panneau de bois aggloméré (12mm)"
+
+#. Tag: entry
+#: assemblymanual.xml:213 assemblymanual.xml:218
+#, no-c-format
+msgid "16mm Chipboard (aluminium)"
+msgstr "Panneau aluminium (16 mm)"
+
+#. Tag: entry
+#: assemblymanual.xml:215
+#, no-c-format
+msgid "1.8m x 700mm"
+msgstr "1.8m x 700mm"
+
+#. Tag: entry
+#: assemblymanual.xml:220
+#, no-c-format
+msgid "1.8m x 300mm"
+msgstr "1.8m x 300mm"
+
+#. Tag: entry
+#: assemblymanual.xml:223
+#, no-c-format
+msgid "1.5mm Clear UHI"
+msgstr "Plaque acryl ultra résistant (1.5mm)"
+
+#. Tag: entry
+#: assemblymanual.xml:225 assemblymanual.xml:270
+#, no-c-format
+msgid "1.8m x 502mm"
+msgstr "1.8m x 502mm"
+
+#. Tag: entry
+#: assemblymanual.xml:228
+#, no-c-format
+msgid "3mm Clear Acrylic"
+msgstr "Plaque d'acryl transparent (3mm)"
+
+#. Tag: entry
+#: assemblymanual.xml:230 assemblymanual.xml:275
+#, no-c-format
+msgid "1.8m x 672mm"
+msgstr "1.8m x 672mm"
+
+#. Tag: entry
+#: assemblymanual.xml:233
+#, no-c-format
+msgid "4mm Monitor Bracket"
+msgstr "Support pour écran (4mm)"
+
+#. Tag: entry
+#: assemblymanual.xml:238
+#, no-c-format
+msgid "2mm CD ROM Bracket"
+msgstr "Support pour CD-ROM (2mm)"
+
+#. Tag: entry
+#: assemblymanual.xml:243
+#, no-c-format
+msgid "2mm Mounting Brackets"
+msgstr ""
+
+#. Tag: entry
+#: assemblymanual.xml:248
+#, no-c-format
+msgid "Vac Form to fit Monitor"
+msgstr ""
+
+#. Tag: entry
+#: assemblymanual.xml:253
+#, no-c-format
+msgid "Vac Form to fit CD Roms"
+msgstr ""
+
+#. Tag: entry
+#: assemblymanual.xml:258
+#, no-c-format
+msgid "625mm x 18W Light Fittings"
+msgstr "Tubes néon 625mm x 18W"
+
+#. Tag: entry
+#: assemblymanual.xml:259
+#, no-c-format
+msgid "<entry>6</entry>"
+msgstr "<entry>6</entry>"
+
+#. Tag: entry
+#: assemblymanual.xml:263
+#, no-c-format
+msgid "Metal Cover for top"
+msgstr ""
+
+#. Tag: entry
+#: assemblymanual.xml:268
+#, no-c-format
+msgid "Reverse print side panels"
+msgstr ""
+
+#. Tag: entry
+#: assemblymanual.xml:273
+#, no-c-format
+msgid "Reverse print front panel"
+msgstr ""
+
+#. Tag: entry
+#: assemblymanual.xml:278
+#, no-c-format
+msgid "Laser Cut Treadplate"
+msgstr ""
+
+#. Tag: entry
+#: assemblymanual.xml:283
+#, no-c-format
+msgid "Router Cut Front Panel"
+msgstr ""
+
+#. Tag: title
+#: assemblymanual.xml:292
+#, no-c-format
+msgid "First Angle Autographic"
+msgstr "Dessin (projection européenne)"
+
+#. Tag: title
+#: assemblymanual.xml:294
+#, no-c-format
+msgid "First Angle Diagram"
+msgstr "Schéma en projection européenne"
+
+#. Tag: title
+#: assemblymanual.xml:304
+#, no-c-format
+msgid "Material Preparation"
+msgstr "Préparation du matériel"
+
+#. Tag: para
+#: assemblymanual.xml:305
+#, no-c-format
+msgid ""
+"This chapter explains how to custom build specific parts for the Freedom "
+"Toaster, including:"
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:324
+#, no-c-format
+msgid ""
+"In manufacturing these items you may wish to use the services of a person or "
+"company with workshop facilities."
+msgstr ""
+
+#. Tag: title
+#: assemblymanual.xml:327
+#, no-c-format
+msgid "Housing roof-plate"
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:328
+#, no-c-format
+msgid "The Housing roof-plate is made from sheet metal."
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:329 assemblymanual.xml:405 assemblymanual.xml:437
+#, no-c-format
+msgid ""
+"Using the measurements in the following diagram, follow the procedures below."
+msgstr ""
+
+#. Tag: title
+#: assemblymanual.xml:331
+#, no-c-format
+msgid "Housing roof-plate (First Angle)"
+msgstr ""
+
+#. Tag: title
+#: assemblymanual.xml:339
+#, no-c-format
+msgid "Building the Housing roof-plate"
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:341
+#, no-c-format
+msgid "Make the roof-plate."
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:344
+#, no-c-format
+msgid ""
+"Start with a rectangular piece of sheet metal width 425mm, length 2250.5mm "
+"long."
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:348
+#, no-c-format
+msgid "Draw a line 35mm along each side of the length."
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:351
+#, no-c-format
+msgid ""
+"Carefully cut the lengths from each side, preserving them for use as the "
+"roof-plate rim."
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:355
+#, no-c-format
+msgid ""
+"Draw a line 355mm on either side of the length center line of the remaining "
+"rectangle."
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:359
+#, no-c-format
+msgid ""
+"Draw a line at 177.5 through the width along the length of the rectangle."
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:363
+#, no-c-format
+msgid ""
+"Using the intersecting lines as the center, draw arc at either end touching "
+"the sides."
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:367
+#, no-c-format
+msgid "Trim away the excess material outside of both arcs."
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:372
+#, no-c-format
+msgid "Make the roof-plate rim."
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:375
+#, no-c-format
+msgid ""
+"Join the two 35mm strips produced in the previous step, to form a single "
+"strip 2230.531mm in length."
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:381
+#, no-c-format
+msgid "Spot weld the roof-plate rim to the roof-plate."
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:384
+#, no-c-format
+msgid ""
+"Starting at the a center, spot-weld the roof-plate rim at 90 degree angle to "
+"the circumference edge of the roof-plate."
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:390
+#, no-c-format
+msgid "Finishing"
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:393
+#, no-c-format
+msgid "Use a file to smooth and flatten the joint edges."
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:396
+#, no-c-format
+msgid "Paint with metallic paint."
+msgstr ""
+
+#. Tag: title
+#: assemblymanual.xml:403
+#, no-c-format
+msgid "Monitor Angle-bracket"
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:404
+#, no-c-format
+msgid "The monitor bracket is made from 4mm steel."
+msgstr ""
+
+#. Tag: title
+#: assemblymanual.xml:407
+#, no-c-format
+msgid "Monitor Angle-bracket (First Angle)"
+msgstr ""
+
+#. Tag: title
+#: assemblymanual.xml:416
+#, no-c-format
+msgid "Building the Monitor Angle-bracket"
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:418
+#, no-c-format
+msgid "Start with a piece of 4mm thick steel ??mm in length, ??mm in width."
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:422 assemblymanual.xml:546 assemblymanual.xml:549
+#, no-c-format
+msgid "<para>...</para>"
+msgstr ""
+
+#. Tag: title
+#: assemblymanual.xml:427
+#, no-c-format
+msgid "Housing Base-plate"
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:428
+#, no-c-format
+msgid "The Housing Base-plate is comprised of two materials:"
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:431
+#, no-c-format
+msgid "Aluminum Tread plate"
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:434
+#, no-c-format
+msgid "Chip Board"
+msgstr ""
+
+#. Tag: title
+#: assemblymanual.xml:439
+#, no-c-format
+msgid "Housing Base-Plate (First Angle)"
+msgstr ""
+
+#. Tag: title
+#: assemblymanual.xml:447
+#, no-c-format
+msgid "Building the Housing Base-Plate"
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:449
+#, no-c-format
+msgid "Create the basic shape."
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:452
+#, no-c-format
+msgid "Cut materials into a rectangle of width 1055 mm, length 950 mm."
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:456
+#, no-c-format
+msgid "From the center point draw an arc across one edge of the width."
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:460
+#, no-c-format
+msgid "Cut away excess material to form the curved edge."
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:465
+#, no-c-format
+msgid "Create the hole in the tread plate."
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:468
+#, no-c-format
+msgid "Draw a line 50mm from the straight edge along the width."
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:471
+#, no-c-format
+msgid "Draw a line 227.5mm from the straight edge along the width."
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:474
+#, no-c-format
+msgid "Draw a line 405mm from the straight edge along the width."
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:477
+#, no-c-format
+msgid ""
+"Draw a line 355mm on each side of the width center-line along the length."
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:481
+#, no-c-format
+msgid ""
+"Draw a line 525mm on each side of the width center-line along the length."
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:483
+#, no-c-format
+msgid "You should see a rectangle."
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:486
+#, no-c-format
+msgid ""
+"Use the intersection where the line at 227.5mm crosses the two 355mm lines, "
+"draw arcs on each end and inside the borders of the marked rectangle."
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:491
+#, no-c-format
+msgid "Cut away the center shape."
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:496
+#, no-c-format
+msgid ""
+"Secure the tread plate to the chip board using contact glue and pop-rivets."
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:500
+#, no-c-format
+msgid ""
+"Match the basic shape and bond the tread plate on top of the chip board."
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:504
+#, no-c-format
+msgid ""
+"Drill a hole through the tread plate around the edge at the top of the arc, "
+"each corner and at the edge-points where the arch and straight edges meet."
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:509
+#, no-c-format
+msgid "From the tread plate side, insert a pop-rivet into each hole."
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:516
+#, no-c-format
+msgid ""
+"Instead of cutting by hand using a circular saw, use a laser cutting tool."
+msgstr ""
+
+#. Tag: title
+#: assemblymanual.xml:522
+#, no-c-format
+msgid "Electrical Wiring"
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:523
+#, no-c-format
+msgid "The electrical wiring circuit is comprised of:"
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:526
+#, no-c-format
+msgid "Six 625mm x 18W fluorescent light fittings."
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:529
+#, no-c-format
+msgid "One 3-point adapter."
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:532
+#, no-c-format
+msgid "?? meters 3-core electrical cable."
+msgstr ""
+
+#. Tag: title
+#: assemblymanual.xml:536
+#, no-c-format
+msgid "Electrical Wire Diagram"
+msgstr ""
+
+#. Tag: title
+#: assemblymanual.xml:545
+#, no-c-format
+msgid "Assembly"
+msgstr ""
+
+#. Tag: title
+#: assemblymanual.xml:548
+#, no-c-format
+msgid "Housing Assembly"
+msgstr ""
+
+#. Tag: title
+#: assemblymanual.xml:552
+#, no-c-format
+msgid "Computer Assembly"
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:553
+#, no-c-format
+msgid ""
+"This section explains how to connect the CD/DVD devices and Hard Disk Drive "
+"for a working Freedom Toaster hardware configuration. The figure below "
+"depicts a computer motherboard and the CD/DVD device and Hard Disk Drive "
+"that need connecting."
+msgstr ""
+
+#. Tag: title
+#: assemblymanual.xml:557 assemblymanual.xml:565
+#, no-c-format
+msgid "Computer Assembly (Reference)"
+msgstr ""
+
+#. Tag: entry
+#: assemblymanual.xml:574 assemblymanual.xml:576
+#, no-c-format
+msgid "Description"
+msgstr ""
+
+#. Tag: entry
+#: assemblymanual.xml:581
+#, no-c-format
+msgid "<entry>A</entry>"
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:583
+#, no-c-format
+msgid "PCI bus connector 6"
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:584
+#, no-c-format
+msgid "Insert IDE Controller Card."
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:585
+#, no-c-format
+msgid "Connect third CD/DVD device to IDE controller card"
+msgstr ""
+
+#. Tag: entry
+#: assemblymanual.xml:587
+#, no-c-format
+msgid "<entry>G</entry>"
+msgstr ""
+
+#. Tag: entry
+#: assemblymanual.xml:588
+#, no-c-format
+msgid "AGP connector"
+msgstr ""
+
+#. Tag: entry
+#: assemblymanual.xml:591
+#, no-c-format
+msgid "<entry>B</entry>"
+msgstr ""
+
+#. Tag: entry
+#: assemblymanual.xml:592
+#, no-c-format
+msgid "PCI bus connector 5"
+msgstr ""
+
+#. Tag: entry
+#: assemblymanual.xml:593
+#, no-c-format
+msgid "<entry>H</entry>"
+msgstr ""
+
+#. Tag: entry
+#: assemblymanual.xml:594
+#, no-c-format
+msgid "Diskette drive"
+msgstr ""
+
+#. Tag: entry
+#: assemblymanual.xml:597
+#, no-c-format
+msgid "<entry>C</entry>"
+msgstr ""
+
+#. Tag: entry
+#: assemblymanual.xml:598
+#, no-c-format
+msgid "PCI bus connector 4"
+msgstr ""
+
+#. Tag: entry
+#: assemblymanual.xml:599
+#, no-c-format
+msgid "<entry>I</entry>"
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:601
+#, no-c-format
+msgid "Primary Parallel ATA IDE"
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:602
+#, no-c-format
+msgid "Connect first CD/DVD device"
+msgstr ""
+
+#. Tag: entry
+#: assemblymanual.xml:606
+#, no-c-format
+msgid "<entry>D</entry>"
+msgstr ""
+
+#. Tag: entry
+#: assemblymanual.xml:607
+#, no-c-format
+msgid "PCI bus connector 3"
+msgstr ""
+
+#. Tag: entry
+#: assemblymanual.xml:608
+#, no-c-format
+msgid "<entry>J</entry>"
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:610
+#, no-c-format
+msgid "Secondary Parallel ATA IDE"
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:611
+#, no-c-format
+msgid "Connect second CD/DVD device"
+msgstr ""
+
+#. Tag: entry
+#: assemblymanual.xml:615
+#, no-c-format
+msgid "<entry>E</entry>"
+msgstr ""
+
+#. Tag: entry
+#: assemblymanual.xml:616
+#, no-c-format
+msgid "PCI bus connector 2"
+msgstr ""
+
+#. Tag: entry
+#: assemblymanual.xml:617
+#, no-c-format
+msgid "<entry>K</entry>"
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:619
+#, no-c-format
+msgid "Serial ATA connector 1"
+msgstr ""
+
+#. Tag: entry
+#: assemblymanual.xml:623
+#, no-c-format
+msgid "<entry>F</entry>"
+msgstr ""
+
+#. Tag: entry
+#: assemblymanual.xml:624
+#, no-c-format
+msgid "PCI bus connector 1"
+msgstr ""
+
+#. Tag: entry
+#: assemblymanual.xml:625
+#, no-c-format
+msgid "<entry>L</entry>"
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:627
+#, no-c-format
+msgid "Serial ATA connector 0"
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:628
+#, no-c-format
+msgid "Connect Hard Disk Drive (HDD)"
+msgstr ""
+
+#. Tag: title
+#: assemblymanual.xml:635
+#, no-c-format
+msgid "Connecting CD/DVD and HDD"
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:637
+#, no-c-format
+msgid "Insert the IDE controller card into a free PCI slot (see A)."
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:640
+#, no-c-format
+msgid "Connect the HDD to SATA connector 0 (see L)."
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:643
+#, no-c-format
+msgid "Connect first CD/DVD device to the Primary Parallel ATA IDE (see I)."
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:647
+#, no-c-format
+msgid ""
+"Connect the second CD/DVD device to the Secondary Parallel ATA IDE (see J)."
+msgstr ""
+
+#. Tag: para
+#: assemblymanual.xml:651
+#, no-c-format
+msgid "Connect the third CD/DVD device to the IDE controller card interface."
+msgstr ""

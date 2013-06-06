@@ -1,0 +1,53 @@
+INSTALLING A NETWORK-FREE FREEDOM TOASTER
+=========================================
+
+1) Boot Ubuntu Breezy Install CD
+2) Type 'server' <ENTER>
+3) Answer questions until partitioning screen
+4) Choose 'Partition disks Manually'
+5) Use the following partition scheme (or similar):
+   boot 64 MB
+	/     2 GB
+	home  2 GB
+	var   2 GB
+	tmp   2 GB reiserfs
+	swap  2 GB swap
+	usr   3 GB
+	srv   the rest (I have used 66 GB)
+
+6) Create user with name 'kiosk-admin', login kiosk-admin, and a password
+7) When prompted, take out the Breezy Install disk and let the system reboot
+8) At login prompt, login as kiosk-admin with your password
+9) sudo su  (and enter your kiosk-admin password)
+
+10) Mount the 'Freedom Toaster V3.0 Install' CD:
+    #mount /media/cdrom0
+11) #cd /media/cdrom0
+12) #. ./SetupScript
+13) Choose 'y'
+    SELECT INSTALLATION SOURCE = 1
+	 CD OR REPOSITORY = 1 (CD)
+
+14) The system will copy everything to a tmp directory, and will
+    start again from step (13).  Answer the questions in the same
+	 way: y 1 1
+15) You will be prompted for a disc - just press <ENTER> because it
+    is apt-cdrom asking for the 'Freedom Toaster V3.0 Install CD'
+16) Apt-cdrom will prompt you for a name for this disk, use 'FT3.0'
+
+17) After all the automatic upgrading etc, X will prompt you for resolutions etc.
+    Choose 640x480, 800x600 and 1024x768
+18) You will be prompted for a short unique name for this toaster - I use freedom 1 and freedom6,
+    so use something else
+19) At the prompt for the administrator password, you MUST use only 0-9 and a-z, no capitals, no spaces
+    no funnies because those are the only keys available to you on the password entry screen keyboard
+20) At the prompt for the egalax touchscreen drivers choose Y if you have one.
+21) Do the 4-point calibration on the X screen when it comes up.
+22) Close the egalax calibration window, and log in to the admin section of the freedom toaster by
+    clicking the 'home' button (top left) and on the home page clicking the space where the home
+	 button was.
+23) At the administrator login password screen, type in the password you set in step (19).
+24) Click on the 'Calibrate Drives' button on top right of the admin screen and go through the steps to
+    set the order of the drives and mark their capabilities.
+25) A reboot puts the machine in kiosk mode.
+

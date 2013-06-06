@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="71"
+   name=""
+   committed-date="2005-10-21T16:42:43.579770Z"
+   url="https://svn1.cvsdude.com/techdocs/freedomtoaster/trunk/libs"
+   last-author="techdocs"
+   kind="dir"
+   uuid="8478f940-d901-0410-ad40-e0ac9cb6760e"
+   repos="https://svn1.cvsdude.com/techdocs/freedomtoaster"
+   revision="122"/>
+<entry
+   committed-rev="16"
+   name="verdana.xml"
+   text-time="2006-05-04T08:19:23.000000Z"
+   committed-date="2005-10-15T06:57:09.013858Z"
+   checksum="4165a1c7e38490b681e966a70cf7cab3"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T08:19:17.000000Z"/>
+<entry
+   committed-rev="16"
+   name="customspan.xsl"
+   text-time="2006-05-04T08:19:23.000000Z"
+   committed-date="2005-10-15T06:57:09.013858Z"
+   checksum="cd267ec0be9b0a20d15b5856876173ed"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T08:19:17.000000Z"/>
+<entry
+   committed-rev="16"
+   name="fo.ft.titlepages.xsl"
+   text-time="2006-05-04T08:19:23.000000Z"
+   committed-date="2005-10-15T06:57:09.013858Z"
+   checksum="cdfc81e626251eae41683f864283e2b1"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T08:19:20.000000Z"/>
+<entry
+   committed-rev="16"
+   name="verdanab.xml"
+   text-time="2006-05-04T08:19:23.000000Z"
+   committed-date="2005-10-15T06:57:09.013858Z"
+   checksum="79523da08cd3b4d3d1453cbe8041e1ec"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T08:19:21.000000Z"/>
+<entry
+   committed-rev="16"
+   name="userconfig.xml"
+   text-time="2006-05-04T08:19:23.000000Z"
+   committed-date="2005-10-15T06:57:09.013858Z"
+   checksum="d72f0d8eed2b004cfc27471475f4ce8b"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T08:19:21.000000Z"/>
+<entry
+   committed-rev="71"
+   name="fo-cust.xsl"
+   text-time="2006-05-04T08:19:23.000000Z"
+   committed-date="2005-10-21T16:42:43.579770Z"
+   checksum="03444bfd902586d13d4d48558150b539"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T08:19:21.000000Z"/>
+<entry
+   committed-rev="16"
+   name="html-cust.xsl"
+   text-time="2006-05-04T08:19:23.000000Z"
+   committed-date="2005-10-15T06:57:09.013858Z"
+   checksum="295e9939f86966ac4e811ff639a96550"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T08:19:21.000000Z"/>
+<entry
+   committed-rev="16"
+   name="verdanai.xml"
+   text-time="2006-05-04T08:19:23.000000Z"
+   committed-date="2005-10-15T06:57:09.013858Z"
+   checksum="3069f9c8a0d18655a0ae3a8e7e33e427"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T08:19:22.000000Z"/>
+<entry
+   committed-rev="71"
+   name="common-cust.xsl"
+   text-time="2006-05-04T08:19:23.000000Z"
+   committed-date="2005-10-21T16:42:43.579770Z"
+   checksum="c93c539794aab19f78c794287dcca944"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T08:19:22.000000Z"/>
+<entry
+   committed-rev="16"
+   name="verdanaz.xml"
+   text-time="2006-05-04T08:19:23.000000Z"
+   committed-date="2005-10-15T06:57:09.013858Z"
+   checksum="16cb646c95f59eafe8d6862a15015085"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T08:19:22.000000Z"/>
+<entry
+   committed-rev="16"
+   name="xinclude.mod"
+   text-time="2006-05-04T08:19:23.000000Z"
+   committed-date="2005-10-15T06:57:09.013858Z"
+   checksum="4bb7ccb98998d3f26a586db58d51f705"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T08:19:23.000000Z"/>
+<entry
+   committed-rev="16"
+   name="html-chunk-cust.xsl"
+   text-time="2006-05-04T08:19:23.000000Z"
+   committed-date="2005-10-15T06:57:09.013858Z"
+   checksum="9bfc883339ba75c99f473fc7f2dc8bcc"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T08:19:23.000000Z"/>
+<entry
+   committed-rev="16"
+   name="fo.titlepage.templates.xml"
+   text-time="2006-05-04T08:19:23.000000Z"
+   committed-date="2005-10-15T06:57:09.013858Z"
+   checksum="37c8e1457beba91372b5f7cecf28abd6"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T08:19:23.000000Z"/>
+<entry
+   committed-rev="16"
+   name="html.titlepage.templates.xml"
+   text-time="2006-05-04T08:19:23.000000Z"
+   committed-date="2005-10-15T06:57:09.013858Z"
+   checksum="6b51e287524083e11d9dc56043ce1e6b"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T08:19:23.000000Z"/>
+</wc-entries>

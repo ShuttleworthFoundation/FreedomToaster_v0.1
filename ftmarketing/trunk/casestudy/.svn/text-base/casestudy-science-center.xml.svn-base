@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.4//EN"
+                         "http://www.docbook.org/xml/4.4/docbookx.dtd">
+<article>
+	<title>The Case of the MTN ScienCenter Freedom Toaster</title>
+	<sect1>
+		<title>Introduction</title>
+		<para>South Africa, 2005. A developing nation struggling to shake off its part-apartheid
+			shackles stands at a technological watershed. With a burgeoning population of 46.9 million<footnote>
+				<para>StatsSA - Key findings: P0302 - population estimates</para>
+			</footnote>, and an unemployment rate of 26.2 percent<footnote>
+				<para>StatsSA - Labour force survey - 2004</para>
+			</footnote>, South Africans are technologically divided. Those with access to technology
+			are more readily able to secure high-income positions, while the technologically
+			illiterate are increasingly sidelined. It’s a classic case of the rich getting richer,
+			with the poor getting poorer.</para>
+		<para>The South African government has made known how high an importance it places on income
+			inequality and the equitable distribution of wealth. Studies have indicated that South
+			Africa has a Gini coefficient for per capita income at around 0.7. When plotted on a
+			Lorenz curve, this tells us that 80% of South Africa’s wealth is controlled by 27% of
+			the population. </para>
+		<para>When it comes to bridging the technological divide, several government programs are in
+			place to promote the accessibility of computers in rural and developing areas, but there
+			is still a great need for increased technology penetration. While complete technological
+			integration on a real level into every South African community may only be a dream,
+			promoting technological literacy on a grass-roots level is a vital component of
+			empowerment.</para>
+		<para>Ultimately, technology is expensive. Internet access under Telkom’s monopoly is
+			restrictive due to the high prices, software licenses are costly, computers often cost
+			more than an entire household's earnings and in some places even reliable access to
+			electricity cannot be secured.</para>
+		<para>Despite the obstacles there exists a huge demand for technological access and
+			literacy, particularly among the emerging middle-class composed primarily of the
+			historically disadvantaged. With technological competency fast becoming a prerequisite
+			for any sort of skilled labour, making technology cheaply and widely available is a
+			social and economic priority.</para>
+		<para>While the chief problem associated with computer literacy will always be cost, a
+			substantial portion of the expenditure incurred can be negated by switching to Free and
+			Open Source Software (FOSS). However, open source software has its own drawbacks,
+			particularly in the unique South African context. Without a reliable, fast internet
+			connection, many open source applications and operating systems are all but
+			inaccessible.</para>
+	</sect1>
+	<?pagebreak?>
+	<sect1>
+		<title>Overview</title>
+		<para>FOSS is a viable alternative to licensing proprietary software, but has several key
+			drawbacks within the South African context.</para>
+		<itemizedlist>
+			<listitem>
+				<para>The local market is dominated by traditional thinking when it comes to
+					software usage, and as such, expensive, proprietary, closed source software is
+					preferred.</para>
+			</listitem>
+			<listitem>
+				<para>Complete distributions of open source software, particularly operating
+					systems, are often large and unwieldy, making them difficult to download through
+					antiquated modem and ISDN technology.</para>
+			</listitem>
+			<listitem>
+				<para>Reliable, cheap internet in South Africa is all but non-existent; only a tiny
+					percentage of the population can download FOSS.</para>
+			</listitem>
+			<listitem>
+				<para>Open source software is perceived as being difficult to use, with a
+					substantial learning curve.</para>
+			</listitem>
+		</itemizedlist>
+	</sect1>
+	<sect1>
+		<title>Analysis of the Freedom Toaster</title>
+		<para>The Freedom Toaster was created to address the shortcomings of the open source model
+			in the South African context. While FOSS is hugely popular in much of the world, its
+			growth in South Africa has been stunted by the backward state of the South African
+			telecommunications industry.</para>
+		<para>FOSS relies heavily on the internet. Not only is the internet the primary means of
+			distributing FOSS, but it serves - through forums, message boards and email discussion -
+			as an arena for FOSS users to contribute back into the community. In an environment such
+			as South Africa, with its limited and expensive internet access it hardly seems
+			surprising that the uptake of FOSS is lagging behind other developing countries. </para>
+		<para>In order to fully understand the need the Freedom Toaster fulfils in South Africa, a
+			short overview of the South African internet situation needs to be presented. The South
+			African telecommunications market is for all intents and purposes, a monopoly. The only
+			fixed line provided is the former state-owned Telkom. Although Telkom has recently gone
+			public, a significant portion of the company is still government owned, and as such, is
+			plagued by many of the negative traits associated with a government-run enterprise such
+			poor customer service, an ineffective administrative bureaucracy and a reluctance to
+			move away from obsolete technology and procedures.</para>
+		<para>As the only fixed line operator, Telkom has a virtual stranglehold on the South
+			African internet community. Telkom recently launched its digital subscriber line (DSL)
+			offering, a move that was hoped would foster the spread of FOSS locally, but
+			unfortunately, this has not been the case.</para>
+		<para>The problem lies with Telkom’s pricing of its DSL offering and its bandwidth usage
+			structure. Firstly, although DSL may be synonymous with speed in the rest of the world,
+			Telkom’s fastest DSL offering is a paltry 1024 kilobit line, giving an effective
+			download speed of around 100 kilobytes per second, a far cry from residential cable and
+			DSL packages in the United States and Europe, which are up to 100 times faster.</para>
+		<para>Apart from the relatively low speeds, in order to discourage what Telkom terms ‘abuse’
+			of the DSL network, subscribers are restricted to how much network traffic they can
+			accumulate in a month. Once a user exceeds his or her bandwidth limit for the month,
+			they are ‘capped’, and their service is effectively suspended. Additional bandwidth can
+			be purchased from Telkom, which in effect serves as the sole wholesaler of DSL
+			bandwidth, but it is prohibitively expensive to do so.</para>
+		<para>For example, the latest version of the Debian operating system consists of two DVD
+			images totalling 8.48 gigabytes, a hefty sum of data. Using Telkom’s 1024 HomeDSL
+			package (the fastest available) and Telkom Internet’s Premium ISP offering would incur
+			the following costs:</para>
+		<informalequation>
+			<mediaobject>
+				<textobject>
+					<para>R680.00 monthly rental fee + three Advanced Shaped TelkomInternet surfing
+						packages @ R269.00 = R1487.</para>
+				</textobject>
+			</mediaobject>
+		</informalequation>
+		<para>By comparison, Bulldog Broadband, a broadband provider in the UK charges £40.00 per
+			month for uncapped DSL, so there’s no need with such a service provider to purchase
+			additional bandwidth at all. At current exchange rates, £40.00 equates to R470.40. Such
+			a comparison is not entirely accurate though – Bulldog Broadband subscribers not only
+			enjoy unlimited bandwidth, but other benefits as well, such as a free DSL router,
+			something Telkom sells to its subscribers for R799.00.</para>
+		<para>It’s also worth mentioning that the Bulldog Broadband service mentioned above is eight
+			times faster than Telkom’s fastest DSL offering, so the 8.48gb Debian download that
+			would take you an entire day on Telkom’s DSL would be done within three hours on Bulldog
+			Broadband.</para>
+		<para>While broadband has catalysed the FOSS movement in Europe, the United States and much
+			of the rest of the world, Telkom’s poor DSL offering has served to effectively choke the
+			uptake of both FOSS and the open source mentality in South Africa. </para>
+		<para>Enter the Freedom Toaster, the apparent solution to many of South Africa’s open source
+			distribution woes. The Freedom Toaster is essentially a FOSS vending machine; users
+			bring their own blank CD or DVD discs and select software to 'toast' to the disc. The
+			process is expedited by a user-friendly touch-screen interface that ensures even novice
+			users can select and burn the software they require.</para>
+		<para>The Freedom Toaster's selection of software is not limited to Linux distributions.
+			Software such as the OpenCD and OpenOffice.org is available as well. The OpenCD contains
+			a wealth of free Windows software such as Firefox and Thunderbird, which serve as free
+			alternatives to Internet Explorer and Outlook. The selection of Windows-compatible
+			software on the Freedom Toaster makes it an invaluable tool for those who have opted to
+			stay with Microsoft Windows, but who require low-cost, functional desktop utilities and
+			applications.</para>
+	</sect1>
+	<sect1>
+		<title>Implimentation</title>
+		<para>By placing Freedom Toasters in strategic locations, the Shuttleworth Foundation has
+			attempted to maximise the effectiveness of the Freedom Toaster concept. One such Toaster
+			is located at the MTN ScienCenter at Canal Walk shopping centre, Cape Town.</para>
+		<para>The MTN ScienCentre at Canal Walk is South Africa's first world-class interactive
+			science centre. Designed to stimulate an interest in science and technology among South
+			African youth, the MTN ScienCentre aims to be trendy and hip to attract increasingly
+			mobile and technologically savvy youth. Exhibitions and presentations are topical,
+			interesting and thought-provoking.</para>
+		<para>The MTN ScienCenter was chosen as a Freedom Toaster location for several reasons:</para>
+		<itemizedlist>
+			<listitem>
+				<para>It's centrally located in one of the largest malls in Southern Africa</para>
+			</listitem>
+			<listitem>
+				<para>It has strong connotations with innovation and technological progress</para>
+			</listitem>
+			<listitem>
+				<para>Its appeal to technologically-minded youth</para>
+			</listitem>
+			<listitem>
+				<para>Its favourable location within Canal Walk itself </para>
+			</listitem>
+		</itemizedlist>
+		<para>These factors have combined to create a Freedom Toaster that has had an undeniable
+			impact on the local community. Located within close proximity to the Canal Walk cinema,
+			a substantial portion of the Freedom Toaster's users have been young adults and
+			teenagers in need of open source distributions. In six months in 2004, the MTN
+			ScienCenter Toaster was used to burn a total of 1335 distributions<footnote>
+				<para>
+					<ulink url="http://www.freedomtoaster.org/?q=node/12">FreedomToaster.org</ulink>
+				</para>
+			</footnote>.</para>
+		<para>With its unique placement and substantial foot traffic, the MTN ScienCenter is
+			uniquely positioned to serve a younger, more mobile demographic. With shopping malls
+			increasingly becoming a place of recreation for upwardly mobile youth, this Freedom
+			Toaster is ideally suited to promote the uptake of open source software among younger
+			users.</para>
+		<para>Younger computer users tend to have significantly less disposable income than older
+			demographics, but what they lack in finance they typically make up for in enthusiasm and
+			a willingness to learn. While older users may be reluctant to switch to an open source
+			operating system due to the learning curve, such a challenge is often embraced by
+			younger users.</para>
+		<para>For much the same reason, Linux and other open source programs are gaining a
+			widespread following among the youth, who view it not only as potentially vital skill in
+			the corporate world, but a comparatively uncharted area with massive potential for
+			future reward. With an oversupply of technical qualifications for proprietary systems
+			such as the Microsoft Certified Systems Engineer (MCSE), many potential IT students are
+			becoming increasingly aware that career options in the field of Linux and UNIX
+			administration may prove more lucrative and secure. Freedom Toasters such as the one at
+			the MTN ScienCenter are in a position to take advantage of this line of thinking by
+			providing a convenient, cheap and reliable means to obtain the software necessary to
+			work within and learn about the open source community.</para>
+		<para>Branded as a hip and trendy portal into the world of open source, and positioned in a
+			high-impact area frequented by teenagers and pre-adolescents, a Freedom Toaster such as
+			the one located at the MTN ScienCenter is an invaluable tool in promoting not only open
+			source awareness, but job creation. Anyone wishing to dabble in open source now needs
+			only take a trip to their nearest Freedom Toaster in order to do so. </para>
+		<para>Although no reliable figures can be given so soon after its inception, it only takes
+			one distribution in the right hands to create a lifelong love of open source, one copy
+			of OpenOffice.org to provide an entire school with a desktop publishing application, one
+			CD with Firefox and Thunderbird to enable a household to finally connect to the
+			internet.</para>
+	</sect1>
+</article>

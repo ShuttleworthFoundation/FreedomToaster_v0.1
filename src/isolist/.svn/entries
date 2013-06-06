@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="28"
+   name=""
+   committed-date="2007-04-08T08:40:10.664458Z"
+   url="svn://cdot.senecac.on.ca/toaster/src/isolist"
+   last-author="andrew"
+   kind="dir"
+   uuid="c536e36b-9324-0410-a305-908bdbc2b7e3"
+   repos="svn://cdot.senecac.on.ca/toaster"
+   revision="30"/>
+<entry
+   committed-rev="28"
+   name="README.TXT"
+   text-time="2007-04-12T07:21:59.000000Z"
+   committed-date="2007-04-08T08:40:10.664458Z"
+   checksum="4542f2916b58ad0be8f3cfe29d3b9949"
+   last-author="andrew"
+   kind="file"
+   prop-time="2007-04-12T07:21:59.000000Z"/>
+</wc-entries>

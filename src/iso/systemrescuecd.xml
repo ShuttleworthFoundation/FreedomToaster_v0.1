@@ -1,0 +1,8 @@
+<iso>
+<displayname>System Resque CD</displayname>
+<description>System Resque CD is a linux system on a bootable cdrom for repairing your system and your data after a crash.</description>
+<longdescription>System Resque CD is a linux system on a bootable cdrom for repairing your system and your data after a crash.</longdescription>
+<picture>systemrescuecd.png</picture>
+<filename>systemrescuecd-x86-0.3.2.iso</filename>
+<type>CD</type>
+</iso>

@@ -1,0 +1,75 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+   <head>
+		<title>Linux for Advanced Users</title>
+		<link rel="stylesheet" type="text/css" href="../../css/kiosk.css" title="first" />
+		<meta http-equiv="content-type"  content="text/html; charset=utf-8" />
+      <meta http-equiv="refresh"  content="25; URL=index7.html" />
+      <script src="../../kiosk.js" language="javascript" type="text/javascript"></script>
+	</head>
+   <body background="../../css/images/selectorBG.png" bgcolor="#C0C0C0" onLoad="populateSelect();">
+      <div id="MoreInfo">
+         <a href="../../cgi-bin/knowMore.pl" title="About this Toaster">
+            <img src="../../css/images/K_button.gif" alt="?" width="113" height="120" border="0" /><br />
+
+         </a>
+      </div>
+      <div id="Home">
+         <a href="index0.html" title="Go to the beginning page">
+            <img src="../../css/images/H_button.gif" alt="Home" width="148" height="93" border="0" /><br />
+
+         </a>
+      </div>
+      <div id="next">
+         <a href="index7.html" title="Go to the next page">
+            <img src="../../css/images/R_button.gif" alt="Next" width="113" height="120" border="0" /></a>
+      </div>
+      <div id="back">
+         <a href="index5.html" title="Go to the previous page">
+            <img src="../../css/images/L_button.gif" alt="Previous" width="148" height="93" border="0" /></a>
+      </div>
+      <div id="language-bg">
+      	<img src="../../css/images/language-bg.png" alt="background" width="220" height="77" border="0" />
+      </div>
+      <div id="language">
+         <select id="lang-sel" title="Language choice" onClick="magnifySelect(this);" onChange="changeLang(this);">
+         </select>   
+      </div>
+      <div id="content">
+      <img src="images/logoPage.png" width="400" height="131" style="margin-left:170px" /><br />
+      <h1>Linux for Advanced Users</h1>
+      <p>These distros are more difficult to set up and are often run by experts who enjoy the challenge.  That said, they are not particularly difficult, and the communities that support the distros are always eager to help.  Gentoo - renowned as one of the most hardcore linux systems, also has the very best documentation.</p>
+   <table>
+      <tr>
+         <td><a href="../../cgi-bin/distro.pl?distro=debian" title="Debian - the benchmark Open Source distro" 
+               onmouseover="debian.src='../../images/debianA.png'" 
+               onmouseout="debian.src='../../images/debianB.png'">
+               <img name="debian" src="../../images/debianB.png" width="231" height="71" /></a>
+         </td>
+         <td><a href="../../cgi-bin/distro.pl?distro=slackware" title="Slackware - the oldest distro: once you Slack you'll never go back"
+               onmouseover="slackware.src='../../images/slackwareA.png'" 
+               onmouseout="slackware.src='../../images/slackwareB.png'">
+               <img name="slackware" src="../../images/slackwareB.png" width="231" height="71" /></a>
+         </td>
+         <td><a href="../../cgi-bin/distro.pl?distro=gentoo" title="Gentoo - the very fastest anything will ever run on your PC"
+               onmouseover="gentoo.src='../../images/gentooA.png'" 
+               onmouseout="gentoo.src='../../images/gentooB.png'">
+               <img name="gentoo" src="../../images/gentooB.png" width="231" height="71" /></a>
+         </td>
+      </tr>
+   </table>
+   <h2>A Network or Web server</h2>
+   <p>Actually, FreeBSD is not linux - but it is in the same mold.  This is the system used by big hosting services providers because it is designed to be secure in a networked environment.  It isn't suitable for everyday desktop use.</p>
+   <table>
+      <tr>
+         <td><a href="../../cgi-bin/distro.pl?distro=freebsd" title="K12-ltsp - the K12 educational programs and the linux terminal server project, with modifications made by Shuttleworth's tuXlabs project"
+               onmouseover="freebsd.src='../../images/freebsdA.png'" 
+               onmouseout="freebsd.src='../../images/freebsdB.png'">
+               <img name="freebsd" src="../../images/freebsdB.png" width="231" height="71" /></a>
+         </td>
+      </tr>
+   </table>
+
+   </div>
+	</body>
+</html>

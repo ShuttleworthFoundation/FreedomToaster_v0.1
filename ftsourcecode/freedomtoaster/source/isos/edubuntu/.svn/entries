@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="453"
+   name=""
+   committed-date="2006-06-11T14:31:19.868602Z"
+   url="svn://edison.tsf.org.za/freedomtoaster/trunk/source/isos/edubuntu"
+   last-author="charles.oertel"
+   kind="dir"
+   uuid="d86654f9-5701-0410-bb18-eb70f6cf68f4"
+   repos="svn://edison.tsf.org.za/freedomtoaster"
+   revision="491"/>
+<entry
+   committed-rev="453"
+   name="edubuntu-fr.xml"
+   text-time="2006-11-03T09:15:15.000000Z"
+   committed-date="2006-06-11T14:31:19.868602Z"
+   checksum="6824e579f4cdfef5fb4dc0d5868a14bf"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:15.000000Z"/>
+<entry
+   name="5.10-Install-Breezy"
+   kind="dir"/>
+<entry
+   committed-rev="453"
+   name="edubuntu.xml"
+   text-time="2006-11-03T09:15:15.000000Z"
+   committed-date="2006-06-11T14:31:19.868602Z"
+   checksum="d77aafeb3cee9f2d03cce48f178eb880"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:15.000000Z"/>
+</wc-entries>

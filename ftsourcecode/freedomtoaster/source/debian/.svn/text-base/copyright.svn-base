@@ -1,0 +1,13 @@
+This package was debianized by Claude Paroz <paroz@email.ch> on
+Sat, 24 Jun 2006 16:46:21 +0200
+
+The sources were downloaded from: svn://edison.tsf.org.za/freedomtoaster/trunk/source
+
+Upstream authors: The Freedom Toaster Project <ft-user@freedomtoaster.org>
+
+Copyright (C) 2004 - 2006  The Shuttleworth Foundation
+
+You are free to distribute this software under the terms of
+the GNU General Public License.
+On Debian systems, the complete text of the GNU General Public
+License can be found in the file `/usr/share/common-licenses/GPL'.

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<distro>
+	<name>Ubuntu</name>
+	<description>Ubuntu est un système d'exploitation Linux complet, librement disponible et offrant un support par la communauté aussi bien que professionnel.</description>
+	<advantages>
+		<advantage>Elle est destinée à un usage bureautique, mais est aussi adaptée comme serveur, surtout depuis qu'un support à long terme a été introduit.</advantage>
+		<advantage>Elle tient sur un seul disque qui peut aussi être utilisé comme Live CD.</advantage>
+		<advantage>Elle est simple à installer. Elle démarre comme un Live CD Linux traditionnel ce qui permet de contrôler le fonctionnement sur un ordinateur avant de lancer une installation simple en six étapes.</advantage>
+		<advantage>Recommandée aux débutants, mais convient aux besoins professionnels et aux environnements serveurs en raison de son support à long terme et des options payantes de support professionnel.</advantage>
+	</advantages>
+	<disadvantages>
+		<disadvantage>Elle n'est pas aussi courante que RedHat ou Suse, mais c'est en train de changer parce qu'elle est meilleure à plusieurs titres, et elle a récemment été choisie comme meilleure distribution Linux en 2005</disadvantage>
+	</disadvantages>
+   <defaults>
+     <defaultVersion>ubuntu|6.06-Dapper-Desktop|CD|1</defaultVersion>
+   </defaults>
+</distro>

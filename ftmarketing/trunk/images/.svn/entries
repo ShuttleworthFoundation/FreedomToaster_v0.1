@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="122"
+   name=""
+   committed-date="2006-03-04T17:44:08.558310Z"
+   url="https://svn1.cvsdude.com/techdocs/freedomtoaster/trunk/images"
+   last-author="techdocs"
+   kind="dir"
+   uuid="8478f940-d901-0410-ad40-e0ac9cb6760e"
+   repos="https://svn1.cvsdude.com/techdocs/freedomtoaster"
+   revision="122"/>
+<entry
+   committed-rev="22"
+   name="ft_logo_1168x826.jpg"
+   text-time="2006-05-04T08:19:07.000000Z"
+   committed-date="2005-10-16T07:52:58.964540Z"
+   checksum="d1a45dce8ce9c11b009daf770cf7ffac"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T07:46:36.000000Z"/>
+<entry
+   committed-rev="22"
+   name="ft_logo_icon.jpg"
+   text-time="2006-05-04T08:19:07.000000Z"
+   committed-date="2005-10-16T07:52:58.964540Z"
+   checksum="32774abecb4f17d0f66bca6a4e461b10"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T07:46:43.000000Z"/>
+<entry
+   committed-rev="26"
+   name="tsflogo.gif"
+   text-time="2006-05-04T08:19:07.000000Z"
+   committed-date="2005-10-17T07:13:39.104761Z"
+   checksum="e5ba1bed19421d767253a4ad88b5f5fe"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T07:47:21.000000Z"/>
+<entry
+   committed-rev="70"
+   name="pg_0004.pdf"
+   text-time="2006-05-04T08:19:07.000000Z"
+   committed-date="2005-10-21T16:17:26.570805Z"
+   checksum="14452cb660d07a1cfc426007b38c94ae"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T07:47:21.000000Z"/>
+<entry
+   committed-rev="49"
+   name="a4paper-background.pdf"
+   text-time="2006-05-04T08:19:07.000000Z"
+   committed-date="2005-10-19T10:22:13.190367Z"
+   checksum="1ae8a9ab343933ba12e00e955c1f951e"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T07:47:00.000000Z"/>
+<entry
+   committed-rev="121"
+   name="freedom_toaster1.JPG"
+   text-time="2006-05-04T08:19:07.000000Z"
+   committed-date="2006-03-03T11:41:25.522478Z"
+   checksum="092158100d51acbf1047ee7ecaa17e53"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T07:51:13.000000Z"/>
+<entry
+   committed-rev="22"
+   name="freedom_toaster1.jpg"
+   text-time="2006-05-04T08:19:07.000000Z"
+   committed-date="2005-10-16T07:52:58.964540Z"
+   checksum="4376333df7cb4383a8dbdf09fb981af2"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T07:47:27.000000Z"/>
+<entry
+   committed-rev="22"
+   name="toaster_proto.jpg"
+   text-time="2006-05-04T08:19:07.000000Z"
+   committed-date="2005-10-16T07:52:58.964540Z"
+   checksum="d0b40c067e98ad3fa0176fc3d4b04e85"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T08:04:39.000000Z"/>
+<entry
+   committed-rev="121"
+   name="freedom_toaster2.jpg"
+   text-time="2006-05-04T08:19:07.000000Z"
+   committed-date="2006-03-03T11:41:25.522478Z"
+   checksum="2cd6855fe5ddfbc869dc0ae40c67ebcb"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T08:04:34.000000Z"/>
+<entry
+   committed-rev="121"
+   name="freedom_toaster3.JPG"
+   text-time="2006-05-04T08:19:07.000000Z"
+   committed-date="2006-03-03T11:41:25.522478Z"
+   checksum="51e45f3eab02738a570d16c1ea8611d0"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T08:09:22.000000Z"/>
+<entry
+   committed-rev="22"
+   name="ft_logo_noback.jpg"
+   text-time="2006-05-04T08:19:07.000000Z"
+   committed-date="2005-10-16T07:52:58.964540Z"
+   checksum="db2c590fe60c972dbbbc9a342e2cc146"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T08:09:24.000000Z"/>
+<entry
+   committed-rev="22"
+   name="ft_logo_crop_1022x375.jpg"
+   text-time="2006-05-04T08:19:07.000000Z"
+   committed-date="2005-10-16T07:52:58.964540Z"
+   checksum="96885bc45b21324d42d1aeec4db9151f"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T08:09:33.000000Z"/>
+<entry
+   committed-rev="39"
+   name="burning.png"
+   text-time="2006-05-04T08:19:07.000000Z"
+   committed-date="2005-10-17T20:50:57.384676Z"
+   checksum="353be193fcdd684258aaa595cf5036e8"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T08:10:35.000000Z"/>
+<entry
+   committed-rev="49"
+   name="a4paper-background.jpg"
+   text-time="2006-05-04T08:19:07.000000Z"
+   committed-date="2005-10-19T10:22:13.190367Z"
+   checksum="ccea7e79aa48fc55795b729954cfd448"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T08:10:54.000000Z"/>
+<entry
+   committed-rev="22"
+   name="Burn.png"
+   text-time="2006-05-04T08:19:07.000000Z"
+   committed-date="2005-10-16T07:52:58.964540Z"
+   checksum="a417e35848bcfb771b42240543bdb5ad"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T08:12:17.000000Z"/>
+<entry
+   committed-rev="22"
+   name="toastlogo_toaster.png"
+   text-time="2006-05-04T08:19:07.000000Z"
+   committed-date="2005-10-16T07:52:58.964540Z"
+   checksum="208d2b7cfd3de08d318baaa641a9b3cf"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T08:12:19.000000Z"/>
+<entry
+   committed-rev="72"
+   name="ft_header.jpg"
+   text-time="2006-05-04T08:19:07.000000Z"
+   committed-date="2005-10-25T21:04:50.264854Z"
+   checksum="4b208d029c0210743084cc26ab594b2d"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T08:12:38.000000Z"/>
+<entry
+   committed-rev="72"
+   name="freedomtoaster_masthead.pdf"
+   text-time="2006-05-04T08:19:07.000000Z"
+   committed-date="2005-10-25T21:04:50.264854Z"
+   checksum="b18601d37e66b35b20ce65ade6f2c514"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T08:13:52.000000Z"/>
+<entry
+   committed-rev="121"
+   name="ftoaster-top-250x457.jpg"
+   text-time="2006-05-04T08:19:07.000000Z"
+   committed-date="2006-03-03T11:41:25.522478Z"
+   checksum="2ed7bd63cfb93f287ee3661873433d83"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T08:13:56.000000Z"/>
+<entry
+   committed-rev="122"
+   name="t1.JPG"
+   text-time="2006-05-04T08:19:07.000000Z"
+   committed-date="2006-03-04T17:44:08.558310Z"
+   checksum="f993097c5eeb0fd9ea46049271bf8be5"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T08:14:15.000000Z"/>
+<entry
+   committed-rev="122"
+   name="t2.jpg"
+   text-time="2006-05-04T08:19:07.000000Z"
+   committed-date="2006-03-04T17:44:08.558310Z"
+   checksum="ea661ffcc9d92a9be2b51acac2d8ffbd"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T08:14:26.000000Z"/>
+<entry
+   committed-rev="122"
+   name="t3.jpg"
+   text-time="2006-05-04T08:19:07.000000Z"
+   committed-date="2006-03-04T17:44:08.558310Z"
+   checksum="7190f233a5228b9559a25be659a883be"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T08:14:30.000000Z"/>
+<entry
+   committed-rev="72"
+   name="ft_footer.jpg"
+   text-time="2006-05-04T08:19:07.000000Z"
+   committed-date="2005-10-25T21:04:50.264854Z"
+   checksum="91a1ee832679daa2bd5cfe52c0ba28ad"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T08:14:33.000000Z"/>
+<entry
+   committed-rev="121"
+   name="ftoaster-top.jpg"
+   text-time="2006-05-04T08:19:07.000000Z"
+   committed-date="2006-03-03T11:41:25.522478Z"
+   checksum="c635dfc4499b8e161833923d06aa2b7b"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T08:16:28.000000Z"/>
+<entry
+   committed-rev="122"
+   name="t4.jpg"
+   text-time="2006-05-04T08:19:07.000000Z"
+   committed-date="2006-03-04T17:44:08.558310Z"
+   checksum="f2aa2f74077a751debea8986c712d241"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T08:16:35.000000Z"/>
+<entry
+   committed-rev="39"
+   name="prosncons.png"
+   text-time="2006-05-04T08:19:07.000000Z"
+   committed-date="2005-10-17T20:50:57.384676Z"
+   checksum="433df5a3551e264cb738824d4ef0b29b"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T08:17:04.000000Z"/>
+<entry
+   committed-rev="22"
+   name="distros.png"
+   text-time="2006-05-04T08:19:07.000000Z"
+   committed-date="2005-10-16T07:52:58.964540Z"
+   checksum="08a7b133ce29cc4ab046f7f7742da2a1"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T08:17:49.000000Z"/>
+<entry
+   committed-rev="22"
+   name="home.png"
+   text-time="2006-05-04T08:19:07.000000Z"
+   committed-date="2005-10-16T07:52:58.964540Z"
+   checksum="b50657fee800050ee6b775077f5f87d4"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T08:19:07.000000Z"/>
+</wc-entries>

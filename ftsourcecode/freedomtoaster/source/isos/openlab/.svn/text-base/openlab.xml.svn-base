@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<distro>
+	<name>OpenLab 4</name>
+	<description>Another South African project to improve education.</description>
+	<advantages>
+		<advantage>Based on one of the fastest and most stable versions of Linux.</advantage>
+		<advantage>This CD is both a Live CD, and the install CD - so you can try it out before making a
+			permanent install on your system.</advantage>
+		<advantage>It is a single disc that contains all the programs you need - Office software,
+			internet, educational software and games, and more.</advantage>
+		<advantage>It is easy to install and has some features that are "Proudly South African". A
+			typical install will take 20 minutes.</advantage>
+		<advantage>For older hardware, this version will give you the best performance - it breathes new
+			life into those obsolete PCs.</advantage>
+	</advantages>
+	<disadvantages>
+		<disadvantage>The underlying system is Slackware, which is not designed for the novice -
+			however, the way this distribution is put together you need never know nor care.</disadvantage>
+	</disadvantages>
+   <defaults>
+     <defaultVersion>openlab|4.0|CD|1</defaultVersion>
+   </defaults>
+</distro>

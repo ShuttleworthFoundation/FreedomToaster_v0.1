@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
+"http://www.docbook.org/xml/4.3/docbookx.dtd">
+<article>
+  <title>Freedom Toaster Website Update</title>
+    <sect1>
+      <title>Touch and Go</title>
+      <para>The main interface of the Freedom Toaster is a touchscreen liquid crystal display and an
+        intuitive software interface. The software is designed to work as an off-the-shelf package
+        that <quote>Just Works</quote>.</para>
+      <mediaobject>
+        <imageobject>
+          <imagedata align="center" depth="8cm" fileref="images/home.png" format="PNG" scalefit="1"
+          />
+        </imageobject>
+        <caption>The Main Screen</caption>
+      </mediaobject>
+      <para>The main screen is one of several that cycle when the Freedom Toaster is not in use.
+        Each screen provides information answering the common questions people have during their
+        first encounter with a Freedom Toaster. From this screen people can see the Freedom Toasters
+        main product categories.</para>
+      <mediaobject>
+        <imageobject>
+          <imagedata align="center" depth="8cm" fileref="images/prosncons.png" format="PNG"
+            scalefit="1"/>
+        </imageobject>
+        <caption>Product Information Screens</caption>
+      </mediaobject>
+      <para>Objective information about each of the products is made available. Touching the
+          <guibutton>Previous</guibutton> or the <guibutton>Next</guibutton> button, people can
+        browse the information provided at their leisure to make informed choices about what they
+        would like to duplicate. Helpful information such as the number of CD/DVDs required ensures
+        that people are prepared before making a selection.</para>
+      <mediaobject>
+        <imageobject>
+          <imagedata align="center" depth="8cm" fileref="images/burning.png" format="PNG"
+            scalefit="1"/>
+        </imageobject>
+        <caption>Progress Feedback Screen</caption>
+      </mediaobject>
+      <para>When selections are made and burning commences, the Freedom Toaster provides feedback of
+        the current progress for each of the CD/DVD devices loaded with writable media.</para>
+      <para>The entire Freedom Toaster interaction is designed as a <quote>Touch and Go</quote>
+        experience that results in instant gratification the moment the CD/DVD writer ejects a
+        duplicated media.</para>
+  </sect1>
+</article>

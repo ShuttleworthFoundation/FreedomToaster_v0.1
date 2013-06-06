@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<distro>
+   <name>K12LTSP</name>
+   <description>Ce que le groupe d'utilisateurs de Linux d'Afrique du Sud installe dans les écoles (tuXlab)</description>
+   <advantages>
+      <advantage>Il est basé sur la distribution Fedora</advantage>
+      <advantage>Il dispose par conséquent d'un bon support et du soutien d'une entreprise comme RedHat</advantage>
+      <advantage>Il a été déployé avec succès dans de nombreuses écoles en Afrique du Sud</advantage>
+      <advantage>Les applications éducatives sont préinstallées</advantage>
+      <advantage>Il est spécialement conçu pour utiliser Linux dans un environnement de client léger (serveur de terminaux)</advantage>
+   </advantages>
+   <disadvantages>
+      <disadvantage>Il est basé sur Fedora Core</disadvantage>
+   </disadvantages>
+   <defaults>
+     <defaultVersion>k12ltsp|4.2.1|CD|5</defaultVersion>
+   </defaults>
+</distro>

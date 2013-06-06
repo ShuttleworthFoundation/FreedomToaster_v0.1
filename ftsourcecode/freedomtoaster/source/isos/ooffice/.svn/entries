@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="474"
+   name=""
+   committed-date="2006-06-14T19:29:03.479220Z"
+   url="svn://edison.tsf.org.za/freedomtoaster/trunk/source/isos/ooffice"
+   last-author="claude.paroz"
+   kind="dir"
+   uuid="d86654f9-5701-0410-bb18-eb70f6cf68f4"
+   repos="svn://edison.tsf.org.za/freedomtoaster"
+   revision="491"/>
+<entry
+   name="2.0"
+   kind="dir"/>
+<entry
+   name="1.1.4"
+   kind="dir"/>
+<entry
+   committed-rev="462"
+   name="ooffice.xml"
+   text-time="2006-11-03T09:15:16.000000Z"
+   committed-date="2006-06-13T05:56:31.757542Z"
+   checksum="00669bcd7fefa9da6ba9737e6db22f25"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:16.000000Z"/>
+<entry
+   committed-rev="474"
+   name="ooffice-fr.xml"
+   text-time="2006-11-03T09:15:16.000000Z"
+   committed-date="2006-06-14T19:29:03.479220Z"
+   checksum="7c8acbf63eaf59a2053c2bd47ca2d178"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:16.000000Z"/>
+</wc-entries>

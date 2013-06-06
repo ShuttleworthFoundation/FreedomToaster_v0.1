@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+   <head>
+		<title>Linux pour les Débutants</title>
+		<link rel="stylesheet" type="text/css" href="../../css/kiosk.css" title="premier" />
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+      <meta http-equiv="refresh" content="25; URL=index5.html" />
+      <script src="../../kiosk.js" language="javascript" type="text/javascript"></script>
+	</head>
+   <body background="../../css/images/selectorBG.png" bgcolor="#C0C0C0" onLoad="populateSelect();">
+      <div id="MoreInfo">
+         <a href="../../cgi-bin/knowMore.pl" title="À propos de ce Toaster">
+            <img src="../../css/images/K_button.gif" alt="?" width="113" height="120" border="0" /><br />
+
+         </a>
+      </div>
+      <div id="Home">
+         <a href="index0.html" title="Aller à la première page">
+            <img src="../../css/images/H_button.gif" alt="Accueil" width="148" height="93" border="0" /><br />
+
+         </a>
+      </div>
+      <div id="next">
+         <a href="index5.html" title="Aller à la page suivante">
+            <img src="../../css/images/R_button.gif" alt="Accueil" width="113" height="120" border="0" /></a>
+      </div>
+      <div id="back">
+         <a href="index3.html" title="Aller à la page précédente">
+            <img src="../../css/images/L_button.gif" alt="Accueil" width="148" height="93" border="0" /></a>
+      </div>
+      <div id="language-bg">
+      	<img src="../../css/images/language-bg.png" alt="arrière-plan" width="220" height="77" border="0" />
+      </div>
+      <div id="language">
+         <select id="lang-sel" title="Choix de la langue" onClick="magnifySelect(this);" onChange="changeLang(this);">
+         </select>   
+      </div>
+   <div id="content">
+      <img src="images/logoPage.png" width="400" height="131" style="margin-left:170px" /><br />
+      <h1>Linux pour les Débutants</h1>
+      <p>Les distributions affichées ci-dessous sont conçues pour faciliter leur utilisation par des nouveaux utilisateurs. Elles sont également populaires chez les pros très exigeant de leur système, car elles sont compréhensibles, robustes et sécurisées.</p>
+      <p>Ne pensez pas qu'une distribution comme <em>Ubuntu</em> qui tient sur un seul CD est amputée de quoi que ce soit. Les distributions prenant plus de volume abondent dans les choix (il existe souvent plus de 5 programmes différents pour la même fonction). Les concepteurs d'Ubuntu ont soigneusement sélectionné le meilleur de chaque catégorie à votre place pour vous éviter de tergiverser. Cette borne fonctionne avec Ubuntu&nbsp;!</p>
+      <p>En général, si vous ne disposez pas d'une connexion à Internet ou que celle-ci est très lente, choisissez une distribution contenant plus de CD afin d'augmenter les chances de disposer sur les CD des logiciels dont vous pourriez avoir besoin. Ma recommandation est de choisir Suse si vous ne disposez que d'une connexion Internet commutée, et Ubuntu si vous disposez de l'ADSL.</p>
+   <table>
+      <tr>
+         <td><a href="../../cgi-bin/distro.pl?distro=ubuntu" title="Ubuntu, le projet favori de Mark Shuttleworth" onmouseover="ubuntu.src='../../images/ubuntuA.png'" onmouseout="ubuntu.src='../../images/ubuntuB.png'">
+               <img name="ubuntu" src="../../images/ubuntuB.png" width="231" height="71" id="ubuntu" /></a>
+         </td>
+         <td><a href="../../cgi-bin/distro.pl?distro=suse" title="La suite bureautique libre compatible MS Office" onmouseover="suse.src='../../images/suseA.png'" onmouseout="suse.src='../../images/suseB.png'">
+               <img name="suse" src="../../images/suseB.png" width="231" height="71" id="suse" /></a>
+         </td>
+         <td><a href="../../cgi-bin/distro.pl?distro=mandriva" title="La suite bureautique libre compatible MS Office" onmouseover="mandriva.src='../../images/mandrivaA.png'" onmouseout="mandriva.src='../../images/mandrivaB.png'">
+               <img name="mandriva" src="../../images/mandrivaB.png" width="231" height="71" id="mandriva" /></a>
+         </td>
+      </tr>
+   </table>
+
+   </div>
+	</body>
+</html>

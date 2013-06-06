@@ -1,0 +1,8 @@
+/usr/bin/xset -dpms
+/usr/bin/xset s off
+/usr/bin/xset s noblank
+/usr/bin/xset s noexpose
+/usr/bin/xset s 0
+/usr/bin/x11vnc -localhost -forever -bg
+/usr/bin/firefox http://localhost
+#/usr/bin/firefox -safe-mode

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="491"
+   name=""
+   committed-date="2006-09-16T06:57:47.213121Z"
+   url="svn://edison.tsf.org.za/freedomtoaster/trunk/source/isos"
+   last-author="charles.oertel"
+   kind="dir"
+   uuid="d86654f9-5701-0410-bb18-eb70f6cf68f4"
+   repos="svn://edison.tsf.org.za/freedomtoaster"
+   revision="491"/>
+<entry
+   name="suse"
+   kind="dir"/>
+<entry
+   name="openlab"
+   kind="dir"/>
+<entry
+   name="toaster"
+   kind="dir"/>
+<entry
+   name="ubuntu"
+   kind="dir"/>
+<entry
+   name="debian"
+   kind="dir"/>
+<entry
+   name="gutenberg"
+   kind="dir"/>
+<entry
+   name="knoppix"
+   kind="dir"/>
+<entry
+   name="whitebox"
+   kind="dir"/>
+<entry
+   name="clusterknoppix"
+   kind="dir"/>
+<entry
+   name="edubuntu"
+   kind="dir"/>
+<entry
+   name="gentoo"
+   kind="dir"/>
+<entry
+   name="kubuntu"
+   kind="dir"/>
+<entry
+   name="firemonger"
+   kind="dir"/>
+<entry
+   name="impi"
+   kind="dir"/>
+<entry
+   name="k12ltsp"
+   kind="dir"/>
+<entry
+   name="fedora"
+   kind="dir"/>
+<entry
+   name="mandriva"
+   kind="dir"/>
+<entry
+   name="go-open"
+   kind="dir"/>
+<entry
+   committed-rev="453"
+   name="index.xml"
+   text-time="2006-11-03T09:15:16.000000Z"
+   committed-date="2006-06-11T14:31:19.868602Z"
+   checksum="4305aefb1f03385be4fdfb534c667ef5"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:16.000000Z"/>
+<entry
+   committed-rev="491"
+   name="all.xml"
+   text-time="2006-11-03T09:15:16.000000Z"
+   committed-date="2006-09-16T06:57:47.213121Z"
+   checksum="59ef49623da2da0d4a88a43032a4e61a"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:16.000000Z"/>
+<entry
+   name="opencd"
+   kind="dir"/>
+<entry
+   name="freebsd"
+   kind="dir"/>
+<entry
+   name="ooffice"
+   kind="dir"/>
+<entry
+   name="slackware"
+   kind="dir"/>
+</wc-entries>

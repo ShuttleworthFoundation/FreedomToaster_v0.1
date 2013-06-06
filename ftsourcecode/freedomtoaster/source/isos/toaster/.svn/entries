@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="457"
+   name=""
+   committed-date="2006-06-12T18:09:19.175482Z"
+   url="svn://edison.tsf.org.za/freedomtoaster/trunk/source/isos/toaster"
+   last-author="claude.paroz"
+   kind="dir"
+   uuid="d86654f9-5701-0410-bb18-eb70f6cf68f4"
+   repos="svn://edison.tsf.org.za/freedomtoaster"
+   revision="491"/>
+<entry
+   name="2.0"
+   kind="dir"/>
+<entry
+   name="V3Install"
+   kind="dir"/>
+<entry
+   name="3.0"
+   kind="dir"/>
+<entry
+   committed-rev="453"
+   name="toaster.xml"
+   text-time="2006-11-03T09:15:15.000000Z"
+   committed-date="2006-06-11T14:31:19.868602Z"
+   checksum="b79239ca18bac28213c664d3047a5ebe"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:15.000000Z"/>
+<entry
+   committed-rev="457"
+   name="toaster-fr.xml"
+   text-time="2006-11-03T09:15:15.000000Z"
+   committed-date="2006-06-12T18:09:19.175482Z"
+   checksum="5189cfa1a3ccac069709fcf72fb10b1c"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:15.000000Z"/>
+<entry
+   name="1.0"
+   kind="dir"/>
+</wc-entries>

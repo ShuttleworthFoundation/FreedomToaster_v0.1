@@ -1,0 +1,93 @@
+#!/bin/sh
+################################################################################
+# Purpose: Updates a freedom toaster to new content and functionality
+# Input  : To be run off an "update" CD
+# Output : 1) A CD backup of the current system is burned with a restore script
+#          2) The kiosk code is updated to deal with this update mechanism
+#          3) General enhancements and patches to the freedom toaster are made
+#          4) New content (updated and new distros) are copied from DVD onto the
+#             correct location on the toaster
+#          5) There is an option to write logs and diagnostic info to CD for
+#             posting to The Shuttleworth Foundation
+#          6) hdparms are adjusted
+# Remarks: 
+# License: GPL (http://www.gnu.org/)
+# Created: 2005/10/31 Charles Oertel (charles@finebushpeople.net)
+################################################################################
+. ./functions.inc
+
+# Copy files off CD onto a temp folder to work off
+if [ ! `pwd | grep '/tmp/toaster.'` ]; then
+   shiftENVIRONMENT
+fi
+
+function backupSystem {
+   echo Backing up the system now...
+
+      if [ "A$OLDVER" = "A" ]; then
+         OLDVER='1.0'
+         echo "\$main::Version = '1.0';" >> $CONFIG
+      fi
+      if [ ! -e $ISODIR/toaster ]; then
+         mkdir $ISODIR/toaster
+      fi
+      if [ ! -e $ISODIR/toaster/$OLDVER ]; then
+         mkdir $ISODIR/toaster/$OLDVER
+      fi
+      if [ ! -e $ISODIR/toaster/$OLDVER/CD ]; then
+         mkdir $ISODIR/toaster/$OLDVER/CD
+      fi
+      cp toaster.xml $ISODIR/toaster/toaster.xml
+
+      TARFILES="--exclude=*.iso $ISODIR $BASEPATH /usr/lib/mozilla-firefox/chrome /home/charles"
+      if [ -e /home/kiosk ]; then
+         STARFILES="$TARFILES /home/kiosk"
+         TARFILES=$STARFILES
+      fi
+      cp InstallScript /tmp/InstallScript
+      perl -pi -e 's/#{3}UPG//gi' /tmp/InstallScript
+      BACKUPFILES="/tmp/InstallScript RestoreBackup functions.inc config.inc toaster-$NEWVER.tar.gz"
+      tar -czpf /tmp/toaster-$OLDVER.tar.gz $TARFILES
+      mkisofs -J -r -o $ISODIR/toaster/$OLDVER/CD/1Toaster-Code-$OLDVER.iso /tmp/toaster-$OLDVER.tar.gz $BACKUPFILES
+     # rm /tmp/toaster-$OLDVER.tar.gz
+      echo Making the backup available by editing $BASEPATH/index99.html
+      perl -pi -e 's#and this machine is#and <a href="cgi-bin/distro.pl?distro=toaster">this machine</a> is#' $BASEPATH/index99.html
+      echo "The backup is now available to burn by clicking on 'this machine' on the 'What do I need for this' page"
+}
+
+echo "Welcome to the Freedom Toaster updater created by charles@finebushpeople.net"
+
+### Backup the current system before doing anything
+# first, which drive are we running from and which one could we use to write the backup
+OPTIONS="Configure Backup Distros Upgrade Help Quit"
+retval=0
+while [ $retval -ne 1 ]
+do
+   select opt in $OPTIONS; do
+      if [ "$opt" = "Quit" ]; then
+         echo done
+         exit
+      elif [ "$opt" = "Help" ]; then
+         cat README | more 
+      elif [ "$opt" = "Configure" ]; then
+         echo Set the environment parameters
+         . setconfig.sh
+      elif [ "$opt" = "Backup" ]; then
+         echo This will create a backup ISO of the system in your toaster menu.\
+              You must burn it to CD and run the install script there to upgrade this toaster.
+         backupSystem
+      elif [ "$opt" = "Upgrade" ]; then
+         echo 'Upgrade the toaster to the newer version (DISABLED)'
+         echo This will only work after you have burned a backup CD and run the upgrade script on it and in any case is not ready for this release.
+###DontUPG     upgradeToaster
+      elif [ "$opt" = "Distros" ]; then
+         echo Install newer versions of Distros
+         updateDistros
+#installDistros
+      else
+         echo bad option
+      fi
+   done
+done
+exit 0
+

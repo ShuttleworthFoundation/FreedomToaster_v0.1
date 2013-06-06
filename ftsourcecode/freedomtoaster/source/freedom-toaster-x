@@ -1,0 +1,7 @@
+#!/bin/sh
+PIDFILE=/var/run/freedom-toaster-x.pid
+LOG=/var/log/freedom-toaster-x.log
+
+trap "killall Xorg; rm $PIDFILE; sleep 1s; savelog $LOG" exit
+echo $$ > $PIDFILE
+xinit /bin/su kiosk '~/.xsession' >> $LOG 2>&1

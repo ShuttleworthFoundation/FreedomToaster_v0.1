@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.4//EN"
+                         "http://www.docbook.org/xml/4.4/docbookx.dtd">
+<article>
+	<title>Freedom Toaster - want a slice?</title>
+	<para>The Internet has been hailed as a <quote>great equaliser</quote> (Brynjolfsson and Smith
+		2000) of developing and developed nations. There are however, <quote>great disparities in
+			opportunity to access the Internet, the information and the educational/business
+			opportunities tied to this</quote> (wikipedia.org, 07.10.05).</para>
+	<para>Billions of people live with restrictive telecommunications environments that make it
+		difficult and costly to access digital products such as free software and educational
+		content. The Freedom Toaster project was started in 2004 by the Shuttleworth Foundation as a
+		way to overcome these problems. </para>
+	<para>Freedom Toasters are conveniently located, self-contained, computer-based, &apos;Bring
+		'n Burn&apos; facilities. Like vending machines, preloaded to dispense confectionery,
+		Freedom Toasters are preloaded to dispense free digital products.</para>
+	<orderedlist>
+		<para>Obtaining a product is as simple as 1, 2, 3:</para>
+		<listitem>
+			<para>Bring writable CD or DVD media to the Freedom Toaster.</para>
+		</listitem>
+		<listitem>
+			<para>Insert into the Freedom Toasters' CD/DVD drive.</para>
+		</listitem>
+		<listitem>
+			<para>Select the product to duplicate.</para>
+		</listitem>
+	</orderedlist>
+	<para>Unlike the vending machine, where people pay to obtain perishable consumable products.
+		Freedom Toasters dispense new information, communication technologies, software and content
+		that act as a catalyst for increasing people’s choice and are directly translatable into
+		knowledge, leading to greater freedom.</para>
+	<para>Whilst a chocolate bar is consumed by one person, Freedom Toaster wares carry no
+		restrictions. In fact, people are encouraged to make further copies and to distribute them,
+		enabling the whole community to benefit.</para>
+	<sect1>
+		<title>Freedom Toasters in Society</title>
+		<para>Freedom Toasters are suitable for use by any organisation in any venue, for any
+			purpose. Businesses, educational institutions, government departments, libraries and
+			NGOs can all accelerate their mandates.</para>
+		<para>Creating a list describing the purposes for which Freedom Toasters can be put to use,
+			would stretch even the most fervent of imaginations, topical examples include the
+			distribution of:</para>
+		<itemizedlist>
+			<listitem>
+				<para>information for major awareness campaigns such as HIV/AIDS, polio,
+					tuberculosis, malaria and other diseases;</para>
+			</listitem>
+			<listitem>
+				<para>information to satisfy governmental obligations for human rights compliance
+					such as access to information;</para>
+			</listitem>
+			<listitem>
+				<para>skills-based, self-help, multimedia training programs on topics such as such
+					as improving maternal health, environmental sustainability and many more health
+					and agricultural related topics;</para>
+			</listitem>
+			<listitem>
+				<para>distribution of free software such as free computing environments,
+					communications software and business packages;</para>
+			</listitem>
+			<listitem>
+				<para>distribution of educational literature for personal growth such as information
+					pertaining to the promotion of gender equality and womans empowerment or
+					computer training courses that improve job prospects;</para>
+			</listitem>
+			<listitem>
+				<para>curriculum aligned content disseminated directly from Departments of Education
+					for teachers in rural schools.</para>
+			</listitem>
+		</itemizedlist>
+		<para>Freedom Toasters transcend the gaps that cause the <quote>digital divide</quote> by
+			acting as low-tech digital gateways between the <quote>haves</quote> and <quote>have
+				nots</quote> of the world.</para>
+	</sect1>
+	<sect1>
+		<title>Touch and Go</title>
+		<para>The main interface of the Freedom Toaster is a touchscreen liquid crystal display and
+			an intuitive software interface. The software is designed to work as an off-the-shelf
+			package that <quote>Just Works</quote>.</para>
+		<mediaobject>
+			<imageobject>
+				<imagedata fileref="images/home.png" align="center" format="PNG" depth="8cm"
+					scalefit="1"/>
+			</imageobject>
+			<caption>The Main Screen</caption>
+		</mediaobject>
+		<para>The main screen is one of several that cycle when the Freedom Toaster is not in use.
+			Each screen provides information answering the common questions people have during their
+			first encounter with a Freedom Toaster. From this screen people can see the Freedom
+			Toasters main product categories.</para>
+		<mediaobject>
+			<imageobject>
+				<imagedata fileref="images/prosncons.png" align="center" format="PNG" depth="8cm"
+					scalefit="1"/>
+			</imageobject>
+			<caption>Product Information Screens</caption>
+		</mediaobject>
+		<para>Objective information about each of the products is made available. Touching the
+				<guibutton>Previous</guibutton> or the <guibutton>Next</guibutton> button, people
+			can browse the information provided at their leisure to make informed choices about what
+			they would like to duplicate. Helpful information such as the number of CD/DVDs required
+			ensures that people are prepared before making a selection.</para>
+		<mediaobject>
+			<imageobject>
+				<imagedata fileref="images/burning.png" align="center" format="PNG" depth="8cm"
+					scalefit="1"/>
+			</imageobject>
+			<caption>Progress Feedback Screen</caption>
+		</mediaobject>
+		<para>When selections are made and burning commences, the Freedom Toaster provides feedback
+			of the current progress for each of the CD/DVD devices loaded with writable media.</para>
+		<para>The entire Freedom Toaster interaction is designed as a <quote>Touch and Go</quote>
+			experience that results in instant gratification the moment the CD/DVD writer ejects a
+			duplicated media.</para>
+	</sect1>
+	<sect1>
+		<title>Benefits</title>
+		<itemizedlist>
+			<listitem>
+				<para>No need for Internet access</para>
+			</listitem>
+			<listitem>
+				<para>Easy-to-deploy</para>
+			</listitem>
+			<listitem>
+				<para>Easy-to-access</para>
+			</listitem>
+			<listitem>
+				<para>Easy-to-use</para>
+			</listitem>
+			<listitem>
+				<para>Screensaver cycles through content</para>
+			</listitem>
+			<listitem>
+				<para>Touch screen operation</para>
+			</listitem>
+			<listitem>
+				<para>Customisable interface options</para>
+			</listitem>
+			<listitem>
+				<para>Localizable interface texts</para>
+			</listitem>
+			<listitem>
+				<para>Capable of serving local and tailored content</para>
+			</listitem>
+			<listitem>
+				<para>Three CD/DVD writer devices</para>
+			</listitem>
+			<listitem>
+				<para>Freedom Toaster is a Free and Open Source project</para>
+			</listitem>
+		</itemizedlist>
+	</sect1>
+	<sect1>
+		<title>It's as easy as toast!</title>
+		<para>To discover a Freedom Toaster near you or learn how to build one of your own, visit
+			the Freedom Toaster <ulink url="http://www.freedomtoaster.org">web site</ulink> and join
+			the community.</para>
+		<para>Visit the <ulink url="http://www.shuttleworthfoundation.org">Shuttleworth
+			Foundation</ulink>, to find out more about their involvement in education and philosophy
+			about open source.</para>
+	</sect1>
+</article>

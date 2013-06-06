@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="488"
+   name=""
+   committed-date="2006-07-12T03:19:48.718556Z"
+   url="svn://edison.tsf.org.za/freedomtoaster/trunk/source/kiosk/cgi-bin"
+   last-author="charles.oertel"
+   kind="dir"
+   uuid="d86654f9-5701-0410-bb18-eb70f6cf68f4"
+   repos="svn://edison.tsf.org.za/freedomtoaster"
+   revision="491"/>
+<entry
+   committed-rev="442"
+   name="config.pl"
+   text-time="2006-11-03T09:15:14.000000Z"
+   committed-date="2006-06-11T06:26:10.215254Z"
+   checksum="0c0fb186ef2da9c36d5d8e26904f6d3d"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:14.000000Z"/>
+<entry
+   committed-rev="340"
+   name="burn.pl"
+   text-time="2006-05-25T12:15:07.000000Z"
+   committed-date="2006-05-23T14:37:50.991367Z"
+   checksum="09cf10f12575b24087ab303fed3df3fd"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-05-25T12:15:06.000000Z"/>
+<entry
+   committed-rev="424"
+   name="login.pl"
+   text-time="2006-11-03T09:15:14.000000Z"
+   committed-date="2006-06-08T08:27:22.772880Z"
+   checksum="3a55e4c9186079a158a1f8f4b8ba6736"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:14.000000Z"/>
+<entry
+   committed-rev="459"
+   name="ok.pl"
+   text-time="2006-11-03T09:15:14.000000Z"
+   committed-date="2006-06-12T19:21:31.319290Z"
+   checksum="1065bb4a9ff8813357f921a3cc125bc8"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:14.000000Z"/>
+<entry
+   committed-rev="461"
+   name="uploadCDsonDVD.pl"
+   text-time="2006-11-03T09:15:14.000000Z"
+   committed-date="2006-06-12T21:20:02.368132Z"
+   checksum="10e33271877dbac0c8675f6f36bd35d1"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:14.000000Z"/>
+<entry
+   committed-rev="200"
+   name="closeCD.pl"
+   text-time="2006-05-25T12:15:07.000000Z"
+   committed-date="2006-05-03T03:39:15.582589Z"
+   checksum="72942566a9cd7f90a1ee495a8306502a"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:06.000000Z"/>
+<entry
+   committed-rev="473"
+   name="burners.pl"
+   text-time="2006-11-03T09:15:14.000000Z"
+   committed-date="2006-06-14T19:23:57.492786Z"
+   checksum="efa220c4fe8c126dad98a3152aa39a96"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:14.000000Z"/>
+<entry
+   committed-rev="421"
+   name="show.pl"
+   text-time="2006-06-07T07:21:41.000000Z"
+   committed-date="2006-06-06T19:05:05.154061Z"
+   checksum="6262ba12a79684d09d882e0875a5c881"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-06-07T07:21:41.000000Z"/>
+<entry
+   committed-rev="488"
+   name="showQueue.pl"
+   text-time="2006-11-03T09:15:14.000000Z"
+   committed-date="2006-07-12T03:19:48.718556Z"
+   checksum="a9dc4caef7c5979a344abc2bc813758f"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:14.000000Z"/>
+<entry
+   committed-rev="424"
+   name="calibrate.pl"
+   text-time="2006-11-03T09:15:14.000000Z"
+   committed-date="2006-06-08T08:27:22.772880Z"
+   checksum="989b4a52d7155dbbf980d5e64f2a53dc"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:14.000000Z"/>
+<entry
+   committed-rev="340"
+   name="upgrade.pl"
+   text-time="2006-05-25T12:15:07.000000Z"
+   committed-date="2006-05-23T14:37:50.991367Z"
+   checksum="358da3473bc37971021d2255fa404dda"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-05-25T12:15:06.000000Z"/>
+<entry
+   committed-rev="458"
+   name="common.pl"
+   text-time="2006-11-03T09:15:14.000000Z"
+   committed-date="2006-06-12T19:00:48.274671Z"
+   checksum="fb037e4625afde02ccb05693f418719e"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:14.000000Z"/>
+<entry
+   committed-rev="480"
+   name="admin.pl"
+   text-time="2006-11-03T09:15:14.000000Z"
+   committed-date="2006-06-24T12:17:00.481405Z"
+   checksum="5ddd9e729e22d5ad5ee37720f6061bd9"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:14.000000Z"/>
+<entry
+   committed-rev="424"
+   name="uploadCCFile.pl"
+   text-time="2006-11-03T09:15:14.000000Z"
+   committed-date="2006-06-08T08:27:22.772880Z"
+   checksum="554bb45710ba2ef8b88c649dc03b872c"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:14.000000Z"/>
+<entry
+   committed-rev="340"
+   name="chooseItem.pl"
+   text-time="2006-05-25T12:15:07.000000Z"
+   committed-date="2006-05-23T14:37:50.991367Z"
+   checksum="b014bd8f12b24ffc9af42484c1796ad8"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-05-25T12:15:07.000000Z"/>
+<entry
+   committed-rev="476"
+   name="burnCCFiles.pl"
+   text-time="2006-11-03T09:15:14.000000Z"
+   committed-date="2006-06-15T14:29:29.997681Z"
+   checksum="648a493e81a6b02b9f81ef589854e997"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:14.000000Z"/>
+<entry
+   committed-rev="439"
+   name="knowMore.pl"
+   text-time="2006-11-03T09:15:14.000000Z"
+   committed-date="2006-06-10T16:52:54.698158Z"
+   checksum="bf33c65674b8dbd67618a19fd2b4f835"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:14.000000Z"/>
+<entry
+   committed-rev="4"
+   name="storem5d.sh"
+   text-time="2006-05-25T12:15:07.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="33d2ab8093f54a8b859381212c07a7bb"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:07.000000Z"/>
+<entry
+   committed-rev="393"
+   name="checkconfig.pl"
+   text-time="2006-06-07T07:21:41.000000Z"
+   committed-date="2006-05-31T07:05:31.614924Z"
+   checksum="004f1fa428d1bd1a449a494bd16b56d9"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-06-07T07:21:41.000000Z"/>
+<entry
+   committed-rev="482"
+   name="distro.pl"
+   text-time="2006-11-03T09:15:14.000000Z"
+   committed-date="2006-06-24T14:30:31.190943Z"
+   checksum="c57a82d91e1e1477037612b0d8091149"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:14.000000Z"/>
+</wc-entries>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="122"
+   name=""
+   committed-date="2006-03-04T17:44:08.558310Z"
+   url="https://svn1.cvsdude.com/techdocs/freedomtoaster/trunk"
+   last-author="techdocs"
+   kind="dir"
+   uuid="8478f940-d901-0410-ad40-e0ac9cb6760e"
+   repos="https://svn1.cvsdude.com/techdocs/freedomtoaster"
+   revision="122"/>
+<entry
+   name="webupdate"
+   kind="dir"/>
+<entry
+   name="casestudy"
+   kind="dir"/>
+<entry
+   name="images"
+   kind="dir"/>
+<entry
+   name="common"
+   kind="dir"/>
+<entry
+   name="whitepaper"
+   kind="dir"/>
+<entry
+   name="brochure"
+   kind="dir"/>
+<entry
+   name="libs"
+   kind="dir"/>
+<entry
+   committed-rev="113"
+   name="Makefile"
+   text-time="2006-05-04T08:19:23.000000Z"
+   committed-date="2006-02-16T08:05:14.435576Z"
+   checksum="7c514668933aa4285ab556a5e0c53f56"
+   last-author="techdocs"
+   kind="file"
+   prop-time="2006-05-04T08:19:23.000000Z"/>
+</wc-entries>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="449"
+   name=""
+   committed-date="2006-06-11T11:48:56.856406Z"
+   url="svn://edison.tsf.org.za/freedomtoaster/trunk/source/kiosk/css"
+   last-author="charles.oertel"
+   kind="dir"
+   uuid="d86654f9-5701-0410-bb18-eb70f6cf68f4"
+   repos="svn://edison.tsf.org.za/freedomtoaster"
+   revision="491"/>
+<entry
+   committed-rev="359"
+   name="tooltip.css"
+   text-time="2006-06-07T07:21:41.000000Z"
+   committed-date="2006-05-26T15:11:00.778982Z"
+   checksum="9dc5684d81137fc7a68bf839b7fb6e7a"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-06-07T07:21:41.000000Z"/>
+<entry
+   name="images"
+   kind="dir"/>
+<entry
+   committed-rev="441"
+   name="burners.css"
+   text-time="2006-11-03T09:15:13.000000Z"
+   committed-date="2006-06-10T16:58:51.252539Z"
+   checksum="76990bf49b8b1c74b8f0ef408e064ffe"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:13.000000Z"/>
+<entry
+   committed-rev="449"
+   name="kiosk.css"
+   text-time="2006-11-03T09:15:13.000000Z"
+   committed-date="2006-06-11T11:48:56.856406Z"
+   checksum="51661428d466888103b63c38be07f0fb"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:13.000000Z"/>
+</wc-entries>

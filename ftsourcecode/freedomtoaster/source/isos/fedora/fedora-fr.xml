@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<distro>
+   <name>Fedora</name>
+   <description>Version communautaire de RedHat Linux</description>
+   <advantages>
+      <advantage>Il est basé sur une version bien connue et stable de Linux : RedHat 9</advantage>
+      <advantage>C'est un projet soutenu par une communauté</advantage>
+      <advantage>Il a le soutien du plus gros vendeur mondial de Linux</advantage>
+   </advantages>
+   <disadvantages>
+      <disadvantage>Il n'est pas aussi simple au premier abord que Ubuntu, SUSE ou Mandrake</disadvantage>
+      <disadvantage>Il n'en est qu'à sa deuxième version en tant que distribution</disadvantage>
+      <disadvantage>Il n'est pas aussi adapté à l'usage bureautique que d'autres distributions</disadvantage>
+   </disadvantages>
+   <defaults>
+     <defaultVersion>fedora|FC5|CD|5</defaultVersion>
+   </defaults>
+</distro>

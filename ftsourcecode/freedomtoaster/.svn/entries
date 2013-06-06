@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="349"
+   name=""
+   committed-date="2006-05-24T13:31:08.327059Z"
+   url="svn://edison.tsf.org.za/freedomtoaster/trunk"
+   last-author="charl.vanniekerk"
+   kind="dir"
+   uuid="d86654f9-5701-0410-bb18-eb70f6cf68f4"
+   repos="svn://edison.tsf.org.za/freedomtoaster"
+   revision="349"/>
+<entry
+   name="source"
+   kind="dir"/>
+<entry
+   name="docs"
+   kind="dir"/>
+</wc-entries>

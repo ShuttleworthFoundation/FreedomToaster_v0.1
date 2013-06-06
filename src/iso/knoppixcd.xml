@@ -1,0 +1,8 @@
+<iso>
+<displayname>Knoppix 5.1 (CD)</displayname>
+<description>Knoppix is a GNU/Linux distribution that boots and runs completely from cd. It includes recent linux software and desktop environments.</description>
+<longdescription>Knoppix is a GNU/Linux distribution that boots and runs completely from cd. It includes recent linux software and desktop environments.</longdescription>
+<picture>knoppix.png</picture>
+<filename>FC-6-i386-disc1.iso</filename>
+<type>CD</type>
+</iso>

@@ -1,0 +1,3 @@
+English;en
+Français;fr_FR.utf8
+#Italiano;it_IT

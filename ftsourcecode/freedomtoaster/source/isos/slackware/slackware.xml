@@ -1,0 +1,18 @@
+<?xml version='1.0'?>
+<distro>
+   <name>Slackware</name>
+   <description>Once you Slack you'll never go back</description>
+   <advantages>
+      <advantage>This is one of the first distributions of Linux to be released</advantage>
+      <advantage>It is stable and well-known</advantage>
+      <advantage>It is one of the fastest-running systems you can get (barring Gentoo of course)</advantage>
+      <advantage>It has a very loyal following</advantage>
+   </advantages>
+   <disadvantages>
+      <disadvantage>Due to the simplicity of the distro, it requires you to know how to set up a linux machine - nothing is automated</disadvantage>
+      <disadvantage>It is harder to keep up-to-date than systems like Gentoo or Debian or even Redhat</disadvantage>
+   </disadvantages>
+   <defaults>
+     <defaultVersion>slackware|10.2|CD|4</defaultVersion>
+   </defaults>
+</distro>

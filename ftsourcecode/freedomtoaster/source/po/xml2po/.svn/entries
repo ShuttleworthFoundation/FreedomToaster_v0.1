@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="408"
+   name=""
+   committed-date="2006-06-03T11:20:17.686332Z"
+   url="svn://edison.tsf.org.za/freedomtoaster/trunk/source/po/xml2po"
+   last-author="claude.paroz"
+   kind="dir"
+   uuid="d86654f9-5701-0410-bb18-eb70f6cf68f4"
+   repos="svn://edison.tsf.org.za/freedomtoaster"
+   revision="491"/>
+<entry
+   committed-rev="408"
+   name="xhtml.py"
+   text-time="2006-06-07T07:21:57.000000Z"
+   committed-date="2006-06-03T11:20:17.686332Z"
+   checksum="dc490cdd6200fc0a195d7794b6f80f3e"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-06-07T07:21:57.000000Z"/>
+<entry
+   committed-rev="408"
+   name="docbook.py"
+   text-time="2006-06-07T07:21:57.000000Z"
+   committed-date="2006-06-03T11:20:17.686332Z"
+   checksum="ef8827fbb101f98d91e10b4de5b1078b"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-06-07T07:21:57.000000Z"/>
+<entry
+   committed-rev="408"
+   name="xml2po.py"
+   text-time="2006-06-07T07:21:57.000000Z"
+   committed-date="2006-06-03T11:20:17.686332Z"
+   checksum="ea3890500d870f2fda100463554ee671"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-06-07T07:21:57.000000Z"/>
+<entry
+   committed-rev="408"
+   name="README"
+   text-time="2006-06-07T07:21:57.000000Z"
+   committed-date="2006-06-03T11:20:17.686332Z"
+   checksum="0488080059e1914eaa8df1e43c1c29ea"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-06-07T07:21:57.000000Z"/>
+</wc-entries>

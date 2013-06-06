@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sayings>
+	<saying>
+		<title>Why switch to Open Source Software</title>
+		<subtitle1>It's free of licensing fees</subtitle1>
+		<content1>Open Source software is free of licensing fees, but that does not mean it is 'unlicensed'.  It is fully licensed and legal.</content1>
+		<subtitle2>It's free</subtitle2>
+		<content2>Not free as in <em>free beer</em>, but free as in <em>freedom of speech</em>.  The license explicitly gives you the right to use the software in whatever way you like.  Not only that, you are allowed (and indeed encouraged) to change it to suit your needs.  Whether you change it or not, you are allowed to make as many copies as you like, and give them away or sell them.  The only restriction is that you do not restrict the rights of those you give or sell the software to to do the same.</content2>
+	</saying>
+	<saying>
+		<title>Are my favourite software products Open Source?</title>
+		<subtitle1>Popular packages</subtitle1>
+		<content1>There are Open Source equivalents of most office products, including word processors, spreadsheets and presentation packages</content1>
+		<subtitle2>Sourceforge.net has over 50,000 projects registered</subtitle2>
+		<content2><span class="emph">Sourceforge.net</span> is a major software repository. This is where most Open Source developers register their projects. If you are looking for a particular piece of software, this is always a good place to start</content2>
+	</saying>
+	<saying>
+		<title>What computer hardware does Linux run on?</title>
+		<subtitle1>Wide support</subtitle1>
+		<content1>Linux has, probably, the widest support for hardware of any operating system currently available. From Intel and AMD x86 hardware (PC's) to IBM system 390 mainframes. From PDA's to wearable Linux in the form of a watch</content1>
+		<subtitle2>Yes you can!</subtitle2>
+		<content2>You can load Linux onto you PC at home, in the office or your laptop computer.</content2>
+	</saying>
+	<saying>
+		<title>Will I be able to do everything I did before?</title>
+		<subtitle1>Versatile</subtitle1>
+		<content1>Linux and Open Source software is so versatile that you will be able to do MORE than you did before.</content1>
+		<subtitle2>Virtual Desktops</subtitle2>
+		<content2>Unlike other Operating Systems, Linux runs a graphical user interface that allows you to have a variety of applications open simultaneously, in different windows, without one interfering with the others</content2>
+	</saying>
+	<saying>
+		<title>Is Linux difficult to learn?</title>
+		<subtitle1>No and yes</subtitle1>
+		<content1>No, Linux is not difficult to learn. However, it is a little like Pandora's box. The more you learn, the more fascinating it becomes. So, in this sense, YES, it is difficult to learn because you will never reach the end of what you can learn</content1>
+		<subtitle2>Help!</subtitle2>
+		<content2>Is around the corner. In Cape Town there are two Linux User Groups. The Cape Linux User Group (www.clug.org.za) meets once a month to discuss all matters Linux related - and their email list provides top-notch technical support faster than most commercial IT support companies. The Schools Linux User Group (www.slug.org.za) are on a mission to install Linux labs in over 100 schools across the Peninsula</content2>
+	</saying>
+	<saying>
+		<title>Where can I get Linux?</title>
+		<subtitle1>Right here!</subtitle1>
+		<content1>This <em>Freedom Toaster</em> has been built so that you can  make copy of some of the best Open Source software and Creative Commons publications right here right now.</content1>
+		<subtitle2>You mean NOW?</subtitle2>
+		<content2>In order to burn your stuff to CD, bring some blank CD-ROMs or CD-RWs (you should be able to buy some near this machine) and begin TOASTING</content2>
+	</saying>
+</sayings>

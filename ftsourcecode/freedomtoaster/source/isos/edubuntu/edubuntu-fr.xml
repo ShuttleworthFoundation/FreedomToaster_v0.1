@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<distro>
+   <name>EdUbuntu</name>
+   <description>Le nouveau défi de Mark Shuttleworth</description>
+   <advantages>
+      <advantage>Basé sur la célèbre distribution Ubuntu</advantage>
+      <advantage>Il est spécialement adapté à un usage bureautique</advantage>
+      <advantage>Il tient sur un seul disque</advantage>
+      <advantage>Il est simple à installer</advantage>
+      <advantage>Il est recommandé pour les débutants</advantage>
+      <advantage>La version la plus récente définit le standard dans de nombreux domaines</advantage>
+   </advantages>
+   <disadvantages>
+      <disadvantage>Voyez-vous des désavantages à équiper des écoles avec des logiciels libres ?</disadvantage>
+   </disadvantages>
+   <defaults>
+     <defaultVersion>edubuntu|5.10-Install-Breezy|CD|1</defaultVersion>
+   </defaults>
+</distro>

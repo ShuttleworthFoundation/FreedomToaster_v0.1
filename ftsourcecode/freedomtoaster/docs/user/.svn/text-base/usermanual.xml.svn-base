@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.4//EN"
+                      "http://www.docbook.org/xml/4.4/docbookx.dtd" [
+<!ENTITY % globalent SYSTEM "../common/global.ent">
+%globalent;
+]>
+<book>
+	<bookinfo>
+		<title>User Manual</title>
+		<subtitle>Using the Freedom Toaster</subtitle>
+		<author>
+			<firstname>Sean</firstname>
+			<surname>Wheller</surname>
+		</author> &licensenotice; <!-- TRANS:ROLES_OF_TRANSLATORS -->
+	</bookinfo>
+	<chapter>
+		<title>Introduction</title>
+		<para>The software interface of the Freedom Toaster is designed to be as easy and intuitive to
+			use as possible. In fact the interface is so easy to use that most users will not have to use
+			this manual in order to operate it. Nevertheless, we have provided this manual because it
+			completes the Freedom Toaster as a whole-product.</para>
+		<sect1>
+			<title>Scope</title>
+			<para>This document explains how to navigate the Freedom Toaster software interface and how
+				complete the task of selecting and burning digital content or software to CD or DVD
+			media.</para>
+		</sect1>
+		<sect1>
+			<title>Prerequisites</title>
+			<para>This document assumes that the reader already has an understanding that the Freedom
+				Toaster is a low-tech digital kiosk that is preloaded with digital content and software
+				which is licensed under free and open license.</para>
+		</sect1>
+		<sect1 id="docs">
+			<title>Associated Documentation</title>
+			<para>The following documents are associated with this document:</para>
+			<variablelist> &assembly-desc; &installation-desc; &maintenance-desc;
+				&customization-desc; <!--&user-desc;--></variablelist>
+		</sect1>
+		<sect1>
+			<title>Requirements</title>
+			<para>To make best use of this document the following requirements are recommended.</para>
+			<itemizedlist>
+				<listitem>
+					<para>A serviceable Freedom Toaster.</para>
+				</listitem>
+				<listitem>
+					<para>Blank CD-ROM or DVD media as is applicable.</para>
+				</listitem>
+			</itemizedlist>
+		</sect1>
+	</chapter>
+	<chapter>
+		<title>Toasting</title>
+		<para>In this chapter we explore the Freedom Toaster software interface and how to navigate it
+			and how to toast.</para>
+		<sect1>
+			<title>Touch Screen Interaction</title>
+			<para>Unlike most computers where you are actively encouraged not to touch the monitor for
+				fear of leaving grubby finger smudges all over, with a Freedom Toaster you must touch in
+				order to do anything. Instead of using a keyboard or mouse device Freedom Toasters use a
+				special touch screen monitor as the primary human machine interface.</para>
+			<informalfigure>
+				<mediaobject>
+					<imageobject>
+						<imagedata fileref="images/touch.png" format="PNG" align="center" scalefit="1"
+							depth="10cm"/>
+					</imageobject>
+				</mediaobject>
+			</informalfigure>
+			<para>Freedom Toasters have feelings. They react best when touched gently, but firmly, with
+				clean and dry fingers. Improved performance and response can be obtained by ensuring that
+				you only use the very tip of your index finger when touching the monitor.</para>
+		</sect1>
+		<sect1>
+			<title>Screen Navigation</title>
+			<para>The Freedom Toaster software provides an intuitive graphical user interface. The
+				interface consistently arranges screen real-estate, placing text and images in the same
+				locations. The screen arrangement makes it easy to navigate the Freedom Toaster screens. The
+				figure below illustrates the main areas of the Freedom Toaster software interface.</para>
+
+			<informalfigure>
+				<mediaobject>
+					<imageobject>
+						<imagedata fileref="images/screen-estate.png" format="PNG" align="center"/>
+					</imageobject>
+				</mediaobject>
+			</informalfigure>
+			<variablelist>
+				<varlistentry>
+					<term>
+						<emphasis role="bold">Devices</emphasis>
+					</term>
+					<listitem>
+						<para>The status of the Freedom Toasters CD/DVD devices is displayed on the left of the
+							screen. Each device status is shown and during operation additional &quot;status
+							to complete&quot; information pertaining to the current job is displayed as a
+							percentage.</para>
+					</listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>
+						<emphasis role="bold">Navigation Buttons</emphasis>
+					</term>
+					<listitem>
+						<para>The navigation buttons <guibutton>Previous</guibutton>,
+							<guibutton>Next</guibutton> enable the screens of the Freedom Toaster to be traversed
+							in sequential order. At any time touching the <guibutton>Home</guibutton> button
+							returns the program to the main screen.</para>
+					</listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>
+						<emphasis role="bold">Action Buttons</emphasis>
+					</term>
+					<listitem>
+						<para>Buttons of the action type are normally associated with Freedom Toaster
+							operations. Action button labels give a clue about the operation or function they
+							perform.</para>
+					</listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>
+						<emphasis role="bold">Menus/Option</emphasis>
+					</term>
+					<listitem>
+						<para>Menus organize the content of a Freedom Toaster into logical groupings indicated
+							by graphic images. For example the distros menu will thouch-through to a screen with
+							menus to select distros for schools, new users, experienced users and expert users.
+							Within each group menus may contain more sub-menus or menu options.</para>
+					</listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>
+						<emphasis role="bold">Screen Title</emphasis>
+					</term>
+					<listitem>
+						<para>Freedom Toaster Screens are titled across the top so as to quickly introduce the
+							on screen content.</para>
+					</listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>
+						<emphasis role="bold">Message</emphasis>
+					</term>
+					<listitem>
+						<para>Beneath the title each screen provide a brief message to contextualize the menus
+							available from the screen.</para>
+					</listitem>
+				</varlistentry>
+			</variablelist>
+			<note>
+				<para>When unattended the Freedom Toaster program will cycle though the screens.</para>
+			</note>
+		</sect1>
+		<sect1>
+			<title>Placing Orders</title>
+			<para>...</para>
+		</sect1>
+
+	</chapter>
+	<chapter>
+		<title>Administration</title>
+		<para>...</para>
+	</chapter>
+</book>

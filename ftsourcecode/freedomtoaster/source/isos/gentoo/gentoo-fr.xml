@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<distro>
+   <name>Gentoo</name>
+   <description>C'est vraiment notre favori</description>
+   <advantages>
+      <advantage>Gentoo utilise le système « emerge » pour installer et mettre à jour les paquets. Cela permet au système d'être toujours au point</advantage>
+      <advantage>En conséquence, Gentoo est TRÈS proche de votre matériel, il est compilé pour lui !</advantage>
+      <advantage>Ses partisans sont de plus en plus nombreux</advantage>
+   </advantages>
+   <disadvantages>
+      <disadvantage>Pour tirer le meilleur profit de Gentoo, il s'agit d'être connecté à Internet</disadvantage>
+      <disadvantage>Certains débutants de Linux trouvent Gentoo difficile à installer et à configurer</disadvantage>
+      <disadvantage>Il privilégie les logiciels les plus récents par rapport à la stabilité</disadvantage>
+   </disadvantages>
+   <defaults>
+     <defaultVersion>gentoo|2005.0|CD|2</defaultVersion>
+   </defaults>
+</distro>

@@ -1,0 +1,18 @@
+Source: freedomtoaster
+Section: web
+Priority: optional
+Maintainer: Freedom Toaster Project <ft-user@freedomtoaster.org>
+Build-Depends-Indep: debhelper (>= 4.0.0), gnome-doc-utils, inkscape
+Standards-Version: 3.6.1.0
+
+Package: freedomtoaster
+Architecture: all
+Depends: debconf, apache2, perl, libcache-cache-perl, libxml-simple-perl, libxml-libxml-perl, libfile-cache-perl, x-window-system-core, firefox, cdrecord, dvd+rw-tools
+Description: GUI frontend to the Freedom Toaster
+ The Freedom Toaster is a conveniently located, self-contained ‘Bring 'n Burn'
+ facility, where users bring their own blank discs and make copies of the open
+ source software they require.
+ .
+ This software is created and maintained by
+ the Freedom Toaster Project <ft-user@freedomtoaster.org>
+ 

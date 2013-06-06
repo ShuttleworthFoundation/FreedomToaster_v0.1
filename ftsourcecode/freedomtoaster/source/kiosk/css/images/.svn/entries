@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="435"
+   name=""
+   committed-date="2006-06-10T13:55:00.544663Z"
+   url="svn://edison.tsf.org.za/freedomtoaster/trunk/source/kiosk/css/images"
+   last-author="charles.oertel"
+   kind="dir"
+   uuid="d86654f9-5701-0410-bb18-eb70f6cf68f4"
+   repos="svn://edison.tsf.org.za/freedomtoaster"
+   revision="491"/>
+<entry
+   committed-rev="23"
+   name="H_button.gif"
+   text-time="2006-05-25T12:15:13.000000Z"
+   committed-date="2005-11-11T08:59:05.887670Z"
+   checksum="f9e3df5533032c9f70a8ffd51d7739ca"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:10.000000Z"/>
+<entry
+   committed-rev="23"
+   name="L_button2.xcf"
+   text-time="2006-05-25T12:15:12.000000Z"
+   committed-date="2005-11-11T08:59:05.887670Z"
+   checksum="71f6dd0a1cfd8246731930c597b44918"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:07.000000Z"/>
+<entry
+   committed-rev="23"
+   name="K_button.gif"
+   text-time="2006-05-25T12:15:12.000000Z"
+   committed-date="2005-11-11T08:59:05.887670Z"
+   checksum="eb2e3219fd892dee9b719b5079494a75"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:08.000000Z"/>
+<entry
+   committed-rev="23"
+   name="L_button.gif"
+   text-time="2006-05-25T12:15:13.000000Z"
+   committed-date="2005-11-11T08:59:05.887670Z"
+   checksum="afdaba0e7970f7ac0ea7c61e5ede721d"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:10.000000Z"/>
+<entry
+   committed-rev="435"
+   name="language-bg.png"
+   text-time="2006-11-03T09:15:13.000000Z"
+   committed-date="2006-06-10T13:55:00.544663Z"
+   checksum="db1eba2dac1eb940a8f0720865a9a7e7"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:13.000000Z"/>
+<entry
+   committed-rev="23"
+   name="R_button2.xcf"
+   text-time="2006-05-25T12:15:13.000000Z"
+   committed-date="2005-11-11T08:59:05.887670Z"
+   checksum="5dc90afa804bba8cde99a228ddc06f49"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:08.000000Z"/>
+<entry
+   committed-rev="435"
+   name="language_button.xcf"
+   text-time="2006-11-03T09:15:13.000000Z"
+   committed-date="2006-06-10T13:55:00.544663Z"
+   checksum="7971d512d69d50940da71c23ca10e1ed"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:13.000000Z"/>
+<entry
+   committed-rev="23"
+   name="R_button.gif"
+   text-time="2006-05-25T12:15:13.000000Z"
+   committed-date="2005-11-11T08:59:05.887670Z"
+   checksum="4f0f44609a1a6caf89e42fb6f8c95587"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:10.000000Z"/>
+<entry
+   committed-rev="23"
+   name="H_button.xcf"
+   text-time="2006-05-25T12:15:13.000000Z"
+   committed-date="2005-11-11T08:59:05.887670Z"
+   checksum="b70cd54b6a8a606c20d7003da95987d7"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:11.000000Z"/>
+<entry
+   committed-rev="23"
+   name="K_button.xcf"
+   text-time="2006-05-25T12:15:13.000000Z"
+   committed-date="2005-11-11T08:59:05.887670Z"
+   checksum="090dfb1828e0ce645cae753cf9f676f4"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:09.000000Z"/>
+<entry
+   committed-rev="23"
+   name="L_button.xcf"
+   text-time="2006-05-25T12:15:13.000000Z"
+   committed-date="2005-11-11T08:59:05.887670Z"
+   checksum="9e1d75a770210002a9bbff410fb1af2e"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:12.000000Z"/>
+<entry
+   committed-rev="4"
+   name="listicon.png"
+   text-time="2006-05-25T12:15:13.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="a2ee0ecd8a63790faf69a872402ab75c"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:12.000000Z"/>
+<entry
+   committed-rev="23"
+   name="selectorBG.xcf"
+   text-time="2006-05-25T12:15:13.000000Z"
+   committed-date="2005-11-11T08:59:05.887670Z"
+   checksum="548ef3764379f7149579a4c79b40afc5"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:09.000000Z"/>
+<entry
+   committed-rev="435"
+   name="burnersBG.xcf"
+   text-time="2006-11-03T09:15:13.000000Z"
+   committed-date="2006-06-10T13:55:00.544663Z"
+   checksum="276fb0fbbe8a0536673f672741380003"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:13.000000Z"/>
+<entry
+   committed-rev="435"
+   name="burnersBG.png"
+   text-time="2006-11-03T09:15:13.000000Z"
+   committed-date="2006-06-10T13:55:00.544663Z"
+   checksum="6e321f6f30e3bbb7c4791d1c245157d0"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:13.000000Z"/>
+<entry
+   committed-rev="435"
+   name="selectorBG.png"
+   text-time="2006-11-03T09:15:13.000000Z"
+   committed-date="2006-06-10T13:55:00.544663Z"
+   checksum="76992e3cd04a356e5180f18de70785f0"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:13.000000Z"/>
+<entry
+   committed-rev="44"
+   name="burner.xcf"
+   text-time="2006-05-25T12:15:13.000000Z"
+   committed-date="2006-02-18T14:29:08.287730Z"
+   checksum="86ae057f2e6c5df4e619228148295da2"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:12.000000Z"/>
+</wc-entries>

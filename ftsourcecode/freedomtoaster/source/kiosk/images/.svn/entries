@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="489"
+   name=""
+   committed-date="2006-07-12T04:45:37.377047Z"
+   url="svn://edison.tsf.org.za/freedomtoaster/trunk/source/kiosk/images"
+   last-author="charles.oertel"
+   kind="dir"
+   uuid="d86654f9-5701-0410-bb18-eb70f6cf68f4"
+   repos="svn://edison.tsf.org.za/freedomtoaster"
+   revision="491"/>
+<entry
+   committed-rev="342"
+   name="ImpiLinux-230x72.svg"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2006-05-23T14:49:49.049646Z"
+   checksum="e656b233a79271a4ef7ea315fef6c37f"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:14:55.000000Z"/>
+<entry
+   committed-rev="4"
+   name="clusterknoppixB.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="90adf53fe2a21d2cc5435b4e105ab7d1"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:56.000000Z"/>
+<entry
+   committed-rev="23"
+   name="edubuntuA.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-11-11T08:59:05.887670Z"
+   checksum="d904df75e405d2921ecaf9a633411522"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:56.000000Z"/>
+<entry
+   committed-rev="23"
+   name="edubuntuB.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-11-11T08:59:05.887670Z"
+   checksum="12db2e94b93821ec2f8c53f03885d6f9"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:56.000000Z"/>
+<entry
+   committed-rev="416"
+   name="mandriva.xcf"
+   text-time="2006-06-07T07:21:41.000000Z"
+   committed-date="2006-06-05T09:08:32.287028Z"
+   checksum="6a79d1dc567b33337e8e49c4ab6c0f99"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-06-07T07:21:41.000000Z"/>
+<entry
+   committed-rev="342"
+   name="toasterpack-230x72.svg"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2006-05-23T14:49:49.049646Z"
+   checksum="d8052df05ee7c82b2f1001772ff234b2"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:14:57.000000Z"/>
+<entry
+   committed-rev="4"
+   name="cdrw.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="4f5ec4f46c9e1a4d3c6b5149d2cd19a7"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:57.000000Z"/>
+<entry
+   committed-rev="4"
+   name="cdrw_dark.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="2383280b61306fb0d1b0720c9a347dcf"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:57.000000Z"/>
+<entry
+   committed-rev="4"
+   name="fedoraA.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="763fa0820226f0cb68fc1f5e62b6ee3e"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:57.000000Z"/>
+<entry
+   committed-rev="4"
+   name="fedoraB.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="c3d5a51303abf02ec3b5f3715f6ac76e"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:57.000000Z"/>
+<entry
+   committed-rev="4"
+   name="gutenberg.gif"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="ce15cb990f9798736f8bb764fc229ef3"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:57.000000Z"/>
+<entry
+   committed-rev="4"
+   name="template.xcf"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="6a79d1dc567b33337e8e49c4ab6c0f99"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:57.000000Z"/>
+<entry
+   committed-rev="4"
+   name="oofficeB.xcf"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="941ce648a7e1a65a892c69be16d77f35"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:58.000000Z"/>
+<entry
+   committed-rev="470"
+   name="ccnoncommercial.gif"
+   text-time="2006-11-03T09:15:13.000000Z"
+   committed-date="2006-06-14T17:48:29.904819Z"
+   checksum="527eb1f6866b9d95485d3abd3a3ce4cb"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:13.000000Z"/>
+<entry
+   committed-rev="326"
+   name="file.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2006-05-19T08:07:06.687286Z"
+   checksum="9c95f1f60db2d487938ce63d3b40dbee"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:58.000000Z"/>
+<entry
+   committed-rev="23"
+   name="kubuntu_f2.xcf"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-11-11T08:59:05.887670Z"
+   checksum="a0bb4504dd97b4a227539ad0c79120f1"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:58.000000Z"/>
+<entry
+   committed-rev="438"
+   name="toasterA.png"
+   text-time="2006-11-03T09:15:13.000000Z"
+   committed-date="2006-06-10T16:49:26.877999Z"
+   checksum="cb931ed6f99c4358ed6ca39df91c0d2f"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:13.000000Z"/>
+<entry
+   committed-rev="4"
+   name="gutenbergA.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="fd73bb9924b104ed99ff69f031472778"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:58.000000Z"/>
+<entry
+   committed-rev="4"
+   name="debianA.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="ddc048b5f3262ba2c3cbcf5e082ae311"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:58.000000Z"/>
+<entry
+   committed-rev="438"
+   name="toasterB.png"
+   text-time="2006-11-03T09:15:13.000000Z"
+   committed-date="2006-06-10T16:49:26.877999Z"
+   checksum="cb931ed6f99c4358ed6ca39df91c0d2f"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:13.000000Z"/>
+<entry
+   committed-rev="4"
+   name="debianB.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="6ced5d5579f8507bba4ee423c82ab19c"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:58.000000Z"/>
+<entry
+   committed-rev="4"
+   name="gutenbergB.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="ed892dbda8e816bbd61ea3be89c12194"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:58.000000Z"/>
+<entry
+   committed-rev="4"
+   name="AniButtonTemplate.xcf"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="76c412eb18d79079124106552d68db3c"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:14:59.000000Z"/>
+<entry
+   committed-rev="342"
+   name="toasterpack.svg"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2006-05-23T14:49:49.049646Z"
+   checksum="aa8cf7c76ee130273e2f09facd016ed5"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:01.000000Z"/>
+<entry
+   committed-rev="4"
+   name="firemonger.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="0d3b8fbc390188077c4d49fe46e98a2b"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:01.000000Z"/>
+<entry
+   committed-rev="4"
+   name="firemongerA.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="06517f6a58825012f62ea2eee837b637"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:01.000000Z"/>
+<entry
+   committed-rev="4"
+   name="firemongerB.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="1170bfd5a182caef8d65e86f985795df"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:01.000000Z"/>
+<entry
+   committed-rev="438"
+   name="go-open.xcf"
+   text-time="2006-11-03T09:15:13.000000Z"
+   committed-date="2006-06-10T16:49:26.877999Z"
+   checksum="98d4b109dd18102c6be81aaaefcfbdb7"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:13.000000Z"/>
+<entry
+   committed-rev="4"
+   name="k12ltspA.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="45dbfa2e523f1f9595a4aa7d81f31527"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:01.000000Z"/>
+<entry
+   committed-rev="4"
+   name="k12ltspB.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="df6f38810949f44cd1f8f4f3e07d5635"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:01.000000Z"/>
+<entry
+   committed-rev="23"
+   name="Button.xcf"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-11-11T08:59:05.887670Z"
+   checksum="a82727483c2d3a5b8fb0e556a6678a1a"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:01.000000Z"/>
+<entry
+   committed-rev="470"
+   name="ccnoderivatives.gif"
+   text-time="2006-11-03T09:15:13.000000Z"
+   committed-date="2006-06-14T17:48:29.904819Z"
+   checksum="643591eb65048d9e2ff7e458b25322a5"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:13.000000Z"/>
+<entry
+   committed-rev="4"
+   name="shuttleworth.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="a48154544c587d309a196ef7d406948c"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:01.000000Z"/>
+<entry
+   committed-rev="438"
+   name="toaster.xcf"
+   text-time="2006-11-03T09:15:13.000000Z"
+   committed-date="2006-06-10T16:49:26.877999Z"
+   checksum="0976e5830b087c4cd91e35ea05924b84"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:13.000000Z"/>
+<entry
+   committed-rev="4"
+   name="firemonger.gif"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="4015232b943d6fc0d65024bb24517012"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:01.000000Z"/>
+<entry
+   committed-rev="4"
+   name="suseA.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="8959da91ee1a84692a9a671fa9cb10da"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:01.000000Z"/>
+<entry
+   committed-rev="342"
+   name="toasterpackA.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2006-05-23T14:49:49.049646Z"
+   checksum="58c6819c04df1c22ac2e444296e08ff5"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:01.000000Z"/>
+<entry
+   committed-rev="4"
+   name="suseB.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="93e5d7a38f998e9813565d84f3e05240"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:01.000000Z"/>
+<entry
+   committed-rev="342"
+   name="toasterpackB.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2006-05-23T14:49:49.049646Z"
+   checksum="794e99e404f2fedc5e5f1b682f4b29f9"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:01.000000Z"/>
+<entry
+   committed-rev="410"
+   name="CCFind.xcf"
+   text-time="2006-06-07T07:21:41.000000Z"
+   committed-date="2006-06-03T16:38:35.722345Z"
+   checksum="c13eb027da93c92de9bccb58850b910b"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-06-07T07:21:41.000000Z"/>
+<entry
+   committed-rev="4"
+   name="ubuntuA.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="62ec4ef9b61a517783f03cdb70da0df4"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:01.000000Z"/>
+<entry
+   committed-rev="4"
+   name="ubuntuB.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="c0ab283f13ab5fac66969d4598559f07"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:01.000000Z"/>
+<entry
+   committed-rev="410"
+   name="CCFindA.png"
+   text-time="2006-06-07T07:21:41.000000Z"
+   committed-date="2006-06-03T16:38:35.722345Z"
+   checksum="021a94cb3cee985437233b6d90a5a7be"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-06-07T07:21:41.000000Z"/>
+<entry
+   committed-rev="489"
+   name="CentOS.xcf"
+   text-time="2006-11-03T09:15:13.000000Z"
+   committed-date="2006-07-12T04:45:37.377047Z"
+   checksum="e1b6a3996d76bedf7d1be797c3a60cb6"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:13.000000Z"/>
+<entry
+   committed-rev="410"
+   name="CCFindB.png"
+   text-time="2006-06-07T07:21:41.000000Z"
+   committed-date="2006-06-03T16:38:35.722345Z"
+   checksum="4a7cf1a5d6d10550d00fbc2fb29c2c0a"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-06-07T07:21:41.000000Z"/>
+<entry
+   committed-rev="4"
+   name="linux.xcf"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="9ad0c6eb1507d7cfb76c034983515dc1"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:02.000000Z"/>
+<entry
+   committed-rev="4"
+   name="gentooA.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="6846673a7483bc7527389d748b5bb7d2"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:02.000000Z"/>
+<entry
+   committed-rev="489"
+   name="centosA.png"
+   text-time="2006-11-03T09:15:13.000000Z"
+   committed-date="2006-07-12T04:45:37.377047Z"
+   checksum="426c7cd6260b8c1945ad6dc28e02fbe4"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:13.000000Z"/>
+<entry
+   committed-rev="4"
+   name="gentooB.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="db607263f10628c526f9360a6e891337"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:02.000000Z"/>
+<entry
+   committed-rev="489"
+   name="centosB.png"
+   text-time="2006-11-03T09:15:13.000000Z"
+   committed-date="2006-07-12T04:45:37.377047Z"
+   checksum="639860f83de325720cff6668edeefb54"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:13.000000Z"/>
+<entry
+   committed-rev="23"
+   name="kubuntuA.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-11-11T08:59:05.887670Z"
+   checksum="e3330f3cc15c0f2f04c86011e4dc5c73"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:02.000000Z"/>
+<entry
+   committed-rev="470"
+   name="ccsharealike.gif"
+   text-time="2006-11-03T09:15:13.000000Z"
+   committed-date="2006-06-14T17:48:29.904819Z"
+   checksum="c67fc357b9dcd912674941fe77fb04f5"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:13.000000Z"/>
+<entry
+   committed-rev="23"
+   name="kubuntuB.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-11-11T08:59:05.887670Z"
+   checksum="58530a3becfad0a461beca01b3486b4b"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:02.000000Z"/>
+<entry
+   committed-rev="470"
+   name="attrib.gif"
+   text-time="2006-11-03T09:15:13.000000Z"
+   committed-date="2006-06-14T17:48:29.904819Z"
+   checksum="9d11443a633066736f2520fb181d5f7b"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:13.000000Z"/>
+<entry
+   committed-rev="326"
+   name="folder.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2006-05-19T08:07:06.687286Z"
+   checksum="b49d002a6d00ecfe22e7cf12b09e67a4"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:02.000000Z"/>
+<entry
+   committed-rev="4"
+   name="favicon.ico"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="b922287dfbb311c3e5611f9ffe68fc43"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:02.000000Z"/>
+<entry
+   committed-rev="4"
+   name="slackwareA.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="8640c217b4619c3d0e6fc011c63338d4"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:02.000000Z"/>
+<entry
+   committed-rev="23"
+   name="edubuntu_f2.xcf"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-11-11T08:59:05.887670Z"
+   checksum="a0bb4504dd97b4a227539ad0c79120f1"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:03.000000Z"/>
+<entry
+   committed-rev="4"
+   name="slackwareB.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="abd09a0f811f1bbe0bf1ca953b22731d"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:03.000000Z"/>
+<entry
+   committed-rev="4"
+   name="blinking.gif"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="f427b1db660e99802688f89eaacaffe2"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:03.000000Z"/>
+<entry
+   committed-rev="23"
+   name="openlabA.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-11-11T08:59:05.887670Z"
+   checksum="5f44e6777a3c15adcfef451b66809247"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:03.000000Z"/>
+<entry
+   committed-rev="23"
+   name="openlabB.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-11-11T08:59:05.887670Z"
+   checksum="344d61797aec725bf40d770b64979720"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:03.000000Z"/>
+<entry
+   committed-rev="4"
+   name="header.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="89bd7e5b1fe41de3018507b6b11ef5d8"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:03.000000Z"/>
+<entry
+   committed-rev="342"
+   name="ImpiLinux.svg"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2006-05-23T14:49:49.049646Z"
+   checksum="e7a1b5d8b621e08ec62215400a5fa6b4"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:03.000000Z"/>
+<entry
+   committed-rev="4"
+   name="whiteboxA.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="2bc04f1284b1ba4204b32cfca090cd9d"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:03.000000Z"/>
+<entry
+   committed-rev="4"
+   name="whiteboxB.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="4c1dd4cea463bed93de9e1617fd683fe"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:04.000000Z"/>
+<entry
+   committed-rev="43"
+   name="arrow1.gif"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2006-02-17T13:56:20.156148Z"
+   checksum="a8e979a61b71163a68ea28fb86d6f00b"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:04.000000Z"/>
+<entry
+   committed-rev="43"
+   name="arrow2.gif"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2006-02-17T13:56:20.156148Z"
+   checksum="5d021b4c359fd8b29aa0e6638b978e4b"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:04.000000Z"/>
+<entry
+   committed-rev="43"
+   name="arrow3.gif"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2006-02-17T13:56:20.156148Z"
+   checksum="534588f643b74a3fdd122825fd5dd69f"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:04.000000Z"/>
+<entry
+   committed-rev="213"
+   name="impiA.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2006-05-06T16:21:15.943264Z"
+   checksum="2fa48b921bb4ae8be1898ee9a902130f"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:04.000000Z"/>
+<entry
+   committed-rev="44"
+   name="arrow4.gif"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2006-02-18T14:29:08.287730Z"
+   checksum="4ff3e9ee2bd91ee4ab8eafb912db377f"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:04.000000Z"/>
+<entry
+   committed-rev="212"
+   name="linuxA.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2006-05-06T16:15:14.984713Z"
+   checksum="1f79b2e38e5e690225088892ac9cd3e7"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:04.000000Z"/>
+<entry
+   committed-rev="213"
+   name="impiB.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2006-05-06T16:21:15.943264Z"
+   checksum="f804679c9785309a044aab8d2dadabdc"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:04.000000Z"/>
+<entry
+   committed-rev="212"
+   name="linuxB.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2006-05-06T16:15:14.984713Z"
+   checksum="7e7376a96964b4d829953b8276cb1565"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:05.000000Z"/>
+<entry
+   committed-rev="416"
+   name="mandrivaA.png"
+   text-time="2006-06-07T07:21:41.000000Z"
+   committed-date="2006-06-05T09:08:32.287028Z"
+   checksum="007ba9ba37d8dafe2fa26a5e26118fe4"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-06-07T07:21:41.000000Z"/>
+<entry
+   committed-rev="416"
+   name="mandrivaB.png"
+   text-time="2006-06-07T07:21:41.000000Z"
+   committed-date="2006-06-05T09:08:32.287028Z"
+   checksum="e1261b9da7f718c5557021ff1bbe80d1"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-06-07T07:21:41.000000Z"/>
+<entry
+   committed-rev="438"
+   name="go-openA.png"
+   text-time="2006-11-03T09:15:13.000000Z"
+   committed-date="2006-06-10T16:49:26.877999Z"
+   checksum="d24d0fb861b1267bc5aedee144b89ea9"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:13.000000Z"/>
+<entry
+   committed-rev="438"
+   name="go-openB.png"
+   text-time="2006-11-03T09:15:13.000000Z"
+   committed-date="2006-06-10T16:49:26.877999Z"
+   checksum="b4e43b6860450904812d6c5cd80069c8"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-11-03T09:15:13.000000Z"/>
+<entry
+   committed-rev="4"
+   name="fbp.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="526da7391639854b8529b4f9243892ee"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:05.000000Z"/>
+<entry
+   committed-rev="4"
+   name="gos_200.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="16979556470d53d0653d1a43baec21ad"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:05.000000Z"/>
+<entry
+   committed-rev="4"
+   name="opencdA.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="bb0bb18ab4dbd369288007abfd7023a0"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:05.000000Z"/>
+<entry
+   committed-rev="4"
+   name="opencdB.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="5c2aa83be719c1fb3933845c567c7ce5"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:05.000000Z"/>
+<entry
+   committed-rev="4"
+   name="freebsdA.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="2542570a7e491d3e54d9e8a3238ad1a2"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:05.000000Z"/>
+<entry
+   committed-rev="4"
+   name="oofficeA.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="7c9e59d6a9e7ff1e24615a2294b41314"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:05.000000Z"/>
+<entry
+   committed-rev="4"
+   name="freebsdB.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="e82a19f224348a5f645d4aa20854aa28"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:06.000000Z"/>
+<entry
+   committed-rev="4"
+   name="oofficeB.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="287038cd0558c025f33cb2ae3194cb01"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:06.000000Z"/>
+<entry
+   committed-rev="23"
+   name="openlabA.xcf"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-11-11T08:59:05.887670Z"
+   checksum="ecdd21a9106c1d21eca0b255d4731b39"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:06.000000Z"/>
+<entry
+   committed-rev="410"
+   name="ccdj.gif"
+   text-time="2006-06-07T07:21:41.000000Z"
+   committed-date="2006-06-03T16:38:35.722345Z"
+   checksum="2cbf7948a9654434e2481f9b333ecdfc"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-06-07T07:21:41.000000Z"/>
+<entry
+   committed-rev="23"
+   name="blank.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-11-11T08:59:05.887670Z"
+   checksum="fc8215b05585440e2af007fa278ddffc"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:06.000000Z"/>
+<entry
+   committed-rev="4"
+   name="knoppixA.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="afa54761d4b54d0ab8c7c1150080d34a"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:06.000000Z"/>
+<entry
+   committed-rev="4"
+   name="knoppixB.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="5d87f45afa662e642d89c89460728d5b"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:06.000000Z"/>
+<entry
+   committed-rev="4"
+   name="clusterknoppixA.png"
+   text-time="2006-05-25T12:15:06.000000Z"
+   committed-date="2005-09-22T13:08:12.048878Z"
+   checksum="29bca04f67c6c24db442fc42fc36f436"
+   last-author="charles.oertel"
+   kind="file"
+   prop-time="2006-05-25T12:15:06.000000Z"/>
+</wc-entries>

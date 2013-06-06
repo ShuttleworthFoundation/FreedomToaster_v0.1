@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
+"http://www.docbook.org/xml/4.3/docbookx.dtd">
+<article>
+  <title>Freedom Toaster Website Update</title>
+  <sect1>
+    <title>Introduction</title>
+    <para>Having written the white papers, case studies, brochure, and user cases we now have an
+      opportunity to present them on the website (and incorporate them on a Freedom Toaster Info
+      CD...)</para>
+  </sect1>
+  <sect1>
+    <title>Overview</title>
+    <para>These two sections set out the ideas behind the update for the website.</para>
+    <sect2>
+      <title>Document Purposes:</title>
+      <para>In order to place the various documents within the Freedom Toaster website we need to
+        understand the purpose of each type of document and then create a place for that purpose on
+        the website.</para>
+      <itemizedlist>
+        <listitem>
+          <para>User Cases</para>
+          <para>The main purpose of the user cases is to show potential hosts the possible benefits
+            of their hosting a Freedom Toaster. The secondary purpose of the user cases is to show
+            the benefits of the Freedom Toaster to the communities that have access to one.</para>
+        </listitem>
+        <listitem>
+          <para>White Papers</para>
+          <para>The purpose of the white papers is to inform specific audiences about the potential
+            for positive change within communities through the proliferation of Freedom Toasters and
+            an advertisement for using/joiining the project.</para>
+        </listitem>
+        <listitem>
+          <para>Case Studies</para>
+          <para>The purpose of the Case Studies is to present the Freedom Toaster as a viable,
+            working technology for the dissemination of digital electronic information.</para>
+        </listitem>
+        <listitem>
+          <para>Brochure</para>
+          <para>The purpose of the brochure is to present information about the Freedom Toaster to
+            the general public. To inform the reader about what the Freedom Toaster is, why it was
+            developed, how it works, and where to go for more information.</para>
+        </listitem>
+      </itemizedlist>
+      <para>The purpose of presenting these documents on the Freedom Toaster website is to increase
+        awareness of what the Freedom Toaster is and how it can be used to benefit communities. It's
+        first purpose is therefore to educate those visiting the site. The second purpose of having
+        these documents available is so that they can be downloaded and used to promote Freedom
+        Toaster awareness in different communities around the world.</para>
+    </sect2>
+    <sect2>
+      <title>Website Presentation</title>
+      <para>With these purposes in mind, these are the areas that need to be developed/created</para>
+      <itemizedlist>
+        <listitem>
+          <para>An "Educational Resources" page that has PDFs of the brochure, case studies, and
+            white papers, with links to subpages containing the white papers, the case studies, and
+            the user cases.</para>
+          <para>The purpose of this page is to present the website user with tools to educate
+            themselves and those around them.</para>
+          <para>see 'educational.xml'.</para>
+        </listitem>
+        <listitem>
+          <para>A news article "Freedom Toaster In Action" update. Informs the reader about the FT
+            presentation to the UN, the production of the educational material (brochure and user
+            cases), and the production of specific case studies.</para>
+          <para>see section below 'Freedom Toaster In Action'</para>
+        </listitem>
+        <listitem>
+          <para>Incorporation of the brochure material into the 'home' page.</para>
+          <para>see 'homepage.xml'</para>
+        </listitem>
+        <listitem>
+          <para>Incorporation of the user cases, case studies, and white papers through out the
+            website</para>
+        </listitem>
+      </itemizedlist>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title>Freedom Toaster In Action</title>
+    <para>News article about the presentation of the White Paper to the UN...</para>
+  </sect1>
+</article>

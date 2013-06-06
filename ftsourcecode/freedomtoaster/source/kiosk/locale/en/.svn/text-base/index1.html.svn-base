@@ -1,0 +1,69 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+   <head>
+		<title>Open Source Windows Software</title>
+		<link rel="stylesheet" type="text/css" href="../../css/kiosk.css" title="first" />
+		<meta http-equiv="content-type"  content="text/html; charset=utf-8" />
+      <meta http-equiv="refresh"  content="25; URL=index2.html" />
+      <script src="../../kiosk.js" language="javascript" type="text/javascript"></script>
+	</head>
+   <body background="../../css/images/selectorBG.png" bgcolor="#C0C0C0" onLoad="populateSelect();">
+      <div id="MoreInfo">
+         <a href="../../cgi-bin/knowMore.pl" title="About this Toaster">
+            <img src="../../css/images/K_button.gif" alt="?" width="113" height="120" border="0" /></a>
+      </div>
+      <div id="Home">
+         <a href="index0.html" title="Go to the beginning page" target="_top">
+            <img src="../../css/images/H_button.gif" alt="Home" width="148" height="93" border="0" /><br />
+
+         </a>
+      </div>
+      <div id="next">
+         <a href="index2.html" title="Go to the next page">
+            <img src="../../css/images/R_button.gif" alt="Home" width="113" height="120" border="0" /></a>
+      </div>
+      <div id="back">
+         <a href="index0.html" title="Go to the previous page">
+            <img src="../../css/images/L_button.gif" alt="Home" width="148" height="93" border="0" /></a>
+      </div>
+      <div id="language-bg">
+      	<img src="../../css/images/language-bg.png" alt="background" width="220" height="77" border="0" />
+      </div>
+      <div id="language">
+         <select id="lang-sel" title="Language choice" onClick="magnifySelect(this);" onChange="changeLang(this);">
+         </select>   
+      </div>
+   <div id="content">
+   <img src="images/logoPage.png" width="400" height="131" style="margin-left:170px" /><br />
+      <h1>Enhance and Secure your Windows&trade; PC</h1>
+      <p>The free software available on this <strong>Freedom Toaster</strong> includes Windows&trade; software that will enhance your PC quickly and easily.</p>
+      <ul>
+         <li>Most of the virus and spyware issues on Windows are a result of design flaws in Internet Explorer&trade; and Outlook&trade;.  You can immediately improve the security of your PC by using FireFox and Thunderbird, available on the <em>Firemonger</em> and <em>OpenCD</em> CDs below.</li>
+         <li><strong>Office Tools</strong> like <em>OpenOffice</em> and <em>PDFCreator</em></li>
+         <li><strong>Graphics programs</strong> for painting, digit photo processing, 3D Image rendering and vector graphics</li>
+         <li><strong>Multimedia tools</strong> for audio editing (<em>Audacity</em>) and more</li>
+         <li><strong>Games</strong> like <em>Sokoban</em>, <em>Battle for Wesnoth</em> and more</li>
+         <li><strong>Internet Programs and Utilities</strong> like <em>Firefox and Thunderbird</em>, <em>7-zip</em>, <em>Filezilla</em> and more</li>
+      </ul>
+   <table>
+      <tr>
+         <td><a href="../../cgi-bin/distro.pl?distro=firemonger" title="Firefox and Thunderbird - Web Browser and Email Program"
+               onmouseover="Linux.src='../../images/firemongerA.png'" 
+               onmouseout="Linux.src='../../images/firemongerB.png'">
+               <img name="Linux" src="../../images/firemongerB.png" width="231" height="71" /></a>
+         </td>
+         <td><a href="../../cgi-bin/distro.pl?distro=opencd" title="The Open CD" 
+               onmouseover="OpenCD.src='../../images/opencdA.png'" 
+               onmouseout="OpenCD.src='../../images/opencdB.png'">
+               <img name="OpenCD" src="../../images/opencdB.png" width="231" height="71" /></a>
+         </td>
+         <td><a href="../../cgi-bin/distro.pl?distro=ooffice" title="The MSOffice-compatible, free Office Suite"
+               onmouseover="OpenOffice.src='../../images/oofficeA.png'" 
+               onmouseout="OpenOffice.src='../../images/oofficeB.png'">
+               <img name="OpenOffice" src="../../images/oofficeB.png" width="231" height="71" /></a>
+         </td>
+      </tr>
+   </table>
+   </div>
+	</body>
+</html>

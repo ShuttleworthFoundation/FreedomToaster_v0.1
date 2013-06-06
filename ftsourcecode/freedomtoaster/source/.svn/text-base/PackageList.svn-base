@@ -1,0 +1,3 @@
+# This is the list of Ubuntu packages needed to make a Freedom Toaster system work
+#
+linux-image-686 linux-source make gcc gcc-3.4 apache2 tcl8.4-dev xlibs-dev x-dev libstdc++5 tk8.4-dev sharutils perl libcache-cache-perl libxml-simple-perl libxml-libxml-perl libfile-cache-perl build-essential x-window-system-core firefox cdrecord dvd+rw-tools

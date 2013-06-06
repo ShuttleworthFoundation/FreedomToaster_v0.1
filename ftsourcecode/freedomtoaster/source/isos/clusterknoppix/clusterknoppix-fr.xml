@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<distro>
+   <name>Cluster Knoppix</name>
+   <description>Un CD Live pour faire fonctionner un ensemble de PC comme un super-ordinateur</description>
+   <advantages>
+      <advantage>C'est Linux prêt à fonctionner, il ne manque que le matériel ;-)</advantage>
+      <advantage>Il n'exige aucune installation car il fonctionne à partir du CD</advantage>
+      <advantage>Il est compact et n'utilise qu'un seul CD</advantage>
+      <advantage>C'est la distribution idéale si vous voulez prendre la température de Linux, mais que vous hésitez encore à repartitionner votre disque dur</advantage>
+      <advantage>Le noyau est compilé avec OpenMosix, ce qui signifie que vous pouvez relativement facilement construire un cluster</advantage>
+   </advantages>
+   <disadvantages>
+      <disadvantage>Il ne dispose pas forcément de tous les paquets logiciels standard - OpenOffice, Gimp, Mozilla, Evolution...</disadvantage>
+      <disadvantage>Dans ce format « prêt à fonctionner », il n'est pas installé sur votre matériel</disadvantage>
+      <disadvantage>Il peut être assez lent car il démarre chaque fois sur le CD</disadvantage>
+      <disadvantage>Vous ne pouvez pas mettre à jour des paquets ou modifier la distribution sur le CD</disadvantage>
+   </disadvantages>
+   <defaults>
+     <defaultVersion>clusterknoppix|3.6|CD|1</defaultVersion>
+   </defaults>
+</distro>

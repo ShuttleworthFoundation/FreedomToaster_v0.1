@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="479"
+   name=""
+   committed-date="2006-06-19T21:27:45.935084Z"
+   url="svn://edison.tsf.org.za/freedomtoaster/trunk/source/po"
+   last-author="claude.paroz"
+   kind="dir"
+   uuid="d86654f9-5701-0410-bb18-eb70f6cf68f4"
+   repos="svn://edison.tsf.org.za/freedomtoaster"
+   prop-time="2006-05-25T12:15:22.000000Z"
+   revision="491"/>
+<entry
+   name="xml2po"
+   kind="dir"/>
+<entry
+   committed-rev="274"
+   name="LINGUAS"
+   text-time="2006-05-25T12:15:22.000000Z"
+   committed-date="2006-05-13T13:18:40.631708Z"
+   checksum="585d62a6c7b860bae6c79cd3be2dd965"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-05-25T12:15:22.000000Z"/>
+<entry
+   committed-rev="475"
+   name="freedomtoaster.pot"
+   text-time="2006-11-03T09:15:09.000000Z"
+   committed-date="2006-06-14T21:04:17.655284Z"
+   checksum="50d1b0e38942d650c06fd253eaf85469"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:08.000000Z"/>
+<entry
+   committed-rev="475"
+   name="fr.po"
+   text-time="2006-11-03T09:15:09.000000Z"
+   committed-date="2006-06-14T21:04:17.655284Z"
+   checksum="efd0bb420ec8c1fbced11e669e8d3302"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:08.000000Z"/>
+<entry
+   committed-rev="479"
+   name="Makefile"
+   text-time="2006-11-03T09:15:09.000000Z"
+   committed-date="2006-06-19T21:27:45.935084Z"
+   checksum="1e2380b6d3927a7130a474bf80ef13b8"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:09.000000Z"/>
+<entry
+   committed-rev="454"
+   name="README"
+   text-time="2006-11-03T09:15:09.000000Z"
+   committed-date="2006-06-11T21:10:51.312416Z"
+   checksum="0c225f724f8a0d8f6a1fed2fab4c70da"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-11-03T09:15:08.000000Z"/>
+</wc-entries>

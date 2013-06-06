@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="30"
+   name=""
+   committed-date="2007-04-11T15:14:22.712965Z"
+   url="svn://cdot.senecac.on.ca/toaster/src"
+   last-author="andrew"
+   kind="dir"
+   uuid="c536e36b-9324-0410-a305-908bdbc2b7e3"
+   repos="svn://cdot.senecac.on.ca/toaster"
+   revision="30"/>
+<entry
+   committed-rev="30"
+   name="LICENCE.TXT"
+   text-time="2007-04-12T07:22:01.000000Z"
+   committed-date="2007-04-11T15:14:22.712965Z"
+   checksum="4b0f07a2771e7e435340a773df83c2a0"
+   last-author="andrew"
+   kind="file"
+   prop-time="2007-04-12T07:21:59.000000Z"/>
+<entry
+   committed-rev="27"
+   name="TODO.TXT"
+   text-time="2007-04-12T07:22:01.000000Z"
+   committed-date="2007-04-08T07:20:24.121542Z"
+   checksum="bd9cefeeaebb7c7dc990ae4c5fabf230"
+   last-author="andrew"
+   kind="file"
+   prop-time="2007-04-12T07:21:59.000000Z"/>
+<entry
+   name="isolist"
+   kind="dir"/>
+<entry
+   committed-rev="17"
+   name="erase.py"
+   text-time="2007-04-12T07:22:01.000000Z"
+   committed-date="2007-02-12T17:18:33.234034Z"
+   checksum="c3ceeb0d4d94b97a149ec77e2a0b55d9"
+   last-author="andrew"
+   kind="file"
+   prop-time="2007-04-12T07:21:59.000000Z"/>
+<entry
+   committed-rev="26"
+   name="help.txt"
+   text-time="2007-04-12T07:22:01.000000Z"
+   committed-date="2007-04-08T06:50:39.725746Z"
+   checksum="02ad8ff5678a842cc9a09b5cb89ff2aa"
+   last-author="andrew"
+   kind="file"
+   prop-time="2007-04-12T07:21:59.000000Z"/>
+<entry
+   name="iso"
+   kind="dir"/>
+<entry
+   committed-rev="27"
+   name="globals.py"
+   text-time="2007-04-12T07:22:01.000000Z"
+   committed-date="2007-04-08T07:20:24.121542Z"
+   checksum="7dbca2b26f554c25e412c874c7fe50b5"
+   last-author="andrew"
+   kind="file"
+   prop-time="2007-04-12T07:21:59.000000Z"/>
+<entry
+   committed-rev="28"
+   name="README.TXT"
+   text-time="2007-04-12T07:22:01.000000Z"
+   committed-date="2007-04-08T08:40:10.664458Z"
+   checksum="3eb74256f76953406f8772d93982c71b"
+   last-author="andrew"
+   kind="file"
+   prop-time="2007-04-12T07:22:01.000000Z"/>
+<entry
+   committed-rev="27"
+   name="main.py"
+   text-time="2007-04-12T07:22:01.000000Z"
+   committed-date="2007-04-08T07:20:24.121542Z"
+   checksum="e3e0a4ee21bfe9b50759750dfedbc8c9"
+   last-author="andrew"
+   kind="file"
+   prop-time="2007-04-12T07:22:01.000000Z"/>
+<entry
+   committed-rev="27"
+   name="burn.py"
+   text-time="2007-04-12T07:22:01.000000Z"
+   committed-date="2007-04-08T07:20:24.121542Z"
+   checksum="133cd71f17f905d8b444a3abfd280f23"
+   last-author="andrew"
+   kind="file"
+   prop-time="2007-04-12T07:22:01.000000Z"/>
+<entry
+   committed-rev="29"
+   name="isolist.py"
+   text-time="2007-04-12T07:22:01.000000Z"
+   committed-date="2007-04-09T01:19:52.956061Z"
+   checksum="0e86dca0196666057706aa0d1ab963d1"
+   last-author="andrew"
+   kind="file"
+   prop-time="2007-04-12T07:22:01.000000Z"/>
+<entry
+   committed-rev="15"
+   name="run.sh"
+   text-time="2007-04-12T07:22:01.000000Z"
+   committed-date="2007-01-22T20:21:18.075590Z"
+   checksum="82bc2a7c34c4b3b621c10e74123d12e2"
+   last-author="andrew"
+   kind="file"
+   prop-time="2007-04-12T07:22:01.000000Z"/>
+</wc-entries>

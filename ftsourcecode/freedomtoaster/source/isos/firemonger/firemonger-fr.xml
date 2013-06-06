@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<distro>
+   <name>Firemonger</name>
+   <description>Les dernières versions de Firefox et Thunderbird</description>
+   <advantages>
+      <advantage>Un CD facile à utiliser contenant le navigateur et le logiciel de messagerie complètement libres créés par la fondation sans but lucratif Mozilla.</advantage>
+      <advantage>Fonctionne sur Windows et Linux, et améliore nettement la sécurité sur un ordinateur Windows</advantage>
+      <advantage>Thunderbird est un logiciel de messagerie qui inclut des techniques sophistiquées de blocages de pourriel et de virus.</advantage>
+      <advantage>Ce CD contient tout ce qu'il faut pour démarrer avec Firefox et Thunderbird et en tirer le meilleur profit, y compris une excellente sélection de greffons, d'extensions et de thèmes, ainsi qu'un guide du débutant très accessible.</advantage>
+      <advantage>Firefox 1.0 a été téléchargé plus de 62 millions de fois.</advantage>
+   </advantages>
+   <disadvantages>
+      <disadvantage>Vous ne pourrez plus retourner à Internet Explorer après avoir expérimenté la navigation par onglets, le téléchargement de pages en arrière-plan et le clic avec le bouton du milieu sur les liens</disadvantage>
+   </disadvantages>
+   <defaults>
+     <defaultVersion>firemonger|1.0|CD|1</defaultVersion>
+   </defaults>
+</distro>

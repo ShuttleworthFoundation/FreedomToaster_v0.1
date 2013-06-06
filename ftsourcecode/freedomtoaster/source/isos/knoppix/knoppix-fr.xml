@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<distro>
+   <name>Knoppix</name>
+   <description>Un CD de démarrage puissant</description>
+   <advantages>
+      <advantage>C'est Linux prêt à fonctionner, il ne manque que le matériel ;-)</advantage>
+      <advantage>Il contient tous les logiciels standard dont vous aurez besoin : OpenOffice, Gimp, Mozilla, Evolution et d'autres...</advantage>
+      <advantage>Il n'exige aucune installation car il fonctionne à partir du CD</advantage>
+      <advantage>Il est compact et n'utilise qu'un seul CD</advantage>
+      <advantage>C'est la distribution idéale si vous voulez prendre la température de Linux, mais que vous hésitez encore à repartitionner votre disque dur</advantage>
+   </advantages>
+   <disadvantages>
+      <disadvantage>Dans ce format « prêt à fonctionner », il n'est pas installé sur votre matériel</disadvantage>
+      <disadvantage>Il peut être assez lent car il démarre chaque fois sur le CD</disadvantage>
+      <disadvantage>Vous ne pouvez pas mettre à jour des paquets ou modifier la distribution sur le CD</disadvantage>
+   </disadvantages>
+   <defaults>
+     <defaultVersion>knoppix|4.0|CD|1</defaultVersion>
+   </defaults>
+</distro>

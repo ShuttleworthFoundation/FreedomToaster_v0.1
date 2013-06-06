@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<infos>
+	<info>
+		<title>Linus likes penguins</title>
+		<content>Despite having been bitten by a penguin, Linus loves penguins</content>
+	</info>
+	<info>
+		<title>Linus was a student</title>
+		<content>When Linus wrote the kernel, he was an MSc student studying in Helsinki, Finland</content>
+	</info>
+	<info>
+		<title>Kernel numbering</title>
+		<content>Even-numbered kernels are stable ones, while odd-numbered ones are testing</content>
+	</info>
+	<info>
+		<title>Embedded Linux</title>
+		<content>Linux has taken the embedded world by storm. Soon your fridge, microwave and toaster will all run Linux</content>
+	</info>
+	<info>
+		<title>Linux is the Kernel</title>
+		<content>Linux is not the whole operating system. It is just the kernel. Many of the standard features (gcc, cp, mv, etc.) were developed by the FSF</content>
+	</info>
+	<info>
+		<title>Larry Wall</title>
+		<content>The developer of <b>Perl</b><br/><b>Perl</b> - Pathetic Ecclectic Rubbish Lister, or Pratical Extraction and Reporting Language. Your call!</content>
+	</info>
+	<info>
+		<title>Eric Raymond</title>
+		<content>The person to coin the term <i>Open Source</i> has written a book on Open Source called the <b>The cathedral and the Bazaar</b></content>
+	</info>
+	<info>
+		<title>GNU</title>
+		<content><b>GNU</b> means GNU is not UNIX - a truly recursive name. While much of Linux has had UNIX as a distant relative , Linux is not UNIX</content>
+	</info>
+	<info>
+		<title>Copying</title>
+		<content>Copying Linux, and loading it on as many computers as you can is encouraged</content>
+	</info>
+	<info>
+		<title>Dual-boot</title>
+		<content>If you are a little anxious about deleting all your proprietary software, you can dual-boot Linux. This means having two Operating Systems on a single computer</content>
+	</info>
+	<info>
+		<title>Free-play</title>
+		<content>- The South African wind-up torch company<br/>There is a geek who has got Linux to boot on a PC-board powered by a free-play torch - enough to make Ripley's ears perk up!</content>
+	</info>
+	<info>
+		<title>This Kiosk system</title>
+		<content>Was designed by Eugene of <b>Pumphaus Designs</b> and developed by Hamish of <b>QED Technologies</b> - get our details when we scroll the credits after cutting your CDs</content>
+	</info>
+	<info>
+		<title>Tux the Penguin</title>
+		<content>Tux was designed in an <i><b>Open Source</b></i> graphics package called <b>The Gimp</b></content>
+	</info>
+	<info>
+		<title>Guido van Rossum</title>
+		<content>The developer of <i>the other</i> useful language <b>Python</b>. Python can be found at<br/>www.python.org</content>
+	</info>
+	<info>
+		<title>Who created Tux</title>
+		<content>Tux was created as part of a competion. Larry Ewing won with his creation of Tux</content>
+	</info>
+	<info>
+		<title>Many Tux's, one OS</title>
+		<content>A bit like <i>Many Cultures, One City</i>, the Tux has many different renditions. See <b>http://lwn.net/Gallery</b></content>
+	</info>
+	<info>
+		<title>The African Penguin</title>
+		<content>Previously called the Jackass Penguin is <b>our</b> very own mascott. See them in action at the Two Oceans Aquarium, Bolders beach or in Betties Bay</content>
+	</info>
+</infos>

@@ -1,0 +1,38 @@
+#! /usr/bin/perl
+
+use Digest::MD5 qw(md5_base64);
+use Tie::File;
+
+# Prompt user for password
+print "################################################################################\n";
+print "# Please enter the new toaster administrator password:                         #\n";
+print "# (use only 0-9 and a-z)                                                       #\n";
+print "################################################################################\n";
+
+# Read password as input from user
+$pass = <STDIN>;
+
+# Clean whitespace from input
+$pass =~ s/^\s+|\s+$//gm;
+
+# Generate the configuration line
+$newline = "\$main::AdminPass = '" . md5_base64($pass) . "';\n";
+
+# Open configuration file
+tie @file, "Tie::File", "/srv/www/kiosk/cgi-bin/config.pl" or die "Cannot open configuration file!";
+
+# Search for configuration line and replace with $newline
+$found = 0;
+for(@file) {
+	if(s/\$main\:\:AdminPass(.*)/$newline/g != false) {
+		$found = 1;
+	}
+}
+
+# If the line wasn't found, add it to the bottom of the file
+if($found == 0) {
+	$file[++$#file] = $newline;
+}
+
+# Close file
+untie $file;

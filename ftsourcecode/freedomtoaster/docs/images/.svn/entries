@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="232"
+   name=""
+   committed-date="2006-05-08T18:44:28.072357Z"
+   url="svn://edison.tsf.org.za/freedomtoaster/trunk/docs/images"
+   last-author="claude.paroz"
+   kind="dir"
+   uuid="d86654f9-5701-0410-bb18-eb70f6cf68f4"
+   repos="svn://edison.tsf.org.za/freedomtoaster"
+   revision="349"/>
+<entry
+   committed-rev="207"
+   name="touch.svg"
+   text-time="2006-05-25T12:15:25.000000Z"
+   committed-date="2006-05-04T17:01:45.651368Z"
+   checksum="d8d0df040540340faeaa18b8ae41d7be"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:24.000000Z"/>
+<entry
+   committed-rev="98"
+   name="autoimage.sh"
+   text-time="2006-05-25T12:15:25.000000Z"
+   committed-date="2006-03-05T07:47:30.193525Z"
+   checksum="ec2a8f16bc81321012b9780e01fcb3d4"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:24.000000Z"/>
+<entry
+   committed-rev="173"
+   name="pc-board.svg"
+   text-time="2006-05-25T12:15:25.000000Z"
+   committed-date="2006-03-14T13:28:58.021783Z"
+   checksum="a99aa1f9fcbc5fb5c872da856ed8049b"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:24.000000Z"/>
+<entry
+   name="callouts"
+   kind="dir"/>
+<entry
+   committed-rev="98"
+   name="electric.svg"
+   text-time="2006-05-25T12:15:25.000000Z"
+   committed-date="2006-03-05T07:47:30.193525Z"
+   checksum="fd81de42782ec898835382c420a5676e"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:24.000000Z"/>
+<entry
+   committed-rev="63"
+   name="ccdeed2.gif"
+   text-time="2006-05-25T12:15:25.000000Z"
+   committed-date="2006-03-01T08:37:13.108376Z"
+   checksum="712a6959d14c52830e0bc93ea533cdff"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:24.000000Z"/>
+<entry
+   committed-rev="98"
+   name="monitor-bracket.svg"
+   text-time="2006-05-25T12:15:25.000000Z"
+   committed-date="2006-03-05T07:47:30.193525Z"
+   checksum="ade42640ac8ab92631894d7b6e323135"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:24.000000Z"/>
+<entry
+   name="admon"
+   kind="dir"/>
+<entry
+   committed-rev="209"
+   name="screen-estate.svg"
+   text-time="2006-05-25T12:15:25.000000Z"
+   committed-date="2006-05-04T21:02:26.076884Z"
+   checksum="c0f070c7bccae65c10d545b962fe0183"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:24.000000Z"/>
+<entry
+   committed-rev="63"
+   name="standard.gif"
+   text-time="2006-05-25T12:15:25.000000Z"
+   committed-date="2006-03-01T08:37:13.108376Z"
+   checksum="6b958bbe8120b321ff40cd7131a7bee8"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:25.000000Z"/>
+<entry
+   name="navig"
+   kind="dir"/>
+<entry
+   committed-rev="98"
+   name="roof-plate.svg"
+   text-time="2006-05-25T12:15:25.000000Z"
+   committed-date="2006-03-05T07:47:30.193525Z"
+   checksum="4219890dc7e2e3d9cac8fb111b569054"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:25.000000Z"/>
+<entry
+   committed-rev="232"
+   name="images.pot"
+   text-time="2006-05-25T12:15:25.000000Z"
+   committed-date="2006-05-08T18:44:28.072357Z"
+   checksum="a5701e33e836a73a5446b5d2d0064b13"
+   last-author="claude.paroz"
+   kind="file"
+   prop-time="2006-05-25T12:15:25.000000Z"/>
+<entry
+   committed-rev="98"
+   name="tower-bracket.svg"
+   text-time="2006-05-25T12:15:25.000000Z"
+   committed-date="2006-03-05T07:47:30.193525Z"
+   checksum="d811ac11c6cbf99faea0e56ec6df0621"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:25.000000Z"/>
+<entry
+   committed-rev="98"
+   name="first-angle.svg"
+   text-time="2006-05-25T12:15:25.000000Z"
+   committed-date="2006-03-05T07:47:30.193525Z"
+   checksum="254982f365ae6775119be417ec886606"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:25.000000Z"/>
+<entry
+   committed-rev="98"
+   name="base-plate.svg"
+   text-time="2006-05-25T12:15:25.000000Z"
+   committed-date="2006-03-05T07:47:30.193525Z"
+   checksum="a6d8d8862cce7dda9bf5cec1cd1ba0a4"
+   last-author="sean.wheller"
+   kind="file"
+   prop-time="2006-05-25T12:15:25.000000Z"/>
+<entry
+   name="po"
+   kind="dir"/>
+</wc-entries>

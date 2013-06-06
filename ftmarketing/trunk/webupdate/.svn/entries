@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="96"
+   name=""
+   committed-date="2006-02-09T09:57:00.799927Z"
+   url="https://svn1.cvsdude.com/techdocs/freedomtoaster/trunk/webupdate"
+   last-author="ggoode"
+   kind="dir"
+   uuid="8478f940-d901-0410-ad40-e0ac9cb6760e"
+   repos="https://svn1.cvsdude.com/techdocs/freedomtoaster"
+   revision="122"/>
+<entry
+   committed-rev="96"
+   name="purposes.xml"
+   text-time="2006-05-04T07:46:00.000000Z"
+   committed-date="2006-02-09T09:57:00.799927Z"
+   checksum="9d5c78b1f94c7be0eca57560682b407a"
+   last-author="ggoode"
+   kind="file"
+   prop-time="2006-05-04T07:45:57.000000Z"/>
+<entry
+   committed-rev="96"
+   name="homepage.xml"
+   text-time="2006-05-04T07:46:00.000000Z"
+   committed-date="2006-02-09T09:57:00.799927Z"
+   checksum="94729875b3136ac07d766df163d5c0e0"
+   last-author="ggoode"
+   kind="file"
+   prop-time="2006-05-04T07:45:59.000000Z"/>
+<entry
+   committed-rev="96"
+   name="educational.xml"
+   text-time="2006-05-04T07:46:00.000000Z"
+   committed-date="2006-02-09T09:57:00.799927Z"
+   checksum="162e98b8c062f9ef4f38c35716873e43"
+   last-author="ggoode"
+   kind="file"
+   prop-time="2006-05-04T07:46:00.000000Z"/>
+<entry
+   committed-rev="96"
+   name="touch_and_go.xml"
+   text-time="2006-05-04T07:46:00.000000Z"
+   committed-date="2006-02-09T09:57:00.799927Z"
+   checksum="a3f9c53773152c2e2a173468cf37b470"
+   last-author="ggoode"
+   kind="file"
+   prop-time="2006-05-04T07:46:00.000000Z"/>
+</wc-entries>

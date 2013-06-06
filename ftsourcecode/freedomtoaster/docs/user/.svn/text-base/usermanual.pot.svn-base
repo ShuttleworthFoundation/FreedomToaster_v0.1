@@ -1,0 +1,256 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2006-05-08 20:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: application/x-xml2pot; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+
+#: usermanual.xml:9
+#, no-c-format
+#. Tag: title
+msgid "User Manual"
+msgstr ""
+
+#: usermanual.xml:10
+#, no-c-format
+#. Tag: subtitle
+msgid "Using the Freedom Toaster"
+msgstr ""
+
+#: usermanual.xml:11
+#, no-c-format
+#. Tag: author
+msgid "<firstname>Sean</firstname> <surname>Wheller</surname>"
+msgstr ""
+
+#: usermanual.xml:14
+#, no-c-format
+#. Tag: trans_comment
+msgid "ROLES_OF_TRANSLATORS"
+msgstr ""
+
+#: usermanual.xml:17
+#, no-c-format
+#. Tag: title
+msgid "Introduction"
+msgstr ""
+
+#: usermanual.xml:18
+#, no-c-format
+#. Tag: para
+msgid "The software interface of the Freedom Toaster is designed to be as easy and intuitive to use as possible. In fact the interface is so easy to use that most users will not have to use this manual in order to operate it. Nevertheless, we have provided this manual because it completes the Freedom Toaster as a whole-product."
+msgstr ""
+
+#: usermanual.xml:23
+#, no-c-format
+#. Tag: title
+msgid "Scope"
+msgstr ""
+
+#: usermanual.xml:24
+#, no-c-format
+#. Tag: para
+msgid "This document explains how to navigate the Freedom Toaster software interface and how complete the task of selecting and burning digital content or software to CD or DVD media."
+msgstr ""
+
+#: usermanual.xml:29
+#, no-c-format
+#. Tag: title
+msgid "Prerequisites"
+msgstr ""
+
+#: usermanual.xml:30
+#, no-c-format
+#. Tag: para
+msgid "This document assumes that the reader already has an understanding that the Freedom Toaster is a low-tech digital kiosk that is preloaded with digital content and software which is licensed under free and open license."
+msgstr ""
+
+#: usermanual.xml:35
+#, no-c-format
+#. Tag: title
+msgid "Associated Documentation"
+msgstr ""
+
+#: usermanual.xml:36
+#, no-c-format
+#. Tag: para
+msgid "The following documents are associated with this document:"
+msgstr ""
+
+#: usermanual.xml:37
+#, no-c-format
+#. Tag: variablelist
+msgid "&assembly-desc; &installation-desc; &maintenance-desc; &customization-desc;"
+msgstr ""
+
+#: usermanual.xml:41
+#, no-c-format
+#. Tag: title
+msgid "Requirements"
+msgstr ""
+
+#: usermanual.xml:42
+#, no-c-format
+#. Tag: para
+msgid "To make best use of this document the following requirements are recommended."
+msgstr ""
+
+#: usermanual.xml:45
+#, no-c-format
+#. Tag: para
+msgid "A serviceable Freedom Toaster."
+msgstr ""
+
+#: usermanual.xml:48
+#, no-c-format
+#. Tag: para
+msgid "Blank CD-ROM or DVD media as is applicable."
+msgstr ""
+
+#: usermanual.xml:54
+#, no-c-format
+#. Tag: title
+msgid "Toasting"
+msgstr ""
+
+#: usermanual.xml:55
+#, no-c-format
+#. Tag: para
+msgid "In this chapter we explore the Freedom Toaster software interface and how to navigate it and how to toast."
+msgstr ""
+
+#: usermanual.xml:58
+#, no-c-format
+#. Tag: title
+msgid "Touch Screen Interaction"
+msgstr ""
+
+#: usermanual.xml:59
+#, no-c-format
+#. Tag: para
+msgid "Unlike most computers where you are actively encouraged not to touch the monitor for fear of leaving grubby finger smudges all over, with a Freedom Toaster you must touch in order to do anything. Instead of using a keyboard or mouse device Freedom Toasters use a special touch screen monitor as the primary human machine interface."
+msgstr ""
+
+#: usermanual.xml:71
+#, no-c-format
+#. Tag: para
+msgid "Freedom Toasters have feelings. They react best when touched gently, but firmly, with clean and dry fingers. Improved performance and response can be obtained by ensuring that you only use the very tip of your index finger when touching the monitor."
+msgstr ""
+
+#: usermanual.xml:76
+#, no-c-format
+#. Tag: title
+msgid "Screen Navigation"
+msgstr ""
+
+#: usermanual.xml:77
+#, no-c-format
+#. Tag: para
+msgid "The Freedom Toaster software provides an intuitive graphical user interface. The interface consistently arranges screen real-estate, placing text and images in the same locations. The screen arrangement makes it easy to navigate the Freedom Toaster screens. The figure below illustrates the main areas of the Freedom Toaster software interface."
+msgstr ""
+
+#: usermanual.xml:92
+#, no-c-format
+#. Tag: emphasis
+msgid "Devices"
+msgstr ""
+
+#: usermanual.xml:95
+#, no-c-format
+#. Tag: para
+msgid "The status of the Freedom Toasters CD/DVD devices is displayed on the left of the screen. Each device status is shown and during operation additional &quot;status to complete&quot; information pertaining to the current job is displayed as a percentage."
+msgstr ""
+
+#: usermanual.xml:103
+#, no-c-format
+#. Tag: emphasis
+msgid "Navigation Buttons"
+msgstr ""
+
+#: usermanual.xml:106
+#, no-c-format
+#. Tag: para
+msgid "The navigation buttons <guibutton>Previous</guibutton>, <guibutton>Next</guibutton> enable the screens of the Freedom Toaster to be traversed in sequential order. At any time touching the <guibutton>Home</guibutton> button returns the program to the main screen."
+msgstr ""
+
+#: usermanual.xml:114
+#, no-c-format
+#. Tag: emphasis
+msgid "Action Buttons"
+msgstr ""
+
+#: usermanual.xml:117
+#, no-c-format
+#. Tag: para
+msgid "Buttons of the action type are normally associated with Freedom Toaster operations. Action button labels give a clue about the operation or function they perform."
+msgstr ""
+
+#: usermanual.xml:124
+#, no-c-format
+#. Tag: emphasis
+msgid "Menus/Option"
+msgstr ""
+
+#: usermanual.xml:127
+#, no-c-format
+#. Tag: para
+msgid "Menus organize the content of a Freedom Toaster into logical groupings indicated by graphic images. For example the distros menu will thouch-through to a screen with menus to select distros for schools, new users, experienced users and expert users. Within each group menus may contain more sub-menus or menu options."
+msgstr ""
+
+#: usermanual.xml:135
+#, no-c-format
+#. Tag: emphasis
+msgid "Screen Title"
+msgstr ""
+
+#: usermanual.xml:138
+#, no-c-format
+#. Tag: para
+msgid "Freedom Toaster Screens are titled across the top so as to quickly introduce the on screen content."
+msgstr ""
+
+#: usermanual.xml:144
+#, no-c-format
+#. Tag: emphasis
+msgid "Message"
+msgstr ""
+
+#: usermanual.xml:147
+#, no-c-format
+#. Tag: para
+msgid "Beneath the title each screen provide a brief message to contextualize the menus available from the screen."
+msgstr ""
+
+#: usermanual.xml:153
+#, no-c-format
+#. Tag: para
+msgid "When unattended the Freedom Toaster program will cycle though the screens."
+msgstr ""
+
+#: usermanual.xml:157
+#, no-c-format
+#. Tag: title
+msgid "Placing Orders"
+msgstr ""
+
+#: usermanual.xml:158 usermanual.xml:164
+#, no-c-format
+#. Tag: para
+msgid "<para>...</para>"
+msgstr ""
+
+#: usermanual.xml:163
+#, no-c-format
+#. Tag: title
+msgid "Administration"
+msgstr ""
+

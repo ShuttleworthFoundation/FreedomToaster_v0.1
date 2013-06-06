@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<distro>
+   <name>Émission TV Go Open [anglais]</name>
+   <description>Une série d'émissions TV ayant pour thème les logiciels libres</description>
+   <advantages>
+      <advantage>En savoir plus sur les logiciels libres par un émission TV sud-africaine divertissante</advantage>
+      <advantage>Voir quelques figures dans l'ombre du logiciel libre et comprendre ce qui les motive. Certaines parties de l'émission montrent Mark Shuttleworth expliquant comment utiliser des logiciels libres bureautiques.</advantage>
+      <advantage>Rire un bon coup en voyant les bouffoneries de l'animateur de l'émission, John Vlismus</advantage>
+   </advantages>
+   <disadvantages>
+      <disadvantage>Vous avez besoin de pouvoir visionner des vidéos *.ogm sur votre ordinateur (avec Ubuntu, utilisez totem ou xfmedia)</disadvantage>
+      <disadvantage>L'émission est en anglais, dommage pour les non-anglophones !</disadvantage>
+   </disadvantages>
+   <defaults>
+     <defaultVersion>go-open|series1|DVD|1</defaultVersion>
+   </defaults>
+</distro>

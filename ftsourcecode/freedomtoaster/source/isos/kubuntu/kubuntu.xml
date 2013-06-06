@@ -1,0 +1,19 @@
+<?xml version='1.0'?>
+<distro>
+   <name>Kubuntu</name>
+   <description>Ubuntu with the K-desktop environment</description>
+   <advantages>
+      <advantage>Based on Ubuntu, which is based on the Debian distribution of Linux</advantage>
+      <advantage>It is "desktop ready" and the K desktop environment is well known for its ease of use and many features</advantage>
+      <advantage>It is a single disc</advantage>
+      <advantage>It is easy to install and has some features that are "Proudly South African"</advantage>
+      <advantage>It is simple to install and use and is certainly recommended for the novice</advantage>
+      <advantage>If you have ADSL you can install both the Ubuntu desktop and the Kubuntu desktop on the same machine and choose which one to work on when you log on to your computer</advantage>
+   </advantages>
+   <disadvantages>
+      <disadvantage>It is not as widely accepted as RedHat and Mandrake - but that is changing so fast that this sentence is already out of date</disadvantage>
+   </disadvantages>
+   <defaults>
+     <defaultVersion>kubuntu|5.10-Install-Kubuntu|CD|1</defaultVersion>
+   </defaults>
+</distro>
